@@ -1,0 +1,30 @@
+# One self-contained mythology. Nothing in this folder is read by, or
+# written to by, runs of any other mythology.
+name: ramayana_dutt
+display_name: "Ramayana (Manmatha Nath Dutt prose)"
+language_pair: [hindi, english]
+narrator:
+  character: Kavya
+  voice: "Hindi (Female)"
+
+# Chapter addressing: <book_prefix>_Chapter_<N>, N 1-based (index+1).
+# Sources are frozen inputs — the pipeline never writes here.
+sources_dir: sources
+outputs_dir: outputs
+entities_file: entities/entity_repository.json
+
+books:
+  - prefix: Book_1_Bala_Kanda
+    file: Book_1_Bala_Kanda_narrative.json
+  - prefix: Book_2_Ayodhya_Kanda
+    file: Book_2_Ayodhya_Kanda_narrative.json
+  - prefix: Book_3_Aranya_Kanda
+    file: Book_3_Aranya_Kanda_narrative.json
+  - prefix: Book_4_Kishkindha_Kanda
+    file: Book_4_Kishkindha_Kanda_narrative.json
+  - prefix: Book_5_Sundara_Kanda
+    file: Book_5_Sundara_Kanda_narrative.json
+  - prefix: Book_6_Yuddha_Kanda
+    file: Book_6_Yuddha_Kanda_narrative.json
+  - prefix: Book_7_Uttara_Kanda
+    file: Book_7_Uttara_Kanda_narrative.json
