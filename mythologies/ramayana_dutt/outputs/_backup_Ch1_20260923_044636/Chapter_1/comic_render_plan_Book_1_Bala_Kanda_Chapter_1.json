@@ -1,0 +1,1052 @@
+{
+ "roster": [
+  {
+   "name": "Agastya",
+   "kind": "character",
+   "flow_ref": "Agastya",
+   "image_prompt": "A full-figure character model-sheet of Sage Agastya, an ancient short-statured elderly sage with a stocky pot-bellied build and warm dusky copper-brown complexion, deep-set dark brown compassionate eyes beneath bushy grey eyebrows, long grey-streaked black matted jata hair tied in a high topknot with a long grey beard and mustache, wearing a coarse saffron-ochre cotton dhoti with a woven gold-brown border and a matching saffron angavastram draped over one shoulder with a deer-skin sacred thread across his chest, adorned with white tripundra sandal paste on the forehead and multiple rudraksha bead necklaces and bracelets, holding a tall bamboo danda staff in his right hand and a wooden kamandalu water pot in his left hand, standing upright facing the viewer with a serene authoritative bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Agastya's Brother",
+   "kind": "character",
+   "flow_ref": "AgastyaSBrother",
+   "image_prompt": "A full-figure character model-sheet of Agastya's Brother, an elderly Vedic ascetic sage about seventy years old, tall lean slightly stooped build with wheatish-brown complexion, calm deep-set dark-brown eyes under grey brows, long grey-streaked black jata hair coiled in a high topknot with a full grey-streaked beard and mustache, white vibhuti tripundra on the forehead, wearing a coarse ochre barkcloth dhoti with woven edge and a deerskin upavita across the chest, rudraksha bead necklaces and bracelets with a wooden yajnopavita, holding a bamboo danda staff in the right hand and a wooden kamandalu water pot in the left hand, standing facing the viewer in a calm humble blessing bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Agni",
+   "kind": "character",
+   "flow_ref": "Agni",
+   "image_prompt": "A full-figure character model-sheet of Agni, the Vedic god of fire, a middle-aged powerful male deity with brilliant copper-red complexion glowing like embers, robust radiant build, blazing amber eyes, tall crown of upward-flaring golden-orange flame-like hair with matching pointed flame-shaped beard and moustache, wearing a deep crimson silk dhoti with woven gold flame-border motifs and a golden angavastram draped over shoulders with a sacred white yajnopavita thread across chest, wearing an ornate gold mukuta crown with central ruby, gold kundala earrings, gold armlets, bracelets and layered necklaces with ruby inlay, holding a blazing golden firebrand torch in right hand and a carved wooden ghee ladle sruk in left hand, encircled by a subtle halo of golden flames, standing upright facing the viewer in calm authoritative blessing bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Aksha",
+   "kind": "character",
+   "flow_ref": "Aksha",
+   "image_prompt": "A full-figure character model-sheet of Aksha, an 18-year-old Rakshasa prince with burnished copper-red complexion, lean athletic youthful warrior build with broad shoulders, large amber eyes with bold brows and fierce princely gaze, thick jet-black hair in a high warrior topknot secured by a golden circlet and mukuta-band, wearing a deep maroon silk dhoti with golden zari border of geometric Rakshasa motifs, golden waistband, ornate bronze-gold chest armor embossed with a lion emblem, red angavastra with gold trim draped over one shoulder, adorned with large golden kundala earrings, serpent-patterned golden armlets, golden bracelets and jeweled gold choker necklace, holding an ornate golden longbow at his side with a full quiver of arrows slung across his back and a jeweled sword sheathed at his waist, standing upright facing the viewer with proud heroic princely bearing and chin high, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Ayodhya",
+   "kind": "scene",
+   "flow_ref": "Ayodhya",
+   "image_prompt": "An establishing-shot sheet of Ayodhya, the royal capital of Kosala, in classical Indian mythological art style, frontal wide view facing the viewer, isolated on a plain seamless neutral-grey studio backdrop with plain backdrop and soft even lighting, showing a majestic fortified city of honey-golden sandstone palaces with cusped-arch windows domed chhatris and gilded pavilions, gleaming white marble temples with tall curvilinear shikharas crowned by golden kalashas, massive crenellated city walls with grand red-sandstone torana gateways, the broad serene Sarayu river with stepped stone ghats in the foreground, lush mango and ashoka groves, saffron pennants fluttering from gilded spires, warm dawn golden light with serene prosperous sacred mood, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Ayodhya Palace and City",
+   "kind": "scene",
+   "flow_ref": "AyodhyaPalaceAndCity",
+   "image_prompt": "An establishing-shot sheet of Ayodhya Palace and City in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, showing a majestic Kosala capital with a central multi-tiered golden-sandstone and white-marble palace with soaring shikharas, carved pillars, lotus-arch gateways and crimson-gold banners, surrounded by tiered havelis, temple gopurams, riverfront ghats and flowering gardens, warm bright daylight, auspicious royal mood, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Bharadwaja",
+   "kind": "character",
+   "flow_ref": "Bharadwaja",
+   "image_prompt": "A full-figure character model-sheet of Sage Bharadwaja, an 80-year-old male Vedic sage, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, full body visible head to bare feet, plain backdrop, NO on-image text. Age 80 with tall lean slightly stooped build and warm wheat-brown sun-weathered complexion. Deep-set compassionate dark-brown eyes under thick white eyebrows, white vibhuti tripundra on forehead, serene paternal expression. Voluminous ash-white matted jata hair coiled into a high jatamukuta topknot, long chest-length white beard and mustache. Attire: simple ochre-saffron handspun cotton ankle-length dhoti with narrow maroon woven border, matching shoulder-draped angavastra, bare chest with white yajnopavita sacred thread across torso. Ornaments: three strands of dark-brown rudraksha bead necklaces, rudraksha wrist bracelets. Attributes: tall bamboo danda staff in right hand, small dark-wood kamandalu water pot in left hand. Bearing and pose: standing upright facing viewer in calm welcoming guru posture.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Bharata",
+   "kind": "character",
+   "flow_ref": "Bharata",
+   "image_prompt": "A full-figure character model-sheet of Bharata, 23-year-old prince of Ayodhya in humble renunciation, warm light wheat-golden fair complexion, lean athletic Kshatriya build, large lotus-shaped dark brown eyes with gentle sorrowful devotion, long black hair tied in a simple ascetic topknot with a few loose strands, smooth clean-shaven youthful face with sandalwood U-shaped tilak on forehead, wearing a coarse ochre-saffron cotton dhoti with thin maroon woven border and a matching plain ochre cotton angavastra draped over shoulders, jute waist cord and sacred thread across chest, barefoot and unarmed, adorned with only small simple gold stud earrings and a single thin gold armlet on the right arm, standing facing the viewer with hands joined in humble anjali mudra, meek devotional bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Brahmanas",
+   "kind": "character",
+   "flow_ref": "Brahmanas",
+   "image_prompt": "A full-figure character model-sheet of the Brahmanas shown as elderly and middle-aged Vedic priests, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are elderly to middle-aged with fair to wheat-golden complexion, lean slender build, calm deep-set dark eyes, shaved heads with a small black shikha tuft, wearing pristine white cotton dhotis with thin gold zari borders and white cotton uttariyas with red sacred motifs, white yajnopavita sacred thread across the chest, sandal paste tripundra on forehead, rudraksha bead necklaces and bracelets, holding palm-leaf manuscripts, darbha grass and wooden kamandalu water pots, standing upright facing the viewer in dignified serene bearing with one palm raised in blessing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Charioteer",
+   "kind": "character",
+   "flow_ref": "Charioteer",
+   "image_prompt": "A full-figure character model-sheet of the Ayodhya Charioteer, a man in his late fifties, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop, NO on-image text. He has warm wheat-brown complexion, lean sturdy build, sorrowful dark brown eyes, short greying black hair under a saffron-yellow cotton turban with a small round gold brooch at the front, neatly trimmed grey moustache and short beard stubble. He wears a cream cotton dhoti with a wide red and gold zari border, a maroon cotton angavastra with small gold paisley motifs draped over left shoulder and chest, brown leather waistband and brown leather sandals, small gold stud earrings and a rudraksha bead bracelet on right wrist, holding a short coiled brown leather charioteer whip in his right hand, standing in humble attentive posture with straight bearing facing the viewer, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Citizens of Ayodhya",
+   "kind": "character",
+   "flow_ref": "CitizensOfAyodhya",
+   "image_prompt": "A full-figure character model-sheet of the Citizens of Ayodhya shown as a representative middle-aged man and woman of Kosala, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. The man is middle-aged with warm wheat-brown complexion, medium sturdy build, gentle dark brown eyes, black hair tied in a neat topknot with clean-shaven face, wearing a cream cotton dhoti with saffron woven border and matching angavastram with small gold butti motifs, copper bracelets and sandal paste tilak, holding a folded cloth bundle, standing facing the viewer with palms folded in humble reverence. The woman is middle-aged with warm wheat-brown complexion, soft full build, gentle dark eyes, long black hair in a jasmine-adorned braid, wearing a red and yellow cotton saree with green border and gold dot motifs with modest choli, glass bangles, small gold earrings and bindi, standing facing the viewer in devout humble bearing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Dandaka Forest",
+   "kind": "scene",
+   "flow_ref": "DandakaForest",
+   "image_prompt": "An establishing-shot sheet of Dandaka Forest in classical Indian mythological art style, vast primeval wilderness of towering sal, teak, banyan and peepal trees with massive gnarled trunks and dense dark-green canopy intertwined with hanging aerial roots, vines and creepers, forest floor of damp earth, fallen leaves, moss-covered rocks, ferns and wild jasmine clusters, small serene clearings with thatched leaf hermit huts of bamboo and straw and earthen fire altars, soft golden-green dappled daylight filtering through leaves with light morning mist, mood sacred-serene yet wild-ominous, soft even lighting, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Dasharatha",
+   "kind": "character",
+   "flow_ref": "Dasharatha",
+   "image_prompt": "A full-figure character model-sheet of King Dasharatha, a man in his early sixties with wheatish-golden fair complexion, portly majestic build, large dark brown eyes with heavy lids, greying black hair in a royal topknot, thick greying mustache, in classical Indian mythological art style, standing facing the viewer with upright regal bearing and arms resting at his sides, wearing an ivory silk dhoti with gold sun-motif zari border, deep crimson silk uttariya with gold embroidery draped over his shoulders, jeweled waistbelt, tall golden Kiritamukuta crown inlaid with rubies and emeralds with a central sun emblem, layered pearl necklaces, heavy gold armlets, bracelets and rings, with a jeweled ceremonial sword sheathed at his left hip, plain seamless neutral-grey studio backdrop, soft even lighting, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Dharma",
+   "kind": "character",
+   "flow_ref": "Dharma",
+   "image_prompt": "A full-figure character model-sheet of Dharma, god of righteousness, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A serene middle-aged male deity around forty with luminous golden-fair complexion, tall stately moderately strong build, large calm dark lotus eyes, black hair in a neat topknot, clean-shaven with sandal paste U-shaped tilak, wearing a pristine white silk dhoti with golden dharma-chakra wheel and lotus border motifs and a white silk angavastra with gold trim draped over the shoulder with white yajnopavita sacred thread, adorned with tall golden kiritamukuta crown with dharma-wheel emblem, golden kundala earrings, layered gold necklaces, gold armlets, bracelets and rings, holding a tall golden dharma-danda staff topped with lotus and a bound palm-leaf Veda manuscript, standing upright in abhaya blessing pose with calm majestic bearing.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Dundubhi",
+   "kind": "character",
+   "flow_ref": "Dundubhi",
+   "image_prompt": "A full-figure character model-sheet of Dundubhi, the colossal adult buffalo-demon corpse, in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, showing his hill-like barrel-chested muscular build covered in coarse sooty-black hide fading to ash-grey on the belly, massive head with wide crescent ivory horns with ridged bases and blood-darkened tips, broad muzzle with flared nostrils and lolling dark tongue, glazed half-open amber eyes, coarse shaggy black mane on hump and forehead with long black tail tuft, thick twisted rope collar with dented golden bell and small golden nose-ring as ornaments, stiff massive legs with cracked black hooves sprawled in lifeless stillness on his side facing the viewer, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Dushana",
+   "kind": "character",
+   "flow_ref": "Dushana",
+   "image_prompt": "A full-figure character model-sheet of Dushana, a middle-aged Rakshasa general around forty years old, facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, no on-image text. Towering heavily muscular build with broad chest and thick limbs, dark smoky ash-grey complexion with deep red undertone, large bloodshot amber eyes under thick furrowed black brows with fierce commanding glare. Wild shoulder-length jet-black mane tied in a high topknot with a bone bead, loose strands framing the face, short unkempt black beard and mustache, long pointed ears, white fangs protruding upward from the lower jaw. Attire of knee-length tiger-skin dhoti with black-gold stripes edged in crimson, broad crimson waist-sash with gold demon-face embroidery, bare massive torso marked with white sacred ash streaks and a black leather chest strap. Ornaments of heavy lion-head gold armlets, spiked gold bracelets, large gold hoop earrings with skull pendants, layered rudraksha and carved-bone necklaces, gold anklets. Attributes of a massive spiked iron gada mace held upright in the right hand and a curved steel khanda sword with lion-hilt sheathed at the left hip. Bearing and pose in upright frontal warrior stance with feet wide apart, chest expanded, left fist clenched at side, intimidating commanding presence.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Gods",
+   "kind": "character",
+   "flow_ref": "Gods",
+   "image_prompt": "A full-figure character model-sheet of the Gods shown as eternally youthful celestial Devas, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are youthful adults with radiant golden-fair luminous complexion, tall graceful slender build, large serene lotus-shaped dark eyes, long black hair crowned under tall golden mukuta crowns with jewel inlay, wearing shimmering celestial silk dhotis and sashes in gold, sky-blue and pearl-white with star and lotus embroidery motifs, golden necklaces, armlets, bracelets and ever-fresh marigold and lotus garlands with sandal glow on skin, holding golden lotuses, conches and flower showers, standing facing the viewer in serene majestic blessing bearing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Guha",
+   "kind": "character",
+   "flow_ref": "Guha",
+   "image_prompt": "A full-figure character model-sheet of Guha, a middle-aged Nishada king of about forty, in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. Deep warm dark-brown complexion, sturdy broad-shouldered muscular boatman's build with strong forearms, large warm dark-brown eyes with kind loyal gaze, thick black hair in a high tribal topknot secured with red cord adorned with a single peacock feather, short full black beard and mustache, large circular brass earrings. Knee-length dhoti of coarse handwoven russet cotton with mustard-yellow diamond woven border, green angavastram draped over left shoulder, brown leather waistband, layered rudraksha and carved wooden bead necklaces, brass armlets and cuff bracelets, bare feet with leather anklets. Stout bamboo longbow held at side in right hand, cane quiver of eagle-feathered arrows slung across back. Standing upright facing viewer with feet apart, dignified humble kingly bearing, chin slightly bowed in devotion.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Hanuman",
+   "kind": "character",
+   "flow_ref": "Hanuman",
+   "image_prompt": "A full-figure character model-sheet of Hanuman, a youthful adult vanara in his prime, in classical Indian mythological art style, facing the viewer in a neutral standing pose with arms relaxed, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, no on-image text. He has warm golden-brown fur covering his whole body with cream-colored muzzle, chest, belly and inner ears, an immensely powerful muscular broad-chested build with long strong arms, large kind expressive amber-brown eyes under a noble simian brow, dark brown-black mane framing his face with cheek whiskers and a small topknot, tall pointed vanara ears, and a very long muscular tail curling upward behind him ending in a dark brown tuft. He wears a saffron-red silk langot dhoti with golden zari brocade border and pleated front, a golden yajnopavita sacred thread across his chest, a red U-shaped Vaishnava tilak on his forehead, large circular golden kundala earrings, golden armlets, wrist bracelets and anklets, and a rudraksha and gold beaded necklace, holding a large heavy golden gada mace with flanged lotus-carved head resting at his side, bearing humble devoted strength and calm alertness.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Ikshvaku",
+   "kind": "character",
+   "flow_ref": "Ikshvaku",
+   "image_prompt": "A full-figure character model-sheet of King Ikshvaku, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A towering broad-shouldered founder king around 50 with radiant copper-golden complexion glowing with solar warmth, tall powerful build, piercing amber eyes, long flowing black hair with silver at the temples tied back, golden circlet centered with a red sun disc, wearing an ancient golden-yellow silk dhoti woven with red sunburst motifs with golden sacred thread across the chest, adorned with heavy gold armlets, sun-pendant necklaces and large gold earrings, holding a long golden royal staff, majestic founder bearing standing tall and pose.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Indra",
+   "kind": "character",
+   "flow_ref": "Indra",
+   "image_prompt": "A full-figure character model-sheet of Indra king of gods, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A youthful sovereign around 30 with luminous fair golden-ivory complexion, tall muscular regal build, large commanding dark brown eyes, jet-black hair and neat moustache under a tall jeweled golden kirita-mukuta, wearing a shimmering white silk dhoti with rainbow peacock-feather border, golden waistbelt, jeweled golden chest armor carved with elephant motifs and silk scarf, adorned with diamond earrings, pearl garlands and gold armlets, holding a golden double-pronged vajra thunderbolt in the right hand with left hand on hip, proud sovereign bearing and pose.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Indrajit",
+   "kind": "character",
+   "flow_ref": "Indrajit",
+   "image_prompt": "A full-figure character model-sheet of Indrajit, a 30-year-old Rakshasa prince, tall powerfully muscular warrior build, dusky storm-cloud grey-bronze complexion, fierce amber eyes with red rims, long jet-black hair in a high warrior topknot secured with a gold thunderbolt band, trimmed beard and mustache, red tilak with sacred ash lines on forehead, wearing a crimson silk dhoti with gold thunderbolt zari border, ornate gold kavacha breastplate embossed with roaring lion faces, crimson and gold angavastra draped over left shoulder, tall golden kiritamukuta crown crested with cobra hood and ruby inlay, heavy gold kundala earrings, serpent-coil gold armlets and bracelets, layered gold necklaces with tiger-claw pendant, holding a tall black-and-gold longbow carved with serpent heads in left hand and a serpent-fanged arrow in right hand, quiver of serpent-crested arrows on back, standing in proud upright warrior pose facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Janaka",
+   "kind": "character",
+   "flow_ref": "Janaka",
+   "image_prompt": "A full-figure character model-sheet of King Janaka, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A lean tall philosopher-king around 65 with wheat-brown complexion, lean ascetic-royal build, deep-set wise brown eyes beneath greying brows, greying black hair tied in a neat royal topknot, short grey beard and moustache, wearing a cream silk dhoti-kurta with maroon-gold Mithila border woven with fish and lotus motifs and a saffron shawl over the shoulders, small golden mukut crown, adorned with rudraksha beads, gold armlets and rings, holding a wooden staff in one hand with the other in blessing, serene sage-king bearing and pose.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Janasthana Battlefield",
+   "kind": "scene",
+   "flow_ref": "JanasthanaBattlefield",
+   "image_prompt": "An establishing-shot sheet of Janasthana Battlefield in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, showing a rugged Dandaka forest clearing of red-brown earth, scattered dark boulders and rocky outcrops ringed by tall sal, teak and twisted banyan trees with dry grass and broken branches, distant low Vindhya ridges under a hazy amber sky, harsh late-afternoon light, tense ominous mood, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Jatayu",
+   "kind": "character",
+   "flow_ref": "Jatayu",
+   "image_prompt": "A full-figure character model-sheet of Jatayu, an ancient elderly giant king-vulture, in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. Gigantic powerful build taller than a man with broad feathered chest, massive broad layered wings held symmetrically half-spread, muscular scaled legs and formidable black-grey talons. Rich deep chestnut-brown body and wing plumage with distinct golden-brown edging on each feather, thick fluffy creamy-white ruff around the neck, white undertail feathers, wrinkled reddish-saffron bare skin on aged face, short white brow tufts above large compassionate fierce amber-gold eyes, strong massive hooked ivory-gold beak with dark tip. Wearing a sacred mala of rudraksha beads interspersed with gold beads around the thick neck above the ruff as his sole ornament, bearing of a noble aged warrior standing fully upright with head held high in direct dignified gaze.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Kabandha",
+   "kind": "character",
+   "flow_ref": "Kabandha",
+   "image_prompt": "A full-figure character model-sheet of Kabandha, an ageless adult male Rakshasa of colossal headless form, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop, NO on-image text. Age: primeval adult demon, ageless and hulking. Complexion: dark soot-black skin with smoky brown sheen and coarse textured hide. Build: massive barrel-like headless torso with shoulders merging directly into chest, broad chest tapering to shrunken hips with short thick legs, face set in torso. Eyes: single large round fiery amber-yellow eye centered in chest. Hair: dense coarse black bristles and matted tufts sprouting from shoulder hollows and covering chest and forearms. Attire: tattered tiger-skin loincloth in ochre with black stripes secured by a twisted black cord belt. Ornaments: garland of small bleached skulls on black thread across chest. Weapons and attributes: extraordinarily long muscular ape-like arms reaching to the ground ending in huge clawed hands with long cracked black nails, and a vast gaping belly-mouth lined with jagged yellowed fangs and a thick red tongue. Bearing and pose: upright frontal stance with long arms held slightly outstretched to display their length, belly-mouth agape and chest-eye glaring forward, fearsome and imposing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Kaikeyi",
+   "kind": "character",
+   "flow_ref": "Kaikeyi",
+   "image_prompt": "A full-figure character model-sheet of Kaikeyi, a middle-aged Kekaya queen around 38 years old, fair golden-wheat complexion, tall slender regal build, sharp almond-shaped dark brown eyes lined with black kohl with arched eyebrows, long jet-black hair arranged in a high royal bun adorned with gold hairpins and red hibiscus flowers, wearing a deep crimson silk saree with a broad gold zari border of peacock and lotus motifs with a royal purple and gold brocade blouse and a sheer gold-trimmed veil, wearing a small gold karanda crown, gold maang tikka, gold nose ring with pearl chain, heavy gold choker necklace and long pearl and gold haram, gold jhumka earrings, stacks of red and gold bangles, gold armlets, gold kamarbandh waist belt, gold anklets and toe rings, standing erect facing the viewer with proud commanding bearing, chin lifted and hands resting gracefully at her sides, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Kausalya",
+   "kind": "character",
+   "flow_ref": "Kausalya",
+   "image_prompt": "A full-figure character model-sheet of Kausalya, chief queen of Ayodhya and mother of Rama, in classical Indian mythological art style, facing the viewer, standing against a plain seamless neutral-grey studio backdrop with soft even lighting, no on-image text. A stately woman in her early fifties with warm fair-golden complexion, soft maternal medium build, large dark lotus eyes with gentle expression, long black hair streaked with silver at the temples arranged in a neat low bun adorned with white jasmine garland and gold hairpins. She wears a deep crimson silk saree with broad gold zari border of lotus and paisley motifs draped in traditional Kshatriya queen style with a gold-embroidered blouse with elbow sleeves. She wears royal gold ornaments: small gold kirit-mukut crown, pearl-studded nath, layered gold necklaces with pearls and ruby pendant, gold jhumka earrings, gold bajuband armlets, red and gold bangles, gold rings, and gold mekhala waist girdle. Her bearing is serene, dignified and maternal, standing upright with hands poised in gentle blessing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Kavya",
+   "kind": "character",
+   "flow_ref": "Kavya",
+   "image_prompt": "A full-figure character model-sheet of Kavya, a young Indian woman storyteller in her late twenties, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, no on-image text. Warm wheat-brown complexion, large dark expressive eyes with a thoughtful compassionate gaze, long jet-black hair in a neat side braid adorned with small white jasmine flowers. She wears a deep teal cotton saree with a thin gold border over a cream blouse, simple gold jhumka earrings and thin gold bangles, small red bindi. Slender graceful build with calm composed posture.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Khara",
+   "kind": "character",
+   "flow_ref": "Khara",
+   "image_prompt": "A full-figure character model-sheet of Khara, a middle-aged Rakshasa warlord with massive broad-shouldered muscular build and deep charcoal-grey complexion, glaring blood-red eyes under heavy black brows and snarling mouth showing sharp white fangs, black hair tied in a fierce topknot crowned with a golden demon crest, thick black braided beard, red rakshasa tilak on forehead, wearing a black and crimson silk dhoti with gold flame border motifs, tiger-skin sash across bare chest, heavy gold armlets and bracelets, large spiked gold earrings and skull-bead necklace, holding a massive iron mace in one hand and a broad curved sword in the other, standing in a proud menacing frontal warrior stance facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Kishkindha",
+   "kind": "scene",
+   "flow_ref": "Kishkindha",
+   "image_prompt": "An establishing-shot sheet of Kishkindha, the vanara cave kingdom, in classical Indian mythological art style, centered facing the viewer on a plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop, NO on-image text. Massive towering cavern mouth formed of stacked honey-gold and russet granite boulders with a tall dark oval entrance, broad flat sandstone courtyard with scattered pebbles, ancient banyan tree with hanging aerial roots on the left and tall sal trees on the right, low carved sandstone throne with lion-paw legs and marigold garlands before the entrance, sunlit rocky cliffs rising behind, warm golden daylight, majestic wild and regal mood, key landmarks are the boulder arch entrance, banyan tree, and stone throne.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Kubera",
+   "kind": "character",
+   "flow_ref": "Kubera",
+   "image_prompt": "A full-figure character model-sheet of Kubera god of wealth, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A short stout middle-aged lord around 40 with fair golden-yellow complexion, short prosperous pot-bellied build, round jovial face, small sharp dark eyes, neat black moustache, short black curly hair under a low jeweled golden cap crown, wearing a rich crimson-red brocade dhoti and shawl woven with gold coin and lotus motifs with heavy golden waistbelt, adorned with layered heavy gold necklaces, pearl strands, jeweled rings, gold armlets and earrings, cradling a small golden money-pot overflowing with jewels in one arm and holding a short jeweled golden mace in the other hand, jovial generous regal bearing standing squarely and pose.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Lakshmana",
+   "kind": "character",
+   "flow_ref": "Lakshmana",
+   "image_prompt": "A full-figure character model-sheet of Lakshmana, 22-year-old Ayodhya prince, lean athletic youthful build, warm fair wheat-golden complexion, large dark brown lotus eyes with gentle devoted expression, thick black hair tied in a high princely topknot bound with golden cord, smooth youthful face with soft sandal-U tilak on forehead, wearing a deep golden-yellow silk dhoti with red-gold zari border woven with tiny bow motifs and a saffron cotton angavastram draped over left shoulder, sacred white yajnopavita thread across chest, wearing small round gold kundala earrings, thin gold armlets, gold wrist-guards, beaded necklace and wooden sandals, holding a tall curved bamboo longbow in right hand with a bamboo quiver of eagle-feathered arrows slung on back and a gold-hilted straight sword in scabbard at left waist, standing upright facing the viewer in humble attentive bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Lanka",
+   "kind": "scene",
+   "flow_ref": "Lanka",
+   "image_prompt": "A full establishing-shot sheet of Lanka, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. The golden island kingdom rising from a deep blue ocean atop triple-peaked Mount Trikuta, with massive concentric ramparts of burnished gold, four colossal arched gateways of red sandstone and white marble, a central multi-tiered royal golden palace with tall jewel-inlaid shikharas, saffron-pennanted domes and pillared pavilions, surrounded by smaller golden mansions, white marble terraces, lush palm groves, flowering Ashoka trees and lotus moats, luminous golden daylight, majestic opulent and imposing mood.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Lanka - Ashoka Grove",
+   "kind": "scene",
+   "flow_ref": "LankaAshokaGrove",
+   "image_prompt": "An establishing-shot sheet of Lanka - Ashoka Grove in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, showing a golden island fortress with high golden ramparts, towering gateways, domed palaces of gold and dark stone with coral and pearl inlay and lotus carvings, fronted by a lush Ashoka grove of red-blossomed ashoka trees, flowering creepers, white marble pavilion and clear lotus pond, surrounded by palms and ocean cliffs, bright tropical daylight, opulent enchanting mood, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Maricha",
+   "kind": "character",
+   "flow_ref": "Maricha",
+   "image_prompt": "A full-figure character model-sheet of Maricha, a middle-aged Rakshasa ascetic, tall lean ascetic build with broad shoulders and gaunt limbs, dusky copper-brown complexion, sharp amber eyes under heavy brows, small white upper fangs and slightly pointed ears, long grey-streaked black matted dreadlocks gathered in a high topknot with a short pointed beard, white tripundra sacred ash stripes on forehead and chest, wearing a simple saffron-ochre barkcloth dhoti with dark brown woven border and a deerskin sash over the left shoulder, rudraksha bead necklaces and bracelets and small gold pointed earrings, holding a tall wooden ascetic staff in the right hand and a small wooden kamandalu water pot in the left hand, standing upright facing the viewer with solemn composed bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Monkeys",
+   "kind": "character",
+   "flow_ref": "Monkeys",
+   "image_prompt": "A full-figure character model-sheet of the Monkeys shown as adult Vanara warriors, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are adult with golden-brown to reddish-brown fur-covered complexion, agile strong muscular humanoid build with long curling tails, bright expressive brown eyes, thick fur manes around the face with short dark crown hair, wearing simple saffron and green cotton loincloths with gold border motifs and sacred thread belts, gold armlets, earrings and marigold and jasmine flower garlands, holding wooden clubs and smooth river stones, standing upright facing the viewer in alert lively bearing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Nala",
+   "kind": "character",
+   "flow_ref": "Nala",
+   "image_prompt": "A full-figure character model-sheet of Nala, a middle-aged adult vanara male architect son of Vishvakarma, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, full body visible head to feet in neutral standing pose with arms relaxed at sides, plain backdrop, NO on-image text. Age: middle-aged adult; Complexion and fur: warm tawny-brown fur over body with cream fur on muzzle, chest and belly, copper-brown skin on face, palms and soles; Build: stocky powerfully muscled builder's physique with broad shoulders, thick forearms and sturdy legs, long strong tail ending in a dark brown tuft; Eyes: large warm amber-brown eyes with calm intelligent gaze; Hair: short dark brown mane around face gathered into a small topknot tied with a red cord; Attire: coarse ochre-yellow dhoti with woven dark-brown geometric border, white sacred yajnopavita thread across chest, brown waist sash and tool belt; Ornaments: copper armlets on upper arms, copper wrist bands, double rudraksha bead necklace; Attributes: coiled architect's measuring cord in right hand and small wooden carpenter's mallet tucked at waist; Bearing: upright steady master-craftsman dignity.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Nandigrama",
+   "kind": "scene",
+   "flow_ref": "Nandigrama",
+   "image_prompt": "An establishing-shot sheet of Nandigrama, classical Indian mythological art style, isolated on a plain seamless neutral-grey studio backdrop, soft even lighting, frontal establishing view facing the viewer, no on-image text. The humble ascetic forest-edge village with packed earthen paths lined with small mud-plastered thatched huts with dried palm-leaf roofs, bamboo and rough-hewn wooden pillars, tulsi mound shrines and simple wooden fences. A massive ancient banyan tree with hanging aerial roots and a sacred peepal tree on a carved stone base dominate the settlement with banana plants and mango saplings. At the center an open pillared thatched mandapa on a raised stone plinth holds a carved stone pedestal throne draped in red-gold silk cloth with marigold garlands bearing a pair of golden wooden paduka sandals flanked by earthen diyas. Materials of mud, thatch, weathered wood and aged stone in earthy ochre, green and brown tones, serene austere devotional mood of patient waiting.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Narada",
+   "kind": "character",
+   "flow_ref": "Narada",
+   "image_prompt": "A full-figure character model-sheet of Narada, an eternally radiant elderly Vedic sage of about sixty with slender ascetic build, in classical Indian mythological art style, facing the viewer standing upright with delighted benevolent smile and serene blessing bearing. He has warm fair luminous wheatish skin, large joyful dark-brown eyes, shaven head with a small dark-grey shikha topknot tied at the crown, short neatly trimmed white beard and mustache, white U-shaped Vaishnav tilak with central red sandal line on forehead. He wears a simple white cotton dhoti with thin saffron-gold woven border, saffron cotton angavastra draped over left shoulder and across chest, white yajnopavita sacred thread across chest, triple rudraksha bead necklaces, rudraksha bracelets on both wrists, barefoot. He holds an ancient mahati veena with twin golden-brown gourds and bamboo stem in his left hand near shoulder and a small polished brass kamandalu water pot in his right hand, plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Ocean",
+   "kind": "character",
+   "flow_ref": "Ocean",
+   "image_prompt": "A full-figure character model-sheet of Ocean, Lord of Oceans, in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text. A majestic mature male deity in his prime with deep ocean teal-blue complexion with pearly luminous sheen, tall broad-shouldered powerful royal build, large compassionate dark brown lotus eyes, serene regal expression, long flowing wavy jet-black hair in a high jeweled topknot threaded with pearls. He wears a deep sea-green silk dhoti with golden ocean-wave and foam motifs and wide pearl-bordered hem, a translucent pale aqua angavastra draped over both shoulders, and a pearl sacred thread across the chest. He wears a tall golden mukuta crown with pearl strings, coral inlay, conch-shell crest and central blue sapphire, large gold makara earrings, layered pearl and red coral necklaces, engraved gold bajuband armlets, pearl bracelets, jeweled gold waistband with emerald and sapphire, and gold anklets. He holds a large white conch shell in his left hand and a golden vessel overflowing with pearls and ocean gems in his right hand, standing upright facing forward in calm majestic dignity.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Pampa Riverbank",
+   "kind": "scene",
+   "flow_ref": "PampaRiverbank",
+   "image_prompt": "An establishing-shot sheet of Pampa Riverbank in classical Indian mythological art style, soft even lighting, a wide crescent-shaped sacred lake with crystal-clear turquoise water densely dotted with large pink and white lotus blossoms and broad green lily pads, curving banks of fine pale-golden sand interspersed with smooth rounded grey granite boulders, fringed by lush flowering forest of tall ashoka trees with scarlet-orange blossom clusters and mango and sandal trees with dense emerald foliage and hanging flowering vines, distant low blue-green Rishyamukha hills under a pale luminous morning sky, tranquil pristine sacred mood with mirror-like water reflections, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Prajapati",
+   "kind": "character",
+   "flow_ref": "Prajapati",
+   "image_prompt": "A full-figure character model-sheet of Prajapati the Creator, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A venerable ancient lord around 70 in appearance with luminous golden-wheat complexion, tall stately four-armed slightly portly build, serene hazel eyes, long white matted hair piled in tall jata-mukuta adorned with white lotus, long flowing white beard, wearing a pure white cotton-silk dhoti with gold Vedic border and white shawl with sacred thread across the chest, adorned with rudraksha and lotus-seed garlands and gold bracelets, holding a palm-leaf Veda manuscript, wooden kamandalu water pot, white lotus and crystal akshamala rosary in four hands, calm protective creator bearing and pose.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Rakshasas",
+   "kind": "character",
+   "flow_ref": "Rakshasas",
+   "image_prompt": "A full-figure character model-sheet of the Rakshasas shown as adult demonic warriors, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are adult with dark charcoal-black to deep brown-red complexion, massive heavy muscular build, large round blood-red eyes with fierce gaze, wild black manes with red streaks tied loosely with skull beads and bristling beards with protruding fangs, wearing black and crimson iron armor plates with skull and flame motifs over tiger-skin loincloths with leather straps, heavy gold earrings, skull-bead necklaces and iron armlets, wielding iron spears, curved swords, spiked maces and round shields, standing wide-legged facing the viewer in menacing aggressive bearing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Rama",
+   "kind": "character",
+   "flow_ref": "Rama",
+   "image_prompt": "A full-figure character model-sheet of Rama, a 28-year-old Ikshvaku prince with distinct azure-blue complexion, tall athletic build with broad shoulders, large lotus-shaped dark eyes with calm controlled expression, long jet-black hair tied in a neat royal topknot adorned with a golden kiritamukuta crown, clean-shaven face with Vaishnava tilak, wearing a golden-yellow silk dhoti with red and gold zari border and lotus motifs, bare torso with sandal-paste markings, golden yajnopavita sacred thread across chest, royal ornaments including golden armlets, bracelets, layered pearl necklaces, emerald-inlaid earrings and jeweled waistband, holding his long Kodanda bow in left hand with a quiver of arrows slung on his back, standing upright facing the viewer in calm dignified bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Rama's Dandaka Hermitage",
+   "kind": "scene",
+   "flow_ref": "RamaSDandakaHermitage",
+   "image_prompt": "An establishing-shot sheet of Rama's Dandaka Hermitage, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A small forest hermitage clearing in dense Dandaka woodland with a parna-shala hut of mud-plastered walls and steep leaf-thatched roof with bamboo supports, swept earthen courtyard enclosed by bamboo fence, brick vedi fire altar, wooden low seats, stacked firewood, earthen water pots and leaf garlands, surrounded by towering sal, banyan and flowering shrubs with hanging vines, warm dappled daylight filtering through canopy, calm ascetic sheltered mood with key landmarks of thatched hut and sacred fire altar.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Ravana",
+   "kind": "character",
+   "flow_ref": "Ravana",
+   "image_prompt": "A full-figure character model-sheet of Ravana, a middle-aged towering Rakshasa king with colossal broad-shouldered muscular build, dusky smoky-grey-brown complexion, ten identical fierce heads with bloodshot copper-red eyes, thick arched black brows, fanged grimace, jet-black mustache and flowing jet-black hair, each head crowned with a tall conical golden jeweled mukuta, wearing a royal golden-yellow silk dhoti with crimson brocade border embroidered with black Rakshasa motifs, ornate golden breastplate armor inlaid with rubies, tiger-claw necklace, heavy golden necklaces, jeweled armlets, bracelets and anklets, twenty powerful arms fanned symmetrically holding swords, maces, spears, bows, shields and conches with two central hands holding a massive curved khadga sword and a gada mace, standing imperiously facing the viewer with chest out in regal warrior bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Rohini",
+   "kind": "character",
+   "flow_ref": "Rohini",
+   "image_prompt": "A full-figure character model-sheet of Rohini, celestial consort of the moon, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A youthful eternal celestial woman in her mid-twenties with luminous moon-white ivory-fair complexion, slender graceful build, large gentle dark lotus eyes with soft brows, very long black hair flowing past the waist adorned with pearls and white moonflowers, wearing a shimmering silvery-white silk saree with silver crescent-moon and star woven motifs over a silver blouse with pearl border, adorned with delicate silver crescent tiara, moonstone earrings, layered pearl necklaces, silver bangles, waistband and anklets, holding a small silver lotus blossom, standing in a soft devoted graceful pose facing forward with serene affectionate bearing.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sages of Dandaka",
+   "kind": "character",
+   "flow_ref": "SagesOfDandaka",
+   "image_prompt": "A full-figure character model-sheet of the Sages of Dandaka shown as elderly forest ascetics, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are elderly with sun-darkened ash-smeared complexion, gaunt lean emaciated build, intense deep-set amber-brown eyes, long matted jata locks piled in a high topknot with flowing beard, wearing rough barkcloth kaupinas and deer-skin shoulder wraps with natural fiber texture, ash tripundra lines on forehead and limbs, rudraksha and tulsi bead necklaces and bracelets, holding bamboo staffs, rudraksha rosaries and earthen kamandalu pots, standing upright facing the viewer in austere radiant bearing, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sampati",
+   "kind": "character",
+   "flow_ref": "Sampati",
+   "image_prompt": "A full-figure character model-sheet of Sampati, the immensely large and extremely ancient vulture sage, in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, full body visible from beak to talons, plain backdrop, NO on-image text. Very old and emaciated yet majestic build, wearing only his natural feather vesture, weathered dark umber-brown body plumage tattered and sparse, thick ruffled cream-white neck ruff streaked with ash-grey, wrinkled saffron-pink bald head and throat, massive down-curved ivory beak with slate-black hooked tip, deep-set pale amber eyes with heavy lids, short singed blackened wing-stumps at the shoulders with curled burnt feather remnants, powerful scaly slate-grey legs ending in large curved black talons, long fanned dark brown tail feathers. Bearing calm, wise and sage-like, seated upright with chest forward and head held high, gazing directly at the viewer.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Shabari",
+   "kind": "character",
+   "flow_ref": "Shabari",
+   "image_prompt": "A full-figure character model-sheet of Shabari, an 80-year-old Bhil ascetic woman, small frail slightly stooped build, deep weathered warm-brown complexion with deep wrinkles, deep-set kind dark-brown eyes, gentle humble radiant expression, coarse silver-white matted hair in a small low bun at the nape secured with a rudraksha bead pin with center parting, sandal-paste vertical tilak on forehead, wearing a coarse faded saffron-ochre handspun cotton sari with patched dark-brown bark-cloth border draped simply over the left shoulder, plain natural cotton blouse, triple-strand rudraksha mala necklaces, rudraksha and tulsi-wood bead bracelets on both wrists, small wooden bead anklets, bare dust-covered feet, holding a tulsi-wood japa mala in the right hand and a gnarled neem-wood ascetic staff in the left hand, standing facing the viewer in humble devotional bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, full body visible head to feet, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sharabhanga",
+   "kind": "character",
+   "flow_ref": "Sharabhanga",
+   "image_prompt": "A full-figure character model-sheet of Sharabhanga, an 85-year-old emaciated ascetic sage, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop. He has weathered dusky wheat-brown complexion dusted with sacred ash on forehead, chest and arms, frail gaunt build with visible ribs, deep-set calm dark brown eyes with thick grey eyebrows, long grey-white matted jata hair piled in a high topknot with loose strands to shoulders and long grey-white beard and mustache. He wears a coarse brown valkala bark-cloth dhoti with fibrous bark texture and frayed edge, a spotted deer-skin ajina draped over his left shoulder, and a white cotton yajnopavita sacred thread across his chest, barefoot. His ornaments are multiple brown rudraksha bead necklaces and wrist malas, with white tripundra ash lines and a small red kumkum dot on the forehead. He holds a tall brown wooden danda staff in his right hand and a small dark brown wooden kamandalu water pot in his left hand, standing upright in serene blessing bearing, full body visible from head to feet, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Shurpanakha",
+   "kind": "character",
+   "flow_ref": "Shurpanakha",
+   "image_prompt": "A full-figure character model-sheet of Shurpanakha, a youthful adult Rakshasi woman in her early thirties, classical Indian mythological art style, facing the viewer in a neutral standing pose with hands slightly extended to display long claw-like nails, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, dusky smoky copper-brown complexion, tall slender-curvaceous long-limbed build, large elongated amber eyes with reddish corners and heavy black kohl and arched brows, long sharply pointed nose, long elongated earlobes, two small white fangs just visible, very long wild jet-black hair with deep red highlights falling to the hips adorned with red hibiscus flowers and tiny brass bells, deep blood-red saree with black-and-gold flame-and-fang border draped in Rakshasa tribal style over a black gold-embroidered bodice with midriff visible, heavy tarnished gold and bone ornaments including a large circular gold left-nostril nose-ring, large gold hoop earrings, tiger-claw pendant necklace, stacked bone and brass bangles, brass bell anklets, flame-shaped red bindi on the forehead, proud predatory bearing with a slight smirk, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sita",
+   "kind": "character",
+   "flow_ref": "Sita",
+   "image_prompt": "A full-figure character model-sheet of Sita, a young Indian princess in her early twenties with warm golden-fair complexion, slender graceful build, large dark lotus eyes, classical Indian mythological art style, long jet-black hair parted in the middle with red sindoor and gathered into a single thick waist-length braid entwined with strings of fresh white jasmine flowers and a gold braid pendant, wearing a deep crimson-red silk saree with broad gold zari border woven with lotus and peacock motifs draped traditionally over the left shoulder paired with an emerald-green short-sleeved blouse with gold trim, adorned with gold maang-tikka, small red bindi, delicate gold nath, gold jhumka earrings, layered gold necklaces, red and gold bangles, gold kamarbandh waistband, gold anklets and toe rings, standing upright facing the viewer with serene compassionate expression and graceful devout poise, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sringaverapura Ganga Bank",
+   "kind": "scene",
+   "flow_ref": "SringaverapuraGangaBank",
+   "image_prompt": "An establishing-shot sheet of Sringaverapura Ganga Bank in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. Wide sacred Ganga river with calm clear teal water and pale sand bank, low rough-cut stone and packed-earth ghat steps, weathered wooden jetty holding three hollowed-log fisher canoes with coiled hemp nets, small Nishada town of five mud-walled huts with steep palm-leaf thatched roofs and bamboo pole fencing, towering ancient banyan tree with thick aerial roots flanked by broad peepal trees, dense green forest fringe behind, flat distant far-bank treeline under warm golden dawn light, serene sacred frontier mood, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sugriva",
+   "kind": "character",
+   "flow_ref": "Sugriva",
+   "image_prompt": "A full-figure character model-sheet of Sugriva, a young adult vanara monkey-king, in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text. He has warm tawny-golden-brown fur covering his body with creamy-white fur on his muzzle, chest, belly and inner limbs, a lean agile medium-athletic build, large round amber-brown eyes with a loyal kindly gaze, simian muzzle and nose, thick dark chocolate-brown mane fur around his face and crown tied in a small topknot, and a long prehensile tail with a dark tuft curling up behind him. He wears a royal orange-red silk dhoti with broad gold zari border and tiny fang-tooth motif, secured with an ornate gold waistband and a sacred janeu thread across his chest. He wears a small golden kirit-mukut crown with central ruby and sunburst motif, golden round kundala earrings, golden armlets, wrist bracelets and beaded gold necklace, with a garland of fresh red hibiscus flowers and green mango leaves around his neck. He holds a short stout dark-wood mace with golden bands at his side. His bearing is upright with arms relaxed at sides, dignified yet humble and friendly, full body visible head to feet facing the viewer.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Sutikshna",
+   "kind": "character",
+   "flow_ref": "Sutikshna",
+   "image_prompt": "A full-figure character model-sheet of Sutikshna, a 65-year-old lean wiry ascetic sage with wheat-brown sun-tanned complexion, calm deep-set dark brown eyes and serene expression, long black matted jata hair streaked with grey coiled into a high jatamukuta topknot with loose locks falling to the shoulders, full grey-streaked black beard and moustache, white tripundra ash lines on forehead and arms, wearing a coarse ochre bark-cloth valkala knee-length dhoti and matching ochre shoulder shawl, sacred thread across bare chest, triple rudraksha bead necklaces and rudraksha bracelets, holding a tall bamboo danda staff in the right hand and a small wooden kamandalu water pot in the left hand, standing upright facing the viewer in humble blessing bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Tara",
+   "kind": "character",
+   "flow_ref": "Tara",
+   "image_prompt": "A full-figure character model-sheet of Tara, Vanara queen consort of Vali, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A graceful woman in her early thirties with luminous golden-fair complexion, slender elegant build, large compassionate dark lotus eyes expressing gentle wisdom, long jet-black hair in a thick braid adorned with white jasmine garland falling over her left shoulder. She wears a royal emerald-green silk saree with broad golden zari border woven with lotus and vanara-crest motifs draped in classical Vanara royal style, with a red gold-embroidered choli and sheer gold-bordered veil over the head. Ornaments: delicate golden mukut with emerald center, gold jhumka earrings, pearl nose-ring, layered gold and pearl necklaces with emeralds, gold armlets, red and gold bangles, golden waist-belt, anklets and toe-rings. Bearing and pose: standing upright facing the viewer with serene queenly dignity, one hand in gentle blessing gesture and the other holding the saree end, calm compassionate expression.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Trishira",
+   "kind": "character",
+   "flow_ref": "Trishira",
+   "image_prompt": "A full-figure character model-sheet of Trishira, a middle-aged three-headed Rakshasa warrior leader with three identical heads on broad shoulders, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, full body visible head to feet, plain backdrop, towering massive barrel-chested muscular build with dark coppery maroon-brown skin, each head with bloodshot amber-red eyes under fierce upturned brows, white fangs protruding from the lower lip, short pointed black beard, and wild jet-black hair in a tall matted topknot tied with crimson cord, wearing a black silk dhoti with gold flame border and tiger-skin waist sash with a black iron chest-plate embossed with demon skulls, large gold kundala earrings in all six ears, gold serpent armlets, iron bangles, and a garland of small skulls strung with red hibiscus, holding a massive black-iron longbow with a curved khanda sword at the waist, standing in a dominant erect warrior stance with feet apart, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Vali",
+   "kind": "character",
+   "flow_ref": "Vali",
+   "image_prompt": "A full-figure character model-sheet of Vali, a mature adult vanara monkey-lord king in his prime, with tawny-golden-brown fur, lighter golden-cream chest and muzzle, immensely muscular broad-chested towering build, fierce amber-gold eyes under a strong brow, dark brown leonine mane hair tied in a topknot and a long curled tail tipped with a golden tuft ring, wearing a deep crimson silk dhoti with golden zari sun-motif border with a golden waist sash and a sacred golden upavita thread across the chest, adorned with a tall golden Kiritamukuta crown bearing a sun emblem and red gem, a gleaming divine golden pendant necklace, heavy golden armlets, bracelets, large golden earrings and golden anklets, holding a massive golden-headed mace, standing upright in a regal powerful stance facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Valmiki",
+   "kind": "character",
+   "flow_ref": "Valmiki",
+   "image_prompt": "A full-figure character model-sheet of Valmiki, an elderly great sage devoted to austerity, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, no on-image text. Age about 75 years, lean ascetic build with dignified upright posture, warm weathered wheat-brown complexion, deep compassionate brown eyes with calm introspective gaze. Long white-grey matted jata hair gathered in a high topknot, flowing long white beard and mustache. Attire: simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram draped over the left shoulder, white yajnopavita sacred thread across the chest. Ornaments and marks: white tripundra vibhuti markings on forehead and arms, multiple rudraksha bead necklaces and bracelets. Attributes: wooden danda staff in the right hand, small wooden kamandalu water pot and rudraksha japa mala in the left hand, barefoot, serene humble bearing in frontal pose.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Vashishtha",
+   "kind": "character",
+   "flow_ref": "Vashishtha",
+   "image_prompt": "A full-figure character model-sheet of Vashishtha, a venerable Brahmarshi in his eighties, tall lean erect ascetic build with warm light wheat-brown complexion and serene ascetic radiance, deep-set dark brown calm commanding eyes, long snow-white hair tied in a high topknot shikha with a flowing snow-white beard and mustache reaching mid-chest, wearing a pristine white cotton dhoti with a thin woven gold border and a matching white cotton angavastra draped over the left shoulder, white yajnopavita sacred thread across the chest, three horizontal white sandal tripundra lines on the forehead with a central red kumkum bindi, rudraksha bead necklace and rudraksha bracelets, barefoot, holding a tall polished bamboo brahma-danda staff in the right hand and a small hammered copper kamandalu water pot in the left hand, standing erect facing the viewer with calm authoritative guru bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Vast Ocean Shore",
+   "kind": "scene",
+   "flow_ref": "VastOceanShore",
+   "image_prompt": "An establishing-shot sheet of Vast Ocean Shore, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. An immense seascape with endless deep turquoise ocean meeting a broad pale sandy beach scattered with smooth granite boulders, seashells and driftwood, foaming white surf lines, windswept coastal trees and rocky outcrops framing the sides, faint distant island silhouette on the horizon, bright clear midday tropical light with luminous sky, vast solemn powerful mood with key landmarks of endless horizon, surf and boulder-strewn sand.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Vibhishana",
+   "kind": "character",
+   "flow_ref": "Vibhishana",
+   "image_prompt": "A full-figure character model-sheet of Vibhishana, the virtuous Rakshasa brother of Ravana crowned King of Lanka, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, full body visible from crown to feet, plain backdrop. A middle-aged man in his early forties with fair golden-wheat complexion, tall slender-stately build, large compassionate dark brown lotus eyes, jet-black shoulder-length hair combed back with a small sikha topknot, trimmed black mustache, white U-shaped Vaishnava tilak with central red line on forehead. He wears an ivory-white silk dhoti with broad red-and-gold zari border with lotus motifs, matching ivory-gold angavastra draped over left shoulder, golden yajnopavita sacred thread across chest, golden waistband. Ornaments: tall golden kirita-mukuta crown of Lanka with central ruby and pearl strings, golden makara kundala earrings, layered gold necklaces with pearls and ruby, tulsi-bead necklace, golden armlets, bracelets and rings. Attributes: tall golden gada mace with lotus-carved head. Bearing and pose: standing upright facing the viewer with calm humble noble bearing, right hand holding the mace shaft vertical beside him, left arm relaxed at side, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Viradha",
+   "kind": "character",
+   "flow_ref": "Viradha",
+   "image_prompt": "A full-figure character model-sheet of Viradha, a colossal middle-aged male Rakshasa with towering mountainous build, massive pot-belly, broad barrel chest and extremely long ape-like arms, charcoal-black ashen skin with smoky undertone and blood smears on chest, deep-set bloodshot amber-yellow glaring eyes under thick black beetling brows, gaping wide mouth with protruding yellow fangs, wild tangled black mane streaked with crimson tied with small bone beads falling to shoulders, wearing a tiger-skin loincloth with black stripe motifs and a blood-stained raw hide sash across chest, wearing a garland of small white skulls, thick serpent-coil armlets, heavy iron bangles and large gold hoop earrings, holding a giant black iron trishula trident in right hand, standing in a wide bow-legged powerful stance facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+   "sheet_response_id": null
+  },
+  {
+   "name": "Vishnu",
+   "kind": "character",
+   "flow_ref": "Vishnu",
+   "image_prompt": "A full-figure character model-sheet of Vishnu the Preserver, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. An eternally youthful lord around 25 with luminous deep azure-blue complexion, tall perfectly proportioned majestic build, large serene lotus-petal dark eyes, long black hair under a tall golden kiritamukuta set with jewels and white lotus, wearing a brilliant golden-yellow pitambara silk dhoti woven with garuda and lotus motifs with golden waistband, adorned with emerald Kaustubha jewel on the chest, pearl necklaces, gold earrings and armlets and long forest-flower vanamala garland to the knees, four arms holding golden conch, golden discus, golden mace and pink lotus, serene compassionate all-protecting bearing and pose.",
+   "sheet_response_id": null
+  }
+ ],
+ "slides": [
+  {
+   "slide": 1,
+   "slide_label": "Slide01 - The Seeker's Question",
+   "muse_prompt": "In the warm dawn golden light before the honey-golden sandstone palaces and white marble temples of Ayodhya, with saffron pennants fluttering above crenellated walls and the serene Sarayu river gliding past stepped stone ghats edged by mango and ashoka groves, an elderly great sage with warm weathered wheat-brown skin and deep compassionate brown eyes stands barefoot in humble inquiry. His long white-grey matted hair gathered in a high topknot and flowing white beard frame white tripundra ash on his forehead, while his saffron-ochre cotton dhoti with rust-gold border and matching angavastram over his left shoulder carries a white sacred thread and rudraksha necklaces and bracelets, a wooden danda staff in his right hand and a wooden kamandalu with japa mala in his left. Before him stands an eternally radiant slender sage of sixty with warm fair luminous wheatish skin and large joyful dark-brown eyes, his shaven head bearing a small dark-grey shikha topknot and short trimmed white beard, marked with a white U-shaped Vaishnav tilak with a central red sandal line. He wears a simple white cotton dhoti with thin saffron-gold woven border and a saffron angavastra over his left shoulder with triple rudraksha necklaces and white yajnopavita, holding an ancient mahati veena with twin golden-brown gourds near his shoulder and a polished brass kamandalu, listening with a delighted benevolent smile. The air glows with reverent curiosity as the elder leans forward in questioning and the sage inclines in warm attention, framed in a medium two-shot against the gilded pavilions and domed chhatris.",
+   "subjects": [
+    {
+     "name": "Valmiki",
+     "kind": "character"
+    },
+    {
+     "name": "Narada",
+     "kind": "character"
+    },
+    {
+     "name": "Ayodhya",
+     "kind": "scene"
+    }
+   ],
+   "size": "1536x1024"
+  },
+  {
+   "slide": 2,
+   "slide_label": "Slide02 - Measure Before Hero",
+   "muse_prompt": "A young Indian woman storyteller in her late twenties with warm medium-brown skin and expressive dark eyes, her long jet-black hair in a neat side braid adorned with small white jasmine, wears a deep teal cotton saree with a thin gold border and simple gold jhumka earrings. She sits cross-legged on a woven mat in a quiet lamp-lit study surrounded by stacked palm-leaf manuscripts and earthen diyas, unrolling a blank scroll while three polished brass weights gleam beside an ink pot. Her gaze lifts toward the soft lamplight with thoughtful purpose as she traces lines on the scroll, embodying the act of setting standards of gratitude, truth, and compassionate care. Warm amber light bathes her face and the textured manuscripts, creating a contemplative mood of preparation and clarity in a close intimate framing.",
+   "subjects": [
+    {
+     "name": "Kavya",
+     "kind": "unknown"
+    }
+   ],
+   "size": "1024x1024"
+  },
+  {
+   "slide": 3,
+   "slide_label": "Slide03 - Rama Named",
+   "muse_prompt": "Amid the honey-golden sandstone palaces with cusped-arch windows and domed chhatris draped with saffron pennants, beneath white marble temples with tall shikharas crowned by golden kalashas beside the serene Sarayu river and mango groves in warm dawn light, a joyful gathering unfolds. An eternally radiant slender sage of sixty with warm fair luminous wheatish skin and large joyful dark-brown eyes, shaven head with small dark-grey shikha topknot and short trimmed white beard, wearing a white cotton dhoti with saffron-gold border and saffron angavastra over his left shoulder with white U-shaped Vaishnav tilak, triple rudraksha necklaces and white sacred thread, gestures with delight while holding his twin-gourd mahati veena and polished brass kamandalu. Before him stands a 28-year-old Ikshvaku prince with distinct azure-blue complexion, tall athletic build with broad shoulders and large lotus-shaped dark eyes, his long jet-black hair in a royal topknot crowned with a golden kiritamukuta, wearing a golden-yellow silk dhoti with red and gold zari border, golden sacred thread, layered pearls, golden armlets and emerald earrings, holding his long Kodanda bow with quiver on his back in calm radiance. Beside the prince stand his solar lineage forebear, a towering broad-shouldered king around fifty with radiant copper-golden skin and piercing amber eyes, long black hair with silver temples beneath a golden circlet with red sun disc, wearing golden-yellow silk with red sunburst motifs and heavy gold armlets while holding a long golden staff, and a stately queen in her early fifties with warm fair-golden complexion, large dark lotus eyes and silver-streaked black hair in a low bun with jasmine garland, draped in a deep crimson silk saree with broad gold lotus border, gold kirit-mukut, pearl nath, layered gold necklaces with ruby pendant and red-gold bangles, her hands poised in maternal blessing. Golden morning light envelops the family in serene joy and reverence, captured in a warm medium-wide framing against the fortified gateways and gilded pavilions.",
+   "subjects": [
+    {
+     "name": "Narada",
+     "kind": "character"
+    },
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Ikshvaku",
+     "kind": "character"
+    },
+    {
+     "name": "Kausalya",
+     "kind": "character"
+    },
+    {
+     "name": "Ayodhya",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 4,
+   "slide_label": "Slide04 - Body Certifies Soul",
+   "muse_prompt": "On a luminous terrace above Ayodhya with honey-golden sandstone palaces and white marble temples crowned by golden kalashas, beside the serene Sarayu ghats and ashoka groves in radiant dawn light, a 28-year-old prince with distinct azure-blue complexion and tall athletic build stands in majestic calm. His broad shoulders, long knee-reaching arms, conch-shaped neck, broad chest and large lotus-shaped dark eyes glow with cool radiance, his long jet-black hair in a royal topknot with golden kiritamukuta, his golden-yellow silk dhoti with red gold zari, golden sacred thread, pearl necklaces, golden armlets and jeweled waistband gleaming as he holds his Kodanda bow with quiver on his back. Around him shimmer celestial witnesses, first a venerable creator with luminous golden-wheat skin and tall four-armed form, long white hair piled in a jata-mukuta with white lotus and flowing white beard, wearing a pure white dhoti with gold border and rudraksha garlands while holding Veda manuscript, kamandalu, lotus and crystal rosary in protective calm, and an eternally youthful preserver around twenty-five with luminous deep azure-blue skin and large lotus-petal eyes, crowned with a tall jeweled golden kiritamukuta, wearing brilliant golden-yellow pitambara with Kaustubha emerald and knee-long vanamala garland while holding conch, discus, mace and pink lotus in serene compassion. Next stands a short stout lord of wealth around forty with fair golden-yellow skin, round jovial face and prosperous belly, short black curly hair beneath a low jeweled golden cap, wearing crimson-red brocade with gold coin motifs and layered heavy gold necklaces while cradling a golden money-pot overflowing with jewels and holding a jeweled mace in generous pride, alongside a serene god of righteousness with luminous golden-fair complexion and large calm lotus eyes, black hair in a topknot beneath a tall golden crown with dharma-wheel emblem, wearing pristine white silk with golden wheel borders and sandal tilak while holding a tall golden lotus-topped staff and bound Veda manuscript in blessing posture. Soft golden halos and drifting petals unite the earthly prince with his cosmic reflections in grave stillness and reverent splendor. The composition holds the prince centered and luminous in a grand frontal framing, bathed in pearly dawn radiance that conveys patience like mountains, depth like the sea, and gentleness like moonlight.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Prajapati",
+     "kind": "character"
+    },
+    {
+     "name": "Vishnu",
+     "kind": "character"
+    },
+    {
+     "name": "Kubera",
+     "kind": "character"
+    },
+    {
+     "name": "Ayodhya",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 5,
+   "slide_label": "Slide05 - Flesh Shows Virtue",
+   "muse_prompt": "A young Indian woman storyteller in her late twenties with warm medium-brown skin and expressive dark eyes, her long jet-black hair in a neat side braid adorned with small white jasmine, wears a deep teal cotton saree with a thin gold border and simple gold jhumka earrings. She stands in soft morning light beside a carved stone pillar, one hand resting lightly on her own broad chest and breath, her large dark eyes calm and observant as she studies posture and gaze in quiet reflection. Beside her a painter scroll unfurls with studies of a conch-shaped neck, long knee-reaching arms, broad chest and cool luminous skin paired with words of truth, forgiveness and compassion in warm pigment. Gentle sunlight traces the line of her shoulders and the steadiness of her gaze, creating an intimate mood of embodied wisdom and self-awareness in a close graceful framing.",
+   "subjects": [
+    {
+     "name": "Kavya",
+     "kind": "unknown"
+    }
+   ],
+   "size": "1024x1024"
+  },
+  {
+   "slide": 6,
+   "slide_label": "Slide06 - Two Boons Exile",
+   "muse_prompt": "In the grand audience hall of Ayodhya with golden sandstone and white marble tiers, soaring shikharas, carved pillars, lotus-arch gateways and crimson-gold banners bathed in warm bright daylight, coronation vessels gleam beside a royal throne. King Dasharatha in his early sixties with wheatish-golden fair complexion and portly majestic build, large dark brown eyes with heavy lids, greying black hair in royal topknot and thick greying mustache, wearing ivory silk dhoti with gold sun-motif border and deep crimson uttariya with gold embroidery, tall golden Kiritamukuta crown with rubies and emeralds and sun emblem, layered pearls and heavy gold armlets bracelets rings and jeweled waistbelt with ceremonial sword at left hip, sits bowed with grief while facing his queen. Queen Kaikeyi around thirty-eight with fair golden-wheat skin and tall slender regal build, sharp kohl-lined almond dark brown eyes beneath arched brows, long jet-black hair in high royal bun with gold pins and red hibiscus and small gold karanda crown, draped in deep crimson silk saree with broad gold peacock and lotus border over purple and gold brocade blouse with sheer gold-trimmed veil and adorned with maang tikka and pearl-chained nose ring and heavy gold choker and long pearl haram and jhumkas and red-gold bangles and armlets and kamarbandh and anklets, stands erect with lifted chin and commanding arm extended in demand. Prince Rama aged twenty-eight with azure-blue complexion and tall athletic broad-shouldered build and large lotus dark eyes, long jet-black hair in neat royal topknot with golden kiritamukuta crown and calm clean-shaven face with Vaishnava tilak, wearing golden-yellow silk dhoti with red and gold lotus border and sacred yajnopavita thread and layered pearls and golden armlets bracelets and emerald earrings and jeweled waistband with long Kodanda bow and back quiver, kneels in humble obedience with palms folded toward his father and stepmother. Nearby young prince Bharata aged twenty-three with warm light wheat-golden skin and lean athletic build and large lotus dark brown eyes glowing with sorrowful devotion, long black hair in simple ascetic topknot and smooth clean-shaven face with sandalwood U tilak, wearing coarse ochre-saffron dhoti with thin maroon border and matching angavastra with jute cord and sacred thread and small gold studs and thin right-arm armlet, stands barefoot with hands joined in anjali as warm side light sculpts the tense farewell mood of duty and sacrifice.",
+   "subjects": [
+    {
+     "name": "Dasharatha",
+     "kind": "character"
+    },
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Kaikeyi",
+     "kind": "character"
+    },
+    {
+     "name": "Bharata",
+     "kind": "character"
+    },
+    {
+     "name": "Ayodhya Palace and City",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 7,
+   "slide_label": "Slide07 - Ganga to Chitrakuta",
+   "muse_prompt": "On a wide tranquil stretch of the sacred Ganga where calm clear teal water laps a pale sand bank edged with rough stone and packed-earth steps and a weathered wooden jetty holding three hollowed-log fisher canoes with coiled hemp nets, five mud-walled huts with steep palm thatch behind bamboo fencing rest beneath a towering ancient banyan with thick aerial roots flanked by broad peepal trees as dense green forest fringes the settlement under warm golden dawn light. Prince Rama twenty-eight with azure-blue complexion and tall athletic broad-shouldered build and large lotus dark eyes, long jet-black hair in neat royal topknot with golden kiritamukuta crown and calm clean-shaven face with Vaishnava tilak, wearing golden-yellow silk dhoti with red and gold lotus border and sacred thread and layered pearls and golden armlets bracelets and emerald earrings and jeweled waistband with long Kodanda bow and back quiver, strides forward beside Princess Sita in her early twenties with warm golden-fair slender grace and large dark lotus eyes, long jet-black hair with red sindoor in thick waist braid entwined with white jasmine and gold pendant, draped in deep crimson silk saree with broad gold lotus and peacock border over emerald blouse with gold trim and adorned with maang-tikka and red bindi and gold nath and jhumkas and layered gold necklaces and red-gold bangles and kamarbandh and anklets, followed closely by Prince Lakshmana twenty-two with lean athletic wheat-golden build and large dark brown lotus eyes and thick black hair in high topknot bound with golden cord, wearing deep golden-yellow silk dhoti with red-gold bow-motif border and saffron angavastram and white sacred thread and round gold kundalas and thin armlets and wrist-guards and sandal-U tilak, carrying tall curved bamboo longbow with back quiver of eagle-feathered arrows and gold-hilted sword at waist in humble devoted attentiveness. Nishada King Guha about forty with deep warm dark-brown skin and sturdy broad-shouldered muscular build and large warm dark-brown kind loyal eyes under thick brows, thick black hair in high tribal topknot with red cord and peacock feather and short full beard and mustache and large circular brass earrings, wearing knee-length russet handwoven dhoti with mustard diamond border and green angavastram and layered rudraksha and wooden bead necklaces with brass armlets and cuffs, holding a stout bamboo longbow with cane quiver across back, bows in dignified humble greeting while the Ayodhyan royal charioteer in his late fifties with warm wheat-brown lean sturdy build and sorrowful dark eyes, short greying hair under saffron-yellow turban with small gold brooch and trimmed grey moustache and stubble, wearing cream dhoti with wide red and gold border and maroon angavastram with gold paisley and brown leather waistband and sandals with gold studs and rudraksha bracelet, stands with straight humble bearing holding a short coiled brown leather whip beside his turning chariot. Behind them King Dasharatha in his early sixties with wheatish-golden fair portly majestic build and large dark brown eyes with heavy lids, greying black hair in royal topknot and thick greying mustache, wearing ivory silk dhoti with gold sun border and deep crimson embroidered uttariya and tall golden Kiritamukuta crown with rubies and emeralds and sun emblem and layered pearls and heavy gold armlets bracelets rings and jeweled waistbelt, reaches forward in grief among the citizens of Ayodhya, middle-aged men and women of Kosala with warm wheat-brown skin and gentle dark eyes, the men in pleated cream dhotis with saffron borders and shoulder cloths with gold motifs and topknots and sandal tilaks and copper bracelets and the women in deep red and turmeric yellow and leaf green cotton sarees with gold butti and cholis and jasmine-adorned braids with glass bangles and gold earrings and bright bindis, all with palms folded in reverent trailing farewell. High in the luminous dawn clouds the youthful celestial goddess Rohini in her mid-twenties with luminous moon-white ivory slender grace and large gentle dark lotus eyes, long black hair past waist adorned with pearls and white moonflowers and delicate silver crescent tiara, wearing shimmering silvery-white saree patterned with crescent moons and stars over silver blouse with pearl necklaces and silver bangles and anklets and moonstone earrings and holding a small silver lotus in soft devoted pose, glows beside lean tall philosopher-king Janaka around sixty-five with wheat-brown skin and deep-set wise brown eyes beneath greying brows, greying black hair in neat topknot beneath small golden mukut and calm face with short grey beard and moustache, wearing cream silk dhoti-kurta with maroon-gold Mithila fish and lotus border and saffron shawl with rudraksha beads and gold armlets rings, holding a wooden staff in serene blessing as soft golden light bathes the riverbank in tender parting devotion.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Sita",
+     "kind": "character"
+    },
+    {
+     "name": "Lakshmana",
+     "kind": "character"
+    },
+    {
+     "name": "Guha",
+     "kind": "character"
+    },
+    {
+     "name": "Charioteer",
+     "kind": "character"
+    },
+    {
+     "name": "Dasharatha",
+     "kind": "character"
+    },
+    {
+     "name": "Citizens of Ayodhya",
+     "kind": "character"
+    },
+    {
+     "name": "Sringaverapura Ganga Bank",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 8,
+   "slide_label": "Slide08 - Sandals of Trust",
+   "muse_prompt": "In humble ascetic Nandigrama of mud-plastered thatched huts with dried palm-leaf roofs and rough wooden pillars along packed earthen paths lined with tulsi shrines and banana plants and simple fences, a massive ancient banyan with hanging aerial roots and a sacred peepal on carved stone base shade an open pillared thatched mandapa on raised stone plinth holding a carved pedestal draped in red-gold silk with marigold garlands bearing a pair of golden wooden paduka sandals glowing under soft serene morning light. Prince Rama twenty-eight with azure-blue complexion and tall athletic broad-shouldered build and large lotus dark eyes, long jet-black hair in neat royal topknot with golden kiritamukuta crown and calm clean-shaven face with Vaishnava tilak, wearing golden-yellow silk dhoti with red and gold lotus border and sacred yajnopavita thread and layered pearls and golden armlets bracelets and emerald earrings and jeweled waistband with long Kodanda bow and back quiver, places the glowing sandals toward Prince Bharata twenty-three with warm light wheat-golden lean athletic build and large lotus dark brown eyes glowing with sorrowful devotion, long black hair in simple ascetic topknot and smooth clean-shaven face with sandalwood U tilak, wearing coarse ochre-saffron dhoti with thin maroon border and matching angavastra with jute cord and sacred thread and small gold studs and thin right-arm armlet, kneeling barefoot with hands joined in humble anjali. Venerable Brahmarshi Vashishtha in his eighties with tall lean erect build and warm light wheat-brown radiant skin and deep-set calm commanding dark brown eyes, long snow-white hair in high shikha topknot and flowing snow-white beard and mustache to mid-chest with three white sandal tripundra lines and central red kumkum bindi, wearing pristine white dhoti with thin gold border and matching angavastra over left shoulder with white sacred thread and rudraksha necklace bracelets, stands barefoot holding tall polished bamboo brahma-danda staff and small hammered copper kamandalu in calm authoritative grace beside elderly and middle-aged Brahmanas with fair wheat-golden lean builds and calm deep-set dark eyes, shaved heads with small black shikha tufts and white sandal tripundra, wearing pristine white dhotis with thin gold borders and white uttariyas with sacred threads and rudraksha necklaces bracelets, carrying palm-leaf manuscripts and darbha grass and wooden kamandalu pots with one palm raised in blessing. Eighty-year-old sage Bharadwaja with warm wheat-brown sun-weathered tall lean slightly stooped build and deep compassionate dark-brown eyes beneath thick white brows with white vibhuti tripundra, voluminous ash-white matted hair coiled in high jatamukuta topknot with long chest-length white beard and mustache, wearing simple ochre-saffron handspun ankle dhoti with narrow maroon border and matching shoulder angavastra over white sacred thread with three dark-brown rudraksha necklaces and bracelets, holds tall bamboo danda staff and small dark-wood kamandalu in serene paternal guidance nearby. Above the mandapa in luminous morning clouds King Dasharatha in his early sixties with wheatish-golden fair portly majestic build and large dark brown eyes with heavy lids, greying black hair in royal topknot and thick greying mustache, wearing ivory silk dhoti with gold sun border and deep crimson embroidered uttariya and tall golden Kiritamukuta crown with rubies and emeralds and sun emblem and layered pearls and heavy gold armlets bracelets rings, gazes down with tearful blessing as gentle sunlight bathes the village in quiet trust and waiting devotion.",
+   "subjects": [
+    {
+     "name": "Dasharatha",
+     "kind": "character"
+    },
+    {
+     "name": "Bharata",
+     "kind": "character"
+    },
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Vashishtha",
+     "kind": "character"
+    },
+    {
+     "name": "Brahmanas",
+     "kind": "character"
+    },
+    {
+     "name": "Bharadwaja",
+     "kind": "character"
+    },
+    {
+     "name": "Nandigrama",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 9,
+   "slide_label": "Slide09 - Power as Trust",
+   "muse_prompt": "A thoughtful young woman storyteller Kavya with warm golden-wheat complexion and slender graceful build and large dark compassionate eyes, long jet-black hair in neat side braid adorned with white jasmine, wearing a deep teal cotton saree with thin gold border over cream blouse with small gold jhumkas and thin gold bangles, sits in quiet reflection beside a carved stone pedestal draped in red-gold silk bearing golden wooden paduka sandals garlanded with marigolds. Soft morning light filters through a banyan canopy onto an earthen floor scattered with tulsi leaves and banana plants, while a long Kodanda bow with back quiver rests beside the pedestal near an ochre-saffron cloth evoking forest dwelling. Her hands rest together in contemplative anjali as her gaze lingers on the sandals with reverent calm, embodying trust held through exile in forest and patient waiting in village. Warm golden side light sculpts the still space in serene introspective mood inviting pause and steady faith in word and duty.",
+   "subjects": [
+    {
+     "name": "Kavya",
+     "kind": "unknown"
+    }
+   ],
+   "size": "1024x1024"
+  },
+  {
+   "slide": 10,
+   "slide_label": "Slide10 - Vow Against Rakshasas",
+   "muse_prompt": "In a vast primeval Dandaka wilderness of towering sal and teak and banyan and peepal with massive gnarled trunks and dense dark-green canopy laced with hanging aerial roots and vines, the forest floor of damp earth and fallen leaves and moss-covered rocks and ferns and wild jasmine opens into a serene clearing with small bamboo and straw thatched leaf huts and earthen fire altars bathed in golden-green daylight filtering in soft shafts through light morning mist. Prince Rama twenty-eight with azure-blue complexion and tall athletic broad-shouldered build and large lotus dark eyes, long jet-black hair in neat royal topknot with golden kiritamukuta crown and calm clean-shaven face with Vaishnava tilak, wearing golden-yellow silk dhoti with red and gold lotus border and sacred yajnopavita thread and layered pearls and golden armlets bracelets and emerald earrings and jeweled waistband with long Kodanda bow and back quiver, kneels with raised palm in solemn vow beside a glowing fire altar. Ancient short-statured sage Agastya with stocky pot-bellied build and warm dusky copper-brown skin and deep-set compassionate dark brown eyes beneath bushy grey brows, long grey-streaked black matted hair in high topknot with long grey beard and mustache and white tripundra sandal paste, wearing coarse saffron-ochre dhoti with woven gold-brown border and matching angavastram with deer-skin sacred thread and layered rudraksha necklaces bracelets, extends a great jeweled bow with sword and quiver and abundant arrows toward Rama while his elderly brother about seventy with tall lean slightly stooped wheatish-brown build and calm deep-set dark-brown eyes, long grey-streaked jata in high topknot with full grey-streaked beard and white vibhuti tripundra, wearing coarse ochre barkcloth dhoti with deerskin upavita and rudraksha necklaces bracelets, holds bamboo danda staff and wooden kamandalu in calm blessing as youthful sovereign Indra around thirty with luminous fair golden-ivory tall muscular regal build and large commanding dark eyes, jet-black hair and neat moustache crowned by tall jeweled golden kirita-mukuta, wearing shimmering white silk dhoti with rainbow peacock-feather border and golden waistbelt and jeweled elephant-motif chest armor with diamond earrings and pearl garlands and gold armlets, holding golden double-pronged vajra in right hand with left hand resting on hip, glows in bright clouds above in proud blessing. Nearby eighty-five-year-old emaciated sage Sharabhanga with weathered dusky wheat-brown ash-dusted skin and deep-set calm dark brown eyes under thick grey brows, long grey-white matted hair piled in high topknot with loose strands and long grey-white beard and mustache with white tripundra ash lines and small red mark, wearing coarse brown bark-cloth dhoti with spotted deer-skin over left shoulder and white sacred thread and brown rudraksha necklaces and wrist malas, stands barefoot in serene dignity holding tall wooden staff and small water pot beside sixty-five-year-old lean wiry sage Sutikshna with wheat-brown sun-tanned skin and calm deep-set dark brown eyes, long black matted hair streaked with grey coiled in high jatamukuta topknot with loose locks and full grey-streaked beard and white tripundra on forehead and arms, wearing coarse ochre bark-cloth knee dhoti with matching shoulder shawl and sacred thread and triple rudraksha necklaces bracelets, holding tall bamboo staff and small wooden kamandalu in humble upright reverence. Around the fire stand the elderly Sages of Dandaka with sun-darkened ash-smeared gaunt lean builds and intense amber-brown eyes, long matted jata locks piled in high topknots with flowing beards and sacred ash tripundra on foreheads and limbs, wearing rough barkcloth kaupinas and deer-skin shoulder wraps with rudraksha and tulsi necklaces, carrying bamboo staffs and rosaries and earthen kamandalu pots in upright austere devotion as flames cast warm glow across their faces. At the treeline lies fallen colossal Rakshasa Viradha middle-aged with charcoal-black ashen towering pot-bellied broad barrel-chested build and immensely long ape-like arms, deep-set bloodshot amber-yellow eyes under thick black brows and gaping mouth with protruding yellow fangs and wild tangled black mane streaked with crimson adorned with bone beads, wearing tiger-skin loincloth with black stripes and blood-stained hide sash and garland of small white skulls with serpent-coil armlets and heavy iron bangles and large gold hoop earrings, his giant black iron trishula trident resting beside him in the ferns while golden-green light shafts heighten the sacred and resolute mood of protection.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Viradha",
+     "kind": "character"
+    },
+    {
+     "name": "Sharabhanga",
+     "kind": "character"
+    },
+    {
+     "name": "Sutikshna",
+     "kind": "character"
+    },
+    {
+     "name": "Agastya",
+     "kind": "character"
+    },
+    {
+     "name": "Agastya's Brother",
+     "kind": "character"
+    },
+    {
+     "name": "Sages of Dandaka",
+     "kind": "character"
+    },
+    {
+     "name": "Indra",
+     "kind": "character"
+    },
+    {
+     "name": "Dandaka Forest",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 11,
+   "slide_label": "Slide11 - Fourteen Thousand Fall",
+   "muse_prompt": "In a rugged Janasthana clearing of red-brown earth strewn with dark boulders among tall sal, teak and twisted banyan trees beneath Vindhya ridges and hazy amber late-afternoon light, azure-blue prince Rama with lotus-shaped dark eyes, jet-black topknot crowned with golden kiritamukuta, golden-yellow silk dhoti with red gold zari lotus motifs, pearl necklaces, golden armlets and sacred thread draws his long Kodanda bow with quiver on his back. Beside him cries dusky copper-brown Shurpanakha with cheek marked by fresh cuts, amber kohl-lined eyes, wild jet-black hair with red highlights adorned with hibiscus and brass bells, blood-red saree with flame-fang border, tiger-claw pendant, large circular gold nostril ring and stacked bone brass bangles. Charging toward him surge massive charcoal-grey Khara with blood-red eyes, braided beard, golden demon crest, tiger-skin sash and skull necklace brandishing iron mace and curved sword, three-headed coppery maroon Trishira in skull-embossed iron chest-plate with black-iron longbow, skull garland and serpent armlets, towering ash-grey Dushana with furrowed amber eyes, tiger-skin dhoti, crimson sash, lion-head armlets and spiked gada, followed by muscular charcoal-black Rakshasa warriors in skull-flame iron armor with spears, swords, maces and shields. Arrows streak across the ominous wilderness as the demonic host collapses across tangled roots and dry grass. Rama stands tall and calm with controlled Vaishnava tilak amid swirling dust, embodying solitary heroic fury as fourteen thousand fall around him.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Shurpanakha",
+     "kind": "character"
+    },
+    {
+     "name": "Khara",
+     "kind": "character"
+    },
+    {
+     "name": "Trishira",
+     "kind": "character"
+    },
+    {
+     "name": "Dushana",
+     "kind": "character"
+    },
+    {
+     "name": "Rakshasas",
+     "kind": "character"
+    },
+    {
+     "name": "Janasthana Battlefield",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 12,
+   "slide_label": "Slide12 - Abduction Grief",
+   "muse_prompt": "At Rama's peaceful Dandaka parna-shala of mud walls and steep leaf-thatched roof inside a bamboo-fenced swept earthen courtyard with brick fire altar, wooden seats, firewood stacks, water pots, leaf garlands and flowering shrubs beneath towering sal and banyan in warm dappled daylight, towering Ravana with colossal dusky smoky-grey-brown build, ten fierce heads with bloodshot copper-red eyes and fanged grimaces crowned by tall conical golden jeweled mukutas, golden-yellow silk dhoti with crimson brocade borders, ruby-inlaid breastplate, tiger-claw necklace and twenty powerful arms fanning with swords, maces, spears, bows and shields clutches a struggling princess. The princess is golden-fair Sita in her early twenties with large dark lotus eyes, long jet-black hair parted with red sindoor in a thick waist-length braid entwined with jasmine and gold pendant, deep crimson silk saree with broad gold lotus-peacock border over emerald blouse, gold maang-tikka, red bindi, delicate nostril ring, jhumka earrings, layered gold necklaces, red-gold bangles, kamarbandh, anklets and toe rings reaching toward the hut. Gigantic king-vulture Jatayu with deep chestnut-brown plumage edged in gold, creamy-white neck ruff, wrinkled saffron face, compassionate amber-gold eyes, hooked ivory-gold beak, mighty talons and rudraksha-gold mala dives with vast layered wings spread, talons raked and feathers torn and bloodied from Ravana's blade. Nearby stands solemn Maricha the lean copper-brown ascetic with sharp amber eyes, grey-streaked matted topknot, pointed beard, white tripundra ash stripes, saffron barkcloth dhoti, deerskin sash, rudraksha beads and tall wooden staff with kamandalu watching the violence he warned against. Rushing through the tree line come azure-blue Rama with lotus eyes, jet-black topknot with golden kiritamukuta, golden-yellow dhoti with lotus motifs, pearl necklaces and Kodanda bow, tears streaming down his calm clean-shaven face with Vaishnava tilak, followed by devoted wheat-golden Lakshmana with high topknot bound in golden cord, saffron angavastram, sacred thread, gold kundala, armlets, wrist-guards, sandal-U tilak, curved bamboo bow, eagle-feathered quiver and gold-hilted sword.",
+   "subjects": [
+    {
+     "name": "Ravana",
+     "kind": "character"
+    },
+    {
+     "name": "Maricha",
+     "kind": "character"
+    },
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Lakshmana",
+     "kind": "character"
+    },
+    {
+     "name": "Sita",
+     "kind": "character"
+    },
+    {
+     "name": "Jatayu",
+     "kind": "character"
+    },
+    {
+     "name": "Rama's Dandaka Hermitage",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 13,
+   "slide_label": "Slide13 - Shabari to Friendship",
+   "muse_prompt": "On the sacred crescent bank of turquoise Pampa lake thick with pink white lotus and broad lily pads, pale-golden sand with smooth grey granite boulders beneath tall ashoka with scarlet blossoms, mango and sandal with emerald foliage and vines, Rishyamukha hills under pale luminous morning light with mirror reflections, azure-blue Rama with lotus eyes, jet-black topknot with golden kiritamukuta, golden-yellow dhoti with lotus motifs, pearl necklaces, sacred thread and Kodanda bow kneels beside wheat-golden Lakshmana with high topknot, saffron angavastram, sacred thread, gold kundala and bamboo bow around a small crackling fire altar. Before them bows eighty-year-old Shabari with small stooped warm-brown wrinkled build, kind dark-brown eyes, silver-white matted low bun with rudraksha pin, sandal-paste tilak, faded saffron handspun sari with bark border, triple rudraksha necklaces, tulsi bracelets and wooden anklets, dust-covered feet, offering a leaf bowl of berries with tulsi mala in one hand and neem staff in the other and a radiant smile. Golden-brown Hanuman with cream muzzle chest and belly, long tail curling upward with dark tuft, muscular broad chest, kind amber-brown eyes, dark mane with cheek whiskers, large golden kundala, red tilak, saffron-red langot with gold brocade, sacred thread, gold armlets and heavy golden gada with lotus-carved head gestures devotedly toward tawny-golden Sugriva with creamy-white chest, round amber-brown eyes, chocolate-brown mane topknot, long tufted tail, orange-red silk dhoti with gold border, ruby-centered kirit-mukut, gold jewelry and hibiscus-mango garland holding a banded wood mace as both join palms over the flames in witnessed friendship. Behind them smoke rises from a sandalwood pyre honoring gigantic chestnut-brown king-vulture Jatayu with creamy-white ruff, saffron face, amber-gold eyes, hooked ivory beak and rudraksha-gold mala, while above the palms ascends the luminous spirit of colossal soot-black Kabandha with single fiery amber eye in his chest above a fanged belly-mouth with lolling red tongue, long ground-reaching clawed arms, ochre tiger-skin loincloth and skull garland, arms raised in blessing toward Shabari's hermitage path. Soft golden morning glow bathes the joined hands, flower garlands and rippling lotus water in tranquil sacred hope as a new alliance forms for the search ahead.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Jatayu",
+     "kind": "character"
+    },
+    {
+     "name": "Kabandha",
+     "kind": "character"
+    },
+    {
+     "name": "Shabari",
+     "kind": "character"
+    },
+    {
+     "name": "Hanuman",
+     "kind": "character"
+    },
+    {
+     "name": "Sugriva",
+     "kind": "character"
+    },
+    {
+     "name": "Lakshmana",
+     "kind": "character"
+    },
+    {
+     "name": "Pampa Riverbank",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 14,
+   "slide_label": "Slide14 - Fall of Vali",
+   "muse_prompt": "Before the towering honey-gold and russet granite cavern mouth with tall dark oval entrance, broad sandstone courtyard scattered with pebbles, ancient banyan with hanging roots, tall sal trees, lion-paw sandstone throne draped in marigold garlands beneath sunlit rocky cliffs in warm golden daylight, lies the hill-like corpse of sooty-black buffalo-demon Dundubhi with ash-grey belly, wide crescent ivory horns with blood-darkened tips, flared nostrils, lolling tongue, glazed amber eyes, shaggy mane, rope collar with dented golden bell, golden nostril ring and stiff cracked hooves sprawled in eternal stillness beside seven shattered palm trunks split by a single shaft. Tawny-golden Sugriva with creamy-white chest, round amber-brown eyes, chocolate mane topknot, tufted tail, orange-red silk dhoti with gold border, ruby-centered kirit-mukut, gold kundala and armlets and hibiscus-mango garland roars with banded wood mace raised, challenging the cavern. Towering Vali with immensely muscular tawny-golden-brown build, golden-cream chest, fierce amber-gold eyes, dark leonine topknot, curled tail with golden tuft, crimson silk dhoti with sun-motif gold border, golden sash, sacred upavita, tall Kiritamukuta with sun emblem and red gem, divine golden pendant, heavy armlets, large earrings and massive golden-headed mace staggers with a long eagle-feathered arrow buried deep in his chest, blood flowering across fur as strength ebbs. Rushing toward him comes luminous golden-fair Tara in her early thirties with compassionate dark lotus eyes, long jet-black braid with jasmine over her shoulder, emerald silk saree with golden lotus border over red embroidered choli, delicate emerald mukut, jhumka earrings, pearl-gold necklaces, red-gold bangles and golden waist-belt, arms outstretched in anguished queenly grace. From behind the sal fringe steps azure-blue Rama with lotus eyes, jet-black topknot crowned with golden kiritamukuta, golden-yellow dhoti with lotus motifs, pearl necklaces, sacred thread and long Kodanda bow still drawn, calm clean-shaven face with Vaishnava tilak resolute as sunlight crowns the courtyard in majestic wild solemnity, granting kingship to his ally.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Sugriva",
+     "kind": "character"
+    },
+    {
+     "name": "Vali",
+     "kind": "character"
+    },
+    {
+     "name": "Tara",
+     "kind": "character"
+    },
+    {
+     "name": "Dundubhi",
+     "kind": "character"
+    },
+    {
+     "name": "Kishkindha",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 15,
+   "slide_label": "Slide15 - Periphery Saves Center",
+   "muse_prompt": "Young storyteller Kavya with warm wheat-golden skin, large expressive dark-brown eyes, long jet-black hair in a side braid adorned with white jasmine, wearing a teal cotton kurta with gold block-print border, small gold jhumka earrings and red bindi sits cross-legged on a woven rug in a sunlit reading nook lined with palm manuscripts and brass lamps. Behind her glows a large painted mural of azure-blue Rama with golden crown and Kodanda bow joining palms with tawny-golden Sugriva in ruby crown and golden-brown Hanuman with folded tail around a small sacred fire under lotus-filled Pampa trees, while a distant golden palace fades into shadow. Her open palm gestures toward the mural as daylight streams across scattered marigold petals, illustrated maps showing a hundred-yojana ocean leap toward an Ashoka grove, and clay cups of chai. Warm hopeful light bathes her thoughtful smile and the fellowship scene, celebrating connection across worlds as the path through stuck places.",
+   "subjects": [
+    {
+     "name": "Kavya",
+     "kind": "unknown"
+    }
+   ],
+   "size": "1024x1024"
+  },
+  {
+   "slide": 16,
+   "slide_label": "Slide16 - Leap to Ashoka",
+   "muse_prompt": "In the lush Ashoka Grove beneath golden Lanka with high golden ramparts and towering gateways and domed palaces of gold and dark stone carved with coral pearl and lotus, among red-blossomed ashoka trees and flowering creepers around a white marble pavilion and clear lotus pond in bright tropical daylight with swaying ocean palms, a youthful vanara hero in his prime with warm golden-brown fur and cream muzzle chest and belly and long muscular tail curling upward with dark tuft, powerfully muscular with kind amber-brown eyes and dark mane with cheek whiskers and topknot and tall pointed ears wearing large circular golden kundalas and red tilak and saffron-red langot with golden brocade and sacred thread and rudraksha necklace while gripping a heavy golden gada with lotus-carved head, kneels in devotion before a young golden-fair princess in her early twenties with large dark lotus eyes and long jet-black braid entwined with white jasmine and gold pendant, draped in deep crimson saree with broad gold lotus border over emerald blouse gleaming with maang-tikka and red bindi and gold nath and jhumkas and layered necklaces and red gold bangles, offering a golden token with comforting grace. At the grove edge a young adult vanara monkey-king with warm tawny-golden-brown fur and creamy muzzle chest and belly, lean and agile with large round amber-brown eyes and thick dark chocolate mane in small topknot and long tufted tail, wearing royal orange-red dhoti with broad gold border and ruby-centered kirit-mukut and gold earrings armlets bracelets and hibiscus mango garland while holding a short dark-wood mace with golden bands, stands with alert golden-brown and reddish-brown vanara warriors in saffron loincloths with gold borders and marigold jasmine garlands clutching wooden clubs and river stones, beside an immensely large ancient vulture with weathered umber-brown plumage and thick cream neck ruff around wrinkled saffron-pink head with deep pale amber eyes and massive ivory beak with black tip, seated upright in sage majesty on scaly grey legs with great black talons. From the palace gateway advances a towering colossal Rakshasa king with dusky smoky-grey-brown skin and ten fierce fanged heads with bloodshot copper eyes and arched brows and flowing black hair under tall conical golden mukutas, wearing golden-yellow dhoti with crimson brocade and ruby breastplate with tiger-claw necklace and heavy gold ornaments while twenty powerful arms fan out holding swords maces spears bows shields with central hands gripping a curved khadga and gada, flanked by a tall powerfully muscular thirty-year-old prince with storm-grey-bronze skin and fierce amber eyes and high warrior topknot with thunderbolt band and trimmed beard and red tilak with ash lines and cobra-hooded golden crown and lion-embossed breastplate and crimson-gold cloth holding a tall black-and-gold serpent bow with fanged arrow and serpent quiver, and an eighteen-year-old copper-red prince with lean athletic build and amber eyes and high topknot with golden circlet wearing maroon dhoti with gold border and lion-emblem bronze armor and red shoulder cloth with gold earrings serpent armlets and jeweled choker holding an ornate golden longbow with full quiver and sheathed jeweled sword. Hanuman rises to face the princes amid drifting red petals while Sita watches with folded hands, ocean light gleaming on gold. Wide eye-level framing holds tender reunion in the foreground and royal confrontation gathering behind, glowing with opulent enchantment and heroic tension.",
+   "subjects": [
+    {
+     "name": "Sugriva",
+     "kind": "character"
+    },
+    {
+     "name": "Hanuman",
+     "kind": "character"
+    },
+    {
+     "name": "Sampati",
+     "kind": "character"
+    },
+    {
+     "name": "Sita",
+     "kind": "character"
+    },
+    {
+     "name": "Ravana",
+     "kind": "character"
+    },
+    {
+     "name": "Indrajit",
+     "kind": "character"
+    },
+    {
+     "name": "Aksha",
+     "kind": "character"
+    },
+    {
+     "name": "Monkeys",
+     "kind": "character"
+    },
+    {
+     "name": "Lanka - Ashoka Grove",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 17,
+   "slide_label": "Slide17 - Lanka Burns Ocean Rises",
+   "muse_prompt": "On the vast ocean shore where endless deep turquoise sea meets broad pale sand scattered with smooth boulders shells and driftwood and foaming white waves roll under bright luminous sky beside windswept coastal trees and rocky outcrops stretching toward a faint distant island in brilliant midday light, a twenty-eight-year-old azure-blue prince with tall athletic build and broad shoulders and large dark lotus eyes and long jet-black hair in neat royal topknot crowned with golden kiritamukuta and calm Vaishnava tilak, wearing golden-yellow dhoti with red gold lotus border and sacred thread and layered pearl necklaces and golden armlets bracelets and emerald earrings, draws his long Kodanda bow with quiver on his back to loose blazing sun-arrows toward the deeps. From the churning surf rises a majestic mature ocean lord in his prime with deep teal-blue pearly skin and tall broad-shouldered royal build and large compassionate dark lotus eyes, his long flowing wavy jet-black hair in high jeweled topknot threaded with pearls beneath tall golden mukuta with pearl strings coral inlay conch crest and blue sapphire and large makara earrings and layered pearl coral necklaces and engraved armlets pearl bracelets, wearing deep sea-green dhoti with golden wave motifs and pearl hem and pale aqua shoulder cloth, holding a large white conch and golden vessel brimming with pearls in calm majesty amid spray. On the sand beside him a youthful golden-brown vanara hero with cream muzzle chest and belly and long muscular tail curling upward with dark tuft, powerfully muscular with kind amber eyes and dark mane with topknot and pointed ears with circular golden kundalas and red tilak and saffron-red langot with gold brocade and sacred thread and rudraksha necklace gripping a heavy golden lotus-carved gada, circles with joined palms crying glad tidings, alongside a tawny-golden monkey-king with creamy muzzle and dark chocolate mane in topknot and tufted tail wearing orange-red dhoti with gold border and ruby crown and hibiscus garland holding a dark-wood mace. Across the water toward the distant golden silhouette a young golden-fair princess with large dark lotus eyes and long jasmine-entwined black braid with sindoor and gold pendant, draped in deep crimson saree with gold border over emerald blouse gleaming with maang-tikka and jhumkas and bangles, waits beneath red-blossomed ashoka trees beside a white pavilion in serene endurance. Sweeping eye-level panorama binds ardent action on the beach with patient hope across the sea, radiant with solemn power and joyful relief.",
+   "subjects": [
+    {
+     "name": "Hanuman",
+     "kind": "character"
+    },
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Sugriva",
+     "kind": "character"
+    },
+    {
+     "name": "Sita",
+     "kind": "character"
+    },
+    {
+     "name": "Ocean",
+     "kind": "character"
+    },
+    {
+     "name": "Vast Ocean Shore",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 18,
+   "slide_label": "Slide18 - Bridge Battle Fire",
+   "muse_prompt": "On golden Lanka rising from deep blue ocean atop triple-peaked Trikuta ringed by massive gold ramparts with red sandstone gateways and glittering gold palace with jewel shikharas saffron-pennanted domes pillared pavilions and white terraces amid palm groves flowering ashoka trees and lotus moats in luminous golden daylight, a long stone causeway built across the waves stretches to the shore. In the foreground a twenty-eight-year-old azure-blue prince with tall athletic build and dark lotus eyes and jet-black topknot with golden crown and sacred thread, wearing golden-yellow dhoti with red gold lotus border and pearl necklaces and golden armlets, holds his long Kodanda bow with quiver on his back in calm command beside the still form of a towering colossal Rakshasa king with dusky smoky-grey-brown skin and ten fierce fanged heads with copper eyes under conical golden mukutas, clad in golden-yellow dhoti with crimson brocade and ruby breastplate with tiger-claw necklace, his twenty arms resting among swords and shields. Before all a young golden-fair princess with large dark lotus eyes and long jasmine-braided black hair with sindoor, draped in deep crimson saree with gold border over emerald blouse gleaming with maang-tikka and jhumkas and layered necklaces, steps with serene grace into tall blazing flames where a powerful copper-red fire god with robust radiant build and blazing amber eyes and tall flaring golden-orange flame hair crowned with ruby-centered gold mukuta and flame-shaped beard, wearing deep crimson dhoti with gold flame borders and golden shoulder cloth and heavy ruby gold jewelry encircled by golden halo, rises holding a blazing torch and carved ghee ladle to attest her radiance. Beside them stands a fair golden-wheat noble Rakshasa king in his early forties with compassionate dark eyes and black shoulder-length hair with sikha topknot and trimmed mustache and white U tilak with red line, wearing ivory-white dhoti with red gold lotus border and ivory-gold shoulder cloth and sacred thread and ruby pearl necklaces with tulsi beads and tall ruby crown while resting a tall golden lotus-carved gada beside him, alongside a stocky tawny-brown vanara builder with cream muzzle and chest and strong tufted tail and warm amber eyes and small topknot tied with red cord, wearing coarse ochre-yellow dhoti with geometric border and copper armlets and rudraksha necklaces with measuring cord and wooden mallet at his waist. Above in luminous clouds hover eternally youthful radiant golden-fair Devas with serene lotus eyes and long black hair under tall ruby-pearl mukutas, clad in shimmering gold sky-blue and pearl-white silks embroidered with stars and lotuses with golden necklaces and fresh marigold garlands, holding golden lotuses and conches in joyous blessing. Grand frontal composition centers the fire ordeal amid victory and witness, glowing with solemn awe and divine rejoicing.",
+   "subjects": [
+    {
+     "name": "Nala",
+     "kind": "character"
+    },
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Ravana",
+     "kind": "character"
+    },
+    {
+     "name": "Sita",
+     "kind": "character"
+    },
+    {
+     "name": "Agni",
+     "kind": "character"
+    },
+    {
+     "name": "Vibhishana",
+     "kind": "character"
+    },
+    {
+     "name": "Gods",
+     "kind": "character"
+    },
+    {
+     "name": "Lanka",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 19,
+   "slide_label": "Slide19 - Return and Golden Rule",
+   "muse_prompt": "In majestic Ayodhya of honey-golden sandstone palaces with cusped windows domed chhatris and gilded pavilions draped with saffron pennants and gleaming white marble temples with tall shikharas crowned by golden kalashas behind crenellated walls and red sandstone gateways along the broad serene Sarayu with stepped ghats bordered by mango and ashoka groves in warm dawn golden light, a twenty-eight-year-old azure-blue prince with tall athletic build and dark lotus eyes and jet-black royal topknot with golden crown, wearing golden-yellow dhoti with lotus border and sacred thread and pearl necklaces while carrying his Kodanda bow, stands beside a young golden-fair princess with dark lotus eyes and long jasmine-entwined black braid, draped in deep crimson saree with gold border over emerald blouse gleaming with maang-tikka and jhumkas and bangles in gentle triumph. Before them a twenty-three-year-old wheat-fair prince with lean athletic build and large devoted brown eyes and simple ascetic topknot and sandal U tilak, wearing coarse ochre-saffron dhoti with maroon border and shoulder cloth with sacred thread and simple gold studs and single armlet, stands with hands joined in humble anjali, beside a youthful golden-brown vanara hero with cream chest and curling tufted tail and kind amber eyes and pointed ears with circular golden kundalas and red tilak, clad in saffron-red langot with gold brocade and rudraksha necklace while holding a golden lotus-carved gada in devoted strength. Behind them stands a tawny-golden monkey-king with creamy muzzle and dark chocolate mane in topknot and tufted tail wearing orange-red dhoti with gold border and ruby crown and hibiscus garland holding a dark-wood mace, beside an eighty-year-old wheat-brown sage with compassionate dark eyes and white tripundra and voluminous ash-white matted topknot and long white beard, wearing ochre-saffron dhoti with maroon border and shoulder cloth and triple rudraksha necklaces holding a tall bamboo staff and dark-wood water pot in paternal calm. Around them gather elderly and middle-aged fair wheat-golden priests with shaved heads and small shikha tufts and white sandal tripundra, wearing pristine white dhotis with gold borders and white shoulder cloths and sacred threads and rudraksha beads, holding palm manuscripts and sacred grass and wooden water pots with one palm raised in blessing. Wide frontal framing bathes the reunion in golden dawn radiance, rich with reverence and abundant joy.",
+   "subjects": [
+    {
+     "name": "Rama",
+     "kind": "character"
+    },
+    {
+     "name": "Hanuman",
+     "kind": "character"
+    },
+    {
+     "name": "Bharata",
+     "kind": "character"
+    },
+    {
+     "name": "Bharadwaja",
+     "kind": "character"
+    },
+    {
+     "name": "Sita",
+     "kind": "character"
+    },
+    {
+     "name": "Sugriva",
+     "kind": "character"
+    },
+    {
+     "name": "Brahmanas",
+     "kind": "character"
+    },
+    {
+     "name": "Ayodhya",
+     "kind": "scene"
+    }
+   ],
+   "size": "1024x1536"
+  },
+  {
+   "slide": 20,
+   "slide_label": "Slide20 - Love Tested Order Promised",
+   "muse_prompt": "In a serene sandstone courtyard at dawn glowing with rows of small oil lamps and scattered palm manuscripts and marigold garlands beside flowering ashoka branches, a thoughtful young Indian woman storyteller with warm wheat-golden skin and large expressive dark eyes and long black hair in a neat braid adorned with white jasmine, wearing a teal cotton saree with gold border and simple gold jhumkas and glass bangles, sits cross-legged in calm reflection. Before her burns a small clear flame in a bronze bowl beside an open painted scroll showing a golden city with full grain fields and healthy families in festive abundance, her hand resting gently near her heart as she speaks with compassionate conviction. Soft dawn light bathes her face and the flame in warm gold while distant temple spires rise through morning glow. Intimate eye-level framing holds quiet courage and tender wisdom, inviting proof and dialogue and shared vows of protection at home.",
+   "subjects": [
+    {
+     "name": "Kavya",
+     "kind": "unknown"
+    }
+   ],
+   "size": "1024x1024"
+  }
+ ]
+}

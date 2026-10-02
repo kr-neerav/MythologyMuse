@@ -1,0 +1,366 @@
+[
+  {
+    "slide": 1,
+    "slide_label": "Slide01 - The Seeker's Question",
+    "title": "The Seeker's Question",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वेदों के ज्ञान में डूबे हुए तपस्वी महर्षि वाल्मीकि शब्दों के ज्ञाता नारद से पूछते हैं कि इस समय धरती पर ऐसा कौन मनुष्य जी रहा है जो गुण, पराक्रम, धर्म, कृतज्ञता, सत्य, दृढ़ संकल्प और सभी जीवों के कल्याण से भरा हो, जो संयमी, प्रिय, द्वेषहीन हो और युद्ध में देवताओं को भी भयभीत कर दे?",
+    "characters": [
+      "Valmiki",
+      "Narada"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Opens on Valmiki's hook question to Narada, establishing the criterion quest that frames the entire Ramayana."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - Measure Before Hero",
+    "title": "Measure Before Hero",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "वाल्मीकि कथा आरंभ करते समय सीधे राम की कहानी शुरू करने के बजाय नारद से यह क्यों पूछते हैं कि इस समय पूर्ण मनुष्य कौन है?",
+    "answer": "वाल्मीकि मनुष्य खोजने से पहले कसौटी गढ़ते हैं — कृतज्ञता, सत्य, व्रत में दृढ़ता और प्रजा के सुख की चिंता गिनाते हैं — क्योंकि मानदंड बिना कहानी केवल मनोरंजन रहती है। आज का मन भी नायक खोजता है पर यह नहीं पूछता कि कैसा मनुष्य बनना है। नारद का हाँ सिद्ध करता है कि आदर्श इतिहास बन सकता है, इसलिए तीन जीवन माप लिखो और हर प्रेरक कथा को उस पर परखो।",
+    "on_slide_text": "कथा सुनाने से पहले मापदंड क्यों गढ़ा जाए? क्योंकि कृतज्ञता, सत्य और प्रजा की चिंता के मानदंड बिना कहानी केवल मनोरंजन रह जाती है; वाल्मीकि पहले कसौटी बनाते हैं, फिर मनुष्य खोजते हैं, हमें सिखाते हैं कि किसी नायक की प्रशंसा से पहले अपने जीवन के तीन मापदंड लिखो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Pauses right after the hook to unpack why method precedes story, drawn from the first reflection."
+  },
+  {
+    "slide": 3,
+    "slide_label": "Slide03 - Rama Named",
+    "title": "Rama Named",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "नारद आनंद से उत्तर देते हैं कि इक्ष्वाकु वंश में राम का जन्म हुआ है, जो मन से संयमी, महान पराक्रमी, तेजस्वी, धैर्यवान, जितेंद्रिय, ज्ञानी, धर्मात्मा, मधुरभाषी, कांतिमान और शत्रुनाशक हैं, सदा प्रजा के हित में लगे रहते हैं और कौसल्या का आनंद बढ़ाते हैं।",
+    "characters": [
+      "Narada",
+      "Rama",
+      "Ikshvaku",
+      "Kausalya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Delivers Narada's delighted answer naming Rama, the central beat that the ideal exists."
+  },
+  {
+    "slide": 4,
+    "slide_label": "Slide04 - Body Certifies Soul",
+    "title": "Body Certifies Soul",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "उनके कंधे चौड़े, भुजाएँ घुटनों तक लंबी, शंख जैसा गला, चौड़ी छाती, शीतल रंग, बड़ी आँखें, शुभ लक्षण, अटल प्रतिज्ञा, पवित्रता, विनम्रता, आत्मज्ञान और धनुर्विद्या में निपुणता है। वे प्रजापति जैसे रक्षक, समुद्र जैसे गंभीर, हिमालय जैसे धैर्यवान, विष्णु जैसे बलवान, चंद्र जैसे सुंदर, क्रोध में अग्नि, क्षमा में पृथ्वी, कुबेर जैसे दानी और धर्म जैसे सत्यनिष्ठ हैं।",
+    "characters": [
+      "Rama",
+      "Prajapati",
+      "Vishnu",
+      "Kubera",
+      "Dharma"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Presents the full portrait beat where physical marks and cosmic similes together certify moral stature."
+  },
+  {
+    "slide": 5,
+    "slide_label": "Slide05 - Flesh Shows Virtue",
+    "title": "Flesh Shows Virtue",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "नारद शंख जैसे गले और घुटनों तक लंबी भुजाओं जैसे शारीरिक लक्षणों को सत्य, क्षमा और करुणा जैसे नैतिक गुणों की एक ही माला में क्यों पिरोते हैं?",
+    "answer": "यह देह पूजा नहीं, बल्कि दर्शन है जहाँ शरीर चरित्र का प्रमाणपत्र है — चौड़ी छाती उत्तरदायित्व ढोने की तत्परता है, बड़ी आँखें समदृष्टि का अभ्यास हैं, शीतल रंग बेचैनी पर विजय है, आधुनिक मनोविज्ञान भी कंधों के तनाव और जबड़े की जकड़न में इसे मानता है। गुण रोज़ के शरीर में उतरते हैं, इसलिए दिन में एक बार बिना दर्पण कंधे, साँस और आँखें देखो और पूछो कि शरीर कौन सा गुण प्रकट करता है।",
+    "on_slide_text": "शंख जैसे गले और घुटनों तक लंबी भुजाओं को सत्य और क्षमा के साथ क्यों गूँथा गया? क्योंकि शरीर चरित्र का प्रमाण है — कर्तव्य ढोने को चौड़ी छाती, समदृष्टि को बड़ी आँखें, बेचैनी से परे शीतल रंग, जो हमें सिखाता है कि आज के कंधों, साँस और दृष्टि में छिपे गुणों को पढ़ो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on the portrait just shown, explaining why flesh and virtue belong in one garland."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Two Boons Exile",
+    "title": "Two Boons Exile",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "राजा दशरथ नेक राम को प्रजा की भलाई के लिए युवराज बनाने की तैयारी प्रेम से करते हैं, तभी रानी कैकेयी दो पुराने वरदान माँगती हैं: राम को वनवास और भरत को राजगद्दी। वचन धर्म में बँधे राजा प्यारे बेटे को वन भेज देते हैं, और राम कैकेयी का मान रखने को आज्ञा मान लेते हैं।",
+    "characters": [
+      "Dasharatha",
+      "Rama",
+      "Kaikeyi",
+      "Bharata"
+    ],
+    "location": "Ayodhya Palace and City",
+    "rationale": "Covers the turning beat where coronation hope flips to exile by boons and duty."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Ganga to Chitrakuta",
+    "title": "Ganga to Chitrakuta",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वनवास की पूर्व संध्या पर विनम्र लक्ष्मण भाई के प्रेम जैसे साथ हो लेते हैं, और जनक की सीता रोहिणी जैसे चंद्रमा के साथ चलती हैं, प्राणों जैसी प्यारी। पिता और प्रजा पीछे-पीछे आते हैं। श्रृंगवेरपुर में गंगा किनारे राम भले निषाद गुह से मिलते हैं और सारथी को लौटा देते हैं।",
+    "characters": [
+      "Rama",
+      "Sita",
+      "Lakshmana",
+      "Guha",
+      "Charioteer",
+      "Dasharatha",
+      "Citizens of Ayodhya",
+      "Rohini",
+      "Janaka"
+    ],
+    "location": "Sringaverapura Ganga Bank",
+    "rationale": "Follows the forest departure beat with Lakshmana, Sita, Guha and farewell to Ayodhya."
+  },
+  {
+    "slide": 8,
+    "slide_label": "Slide08 - Sandals of Trust",
+    "title": "Sandals of Trust",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "भरद्वाज के बताए मार्ग से वे चित्रकूट में सुंदर कुटिया बनाकर देवताओं जैसे आनंद से रहते हैं, जबकि शोक में डूबे दशरथ रोते हुए स्वर्ग सिधारते हैं। वशिष्ठ और ब्राह्मणों के कहने पर भरत गद्दी ठुकराकर वन में राम के पास जाते हैं, चरण पादुका लेते हैं और नंदिग्राम से प्रतीक्षा में राज चलाते हैं।",
+    "characters": [
+      "Dasharatha",
+      "Bharata",
+      "Rama",
+      "Vashishtha",
+      "Brahmanas",
+      "Bharadwaja"
+    ],
+    "location": "Nandigrama",
+    "rationale": "Completes the Ayodhya aftermath with death, refusal, sandals and waiting rule at Nandigrama."
+  },
+  {
+    "slide": 9,
+    "slide_label": "Slide09 - Power as Trust",
+    "title": "Power as Trust",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "राम अपने पिता दशरथ के वचन की रक्षा के लिए अन्यायपूर्ण वनवास क्यों स्वीकार करते हैं, और बिना माँगा राज्य मिलने पर भरत चरण पादुका लेकर नंदिग्राम में तपस्वी जैसा जीवन जीने क्यों चले जाते हैं?",
+    "answer": "असली बात आज्ञा नहीं भरोसा है: राजा का वरदान टूटता तो वचन की नींव टूटती, इसलिए राम वन में तपकर अपना हक छोड़ते हैं और भरत छल की गद्दी छोड़कर गाँव से राह देखते हैं। दोनों सत्ता को प्रसाद नहीं भरोसा मानते हैं, आज की सत्ता भूख से उलट, इसलिए बिना कमाया पद लेने से पहले एक दिन रुकें।",
+    "on_slide_text": "राम अन्यायी वनवास क्यों मानते हैं और भरत मुफ्त मिली गद्दी क्यों ठुकराते हैं? क्योंकि सत्ता पुरस्कार नहीं भरोसा है: राम सबका विश्वास बचाने को राजा का वचन निभाते हैं, भरत छल से मिला लाभ छोड़कर व्यवस्था जोड़ते हैं, हमें सिखाते हैं कि बिना कमाया पद लेने से पहले एक दिन रुकें।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Interprets the exile and sandals beats as a shared psychology of trust over power."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - Vow Against Rakshasas",
+    "title": "Vow Against Rakshasas",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "भीड़ देखकर राम दंडक वन में प्रवेश करते हैं, कुरूप विराध को मारते हैं, शरभंग, सुतीक्ष्ण, अगस्त्य और उनके भाई का सम्मान करते हैं। अगस्त्य के कहने पर वे इंद्र का धनुष, कभी न खत्म होने वाले बाण, तलवार और तरकश लेते हैं, फिर अग्नि जैसे तेजस्वी ऋषियों के सामने राक्षसों को युद्ध में मिटाने की प्रतिज्ञा करते हैं।",
+    "characters": [
+      "Rama",
+      "Viradha",
+      "Sharabhanga",
+      "Sutikshna",
+      "Agastya",
+      "Agastya's Brother",
+      "Sages of Dandaka",
+      "Indra"
+    ],
+    "location": "Dandaka Forest",
+    "rationale": "Marks entry into Dandaka, arming by Agastya and the vow that launches the forest war."
+  },
+  {
+    "slide": 11,
+    "slide_label": "Slide11 - Fourteen Thousand Fall",
+    "title": "Fourteen Thousand Fall",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "जनस्थान में रूप बदलने वाली शूर्पणखा की नाक-कान काटी जाती है, उसके रोने पर खर, त्रिशिरा और दूषण सेना लेकर दौड़ते हैं। कमल-नयन राम अकेले खड़े होकर उन सबका संहार करते हैं, उस भयंकर युद्ध में चौदह हजार राक्षस मारे जाते हैं।",
+    "characters": [
+      "Rama",
+      "Shurpanakha",
+      "Khara",
+      "Trishira",
+      "Dushana",
+      "Rakshasas"
+    ],
+    "location": "Janasthana Battlefield",
+    "rationale": "Isolates the Janasthana battle beat where disfigurement triggers mass slaughter."
+  },
+  {
+    "slide": 12,
+    "slide_label": "Slide12 - Abduction Grief",
+    "title": "Abduction Grief",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अपने भाई-बंधुओं की मौत से पागल रावण मारीच के पास जाता है, मारीच कहता है मुझे छोड़ दो, बलवान से दुश्मनी मत करो। काल के वश में रावण उसकी बात अनसुनी करता है, माया से राम और लक्ष्मण को दूर ले जाता है, जटायु को मारकर मिथिला की सीता का हरण करता है, राम शोक में रोते रह जाते हैं।",
+    "characters": [
+      "Ravana",
+      "Maricha",
+      "Rama",
+      "Lakshmana",
+      "Sita",
+      "Jatayu"
+    ],
+    "location": "Rama's Dandaka Hermitage",
+    "rationale": "Preserves the climactic abduction beat with Maricha's warning, illusion, Jatayu and grief unmerged."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Shabari to Friendship",
+    "title": "Shabari to Friendship",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "दुखी राम जटायु का दाह-संस्कार करते हैं, भयानक कबंध को मारकर जलाते हैं जो स्वर्ग जाते हुए धर्मात्मा शबरी से मिलने को कहता है। राम शबरी का सम्मान करते हैं, फिर पंपा के तट पर हनुमान से मिलते हैं, उनके द्वारा सुग्रीव से अग्नि को साक्षी कर मित्रता करते हैं, बालि को मारने का वचन देते हैं।",
+    "characters": [
+      "Rama",
+      "Jatayu",
+      "Kabandha",
+      "Shabari",
+      "Hanuman",
+      "Sugriva",
+      "Lakshmana"
+    ],
+    "location": "Pampa Riverbank",
+    "rationale": "Traces the search chain from funeral rites through Kabandha and Shabari to Hanuman and alliance."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Fall of Vali",
+    "title": "Fall of Vali",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "सुग्रीव का डर दूर करने के लिए राम पैर के अंगूठे से पहाड़ जैसे दुंदुभि के शव को नब्बे मील दूर फेंकते हैं, फिर एक बाण से सात ताड़, पहाड़ चीरते हुए पाताल तक पहुंचाते हैं। विश्वास करके सुनहरे सुग्रीव किष्किंधा में गरजते हैं, तारा की अनुमति से बालि आता है, राम उसे गिराते हैं, सुग्रीव को राज्य देते हैं।",
+    "characters": [
+      "Rama",
+      "Sugriva",
+      "Vali",
+      "Tara",
+      "Dundubhi"
+    ],
+    "location": "Kishkindha",
+    "rationale": "Shows proof of strength and the single-arrow fall of Vali that wins Sugriva's kingdom."
+  },
+  {
+    "slide": 15,
+    "slide_label": "Slide15 - Periphery Saves Center",
+    "title": "Periphery Saves Center",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "अयोध्या के राजकुमार राम को रावण पर जीत पाने के लिए सुग्रीव और हनुमान जैसे वन में रहने वालों से अग्नि को साक्षी मानकर सच्ची मित्रता क्यों करनी पड़ी थी, इसमें हमारे जीवन के लिए क्या संदेश है?",
+    "answer": "जब केंद्र टूटता है तो किनारा बचाता है, महल के छल से राम वन गए पर वन ने खोज, सेना और उड़ान दी, हनुमान की सौ योजन छलांग बताती है कि जीत रिश्तों से मिलती है, केवल बल से नहीं। वीर दूसरी दुनिया से जुड़कर जीतता है, इसलिए अटके काम में पद और घेरे से बाहर व्यक्ति से मदद मांगो।",
+    "on_slide_text": "अयोध्या के राजकुमार को रावण हराने के लिए वन के वानरों से मित्रता क्यों करनी पड़ी? क्योंकि जब केंद्र टूटता है तो किनारा बचाता है, वनवास में महल छूटा पर खोज, सेना और उड़ान मिली, वीर दूसरी दुनिया से जुड़कर जीतते हैं, इसलिए अटके काम में पद से बाहर मदद मांगो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on the forest alliance just formed, framing it as the epic's modern signal."
+  },
+  {
+    "slide": 16,
+    "slide_label": "Slide16 - Leap to Ashoka",
+    "title": "Leap to Ashoka",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "राजा बन सुग्रीव जानकी की खोज में वानर भेजते हैं। संपाति के कहने पर हनुमान सौ योजन समुद्र लाँघते हैं। अशोक वाटिका में दुखी सीता को निशानी दिखाते हैं, राम की मित्रता सुनाते हैं, धीरज देते हैं। फिर द्वार तोड़ते हैं, पाँच सेनापतियों, मंत्री-पुत्रों और अक्षय को मारकर इंद्रजित के अस्त्र से बँध जाते हैं।",
+    "characters": [
+      "Sugriva",
+      "Hanuman",
+      "Sampati",
+      "Sita",
+      "Ravana",
+      "Indrajit",
+      "Aksha",
+      "Monkeys"
+    ],
+    "location": "Lanka - Ashoka Grove",
+    "rationale": "Covers the search climax with leap, discovery, token, comfort and capture."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Lanka Burns Ocean Rises",
+    "title": "Lanka Burns Ocean Rises",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "ब्रह्मा के वर से छूटकर हनुमान पकड़ने वालों को क्षमा करते हैं, सीता के स्थान को छोड़ सारी लंका जला देते हैं। लौटकर राम की परिक्रमा कर कहते हैं सीता को सच में देखा। सुग्रीव सहित राम विशाल सागर तट पहुँचते हैं, सूर्य जैसे बाणों से समुद्र को सताते हैं, तब नदियों के स्वामी सागर प्रकट होते हैं।",
+    "characters": [
+      "Hanuman",
+      "Rama",
+      "Sugriva",
+      "Sita",
+      "Ocean"
+    ],
+    "location": "Vast Ocean Shore",
+    "rationale": "Links burning of Lanka and glad news to troubling the ocean, bridging search to invasion."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Bridge Battle Fire",
+    "title": "Bridge Battle Fire",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "सागर की सलाह से नल समुद्र पर सेतु बाँधते हैं। राम लंका जाकर युद्ध में रावण को मारते हैं। सीता को पाकर लज्जित राम सबके सामने कठोर वचन कहते हैं। उसे न सहकर सीता धधकती आग में उतरती हैं। अग्नि उनके निष्पाप होने की गवाही देते हैं, देवता हर्ष मनाते हैं और विभीषण को लंका का राज्य मिलता है।",
+    "characters": [
+      "Nala",
+      "Rama",
+      "Ravana",
+      "Sita",
+      "Agni",
+      "Vibhishana",
+      "Gods"
+    ],
+    "location": "Lanka",
+    "rationale": "Holds the central climax unmerged away: bridge, killing, fire ordeal and new throne."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Return and Golden Rule",
+    "title": "Return and Golden Rule",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वरदान से राम वानरों को जिलाते हैं, भरद्वाज आश्रम होते पुष्पक से लौटते हैं, हनुमान को भरत के पास भेजते हैं, नंदिग्राम में जटा खोलते हैं, सीता संग राज्य लेकर पितावत् प्रजा पालते हैं। शासन में स्वास्थ्य रहता है, वैधव्य नहीं, अकाल भय नहीं, सतयुग जैसा अन्न, सौ यज्ञ, ग्यारह हजार वर्षों का राज, सुनने वालों को पुण्य मिलता है।",
+    "characters": [
+      "Rama",
+      "Hanuman",
+      "Bharata",
+      "Bharadwaja",
+      "Sita",
+      "Sugriva",
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Closes the story arc with revival, Pushpaka return, coronation and Ramarajya merit."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Love Tested Order Promised",
+    "title": "Love Tested Order Promised",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "सीता को जीतकर लौटने के बाद राम सबके सामने कठोर वचन क्यों कहते हैं, और कथा फिर बिना अकाल मृत्यु और भय वाले रामराज्य की कल्पना क्यों करती है?",
+    "answer": "यह आदर्श की दोहरी परीक्षा है — लोक-संदेह निज प्रेम को भी घायल करता है, मर्यादा-पुरुष बनने की कीमत राम चुकाते हैं, वहीं अग्नि में उतरती सीता स्वाधीनता घोषित करती हैं। आगे का रामराज्य वर्णन नहीं संकल्प है, भय भूख चोरी से मुक्त नक्शा है, चेतावनी है आदर्श भी चूक सकता है इसलिए आदर्श व्यवस्था चाहिए, अतः आरोप से पहले प्रमाण और संवाद चुनो और निर्भयता का एक ठोस नियम बनाओ।",
+    "on_slide_text": "जीत के बाद कठोर वचन क्यों, फिर निर्भय रामराज्य क्यों? क्योंकि लोक-संदेह निज प्रेम को घायल करता है। आदर्श राजा बने राम चूकते हैं, सीता अग्नि में स्वाभिमान जताती हैं, सिखाती हैं आरोप से पहले प्रमाण लाओ, और घर में एक निर्भय नियम बनाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Ends on the sharpest insight, turning fire ordeal and Ramarajya vow into closing moral."
+  }
+]

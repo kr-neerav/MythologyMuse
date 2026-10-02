@@ -1,0 +1,180 @@
+{
+ "head": "resp_6ab5e0795adaa555b9d34d79",
+ "anchors": {
+  "Kavya": {
+   "response_id": "resp_6aafe4edc4c8defae8454d64",
+   "file": "sheet_Kavya_final.jpg",
+   "at": 1789912352.3132641
+  },
+  "Rama": {
+   "response_id": "resp_6aafe5c00d3bbb71ffe34ff3",
+   "file": "sheet_Rama_final.jpg",
+   "at": 1789912610.619665
+  },
+  "Kausalya": {
+   "response_id": "resp_6aafe5f6ab3359989efc466d",
+   "file": "sheet_Kausalya_final.jpg",
+   "at": 1789912625.6159098
+  },
+  "Ikshvaku": {
+   "response_id": "resp_6aafe745947850c99f484523",
+   "file": "sheet_Ikshvaku_final.jpg",
+   "at": 1789932616.043062
+  },
+  "Prajapati": {
+   "response_id": "resp_6ab034c3f8167a37a0a84662",
+   "file": "sheet_Prajapati_final.jpg",
+   "at": 1789932931.6881049
+  },
+  "Vishnu": {
+   "response_id": "resp_6ab034f82da07e8c3b114821",
+   "file": "sheet_Vishnu_final.jpg",
+   "at": 1789932941.077854
+  },
+  "Kubera": {
+   "response_id": "resp_6ab03537005c317a6cad479f",
+   "file": "sheet_Kubera_final.jpg",
+   "at": 1789932947.6110132
+  },
+  "Dasharatha": {
+   "response_id": "resp_6ab03754b9caabe4b6f941fd",
+   "file": "sheet_Dasharatha_final.jpg",
+   "at": 1789933491.862589
+  },
+  "Kaikeyi": {
+   "response_id": "resp_6ab03774354153081915452d",
+   "file": "sheet_Kaikeyi_final.jpg",
+   "at": 1789933502.0666711
+  },
+  "Bharata": {
+   "response_id": "resp_6ab037a3ec6be1c8ab534705",
+   "file": "sheet_Bharata_final.jpg",
+   "at": 1789933515.913449
+  },
+  "Sita": {
+   "response_id": "resp_6ab038476e89f961f66d41a6",
+   "file": "sheet_Sita_final.jpg",
+   "at": 1789934154.568056
+  },
+  "Lakshmana": {
+   "response_id": "resp_6ab038671d8a876042284f0a",
+   "file": "sheet_Lakshmana_final.jpg",
+   "at": 1789934162.2830741
+  },
+  "Guha": {
+   "response_id": "resp_6ab038794bd6cdce50674169",
+   "file": "sheet_Guha_final.jpg",
+   "at": 1789934173.378687
+  },
+  "Charioteer": {
+   "response_id": "resp_6ab0389bcb9d17f176d04b2c",
+   "file": "sheet_Charioteer_final.jpg",
+   "at": 1789934181.85102
+  },
+  "CitizensOfAyodhya": {
+   "response_id": "resp_6ab038ea4e2be9d37cdb476f",
+   "file": "sheet_CitizensOfAyodhya_final.jpg",
+   "at": 1789934189.466882
+  },
+  "ValmikisForestHermitage": {
+   "response_id": "resp_6ab3c69a9b38a609faab4ff7",
+   "file": "sheet_ValmikisForestHermitage_final.jpg",
+   "at": 1790166737.494302
+  },
+  "Ayodhya": {
+   "response_id": "resp_6ab3c6aa8913152754704617",
+   "file": "sheet_Ayodhya_final.jpg",
+   "at": 1790166761.0218182
+  },
+  "AyodhyaPalaceAndCity": {
+   "response_id": "resp_6ab3c8a2b5ee77c4897444a3",
+   "file": "sheet_AyodhyaPalaceAndCity_final.jpg",
+   "at": 1790167256.224597
+  },
+  "SringaverapuraGangaBank": {
+   "response_id": "resp_6ab3c89687f24563aee047d9",
+   "file": "sheet_SringaverapuraGangaBank_final.jpg",
+   "at": 1790167271.7828422
+  },
+  "Nandigrama": {
+   "response_id": "resp_6ab3c90fccd5dad70aa04e26",
+   "file": "sheet_Nandigrama_final.jpg",
+   "at": 1790167378.4684732
+  },
+  "DandakaForest": {
+   "response_id": "resp_6ab3c901d22c71b808ed4a6e",
+   "file": "sheet_DandakaForest_final.jpg",
+   "at": 1790167411.104573
+  },
+  "JanasthanaBattlefield": {
+   "response_id": "resp_6ab3c9cc74aa29e50c704037",
+   "file": "sheet_JanasthanaBattlefield_final.jpg",
+   "at": 1790167560.594147
+  },
+  "Khara": {
+   "response_id": "resp_6ab3c9acc0e04960328a4db0",
+   "file": "sheet_Khara_final.jpg",
+   "at": 1790167571.341026
+  },
+  "Shurpanakha": {
+   "response_id": "resp_6ab42921175fad0b85b1474e",
+   "file": "sheet_Shurpanakha_final.jpg",
+   "at": 1790192802.930948
+  },
+  "RamaSDandakaHermitage": {
+   "response_id": "resp_6ab429b084709903c9414019",
+   "file": "sheet_RamaSDandakaHermitage_final.jpg",
+   "at": 1790192817.922763
+  },
+  "Sugriva": {
+   "response_id": "resp_6ab4294633b3c5120489462f",
+   "file": "sheet_Sugriva_final.jpg",
+   "at": 1790192884.7009869
+  },
+  "Hanuman": {
+   "response_id": "resp_6ab4292f70b5c3f3c71b4b67",
+   "file": "sheet_Hanuman_final.jpg",
+   "at": 1790192890.9633121
+  },
+  "Ravana": {
+   "response_id": "resp_6ab42cd420422c144a3c4c07",
+   "file": "sheet_Ravana_final.jpg",
+   "at": 1790304270.994894
+  },
+  "Vali": {
+   "response_id": "resp_6ab5e056a1db146ee7a34318",
+   "file": "sheet_Vali_final.jpg",
+   "at": 1790307830.044893
+  },
+  "Kishkindha": {
+   "response_id": "resp_6ab5e07b63ee770966d74a7f",
+   "file": "sheet_Kishkindha_final.jpg",
+   "at": 1790747529.038764
+  },
+  "LankaAshokaGrove": {
+   "response_id": "resp_6ab5e05db8ee090c928b4ad9",
+   "file": "sheet_LankaAshokaGrove_final.jpg",
+   "at": 1790747577.287987
+  },
+  "VastOceanShore": {
+   "response_id": "resp_6ab5e088c75f64ec3645431a",
+   "file": "sheet_VastOceanShore_final.jpg",
+   "at": 1790747589.159437
+  },
+  "Ocean": {
+   "response_id": "resp_6ab5e0531b71532be1734a3a",
+   "file": "sheet_Ocean_final.jpg",
+   "at": 1790747595.825095
+  },
+  "Lanka": {
+   "response_id": "resp_6ab5e0b5ae3d9f0a4f9f4412",
+   "file": "sheet_Lanka_final.jpg",
+   "at": 1790747613.395086
+  },
+  "Agni": {
+   "response_id": "resp_6ab5e0795adaa555b9d34d79",
+   "file": "sheet_Agni_final.jpg",
+   "at": 1790747621.645417
+  }
+ }
+}

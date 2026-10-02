@@ -1,0 +1,35 @@
+{
+  "verdict": "FAIL",
+  "gate": "structural",
+  "dry_run": false,
+  "model": "muse-spark-1.3",
+  "structural_ok": false,
+  "corpus": "ramayana_dutt",
+  "counts": {
+    "slides": 18,
+    "extracted_characters": 81,
+    "extracted_scenes": 39
+  },
+  "storyboard_layer_a": {
+    "layer": "A",
+    "target": "storyboard",
+    "verdict": "PASS",
+    "issues": [],
+    "counts": {
+      "slides": 18
+    }
+  },
+  "judge": {
+    "verdict": "FAIL",
+    "strengths": [
+      "All core narrative beats from kusha-grass meditation through 24000 shlokas, Sthana-Murchhana training, pitcher-deerskin and munja-axe gifts, to Marga singing in court are present",
+      "Scene on_slide_texts are self-contained and 30-60 words; insight slides carry full question + multi-layer answer",
+      "Slide numbering, titles, labels and types are well-formed"
+    ],
+    "weaknesses": [
+      "Story order broken: second reflection Why did Valmiki not go himself appears as Slide14 after Ayodhya street and gift insights instead of in narration order after first Veda-meaning insight",
+      "Reflection takeaways dropped: weekly actions to pause before forwarding story, entrust work to youth to speak, turn dry rule into song, give practical sustenance not likes, listen 5 minutes without interrupting appear nowhere",
+      "Fidelity / ingredient invention: Sages of Dandaka introduces Dandaka never in narration; Slide13 adds bright morning, bustling stalls, townsfolk staring, veenas slung, fame travelled before them with no source"
+    ]
+  }
+}

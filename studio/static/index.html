@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MythologyMuse Studio</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="masthead">
+  <div>
+    <h1>MythologyMuse Studio</h1>
+    <p class="sub">Chapter review: storyboard text, Muse prompts, Hindi, eval — with mock panels. Mock-only, no spend.</p>
+  </div>
+  <div class="controls">
+    <label>Mythology <input id="myth" value="mythologies/ramayana_dutt" size="28"></label>
+    <select id="chapter"></select>
+    <button id="load">Load</button>
+    <span id="keybadge" class="pill">key: …</span>
+  </div>
+</header>
+<main>
+  <nav class="tabs" aria-label="Studio views">
+    <button id="tabbtn-review" class="tab active">Review</button>
+    <button id="tabbtn-slides" class="tab">Slides</button>
+  </nav>
+  <div id="tab-review">
+    <section id="meta" class="card"></section>
+    <section>
+      <h2>Slides <span class="hint">panel on top, its characters below — sheets and panel renders resurface here once generated</span></h2>
+      <div class="batchbar">
+        <button id="genall">Generate all character sheets</button>
+        <span class="hint" id="batchstat"></span>
+      </div>
+      <div id="slides"></div>
+    </section>
+  </div>
+  <div id="tab-slides" hidden>
+    <section>
+      <h2>Slide review <span class="hint">final slide full-width, English text below — pick a chapter above, finals appear here once generated</span></h2>
+      <div id="slidesReview"></div>
+    </section>
+  </div>
+</main>
+<script src="app.js"></script>
+</body>
+</html>

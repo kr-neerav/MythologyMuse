@@ -23,3 +23,13 @@ Thumbs.db
 *.log
 logs/
 tmp/
+
+# Generated images — keep out of git
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.tif

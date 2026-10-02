@@ -1,0 +1,539 @@
+{
+  "roster": [
+    {
+      "name": "Ascetics' Assembly",
+      "kind": "scene",
+      "flow_ref": "AsceticsAssembly",
+      "image_prompt": "An establishing-shot sheet of the Ascetics' Assembly, a serene forest clearing assembly ground beneath vast banyan and peepal trees, earthen central platform with semicircular kusha-grass mats, small brick-and-clay Vedic fire altar with brass ladles, surrounding thatched leaf huts of bamboo and straw, clay kamandalu water pots, wooden dandas, stacked bark-cloth bundles and baskets of fruits and flowers as ascetic gifts, dappled morning sunlight filtering through leaves, peaceful reverent mood, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Ayodhya Palace Court",
+      "kind": "scene",
+      "flow_ref": "AyodhyaPalaceCourt",
+      "image_prompt": "An establishing-shot sheet of the Ayodhya Palace Court, a grand pillared royal hall of white marble and polished sandstone with tall carved pillars bearing lotus capitals and gold inlay, central golden lion-throne with red silk cushions and pearl-fringed canopy on a raised marble dais, ivory-inlaid side seats for princes and ministers, hanging brass lamps, silk wall hangings with Ramayana lotus motifs, warm golden lamp and daylight glow, majestic solemn royal mood, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Ayodhya Street",
+      "kind": "scene",
+      "flow_ref": "AyodhyaStreet",
+      "image_prompt": "An establishing-shot sheet of Ayodhya Street, a wide cobbled royal street lined with sandstone palaces and wooden storefronts with striped cotton awnings, market stalls displaying silk cloth, flower garlands, fruits, brass lamps and clay pots, tall festive silk banners and carved wooden balconies, a grand domed palace gateway with golden finials visible in the distance, bright clear midday sunlight, clean prosperous festive mood, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Bharata",
+      "kind": "character",
+      "flow_ref": "Bharata",
+      "image_prompt": "A full-figure character model-sheet of Bharata, 23-year-old prince of Ayodhya in humble renunciation, warm light wheat-golden fair complexion, lean athletic Kshatriya build, large lotus-shaped dark brown eyes with gentle sorrowful devotion, long black hair tied in a simple ascetic topknot with a few loose strands, smooth clean-shaven youthful face with sandalwood U-shaped tilak on forehead, wearing a coarse ochre-saffron cotton dhoti with thin maroon woven border and a matching plain ochre cotton angavastra draped over shoulders, jute waist cord and sacred thread across chest, barefoot and unarmed, adorned with only small simple gold stud earrings and a single thin gold armlet on the right arm, standing facing the viewer with hands joined in humble anjali mudra, meek devotional bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Brahmanas",
+      "kind": "character",
+      "flow_ref": "Brahmanas",
+      "image_prompt": "A full-figure character model-sheet of the Brahmanas shown as elderly and middle-aged Vedic priests, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are elderly to middle-aged with fair to wheat-golden complexion, lean slender build, calm deep-set dark eyes, shaved heads with a small black shikha tuft, wearing pristine white cotton dhotis with thin gold zari borders and white cotton uttariyas with red sacred motifs, white yajnopavita sacred thread across the chest, sandal paste tripundra on forehead, rudraksha bead necklaces and bracelets, holding palm-leaf manuscripts, darbha grass and wooden kamandalu water pots, standing upright facing the viewer in dignified serene bearing with one palm raised in blessing, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Citizens of Ayodhya",
+      "kind": "character",
+      "flow_ref": "CitizensOfAyodhya",
+      "image_prompt": "A full-figure character model-sheet of the Citizens of Ayodhya shown as a representative middle-aged man and woman of Kosala, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. The man is middle-aged with warm wheat-brown complexion, medium sturdy build, gentle dark brown eyes, black hair tied in a neat topknot with clean-shaven face, wearing a cream cotton dhoti with saffron woven border and matching angavastram with small gold butti motifs, copper bracelets and sandal paste tilak, holding a folded cloth bundle, standing facing the viewer with palms folded in humble reverence. The woman is middle-aged with warm wheat-brown complexion, soft full build, gentle dark eyes, long black hair in a jasmine-adorned braid, wearing a red and yellow cotton saree with green border and gold dot motifs with modest choli, glass bangles, small gold earrings and bindi, standing facing the viewer in devout humble bearing, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Kush",
+      "kind": "character",
+      "flow_ref": "Kush",
+      "image_prompt": "A full-figure character model-sheet of Kush, a 12-year-old radiant twin prince-ascetic, luminous golden-wheat complexion, slender sturdy build, large dark lotus eyes, long glossy black hair in a high ascetic jata topknot bound with kusha grass and rudraksha beads, vertical sandal U-tilak on forehead, wearing a saffron-ochre bark-cloth dhoti with woven gold lotus border, matching uttariya drape over the shoulder, deerskin shoulder strap, sacred yajnopavita thread across chest, rudraksha necklaces, wooden bracelets, kusha-grass ring on the right hand, holding a light wooden veena with twin gourds, bare feet in a serene standing pose facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Lakshmana",
+      "kind": "character",
+      "flow_ref": "Lakshmana",
+      "image_prompt": "A full-figure character model-sheet of Lakshmana, 22-year-old Ayodhya prince, lean athletic youthful build, warm fair wheat-golden complexion, large dark brown lotus eyes with gentle devoted expression, thick black hair tied in a high princely topknot bound with golden cord, smooth youthful face with soft sandal-U tilak on forehead, wearing a deep golden-yellow silk dhoti with red-gold zari border woven with tiny bow motifs and a saffron cotton angavastram draped over left shoulder, sacred white yajnopavita thread across chest, wearing small round gold kundala earrings, thin gold armlets, gold wrist-guards, beaded necklace and wooden sandals, holding a tall curved bamboo longbow in right hand with a bamboo quiver of eagle-feathered arrows slung on back and a gold-hilted straight sword in scabbard at left waist, standing upright facing the viewer in humble attentive bearing, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Lav",
+      "kind": "character",
+      "flow_ref": "Lav",
+      "image_prompt": "A full-figure character model-sheet of Lav, a 12-year-old radiant twin prince-ascetic, luminous golden-wheat complexion, slender sturdy build, large dark lotus eyes, long glossy black hair in a high ascetic jata topknot bound with kusha grass and rudraksha beads, round sandal dot tilak on forehead, wearing a saffron-ochre bark-cloth dhoti with woven gold lotus border, matching uttariya drape over the shoulder, deerskin shoulder strap, sacred yajnopavita thread across chest, rudraksha necklaces, wooden bracelets, kusha-grass ring on the left hand, holding a light wooden veena with a single large gourd, bare feet in a serene standing pose facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Sages of Dandaka",
+      "kind": "character",
+      "flow_ref": "SagesOfDandaka",
+      "image_prompt": "A full-figure character model-sheet of the Sages of Dandaka shown as elderly forest ascetics, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. They are elderly with sun-darkened ash-smeared complexion, gaunt lean emaciated build, intense deep-set amber-brown eyes, long matted jata locks piled in a high topknot with flowing beard, wearing rough barkcloth kaupinas and deer-skin shoulder wraps with natural fiber texture, ash tripundra lines on forehead and limbs, rudraksha and tulsi bead necklaces and bracelets, holding bamboo staffs, rudraksha rosaries and earthen kamandalu pots, standing upright facing the viewer in austere radiant bearing, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Shatrughna",
+      "kind": "character",
+      "flow_ref": "Shatrughna",
+      "image_prompt": "A full-figure character model-sheet of Shatrughna, a 24-year-old youngest Kshatriya prince of Ayodhya, warm fair wheat-rosy complexion, lean athletic build, gentle dark almond eyes, youthful clean-shaven face, short glossy black hair crowned with a small golden kirita-mukut inlaid with rubies and pearls, vertical sandal Vaishnav tilak on forehead, wearing a deep crimson silk dhoti with gold zari peacock border, golden angavastra with pearl trim over the shoulder, jeweled gold waistband, pearl necklaces, gold armlets, bracelets and ruby-studded earrings, sacred yajnopavita thread, royal curved sword in an ornate gold scabbard at the waist, bare feet in a humble attentive standing pose facing the viewer, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Shri Ram",
+      "kind": "character",
+      "flow_ref": "ShriRam",
+      "image_prompt": "A full-figure character model-sheet of Shri Ram, King of Ayodhya, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop, no on-image text. A man in his early thirties with luminous azure-blue complexion, tall athletic regal build, large lotus-shaped dark eyes, serene expression, black hair in a royal topknot under a tall golden kiritamukuta with sun motif, rubies and pearls. He wears a golden-yellow silk dhoti with red and gold zari woven borders, a saffron draped angavastra, white sacred thread, U-shaped Vaishnava tilak with sandal paste, gold armlets, bracelets, necklaces, pearl garlands, jeweled waistband and royal sandals, holding his long Kodanda bow with quiver at his back, bearing calm majestic compassion in a straight royal standing pose.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Valmiki",
+      "kind": "character",
+      "flow_ref": "Valmiki",
+      "image_prompt": "A full-figure character model-sheet of Valmiki, an elderly great sage devoted to austerity, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, no on-image text. Age about 75 years, lean ascetic build with dignified upright posture, warm weathered wheat-brown complexion, deep compassionate brown eyes with calm introspective gaze. Long white-grey matted jata hair gathered in a high topknot, flowing long white beard and mustache. Attire: simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram draped over the left shoulder, white yajnopavita sacred thread across the chest. Ornaments and marks: white tripundra vibhuti markings on forehead and arms, multiple rudraksha bead necklaces and bracelets. Attributes: wooden danda staff in the right hand, small wooden kamandalu water pot and rudraksha japa mala in the left hand, barefoot, serene humble bearing in frontal pose.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Valmiki's Hermitage",
+      "kind": "scene",
+      "flow_ref": "ValmikiSHermitage",
+      "image_prompt": "An establishing-shot sheet of Valmiki's Hermitage, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, centered frontal view. Cluster of small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath huge banyan and peepal trees, central brick yajna fire altar with wooden ladles, tulsi platforms, bark-mat seats and clay water pots, rows of banana and mango saplings, warm golden morning light filtering through leaves, serene sacred ascetic mood, plain backdrop, no on-image text.",
+      "sheet_response_id": null
+    },
+    {
+      "name": "Valmiki's Meditation Seat",
+      "kind": "scene",
+      "flow_ref": "ValmikiSMeditationSeat",
+      "image_prompt": "An establishing-shot sheet of Valmiki's Meditation Seat in classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, plain backdrop, NO on-image text. A low circular seat of fresh green kusha grass mats on a raised earthen platform under an ancient peepal tree with thick bark and dense green canopy, small stone fire altar, deer skin with wooden kamandalu and rudraksha mala and clay lamp, soft golden morning light filtering through leaves, serene ascetic forest-hermitage mood.",
+      "sheet_response_id": null
+    }
+  ],
+  "slides": [
+    {
+      "slide": 1,
+      "slide_label": "Slide01 - Meditation on Rama",
+      "muse_prompt": "In a serene forest hermitage beneath an ancient peepal tree with thick textured bark and dense green canopy, a low circular seat of fresh green kusha grass mats rests on a raised earthen platform beside a small stone fire altar. An elderly great sage with warm weathered wheat-brown skin and lean ascetic build sits barefoot with dignified upright posture in deep yoga upon the kusha seat, his deep compassionate brown eyes closed beneath calm brows, his long white-grey matted hair gathered in a high topknot with flowing long white beard and mustache. He wears a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram draped over his left shoulder, adorned with white sacred thread across his chest, multiple rudraksha bead necklaces and bracelets, and white tripundra ash markings on forehead and arms. His wooden danda staff leans against the platform beside a deer skin holding a wooden kamandalu, rudraksha japa mala, and small clay lamp glowing softly. Soft golden morning light filters through leaves over him in still contemplation, breathing quiet majesty and inward vision toward distant Ayodhya.",
+      "subjects": [
+        {
+          "name": "Valmiki",
+          "kind": "character"
+        },
+        {
+          "name": "Valmiki's Meditation Seat",
+          "kind": "scene"
+        }
+      ],
+      "size": "1536x1024"
+    },
+    {
+      "slide": 2,
+      "slide_label": "Slide02 - Twenty-Four Thousand Verses",
+      "muse_prompt": "Within Valmiki's peaceful hermitage of small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees, warm golden morning light filters through dense green leaves around a central brick yajna fire altar with tulsi platforms, bark-mat seats, clay water pots and wooden ladles among banana and mango saplings. An elderly great sage with warm weathered wheat-brown skin, lean ascetic build and deep compassionate brown eyes beneath calm brows sits among palm-leaf manuscripts, his long white-grey matted hair in a high topknot with flowing long white beard and mustache. He wears a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram over his left shoulder, with white sacred thread across his chest, multiple rudraksha necklaces and bracelets, and white tripundra ash markings on forehead and arms, barefoot with dignified upright posture. His wooden danda staff rests beside him while his left hand holds a wooden kamandalu with rudraksha japa mala as his right hand traces verses in luminous contemplation. A radiant expansive glow surrounds his gathered manuscripts, evoking past and future joined in poetic vision and thoughtful wonder about the first singers.",
+      "subjects": [
+        {
+          "name": "Valmiki",
+          "kind": "character"
+        },
+        {
+          "name": "Valmiki's Hermitage",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 3,
+      "slide_label": "Slide03 - Princes in Bark Cloth",
+      "muse_prompt": "In Valmiki's peaceful hermitage with small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees, warm golden morning light filters through dense green leaves over a central brick yajna altar with tulsi platforms, bark-mat seats, clay water pots and banana and mango saplings. An elderly great sage with warm weathered wheat-brown skin, lean ascetic build and deep compassionate brown eyes beneath calm brows stands barefoot with dignified upright posture, his long white-grey matted hair in a high topknot with flowing long white beard and mustache, wearing a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram over his left shoulder with white sacred thread, rudraksha necklaces and bracelets and white tripundra markings, holding a wooden danda staff in his right hand and a wooden kamandalu with rudraksha mala in his left. Before him bows Kush, a 12-year-old radiant prince-ascetic with luminous golden-wheat complexion, slender sturdy build and large dark lotus eyes, his long glossy black hair in a high jata topknot bound with kusha grass and rudraksha beads and vertical sandal U-tilak on his forehead, wearing saffron-ochre bark-cloth dhoti with woven gold lotus border and matching uttariya drape with deerskin strap and sacred yajnopavita thread, rudraksha necklaces, wooden bracelets and kusha-grass ring on his right hand, holding a light wooden veena with twin gourds as he touches the sage's feet with bare feet in serene princely bearing. Beside him bows Lav, a 12-year-old radiant prince-ascetic with luminous golden-wheat complexion, slender sturdy build and large dark lotus eyes, his long glossy black hair in a high jata topknot bound with kusha grass and rudraksha beads and round sandal dot tilak on his forehead, wearing saffron-ochre bark-cloth dhoti with woven gold lotus border and matching uttariya drape with deerskin strap and sacred thread, rudraksha necklaces, wooden bracelets and kusha-grass ring on his left hand, holding a light wooden veena with a single large gourd as he reaches toward the sage's feet with bare feet in serene princely bearing. Tender morning radiance embraces the meeting, full of reverence, promise and the quiet beginning of sacred learning.",
+      "subjects": [
+        {
+          "name": "Valmiki",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Valmiki's Hermitage",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 4,
+      "slide_label": "Slide04 - First the Eye, Then the Lamp",
+      "muse_prompt": "Under soft dawn light filtering through tall green trees, an elderly great sage with warm weathered wheat-brown skin, lean ascetic build and deep compassionate brown eyes beneath calm brows sits barefoot with dignified upright posture on a bark mat, his long white-grey matted hair in a high topknot with flowing long white beard and mustache, wearing a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram over his left shoulder with white sacred thread, rudraksha necklaces and bracelets and white tripundra markings, with a wooden danda staff beside him and a wooden kamandalu with rudraksha mala close at hand. Facing him sit two 12-year-old radiant prince-ascetics with luminous golden-wheat complexion, slender sturdy builds and large dark lotus eyes, their long glossy black hair in high jata topknots bound with kusha grass and rudraksha beads, one marked with vertical sandal U-tilak holding a twin-gourd wooden veena with kusha ring on his right hand and the other marked with round sandal dot tilak holding a single-gourd wooden veena with kusha ring on his left hand, both in saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes with deerskin straps and sacred threads, rudraksha necklaces and wooden bracelets, listening with folded hands and bright attention. Between them burns a small clay oil lamp casting warm radiance upward beside palm-leaf Vedic manuscripts, while the sage gestures in thoughtful exposition. The air glows with clarity and warmth, expressing vision first kindled as discerning sight and story offered as illuminating light, art deepening toward lived wisdom.",
+      "subjects": [
+        {
+          "name": "Valmiki",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 5,
+      "slide_label": "Slide05 - Song of Sita and Ravana",
+      "muse_prompt": "Inside Valmiki's peaceful hermitage of mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees, warm golden morning light filters through dense green leaves over a central brick yajna altar with tulsi platforms, bark mats, clay pots and banana and mango saplings. An elderly great sage with warm weathered wheat-brown skin, lean ascetic build and deep compassionate brown eyes beneath calm brows sits barefoot with dignified upright posture, his long white-grey matted hair in a high topknot with flowing long white beard and mustache, wearing a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram over his left shoulder with white sacred thread, rudraksha necklaces and bracelets and white tripundra markings, holding a wooden danda staff in his right hand and a wooden kamandalu with rudraksha mala in his left while guiding song with expressive gesture. Before him stand Kush and Lav, two 12-year-old radiant prince-ascetics with luminous golden-wheat complexion, slender sturdy builds and large dark lotus eyes full of calm brilliance, their long glossy black hair in high jata topknots bound with kusha grass and rudraksha beads, Kush marked with vertical sandal U-tilak and kusha ring on his right hand holding a light twin-gourd wooden veena and Lav marked with round sandal dot tilak and kusha ring on his left hand holding a light single-gourd wooden veena, both in saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes with deerskin straps and sacred threads, rudraksha necklaces and wooden bracelets, barefoot in serene princely bearing as they play and sing. Melodic energy fills the sacred grove with love, pathos, humour, anger, fear and heroism, radiant with discipline, joy and Gandharva-like grace.",
+      "subjects": [
+        {
+          "name": "Valmiki",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Valmiki's Hermitage",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 6,
+      "slide_label": "Slide06 - Mirrors of the Sun and Moon",
+      "muse_prompt": "In a serene forest clearing beneath vast banyan and peepal trees glowing with dappled morning light, semicircular kusha-grass mats encircle an earthen central platform with a small brick-and-clay Vedic fire altar and brass ladles, while bamboo-and-straw thatched leaf huts edged with clay kamandalu pots, wooden staffs and baskets of fruits and flowers complete the peaceful gathering. Two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes stand barefoot at the center in serene princely bearing, one with vertical sandal U-tilak and high jata topknot bound with kusha grass and rudraksha beads wearing saffron-ochre bark-cloth dhoti with gold lotus border holding a light wooden veena with twin gourds, the other with round sandal dot tilak and similar topknot holding a light wooden veena with a single large gourd, both draped in matching uttariya with deerskin strap, sacred yajnopavita thread, rudraksha necklaces and wooden bracelets, singing with concentrated devotion. Around them sit elderly and middle-aged Vedic priests with fair wheat-golden complexions and shaved heads bearing small black shikha tufts and white sandal tripundra, dressed in pristine white cotton dhotis with thin gold zari borders and white uttariyas with sacred thread, holding palm-leaf manuscripts and darbha grass in dignified serene bearing. Warm morning light filters through leaves onto the singers calm brilliant faces as honey-sweet voices rise in unison. The mood glows with reverent focus and mirrored harmony like sun and moon in shared devotion.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Brahmanas",
+          "kind": "character"
+        },
+        {
+          "name": "Ascetics' Assembly",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 7,
+      "slide_label": "Slide07 - Tears in the Hermitage",
+      "muse_prompt": "In a serene forest clearing beneath vast banyan and peepal trees glowing with dappled morning light, kusha-grass mats in semicircle surround an earthen platform with a small brick-and-clay Vedic fire altar, bamboo-and-straw huts lined with kamandalu pots and baskets of flowers framing the gathering. Two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes stand barefoot at the center, one bearing vertical sandal U-tilak with high jata topknot bound in kusha grass and rudraksha beads in saffron-ochre bark-cloth dhoti with gold lotus border holding a twin-gourd wooden veena, the other bearing round sandal dot tilak with similar topknot holding a single-gourd wooden veena, both in uttariya drapes with deerskin strap, yajnopavita thread, rudraksha necklaces and wooden bracelets, singing with radiant devotion. Before them sit elderly forest ascetics with sun-darkened ash-smeared skin, gaunt lean builds and intense amber-brown eyes, long matted jata topknots and flowing beards marked with sacred ash tripundra, wrapped in rough barkcloth kaupinas and deer-skin shoulder wraps with rudraksha and tulsi necklaces, clutching bamboo staffs and earthen kamandalu pots. Tears glisten on weathered cheeks as hands lift in wonder, mouths open in praise, dappled light catching droplets and golden-wheat faces alike. A tender luminous atmosphere of awe and sweetness fills the clearing as distant history feels vividly present.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Sages of Dandaka",
+          "kind": "character"
+        },
+        {
+          "name": "Ascetics' Assembly",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 8,
+      "slide_label": "Slide08 - When Knowledge Becomes Tears",
+      "muse_prompt": "Two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes full of calm brilliance stand close together, one with vertical sandal U-tilak and high jata topknot bound with kusha grass and rudraksha beads in saffron-ochre bark-cloth dhoti with gold lotus border holding a twin-gourd wooden veena, the other with round sandal dot tilak and similar topknot holding a single-gourd wooden veena, both wearing uttariya drapes with deerskin strap, yajnopavita thread, rudraksha necklaces and wooden bracelets, singing with heartfelt expression. Facing them in soft golden light, elderly forest ascetics with sun-darkened ash-smeared skin and intense amber-brown eyes, long matted jata topknots and flowing beards marked with sacred ash tripundra, draped in rough barkcloth kaupinas and deer-skin shoulder wraps with rudraksha and tulsi beads, listen with tears streaming down weathered cheeks. Ribbons of luminous melody swirl from the veenas into warm visions of love, pathos and heroism glowing in the air between singers and listeners. Intimate close framing holds tear-lit eyes and resonant strings together in tender radiance. The mood glows with deep feeling where song transforms memory into living vision.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Sages of Dandaka",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 9,
+      "slide_label": "Slide09 - Pitcher and Deerskin",
+      "muse_prompt": "In a serene forest clearing beneath vast banyan and peepal trees with dappled morning light, an earthen central platform with small brick-and-clay Vedic fire altar anchors semicircular kusha-grass mats, bamboo-and-straw huts edged with stacked bark-cloth bundles and baskets of fruits framing the scene. Two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes stand barefoot at the center singing in unison, one with vertical sandal U-tilak and high jata topknot bound with kusha grass and rudraksha beads in saffron-ochre bark-cloth dhoti with gold lotus border holding a twin-gourd wooden veena, the other with round sandal dot tilak and similar topknot holding a single-gourd wooden veena, both in uttariya drapes with deerskin strap, yajnopavita thread, rudraksha necklaces and wooden bracelets. Around them elderly forest ascetics with sun-darkened ash-smeared skin, gaunt lean builds and intense amber-brown eyes, long matted jata topknots and flowing beards marked with sacred ash tripundra, wearing rough barkcloth kaupinas and deer-skin shoulder wraps with rudraksha and tulsi beads, lean forward with delight offering a water pitcher, folded bark-cloth, black deerskin, sacred thread and clay kamandalu. Bright morning light catches outstretched hands, gleaming vessels and the boys radiant faces in shared joy. The mood sings with spellbinding harmony and generous gratitude.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Sages of Dandaka",
+          "kind": "character"
+        },
+        {
+          "name": "Ascetics' Assembly",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 10,
+      "slide_label": "Slide10 - Axe, Firewood and Blessing",
+      "muse_prompt": "In a serene forest clearing beneath vast banyan and peepal trees glowing with dappled morning light, kusha-grass mats encircle an earthen platform with a small brick-and-clay Vedic fire altar and brass ladles, bamboo-and-straw huts adorned with kamandalu pots and baskets of flowers completing the reverent gathering. Two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes stand barefoot together, one with vertical sandal U-tilak and high jata topknot bound with kusha grass and rudraksha beads in saffron-ochre bark-cloth dhoti with gold lotus border holding a twin-gourd wooden veena, the other with round sandal dot tilak and similar topknot holding a single-gourd wooden veena, both wearing uttariya drapes with deerskin strap, yajnopavita thread, rudraksha necklaces and wooden bracelets, receiving gifts with folded humility. Elderly forest ascetics with sun-darkened ash-smeared skin and intense amber-brown eyes, long matted jata topknots and flowing beards marked with sacred ash tripundra, draped in rough barkcloth kaupinas and deer-skin shoulder wraps with rudraksha and tulsi beads, press forward offering munja-grass girdle, sitting mat, small kaupina, axe, red cloth, thread for locks, twine bundles for firewood, offering vessels and a fig-wood seat. Raised palms shower blessings over the boys as warm light bathes smiling faces and piled forest gifts. The atmosphere glows with festive abundance, protection and heartfelt goodwill.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Sages of Dandaka",
+          "kind": "character"
+        },
+        {
+          "name": "Ascetics' Assembly",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 11,
+      "slide_label": "Slide11 - Gifts That Sustain Practice",
+      "muse_prompt": "In a sunlit forest hermitage clearing dappled with morning light, two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexions, slender sturdy builds and large dark lotus eyes stand barefoot in serene princely bearing with light wooden veenas in hand. The elder boy wears his long glossy black hair in a high jata topknot bound with kusha grass and rudraksha beads, a vertical sandal U-tilak on his forehead, a saffron-ochre bark-cloth dhoti with woven gold lotus border, a matching uttariya drape with deerskin strap and sacred yajnopavita thread, rudraksha necklaces, wooden bracelets and a kusha-grass ring on his right hand while holding a twin-gourd veena, and his younger brother mirrors him with a round sandal dot tilak, a kusha-grass ring on his left hand and a single-gourd veena. Around them gather elderly forest ascetics with sun-darkened ash-smeared skin, gaunt lean builds and intense amber-brown eyes, long matted jata locks in high topknots with flowing beards, sacred ash tripundra on foreheads and limbs, rough barkcloth kaupinas and deer-skin shoulder wraps with rudraksha and tulsi bead necklaces, carrying bamboo staffs, rosaries and earthen kamandalu pots. With outstretched hands the elders offer a polished earthen pitcher, a small steel axe, a tied bundle of firewood and a folded barkcloth kaupina beside kusha mats and brass vessels, filling the clearing with warmth, gratitude and reverence for gifts that sustain daily practice.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Sages of Dandaka",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 12,
+      "slide_label": "Slide12 - Themes for Future Poets",
+      "muse_prompt": "In a serene forest clearing beneath vast banyan and peepal trees glowing with dappled morning light, an earthen central platform holds semicircular kusha-grass mats around a small brick-and-clay Vedic fire altar with brass ladles, edged by bamboo-and-straw thatched leaf huts adorned with clay kamandalu pots, wooden staffs, stacked bark-cloth bundles and baskets of fruits and flowers. At the center kneel two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexions, slender sturdy builds and large dark lotus eyes full of calm brilliance, their long glossy black hair tied in high jata topknots bound with kusha grass and rudraksha beads, wearing saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes with deerskin straps and sacred threads, rudraksha necklaces and wooden bracelets, one marked with a vertical sandal U-tilak holding a twin-gourd veena and the other with a round sandal dot tilak holding a single-gourd veena. Encircling them stand elderly forest ascetics with sun-darkened ash-smeared skin, gaunt lean builds and intense amber-brown eyes glowing with austerity, long matted locks in high topknots with flowing beards, sacred ash tripundra, rough barkcloth kaupinas, deer-skin shoulder wraps, rudraksha and tulsi necklaces, bamboo staffs, rosaries and earthen pots, their arms raised in blessing. Thin fragrant smoke curls upward in golden light as music completes in fullness, bathing ear and heart in joy, long life and prosperity shared in reverent delight.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Sages of Dandaka",
+          "kind": "character"
+        },
+        {
+          "name": "Ascetics' Assembly",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 13,
+      "slide_label": "Slide13 - Singers in the Bazaar",
+      "muse_prompt": "Along a wide cobbled royal street lined with sandstone palaces and wooden storefronts shaded by striped cotton awnings, market stalls display silk cloth, flower garlands, fresh fruits, brass lamps and clay pots beneath tall festive silk banners and carved wooden balconies, with a grand domed palace gateway crowned with golden finials rising in the distance under bright clear midday light. Down the center stride two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexions, slender sturdy builds and large dark lotus eyes, their long glossy black hair tied in high jata topknots bound with kusha grass and rudraksha beads, wearing saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes with deerskin straps, sacred threads, rudraksha necklaces, wooden bracelets and kusha-grass rings, one with a vertical sandal U-tilak carrying a twin-gourd wooden veena and the other with a round sandal dot tilak carrying a single-gourd wooden veena, barefoot in serene princely bearing. On both sides pause middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes, the men in pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, black hair in neat topknots with sandal paste tilaks and simple copper bracelets, the women in cotton sarees of deep red, turmeric yellow and leaf green with gold butti patterns and modest cholis, long black hair in jasmine-adorned braids with glass bangles, gold earrings and bright bindis, palms folded together in reverence. Clean prosperous light bathes the bustling street in festive wonder as all gazes turn toward the radiant singing boys in bright morning admiration.",
+      "subjects": [
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Citizens of Ayodhya",
+          "kind": "character"
+        },
+        {
+          "name": "Ayodhya Street",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 14,
+      "slide_label": "Slide14 - Larger Than Its Author",
+      "muse_prompt": "At the edge of a tranquil forest hermitage with thatched leaf huts, stacked firewood, clay pots and flowering trees glowing in soft golden dawn, an elderly great sage with warm weathered wheat-brown skin, lean ascetic build and deep compassionate brown eyes beneath calm brows stands barefoot in serene humble bearing with dignified upright posture. His long white-grey matted hair gathered in a high topknot with a flowing long white beard and mustache, white tripundra ash markings on forehead and arms, simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram draped over his left shoulder, white sacred thread across his chest, multiple rudraksha bead necklaces and bracelets, wooden danda staff in his right hand and small wooden kamandalu water pot with rudraksha japa mala in his left, he rests a guiding hand toward two boys before him. The two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexions, slender sturdy builds and large dark lotus eyes full of calm brilliance wear their long glossy black hair in high jata topknots bound with kusha grass and rudraksha beads, saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes with deerskin straps and sacred threads, rudraksha necklaces, wooden bracelets and kusha rings, one with a vertical sandal U-tilak holding a twin-gourd veena and the other with a round sandal dot tilak holding a single-gourd veena. Morning light opens along a sunlit path ahead as the sage watches the boys step forward with music in their throats, filling the hermitage with tender pride and timeless continuity.",
+      "subjects": [
+        {
+          "name": "Valmiki",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 15,
+      "slide_label": "Slide15 - Called to the Golden Throne",
+      "muse_prompt": "Inside a grand pillared royal hall of white marble and polished sandstone with tall carved pillars bearing lotus capitals and gold inlay, a central golden lion-throne with red silk cushions and a pearl-fringed canopy stands on a raised marble dais flanked by ivory-inlaid side seats, with hanging brass lamps and silk wall hangings with lotus motifs glowing in warm golden light. Enthroned at the center sits a regal prince-king in his early thirties with luminous azure-blue complexion, tall athletic build and large lotus-shaped dark eyes, his black hair tied in a neat royal topknot beneath a tall golden kiritamukuta adorned with sun motifs, rubies and pearls, wearing a golden-yellow silk dhoti with red and gold zari borders, a draped angavastra, sacred thread, sandal paste Vaishnava tilak and abundant gold jewellery while holding his great Kodanda bow. Before the dais stand barefoot two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexions, slender sturdy builds and large dark lotus eyes, long glossy black hair in high jata topknots bound with kusha grass and rudraksha beads, saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes with deerskin straps, sacred threads, rudraksha necklaces, wooden bracelets and kusha rings, one with a vertical sandal U-tilak holding a twin-gourd veena and the other with a round sandal dot tilak holding a single-gourd veena. Close beside the throne attend three princes in devoted attentiveness, a twenty-two-year-old with warm fair wheat-golden complexion, lean athletic build, large dark brown lotus eyes, thick black hair in a high princely topknot bound with golden cord, deep golden-yellow silk dhoti with red-gold zari border woven with tiny bow motifs, saffron cotton angavastram, sacred white thread, small round gold kundala earrings, thin gold armlets, gold wrist-guards, soft sandal-U tilak, tall curved bamboo longbow, bamboo quiver of eagle-feathered arrows and gold-hilted straight sword at his waist, a twenty-three-year-old with warm light wheat-golden complexion, lean athletic build, large lotus dark brown eyes, long black hair in a simple ascetic topknot, sandalwood U-shaped tilak, coarse ochre-saffron cotton dhoti with thin maroon border, matching ochre angavastra, jute waist cord, sacred thread, small simple gold stud earrings and single thin gold armlet with hands joined in anjali mudra, and a twenty-four-year-old with warm fair wheat-rosy complexion, lean athletic build, gentle dark almond eyes, short glossy black hair crowned with a small golden kirita-mukut inlaid with rubies and pearls, vertical sandal Vaishnav tilak, deep crimson silk dhoti with gold zari peacock border, golden angavastra with pearl trim, jeweled gold waistband, pearl necklaces, gold armlets, bracelets, ruby-studded earrings and royal curved sword in an ornate gold scabbard. The azure king gazes toward the modest handsome boys with welcoming honor as the hall holds its breath in solemn majesty and eager listening.",
+      "subjects": [
+        {
+          "name": "Shri Ram",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Lakshmana",
+          "kind": "character"
+        },
+        {
+          "name": "Bharata",
+          "kind": "character"
+        },
+        {
+          "name": "Shatrughna",
+          "kind": "character"
+        },
+        {
+          "name": "Ayodhya Palace Court",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 16,
+      "slide_label": "Slide16 - Royal Marks Beneath Bark",
+      "muse_prompt": "In the grand pillared royal hall of white marble and polished sandstone with tall carved pillars bearing lotus capitals and gold inlay, a regal prince-king in his early thirties with luminous azure-blue complexion and large lotus-shaped dark eyes sits upon the central golden lion-throne with red silk cushions beneath a pearl-fringed canopy, his black hair tied in a neat royal topknot beneath a tall golden kiritamukuta adorned with sun motifs, rubies and pearls, wearing a golden-yellow silk dhoti with red and gold zari borders with draped angavastra, sacred thread, sandal paste Vaishnava tilak and abundant gold jewellery while holding his great Kodanda bow with calm majestic compassion. At the court's centre stand two radiant twelve-year-old prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes, both with long glossy black hair tied in high ascetic jata topknots bound with kusha grass and rudraksha beads and wearing saffron-ochre bark-cloth dhotis with woven gold lotus borders with matching uttariya drapes, deerskin straps, sacred yajnopavita threads, rudraksha necklaces and wooden bracelets, one marked with a vertical sandal U-tilak and a kusha-grass ring on his right hand holding a light wooden veena with twin gourds and the other marked with a round sandal dot tilak and a kusha-grass ring on his left hand holding a light wooden veena with a single large gourd, singing with serene princely bearing on bare feet. Around them listen three princes in humble attentive bearing: a twenty-two-year-old lean prince with warm wheat-golden complexion and thick black hair in a high princely topknot bound with golden cord wearing a deep golden-yellow silk dhoti with red-gold zari bow motifs, saffron angavastram, sacred thread, gold kundala earrings, armlets, wrist-guards and sandal-U tilak with tall curved bamboo longbow, quiver of eagle-feathered arrows and gold-hilted sword, alongside a twenty-three-year-old prince with light wheat-golden complexion and long black hair in a simple ascetic topknot wearing coarse ochre-saffron dhoti and angavastra with jute waist cord, sacred thread, gold studs and a thin gold armlet with hands joined in anjali mudra, alongside a twenty-four-year-old youngest prince with wheat-rosy complexion and short glossy black hair crowned with a small golden kirita-mukut with rubies and pearls wearing a deep crimson silk dhoti with gold peacock border, golden angavastra with pearl trim, jeweled waistband, pearl necklaces and ruby-studded earrings with a curved sword in an ornate gold scabbard. The azure-blue king leans forward with an open gesturing hand toward the twin singers, addressing his brothers with warm recognition as the boys' royal bearing shines through ascetic dress. Warm golden light from hanging brass lamps glows across silk lotus wall hangings and ivory-inlaid side seats, captured in a wide eye-level court view filled with reverent wonder and blossoming joy as veena music fills the air.",
+      "subjects": [
+        {
+          "name": "Shri Ram",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Lakshmana",
+          "kind": "character"
+        },
+        {
+          "name": "Bharata",
+          "kind": "character"
+        },
+        {
+          "name": "Shatrughna",
+          "kind": "character"
+        },
+        {
+          "name": "Ayodhya Palace Court",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 17,
+      "slide_label": "Slide17 - From Hermitage to Court",
+      "muse_prompt": "In the grand pillared royal hall of white marble and polished sandstone with tall carved pillars bearing lotus capitals and gold inlay and a central golden lion-throne with red silk cushions beneath a pearl-fringed canopy, a regal prince-king in his early thirties with luminous azure-blue complexion, tall athletic build and large lotus-shaped dark eyes sits among his kin wholly absorbed in music, his black hair in a neat royal topknot beneath a tall golden kiritamukuta with sun motifs, rubies and pearls, wearing a golden-yellow silk dhoti with red and gold zari borders, draped angavastra, sacred thread, sandal paste Vaishnava tilak and abundant gold jewellery with his great Kodanda bow resting near, radiating calm majestic compassion. In the centre of the court on the polished stone floor stand two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion, slender sturdy build and large dark lotus eyes, their long glossy black hair tied in high jata topknots bound with kusha grass and rudraksha beads, one with a vertical sandal U-tilak and a kusha-grass ring on his right hand holding a light wooden veena with twin gourds and the other with a round sandal dot tilak and a kusha-grass ring on his left hand holding a light wooden veena with a single large gourd, both in saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes, deerskin straps, sacred threads, rudraksha necklaces and wooden bracelets, singing in pure classical poise on bare feet. Flanking the throne sit two devoted princes, one a twenty-two-year-old with warm wheat-golden complexion and thick black hair in a high princely topknot with golden cord wearing a deep golden-yellow silk dhoti with red-gold zari bow motifs, saffron angavastram, sacred thread, gold kundala earrings, armlets, wrist-guards and sandal-U tilak holding a tall curved bamboo longbow with a quiver of eagle-feathered arrows and a gold-hilted sword, the other a twenty-three-year-old with light wheat-golden complexion and long black hair in a simple ascetic topknot wearing a coarse ochre-saffron dhoti with thin maroon border and matching angavastra with jute cord, sacred thread, gold studs and a thin gold armlet, hands joined in anjali mudra. The blue-complexioned king gazes toward the boys with glistening eyes and a gentle forward lean, cherishing every verse as a living legacy meant to endure through generations from forest hermitage to royal court. Hanging brass lamps cast warm golden light over silk lotus hangings and ivory-inlaid side seats, framed in a centered wide view suffused with solemn tenderness and timeless continuity.",
+      "subjects": [
+        {
+          "name": "Shri Ram",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        },
+        {
+          "name": "Lakshmana",
+          "kind": "character"
+        },
+        {
+          "name": "Bharata",
+          "kind": "character"
+        },
+        {
+          "name": "Ayodhya Palace Court",
+          "kind": "scene"
+        }
+      ],
+      "size": "1024x1536"
+    },
+    {
+      "slide": 18,
+      "slide_label": "Slide18 - Learning to Listen",
+      "muse_prompt": "Soft dawn-gold light envelops a quiet elevated terrace with pale stone and drifting flower petals, where a regal prince-king in his early thirties with luminous azure-blue complexion, tall athletic build and large lotus-shaped dark eyes sits at a low seat in the posture of a listener, his black hair in a neat royal topknot beneath a tall golden kiritamukuta with sun motifs, rubies and pearls, wearing a golden-yellow silk dhoti with red and gold zari borders, draped angavastra, sacred thread, sandal paste Vaishnava tilak and abundant gold jewellery with his great Kodanda bow laid across his lap, embodying calm majestic compassion turned inward. Before him stand two twelve-year-old radiant prince-ascetics with luminous golden-wheat complexion and large dark lotus eyes, their long glossy black hair tied in high jata topknots bound with kusha grass and rudraksha beads, one bearing a vertical sandal U-tilak and a kusha-grass ring on his right hand holding a light wooden veena with twin gourds and the other bearing a round sandal dot tilak and a kusha-grass ring on his left hand holding a light wooden veena with a single large gourd, both wearing saffron-ochre bark-cloth dhotis with woven gold lotus borders, matching uttariya drapes, deerskin straps, sacred threads, rudraksha necklaces and wooden bracelets on bare feet, singing with serene princely brilliance while royal light seems to glow beneath bark cloth. The king bows his head slightly toward them with folded attention and open heart, seeing through outer ascetic form into inner royalty and receiving his own life story as a mirror for self-vision. The composition holds close on faces and veenas in warm radiant light, breathing stillness, humility and luminous responsibility as history lives on through listening hearts worthy to govern.",
+      "subjects": [
+        {
+          "name": "Shri Ram",
+          "kind": "character"
+        },
+        {
+          "name": "Kush",
+          "kind": "character"
+        },
+        {
+          "name": "Lav",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    }
+  ]
+}

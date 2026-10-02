@@ -1,0 +1,12 @@
+[
+  {
+    "type": "scene",
+    "canonical_name": "Valmiki's Hermitage",
+    "aliases": [],
+    "description": "Fixture scene design for Valmiki's Hermitage.",
+    "flow_ref": "ValmikiSHermitage",
+    "image_prompt": "A full-figure character model-sheet of Valmiki's Hermitage, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, no on-image text.",
+    "muse_prompt": "Valmiki's Hermitage, as described in this chapter's narration, in classical Indian mythological style.",
+    "first_seen": "Book_1_Bala_Kanda_Chapter_1"
+  }
+]

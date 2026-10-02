@@ -9,7 +9,7 @@ network calls at all (canned fixtures, no key needed).
 Config (env, see ../../.env.example):
     MUSE_API_KEY            required for live calls only
     MUSE_BASE_URL           default https://api.meta.ai/v1
-    MUSE_MODEL              default muse-spark-1.3
+    MUSE_MODEL              default muse-spark-1.3-contributor
     MUSE_MODEL_TIER         default contributor (informational)
     MUSE_THINKING_BUDGET    off|low|medium|high|xhigh|dynamic (default xhigh)
     MUSE_LLM_TIMEOUT        seconds, default 1800
@@ -29,6 +29,8 @@ import json
 import os
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -56,34 +58,43 @@ load_dotenv()
 
 # --- Config ------------------------------------------------------------------
 BASE_URL = os.getenv("MUSE_BASE_URL", "https://api.meta.ai/v1")
-MODEL = os.getenv("MUSE_MODEL", "muse-spark-1.3")
+MODEL = os.getenv("MUSE_MODEL", "muse-spark-1.3-contributor")
 MODEL_TIER = os.getenv("MUSE_MODEL_TIER", "contributor")
 THINKING_BUDGET = os.getenv("MUSE_THINKING_BUDGET", "xhigh")
 LLM_TIMEOUT = int(os.getenv("MUSE_LLM_TIMEOUT", "1800"))
 MAX_TOKENS = int(os.getenv("MUSE_MAX_TOKENS", "32768"))
 
-# Thinking-budget map. `xhigh` sits above the legacy `high` level; the exact
-# numeric scale is adapter-local and tunable without touching callers.
-THINKING_BUDGETS = {
-    "off": 0,
-    "low": 2048,
-    "medium": 8192,
-    "high": 24576,
-    "xhigh": 32768,
-    "dynamic": -1,
-}
+# Thinking-budget map. Verified live against the Model API `/responses`
+# endpoint: the wire field is `reasoning: {effort: <name>}` with at least
+# low/high/xhigh accepted (an unknown `thinking_budget` field gets HTTP 400).
+# `off`/`dynamic` have no wire equivalent: off floors to low, dynamic omits
+# the key (service default, observed "high").
+EFFORTS = ("low", "medium", "high", "xhigh")
 
 
 def thinking_budget_value(name: str | int | None = None) -> int:
-    if isinstance(name, int):
-        return name
-    key = str(name or THINKING_BUDGET).lower().strip()
-    if key in THINKING_BUDGETS:
-        return THINKING_BUDGETS[key]
+    """Legacy numeric scale (kept for introspection only)."""
+    scale = {"off": 0, "low": 2048, "medium": 8192, "high": 24576,
+             "xhigh": 32768, "dynamic": -1}
+    key = str(name if name is not None else THINKING_BUDGET).lower().strip()
+    if key in scale:
+        return scale[key]
     try:
         return int(key)
     except ValueError:
-        return THINKING_BUDGETS["xhigh"]
+        return scale["xhigh"]
+
+
+def reasoning_effort(name: str | int | None = None) -> str | None:
+    """Map a thinking-budget name to a wire `reasoning.effort` value."""
+    key = str(name if name is not None else THINKING_BUDGET).lower().strip()
+    if key in EFFORTS:
+        return key
+    if key == "dynamic":
+        return None  # omit: service default
+    if key == "off":
+        return "low"  # no wire equivalent; floor to minimum
+    return "xhigh"
 
 
 def get_api_key() -> str:
@@ -201,7 +212,7 @@ def call_muse(
         )
     api_key = get_api_key()
     url = BASE_URL.rstrip("/") + "/responses"
-    payload = {
+    payload: dict = {
         "model": model,
         "input": [
             {"role": m.get("role", "user"), "content": m.get("content", "")}
@@ -209,8 +220,10 @@ def call_muse(
         ],
         "temperature": temperature,
         "max_output_tokens": max_tokens,
-        "thinking_budget": thinking_budget_value(thinking),
     }
+    effort = reasoning_effort(thinking)
+    if effort is not None:
+        payload["reasoning"] = {"effort": effort}
     req = urllib.request.Request(
         url,
         data=json.dumps(payload).encode("utf-8"),
@@ -219,22 +232,79 @@ def call_muse(
             "Authorization": f"Bearer {api_key}",
         },
     )
-    try:
-        with urllib.request.urlopen(req, timeout=LLM_TIMEOUT) as resp:
-            result = json.loads(resp.read().decode("utf-8"))
-    except Exception as e:  # noqa: BLE001 — caller decides retry policy
-        print(f"[muse] {model} FAILED: {e}", file=sys.stderr, flush=True)
-        return None
-    # Tolerate response-shape variants; stages validate semantics, not shape.
-    if isinstance(result, dict):
-        for key in ("output_text", "text", "content"):
-            if isinstance(result.get(key), str) and result[key].strip():
-                return result[key]
+    max_retries = int(os.getenv("MUSE_MAX_RETRIES", "3"))
+    for attempt in range(1, max_retries + 1):
+        t0 = time.monotonic()
         try:
-            return result["output"][0]["content"][0]["text"]
-        except (KeyError, IndexError, TypeError):
-            pass
-    return json.dumps(result)[:4000]
+            with urllib.request.urlopen(req, timeout=LLM_TIMEOUT) as resp:
+                result = json.loads(resp.read().decode("utf-8"))
+            dt = time.monotonic() - t0
+            print(f"[muse] {model} effort={effort} {dt:.0f}s "
+                  f"({len(json.dumps(result))} chars wire)",
+                  file=sys.stderr, flush=True)
+        except urllib.error.HTTPError as e:
+            # Retry transient server/rate errors; a 4xx (other than 429) is
+            # a contract problem — fail fast so the log shows the real cause.
+            body = ""
+            try:
+                body = e.read()[:300].decode("utf-8", "replace")
+            except Exception:  # noqa: BLE001
+                pass
+            retryable = e.code == 429 or 500 <= e.code < 600
+            print(f"[muse] {model} attempt {attempt}/{max_retries} "
+                  f"HTTP {e.code} {body}", file=sys.stderr, flush=True)
+            if not retryable or attempt >= max_retries:
+                return None
+            result = None
+        except Exception as e:  # noqa: BLE001 — timeouts etc. are transient
+            print(f"[muse] {model} attempt {attempt}/{max_retries} FAILED: {e}",
+                  file=sys.stderr, flush=True)
+            if attempt >= max_retries:
+                return None
+            result = None
+        else:
+            text = _message_text(model, result)
+            if text:
+                return text
+            # A 200 with status=incomplete and no message text is the API
+            # stalling, not an answer — back off and retry like any transient
+            # failure instead of handing one empty reply to the stages.
+            # (Live comic runs died on these at extraction, design, and flow.)
+            print(f"[muse] {model} attempt {attempt}/{max_retries} "
+                  f"no message part (status="
+                  f"{result.get('status') if isinstance(result, dict) else '?'})",
+                  file=sys.stderr, flush=True)
+            if attempt >= max_retries:
+                return None
+            result = None
+        if attempt < max_retries:
+            time.sleep(min(300, 30 * attempt))
+    return None
+
+
+def _message_text(model: str, result) -> str | None:
+    """Extract message text from a response envelope; None when empty.
+
+    Verified shape: {"object": "response", "status": ..., "output": [
+      {"type": "reasoning", ...}, {"type": "message",
+       "content": [{"type": "output_text", "text": ...}]}, ...]}.
+    Scan for message parts; stages validate semantics, not shape.
+    """
+    if isinstance(result, dict):
+        for item in result.get("output", []) or []:
+            if not isinstance(item, dict) or item.get("type") != "message":
+                continue
+            parts = []
+            for part in item.get("content", []) or []:
+                if isinstance(part, dict) and part.get("type") in (
+                        "output_text", "text") and part.get("text"):
+                    parts.append(part["text"])
+            if parts:
+                if result.get("status") not in (None, "completed"):
+                    print(f"[muse] {model} status={result.get('status')} "
+                          f"(partial text kept)", file=sys.stderr, flush=True)
+                return "".join(parts)
+    return None
 
 
 # --- Self-test (no key needed) -----------------------------------------------
