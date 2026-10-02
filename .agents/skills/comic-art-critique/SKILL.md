@@ -79,20 +79,32 @@ fails for the same reasons old ones did.
   and the support must be plausible for that object. FAIL floating
   objects — bows, staffs, weapons, or vessels hovering with no hand,
   ground, or rest bearing them (slide 15 precedent: Rama's Kodanda
-  hovering beside joined praying hands). A long bow can never balance
+  hovering beside joined praying hands; Ch2 slide 5 precedent:
+  Bharadwaja's kamandalu hanging unsupported at his hip while both
+  hands hold the cloth). A long bow can never balance
   upright on its tip: never fix it with "planted upright / tip resting
   on the ground". When hands are occupied (joined palms, blessings,
   carrying), remove the weapon from the hands entirely — sling it
   across the back or lay it flat on the ground — and say the hands are
   empty. Fix in the panel prompt (both copies) with that explicit
-  object-plausible support, then re-render.
+  object-plausible support, then re-render. Before any PASS, sweep
+  every physical prop named in the prompt — staff, vessel, mala,
+  cloth, lamp, seat — and name its visible support in the image, one
+  per object. Small dark vessels tucked against garments at hips and
+  waists hide most often: zoom those zones. No PASS with an
+  unaccounted object.
 
 ### 4. Policy pre-scan (before any spend)
 
 Fail the prompt without rendering when it contains gore lexicon
 (blood*, slay*, slaughter, massacre, gore, corpse, severed, dismember*,
 decapitat*, entrails, mutilat*), death tallies phrased as killing, or
-self-harm framing. Rewrite at the source, then render.
+self-harm framing. Rewrite at the source, then render. Fail the prompt
+without rendering when any prop noun lacks a support verb: every
+staff, vessel, weapon, lamp, and seat must read held, worn, planted,
+rested, slung, or set down somewhere explicit. Vague standees
+("beside his kamandalu", "with his staff nearby") fail at $0 — name
+the support, then render.
 A provider-side block (image API content_policy_violation on a prompt
 that passed this pre-scan) is not a stop: rewrite the panel prompt in
 both copies to clear the filter while staying consistent with the

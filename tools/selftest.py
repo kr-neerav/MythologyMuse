@@ -258,6 +258,45 @@ def main() -> int:
         check("designer reports each chunk", _prog == [8, 1], f"{_prog}")
     finally:
         comic.call_muse = real_call
+    # entity lock: banked entities are shown to the extractor and never redesigned
+    seen_msgs = []
+
+    def fake_lock(*args, **kwargs):
+        seen_msgs.append(args[0] if args else kwargs.get("messages"))
+        if len(seen_msgs) == 1:
+            return json.dumps({"characters": [
+                {"canonical_name": "Valmiki"},
+                {"canonical_name": "Sage Valmiki"},
+                {"canonical_name": "Bharadwaja"}], "scenes": []})
+        return json.dumps([{"canonical_name": "Bharadwaja",
+                            "image_prompt": "B prompt", "muse_prompt": "B muse"}])
+
+    comic.call_muse = fake_lock
+    try:
+        lock_repo = {"corpus": "t",
+                     "characters": {"valmiki": {
+                         "canonical_name": "Valmiki",
+                         "aliases": ["Sage Valmiki"],
+                         "flow_ref": "Valmiki",
+                         "image_prompt": "V prompt",
+                         "muse_prompt": "V muse"}},
+                     "scenes": {}}
+        _, lock_new = comic.stage_entities(PROMPTS, "Valmiki acts.", lock_repo,
+                                           "ch2", False)
+        extract_user = seen_msgs[0][1]["content"]
+        check("extractor is told banked entities",
+              "KNOWN ENTITIES" in extract_user and "Valmiki" in extract_user
+              and "Sage Valmiki" in extract_user, extract_user[:80])
+        check("banked names skip design",
+              len(seen_msgs) == 2 and len(lock_new) == 1
+              and lock_new[0]["canonical_name"] == "Bharadwaja",
+              f"calls={len(seen_msgs)} "
+              f"new={[e['canonical_name'] for e in lock_new]}")
+        check("banked prompt bytes unchanged",
+              lock_repo["characters"]["valmiki"]["image_prompt"] == "V prompt"
+              and lock_repo["characters"]["valmiki"]["muse_prompt"] == "V muse")
+    finally:
+        comic.call_muse = real_call
     # flow batching: 6 slides -> 2 calls; short chunk retried whole
     pcalls = {"n": 0}
 

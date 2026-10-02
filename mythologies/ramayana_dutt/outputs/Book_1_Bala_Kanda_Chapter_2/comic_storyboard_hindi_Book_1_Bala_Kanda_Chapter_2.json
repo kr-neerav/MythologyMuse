@@ -1,269 +1,327 @@
 [
   {
     "slide": 1,
-    "slide_label": "Slide01 - Narada's Farewell",
-    "title": "Narada's Farewell",
+    "slide_label": "Slide01 - The Tiny Beginning",
+    "title": "The Tiny Beginning",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "उत्तम पुरुष की कथा सुनकर वाल्मीकि ने शिष्यों सहित नारद की पूजा की और कृतज्ञता से प्रणाम किया। सम्मान पाकर नारद ने उन्हें आशीर्वाद दिया और आकाश मार्ग से अपने लोक चले गए। गंगा तट पर रह गए महर्षि, जहाँ एक छोटी घटना अमर महाकाव्य को जन्म देने वाली थी।",
+    "on_slide_text": "महर्षि वाल्मीकि ने अभी नारद से सत्य और दया से भरे एक उत्तम मनुष्य के बारे में सुना है। नारद ने उनकी पावन कथा सुनाने का वचन दिया है। अब नदी किनारे एक छोटी सी घड़ी बहुत बड़ी पुस्तक बनने वाली है। ध्यान से देखो, क्योंकि बड़प्पन अक्सर छोटी शुरुआत से आता है।",
+    "characters": [
+      "Valmiki",
+      "Narada"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Opens on the hook that a tiny river moment will birth a vast epic after Narada's promise."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - Farewell Through Sky",
+    "title": "Farewell Through Sky",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वाल्मीकि हाथ जोड़कर फूलों और मीठे जल से नारद का आदर करते हैं। उनके छोटे शिष्य प्रेम से पास खड़े रहते हैं। नारद मुस्कराते हैं और सबको आशीर्वाद देते हैं। फिर वे उज्ज्वल आकाश में उठते हैं और अपने चमकते लोक की ओर उड़ जाते हैं।",
     "characters": [
       "Valmiki",
       "Narada",
       "Valmiki's Disciples"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Opens on the hook after Narada's blessing, showing his skyward departure that sets up the tiny incident about to birth the epic."
-  },
-  {
-    "slide": 2,
-    "slide_label": "Slide02 - The Pure Tamasa Ghat",
-    "title": "The Pure Tamasa Ghat",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "वाल्मीकि गंगा के पास तमसा नदी पर गए और वहाँ एक पवित्र स्नान घाट देखा, स्वच्छ, सुंदर और कीचड़ से रहित। प्रसन्न होकर उन्होंने शिष्य को पुकारा, वत्स भरद्वाज, घड़ा रख दो और मुझे वल्कल वस्त्र दे दो, क्योंकि मैं यहीं स्नान करूँगा।",
-    "characters": [
-      "Valmiki",
-      "Bharadwaja"
-    ],
-    "location": "Tamasa Riverbank",
-    "rationale": "Establishes the mud-free holy spot and Valmiki's request for bark cloth, the calm before the transformative sight."
+    "rationale": "Shows honoured farewell as Narada leaves through sky, closing the prior telling."
   },
   {
     "slide": 3,
-    "slide_label": "Slide03 - Clear Water, Clear Mind",
-    "title": "Clear Water, Clear Mind",
-    "type": "insight",
-    "text_mode": null,
+    "slide_label": "Slide03 - The Clean Riverbank",
+    "title": "The Clean Riverbank",
+    "type": "scene",
+    "text_mode": "caption",
     "speaker": null,
-    "question": "वध की घटना से ठीक पहले तमसा के स्वच्छ और कीचड़ रहित घाट की तुलना सज्जन पुरुषों के निर्मल मन से क्यों की गई है, इस उपमा का वास्तविक भाव और करुणा से संबंध क्या है?",
-    "answer": "पहले, यह उपमा श्रृंगार नहीं शर्त है, क्योंकि प्रतिबिंब हेतु स्थिर जल चाहिए। दूसरे, वाल्मीकि स्नान हेतु शुद्धता खोजने गए, पर दर्शन की शुद्धता पाई, तभी क्रीड़ा और चीख दोनों सुनी। तीसरे, शोर भरे मन रोज हिंसा देखकर भी नहीं पिघलते, अतः संवेदना नैतिकता से पहले स्वच्छता है। अभ्यास, रोज दस मिनट बिना यंत्र शांत बैठो।",
-    "on_slide_text": "निर्मल घाट की तुलना सज्जन मन से क्यों की गई? क्योंकि निर्मलता श्रृंगार नहीं, दर्शन की शर्त है। जैसे स्थिर जल में प्रतिबिंब दिखता है, वैसे ही शांत मन दूसरे का दर्द देखता है। तभी वाल्मीकि ने क्रीड़ा भी सुनी और चीख भी, हमें सिखाते हुए कि दुख देखने हेतु मन का कीचड़ रोज शांत करो।",
+    "on_slide_text": "वाल्मीकि भरद्वाज के साथ गंगा के पास शांत तमसा नदी तक जाते हैं। पानी साफ है और किनारा बिना कीचड़ के स्वच्छ है। वाल्मीकि पवित्र जगह देखकर मुस्कराते हैं। वे कहते हैं, प्यारे बच्चे भरद्वाज, जल का घड़ा रख दो और नहाने के लिए मेरा वल्कल वस्त्र ले आओ।",
     "characters": [
-      "Kavya"
+      "Valmiki",
+      "Bharadwaja"
     ],
-    "location": null,
-    "rationale": "Pauses on the pure-ghat simile to explain why inner clarity must precede compassion."
+    "location": "Tamasa Riverbank",
+    "rationale": "Places Valmiki at Tamasa's clean bank and sets up the bathing request to Bharadwaja."
   },
   {
     "slide": 4,
-    "slide_label": "Slide04 - Song of the Kraunchas",
-    "title": "Song of the Kraunchas",
-    "type": "scene",
-    "text_mode": "caption",
+    "slide_label": "Slide04 - Clear Mind Sees Pain",
+    "title": "Clear Mind Sees Pain",
+    "type": "insight",
+    "text_mode": null,
     "speaker": null,
-    "on_slide_text": "स्नान से पहले वाल्मीकि नदी तट के वन में शांत भाव से विचरते हुए चारों ओर देखने लगे। एक वृक्ष के पास उन्होंने क्रौंच पक्षियों का जोड़ा देखा, प्रेम क्रीड़ा में मग्न, एक दूसरे को मधुर स्वर में रिझाते हुए। उनका सुखद कलरव निर्मल वायु में गूँज रहा था, भय और शोक से सर्वथा दूर।",
+    "question": "तमसा का साफ किनारा अच्छे व्यक्ति के मन जैसा क्यों है?",
+    "answer": "क्योंकि गंदा पानी तुम्हारा चेहरा छिपा देता है, और उलझा मन दूसरों का दर्द छिपा देता है। वाल्मीकि नहाने के लिए साफ जल चाहते थे, पर उन्हें परवाह करने वाली साफ दृष्टि मिली। वे खुशी का गीत और दुख की पुकार दोनों सुन सके। रोज़ बिना स्क्रीन दस शांत मिनट बैठो, तुम्हें दिखेगा पास में कौन दुखी है।",
+    "on_slide_text": "क्यों तमसा का साफ किनारा अच्छे मन जैसा लगता है? क्योंकि गंदा पानी तुम्हारा चेहरा छिपा देता है, और शोर भरा मन दूसरों का दर्द छिपा देता है। वाल्मीकि को साफ जल में साफ दृष्टि मिली। रोज़ बिना फोन दस शांत मिनट बैठो, और पहले देखो किसे दुख है।",
     "characters": [
-      "Valmiki",
-      "Male Krauncha Bird",
-      "Female Krauncha Bird"
+      "Kavya"
     ],
-    "location": "Tamasa Forest",
-    "rationale": "Presents the joyful pair in love-play, the image of love whose loss will trigger the epic."
+    "location": null,
+    "rationale": "Pauses after the pure bank to draw the mind-clarity lesson from the reflection."
   },
   {
     "slide": 5,
-    "slide_label": "Slide05 - Arrow Without Hatred",
-    "title": "Arrow Without Hatred",
+    "slide_label": "Slide05 - The Bark Cloth",
+    "title": "The Bark Cloth",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "उसी मधुर गान के क्षण में एक क्रूर निषाद बहेलिया दबे पाँव पास आया और बिना वैर या कारण प्रेमी जोड़े पर बाण साध लिया। बाण नर क्रौंच को लगा, वह रक्त से लथपथ गिर पड़ा, पीड़ा से तड़पने लगा, जबकि उसकी मादा अचानक असहाय शोक से चीख उठी।",
+    "on_slide_text": "भरद्वाज जल्दी से गुरु की आज्ञा मानते हैं और नरम वल्कल वस्त्र ले आते हैं। वाल्मीकि प्रेम से धन्यवाद कहकर उसे ले लेते हैं। पानी में उतरने से पहले वे हरे पेड़ों के बीच धीरे-धीरे टहलते हैं। वे पत्तों, रोशनी और जीवन को खुश आँखों से देखते हैं।",
+    "characters": [
+      "Valmiki",
+      "Bharadwaja"
+    ],
+    "location": "Tamasa Riverbank",
+    "rationale": "Shows obedient preparation and slow forest gaze before bathing."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Two Happy Birds",
+    "title": "Two Happy Birds",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "चौड़े पेड़ के पास वाल्मीकि दो क्रौंच पक्षियों को साथ-साथ देखते हैं। वे जोड़ा हैं, मिलकर मीठे गीत गा रहे हैं। वे धूप में उछलते-कूदते मस्ती से खेल रहे हैं। उनकी आवाज़ शांत जंगल में भर जाती है, जैसे दो अच्छे दोस्तों की खुश हँसी।",
+    "characters": [
+      "Valmiki",
+      "Male Krauncha Bird",
+      "Female Krauncha Bird"
+    ],
+    "location": "Tamasa Riverbank",
+    "rationale": "Stages the joyful love of the krauncha pair, the happiness soon to be broken."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - The Cruel Arrow",
+    "title": "The Cruel Arrow",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "तभी एक निषाद शिकारी बिना गुस्से और बिना कारण अपना धनुष उठाता है। वह तेज तीर चला देता है। नर पक्षी लाल खून से भीगकर दर्द से तड़पता हुआ गिर जाता है। उसकी साथिन पंख फड़फड़ाकर ज़ोर से रोती है, अपने बिछड़े साथी के लिए आँसू बहाती है।",
     "characters": [
       "Nishada Fowler",
       "Male Krauncha Bird",
       "Female Krauncha Bird"
     ],
-    "location": "Tamasa Forest",
-    "rationale": "Isolates the killing without enmity as its own beat, preserving the shock of celebration shattered."
+    "location": "Tamasa Riverbank",
+    "rationale": "Stages the apex killing without cause and the mate's grief, the epic's spark."
   },
   {
-    "slide": 6,
-    "slide_label": "Slide06 - Violence Against Joy",
-    "title": "Violence Against Joy",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "बहेलिया तो रोज की तरह अपना पेट पालने का काम ही कर रहा था, फिर वाल्मीकि ने बिना किसी दुश्मनी के की गई इस हत्या को घोर अधर्म क्यों कहा?",
-    "answer": "पहली परत बिना कारण, बिना बैर कसौटी है, वाल्मीकि भोजन के विरोधी नहीं, खेल में डूबे प्रेम को तोड़ने के विरोधी हैं। दूसरी परत नर युद्ध में नहीं, गाते और प्रेम करते मरा, वार उत्सव पर था। तीसरी परत हम बोरियत या लाभ के लिए हँसी उड़ाकर बाण चलाते हैं। अभ्यास देखो तुम कब निषाद बनते हो और चुप रहो।",
-    "on_slide_text": "अगर बहेलिया सिर्फ पेट के लिए शिकार करता था तो इसे इतना बड़ा पाप क्यों कहा गया? क्योंकि उसने बिना किसी बैर या कारण के प्रेम में डूबे जोड़े को तोड़ दिया। उसने युद्ध पर नहीं, उत्सव पर वार किया। यही श्राप आज हमें चेताता है, जब हम बोरियत या फायदे के लिए दूसरों की खुशी पर बाण चलाते हैं।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on causeless violence to show why shattering play is adharma, not mere livelihood."
-  },
-  {
-    "slide": 7,
-    "slide_label": "Slide07 - The Curse of Compassion",
-    "title": "The Curse of Compassion",
+    "slide": 8,
+    "slide_label": "Slide08 - The Curse of Sorrow",
+    "title": "The Curse of Sorrow",
     "type": "scene",
     "text_mode": "dialogue",
     "speaker": "Valmiki",
-    "on_slide_text": "हे निषाद बहेलिए, प्रेम और मीठे गीत में डूबे एक निर्दोष क्रौंच को तुमने बिना कारण बेरहमी से मार डाला! इसलिए इस संसार में तुम्हें कभी सम्मान और शांति नहीं मिलेगी, जब तक लोग बेवजह की हिंसा से उजड़े प्रेम को याद रखेंगे, तुम्हारा नाम इस अन्याय को ढोएगा।",
+    "on_slide_text": "हे निषाद, तुमने मस्ती में डूबे प्रेमी जोड़े में से एक को बिना कारण मार दिया। तुमने क्रूरता से एक खुश गीत तोड़ दिया। इस निर्दयी काम के लिए तुम्हें कभी सम्मान और सच्चा यश नहीं मिलेगा। सीखो कि प्रेम पर कभी तीर नहीं चलाना चाहिए।",
     "characters": [
       "Valmiki",
       "Nishada Fowler",
       "Female Krauncha Bird"
     ],
-    "location": "Tamasa Forest",
-    "rationale": "Gives the curse its own panel as the emotional climax where compassion erupts as anger."
-  },
-  {
-    "slide": 8,
-    "slide_label": "Slide08 - Shoka Becomes Shloka",
-    "title": "Shoka Becomes Shloka",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "जरा सोचो इतना महान महाकाव्य मंगल आशीर्वाद से शुरू न होकर श्राप से क्यों शुरू होता है, और उसमें करुणा पहली बार क्रोध भरी आवाज़ में क्यों सुनाई देती है?",
-    "answer": "पहली परत शोक और श्लोक की जड़ एक है, दुख लय में फूटता है। दूसरी परत क्रोध न्याय नहीं, प्रेम छिनने पर आत्मा की चीख है, क्रोध करुणा का उबाल है। तीसरी परत पीड़ा घाव है, बँधी पीड़ा अर्थ है, विलाप अमर हुआ। रामायण युद्ध से नहीं, बिछोह से शुरू होती है। अभ्यास दुख को लय की चार पंक्तियाँ दो।",
-    "on_slide_text": "अनंत कथा श्राप से क्यों शुरू होती है, आशीर्वाद से क्यों नहीं? क्योंकि उमड़ता शोक लय पाकर श्लोक बन जाता है। बिछड़े प्रेम पर वाल्मीकि का क्रोध करुणा का उबाल है। बेलगाम पीड़ा घाव देती है, लय में बँधा विलाप मरहम बनता है, इसलिए महाकाव्य युद्ध से नहीं, बिछोह से शुरू होता है।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Unpacks why a curse births poetry, linking sorrow, anger and rhythm to the epic's start in separation."
+    "location": "Tamasa Riverbank",
+    "rationale": "Stages the compassionate curse where sorrow bursts as moral speech."
   },
   {
     "slide": 9,
-    "slide_label": "Slide09 - What Came From My Mouth",
-    "title": "What Came From My Mouth",
-    "type": "scene",
-    "text_mode": "dialogue",
-    "speaker": "Valmiki",
-    "on_slide_text": "शोक में मेरे मुँह से अभी ये कैसे शब्द निकल पड़े? देखो शिष्य, यह वाक्य बराबर चरणों और लय में ढला है, वीणा पर गाने योग्य है! मेरे दुख, मेरे शोक से जन्मा यह अब से श्लोक कहलाएगा, कविता का पहला छंद।",
-    "characters": [
-      "Valmiki",
-      "Bharadwaja"
-    ],
-    "location": "Tamasa Riverbank",
-    "rationale": "Holds Valmiki's startled recognition separate, marking the conscious discovery of metre from sorrow."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Creation Before Understanding",
-    "title": "Creation Before Understanding",
+    "slide_label": "Slide09 - Curse Born of Love",
+    "title": "Curse Born of Love",
     "type": "insight",
     "text_mode": null,
     "speaker": null,
-    "question": "जरा सोचो ज्ञानी वाल्मीकि अपने ही मुँह से निकले शब्दों से आखिर क्यों चौंक उठते हैं और हैरान होकर पूछते हैं, शोक में मेरे मुँह से यह क्या निकल पड़ा?",
-    "answer": "पहली परत क्षण है, रचना पहले होती है, समझ बाद में आती है। दूसरी परत चरण उन्होंने नहीं गढ़े, करुणा का संगीत जम गया, जिसे बहाव कहते हैं, जहाँ अनजान चेतन से आगे दौड़ता है। तीसरी परत वे शिष्य को साक्षी बनाते हैं, पहली चिंगारी को दूसरी आँखें चाहिए। अभ्यास सच्ची पंक्तियाँ तुरंत लिखो और भरोसे के साथी से बाँटो।",
-    "on_slide_text": "ऋषि अपने ही होठों से क्यों चौंक उठते हैं? क्योंकि सच्ची रचना समझ से पहले बहती है। शोक ने खुद वीणा योग्य बराबर वर्ण गढ़ दिए, यह व्याकरण नहीं, करुणा का संगीत था, जहाँ अनजान मन सोच से आगे दौड़ गया। इसलिए वे शिष्य को साक्षी बनाते हैं, नवजात चिंगारी को जीने के लिए भरोसे की आँखें चाहिए।",
+    "question": "क्यों पवित्र ग्रंथ मीठे आशीर्वाद की जगह गुस्से भरे शाप से शुरू होता है?",
+    "answer": "क्योंकि वाल्मीकि का गहरा दुख तेज गुस्से में उबल पड़ा, और वही गुस्सा ठंडा होकर हमेशा का संगीत बन गया। उनका शाप टूटी खुशी के लिए रोता हुआ प्रेम था। खुला दर्द मन में भारी रहता है, पर लय में बँधा दर्द अर्थ बन जाता है। जब तुम्हें गुस्सा आए तो किसी पर चिल्लाने की जगह चार छोटी पंक्तियाँ लिखो।",
+    "on_slide_text": "क्यों पवित्र कथा आशीर्वाद से नहीं, शाप से शुरू होती है? क्योंकि गहरा दुख पहले तेज गुस्से में फूटता है, और गुस्सा बस उबलता हुआ प्रेम है। सँवरा हुआ दर्द हमेशा रहने वाला गीत बन जाता है। इस हफ्ते जब तुम्हें गुस्सा आए तो चार छोटी पंक्तियाँ लिखो और अपना छोटा श्लोक बनाओ।",
     "characters": [
       "Kavya"
     ],
     "location": null,
-    "rationale": "Explores flow and witness, why the sage needs Bharadwaja to confirm the unplanned creation."
+    "rationale": "Reflects on curse-born compassion right after the outburst."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - Do Not Break Play",
+    "title": "Do Not Break Play",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों शिकारी के रोज़ के काम को इतनी बड़ी गलती कहा गया?",
+    "answer": "क्योंकि उसने बिना नफरत और बिना ज़रूरत खेलते हुए गाते प्रेम पर तीर चलाया। वाल्मीकि ईमानदार काम को दोष नहीं देते, वे मस्ती के लिए खुशी तोड़ने को दोष देते हैं। जब हम हँसी के लिए मज़ाक उड़ाते, बात काटते या ताना मारते हैं तो हम वही करते हैं। इस हफ्ते रुको, अपने तीर को पहचानो और दयालु चुप्पी चुनो।",
+    "on_slide_text": "क्यों शिकारी को उसके रोज़ के काम के लिए दोष दें? क्योंकि उसने बिना नफरत और बिना ज़रूरत गाते हुए प्रेम पर तीर चलाया। मस्ती के लिए खुशी तोड़ना ही सच्ची क्रूरता है। इस हफ्ते देखो तुम कहाँ मज़ाक या ताना मारते हो, और तीर चलाने की जगह दयालु चुप्पी चुनो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on causeless cruelty right after the killing."
   },
   {
     "slide": 11,
-    "slide_label": "Slide11 - Bathing With the Verse",
-    "title": "Bathing With the Verse",
+    "slide_label": "Slide11 - What Left My Mouth",
+    "title": "What Left My Mouth",
     "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "उनके शिष्य भरद्वाज ने प्रसन्न होकर नए छंद की प्रशंसा की, जिससे वाल्मीकि को शांत संतोष मिला। फिर ऋषि ने पवित्र तमसा नदी में स्नान किया और उसी श्लोक को मन में दोहराते हुए आश्रम की ओर लौटे, जबकि भरद्वाज भरा हुआ जल-कलश लिए पीछे-पीछे चले।",
+    "text_mode": "dialogue",
+    "speaker": "Valmiki",
+    "on_slide_text": "ये शब्द मेरे मुँह से कैसे निकल गए? देखो, भरद्वाज, ये पंक्तियाँ बराबर चरणों में मीठी लय में बँधी हैं। इन्हें वीणा के तारों पर गाया जा सकता है। मेरे गहरे दुःख से जन्मा यह नया संगीत सदा के लिए श्लोक कहलाएगा।",
     "characters": [
       "Valmiki",
       "Bharadwaja"
     ],
     "location": "Tamasa Riverbank",
-    "rationale": "Covers the bathing and brooding return, bridging the riverbank discovery to the hermitage revelation."
+    "rationale": "Stages the startled discovery of metre as shloka fit for veena."
   },
   {
     "slide": 12,
-    "slide_label": "Slide12 - Brahma Arrives",
+    "slide_label": "Slide12 - Catch Your True Line",
+    "title": "Catch Your True Line",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "ज्ञानी वाल्मीकि अपने ही मुँह को देखकर क्यों चौंक गए?",
+    "answer": "क्योंकि सच्चे गीत हमारी समझ से पहले आते हैं। वाल्मीकि ने लय नहीं बनाई, उनके दुःख ने वीणा योग्य सम चरणों में खुद गाया। यह तेज़ बहाव धीमी सोच से आगे दौड़ता है। उन्होंने भरद्वाज से पंक्ति सँभालने को कहा, क्योंकि नई चिंगारी को मित्र की आँखें चाहिए। अपनी सच्ची पंक्ति तुरंत लिखो और बाँटो।",
+    "on_slide_text": "वाल्मीकि अपने ही मुँह को देखकर क्यों चौंक गए? क्योंकि सच्ची रचना पहले आती है, समझ बाद में आती है। दुःख ने खुद सम लय में गीत गाया, जैसे बहता संगीत। नई चिंगारी जल्दी बुझ जाती है। इस सप्ताह जब दिल से सच्ची पंक्ति निकले, उसे तुरंत लिख लो और किसी भरोसेमंद मित्र को दिखाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on creation-before-understanding and witnessing the spark."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Bath and Return",
+    "title": "Bath and Return",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "भरद्वाज खुशी से सिर हिलाता है और मीठी पंक्ति दोहराता है। अपने शिष्य की आवाज़ सुनकर वाल्मीकि को शांति मिलती है। वह साफ़ पानी में स्नान करता है और मन में लय को घुमाते हुए कुटिया की ओर लौटता है। भरद्वाज भरा घड़ा लेकर पीछे-पीछे चलता है।",
+    "characters": [
+      "Valmiki",
+      "Bharadwaja"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Shows disciple support, bathing, and thoughtful return carrying the pitcher."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Brahma Arrives",
     "title": "Brahma Arrives",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "आश्रम में वाल्मीकि साधारण बातें करते रहे, पर भीतर वह करुण छंद बार-बार गूँजता रहा। तभी सबके आश्चर्य के बीच तेजस्वी चार मुख वाले भगवान ब्रह्मा स्वयं प्रकाश सहित प्रकट हुए, विचारों में डूबे ऋषि से मिलने के लिए साक्षात आए थे।",
+    "on_slide_text": "पत्तों की कुटिया लौटकर वाल्मीकि रोज़ के कामों पर हल्की बात करता है। पर उसके मन में नई पंक्ति बार-बार बजती रहती है। तभी हवा में उजला प्रकाश भर जाता है। चमकते और दयालु चार मुख वाले ब्रह्मा स्वयं ऋषि से मिलने प्रकट होते हैं।",
     "characters": [
       "Valmiki",
       "Brahma",
       "Valmiki's Disciples"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Introduces Brahma's astonishing arrival while Valmiki remains inwardly fixed on the verse."
+    "rationale": "Brings the divine turn with Brahma's sudden arrival amid the echoing verse."
   },
   {
-    "slide": 13,
-    "slide_label": "Slide13 - Worship of the Creator",
-    "title": "Worship of the Creator",
+    "slide": 15,
+    "slide_label": "Slide15 - Welcoming Brahma",
+    "title": "Welcoming Brahma",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "सृष्टिकर्ता को देखते ही वाल्मीकि श्रद्धा से उठ खड़े हुए और हाथ जोड़कर मौन खड़े रहे। उन्होंने झुककर प्रणाम किया, ब्रह्मा के चरण धोने को जल दिया, उन्हें ऊँचा आसन दिया और विधिपूर्वक पूजा की, तब ब्रह्मा ने प्रेम से कुशल पूछा और उन्हें बैठने को कहा।",
+    "on_slide_text": "ब्रह्मा को देखते ही वाल्मीकि आश्चर्य से उठ खड़ा होता है। वह हाथ जोड़कर चुपचाप खड़ा रहता है और झुककर प्रणाम करता है। वह साफ़ जल से ब्रह्मा के चरण धोता है और ऊँचा आसन देता है। ब्रह्मा प्यार से मुस्कुराते हैं, हाल पूछते हैं और उसे बैठने को कहते हैं।",
     "characters": [
       "Valmiki",
       "Brahma"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Shows due worship and welcome, pausing before divine instruction while grief still lingers."
+    "rationale": "Shows reverent welcome and seating that honours Brahma."
   },
   {
-    "slide": 14,
-    "slide_label": "Slide14 - Compose Rama's Story",
-    "title": "Compose Rama's Story",
+    "slide": 16,
+    "slide_label": "Slide16 - Stuck in Sorrow",
+    "title": "Stuck in Sorrow",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "ब्रह्मा के पास बैठे होने पर भी वाल्मीकि मुस्कुरा नहीं पाते हैं। उनका मन दुख भरे नदी किनारे पर ही अटका रहता है। उन्हें बार-बार वह प्यारी चिड़िया याद आती है जो मरने से पहले मीठा गा रही थी। वे सोचते हैं कि शिकारी ने बिना कारण खुश जीवन लेकर बहुत बड़ा पाप किया है।",
+    "characters": [
+      "Valmiki",
+      "Brahma"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Shows Valmiki stuck in sorrow even before God, needing direction."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Write Rama's Story",
+    "title": "Write Rama's Story",
     "type": "scene",
     "text_mode": "dialogue",
     "speaker": "Brahma",
-    "on_slide_text": "संदेह मत करो, तुम्हारे दुखी मुख से निकला यह छंद मेरी इच्छा से अमर होगा। अब इसी श्लोक में राम की पूरी कथा रचो — नारद से जो सुना और उससे भी अधिक, राम, लक्ष्मण, सीता और राक्षसों की। अनजाना भी तुम्हें दिखेगा, और तुम्हारा कोई वचन झूठा न होगा।",
+    "on_slide_text": "प्रिय वाल्मीकि संदेह मत करो तुम्हारे मुँह से निकला यह नया छंद सदा जीवित रहेगा। मेरी इच्छा से ही यह तुम्हारे दुख से फूटा है। अब इसी में राम की पूरी कथा गाओ लक्ष्मण सीता और राक्षसों के साथ। देखा अनदेखा सारा सत्य तुम्हें दिखेगा और तुम्हारा कोई शब्द खाली नहीं जाएगा।",
     "characters": [
-      "Brahma",
-      "Valmiki"
+      "Valmiki",
+      "Brahma"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Delivers Brahma's central command and boons of revelation and truth, turning private grief toward Ramayana."
+    "rationale": "Stages Brahma's command to compose Rama's story in the immortal metre."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Wound Into Work",
-    "title": "Wound Into Work",
+    "slide": 18,
+    "slide_label": "Slide18 - Turn Wound Into Work",
+    "title": "Turn Wound Into Work",
     "type": "insight",
     "text_mode": null,
     "speaker": null,
-    "question": "ब्रह्मा वाल्मीकि के निजी दुख को लेकर उसे राम, सीता और राक्षसों की विशाल कथा बनाने का आदेश क्यों देते हैं?",
-    "answer": "पहली बात: ब्रह्मा घाव को कार्य बनाते हैं; छिपा दुख विलाप है, पर स्वीकृत दुख हर बिछड़ी सीता हेतु बल है। दूसरी बात: मेरी इच्छा से निकला स्वर दुख को दंड नहीं विधान बताता है। तीसरी बात: अनजाना दिखेगा और वाणी सत्य होगी, क्योंकि करुणा तथ्य से गहरा देखती है। अभ्यास: एक दर्द चुनो और उससे किसी की मदद करो।",
-    "on_slide_text": "एक पक्षी की मृत्यु को राम की महागाथा क्यों बनाएं? क्योंकि ब्रह्मा घाव को कार्य में बदलते हैं; निजी विलाप हर बिछड़ी सीता के लिए संकल्प बन जाता है, जब दुख दंड नहीं विधान दिखे। करुणा तथ्य से गहरा सत्य खोलती है, इसलिए स्वर्ग से आशीषित शोक-गीत पहाड़ों और सागरों से भी अधिक टिकता है।",
+    "question": "क्यों ब्रह्मा ने एक चिड़िया के दुख को राम की बड़ी कथा बनाया?",
+    "answer": "क्योंकि अकेला दर्द छोटा रोना रहता है पर आशीर्वाद पाया दर्द बहुतों का काम करता है। ब्रह्मा ने वाल्मीकि को दिखाया कि उनके आँसू हर बिछड़े प्रेम के लिए थे जैसे सीता राम से बिछड़ीं। दया से देखा सत्य पहाड़ों से लंबा जीता है। इस सप्ताह अपना एक पुराना दर्द याद करो और उससे एक व्यक्ति की मदद करो।",
+    "on_slide_text": "क्यों एक चिड़िया के दुख को राम और सीता की बड़ी कथा बनाना है? क्योंकि अकेला घाव बस रोना रहता है पर आशीर्वाद पाया घाव सबके काम आता है। वाल्मीकि के आँसू हर बिछड़े प्रेम के लिए थे। इस सप्ताह अपना एक पुराना दर्द याद करो और उसे किसी और की मदद बना दो।",
     "characters": [
       "Kavya"
     ],
     "location": null,
-    "rationale": "Reframes divine intervention as turning personal wound into universal blessing and enduring truth."
+    "rationale": "Reflects on wound-into-work after the divine commission."
   },
   {
-    "slide": 16,
-    "slide_label": "Slide16 - The Disciples Sing",
-    "title": "The Disciples Sing",
+    "slide": 19,
+    "slide_label": "Slide19 - Living Beyond Mountains",
+    "title": "Living Beyond Mountains",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "यह वचन देकर कि जब तक पर्वत और सागर रहेंगे तब तक उनकी रामायण जीवित रहेगी और जब तक यह गाई जाएगी तब तक वाल्मीकि ब्रह्मलोक और इस लोक दोनों में निवास करेंगे ब्रह्मा अंतर्धान हो गए । आश्चर्यचकित शिष्य उस चार चरणों वाले श्लोक को करुण भाव से बार बार गाने लगे ।",
+    "on_slide_text": "जब तक धरती पर ऊँचे पहाड़ और गहरे सागर रहेंगे तब तक तुम्हारी रामायण लोगों में घूमेगी। जब तक बच्चे यह कथा गाएँगे तब तक तुम मेरे लोक में और यहाँ जीवित रहोगे। यह कहकर ब्रह्मा ओझल हो जाते हैं और वाल्मीकि आनंद भरे आश्चर्य से देखते रह जाते हैं।",
     "characters": [
+      "Valmiki",
       "Brahma",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Stages the blessing of endurance and vanishing that seals authority."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Disciples Sing Again",
+    "title": "Disciples Sing Again",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वाल्मीकि के शिष्य ताली बजाकर नया श्लोक बार-बार गाते हैं। चार छोटी पंक्तियाँ बराबर लय कोमल करुणा से भरी हैं। वे आशा से हँसकर कहते हैं कि अब हमारे गुरु इसी मीठी गायन शैली में संसार के लिए पूरी रामायण गाएँगे।",
+    "characters": [
       "Valmiki",
       "Valmiki's Disciples"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Captures Brahma's vanishing and the disciples' joyful repetition, confirming the metre will carry the epic."
+    "rationale": "Shows disciples repeating the verse and foreseeing the full Ramayana."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Birth of the Ramayana",
-    "title": "Birth of the Ramayana",
+    "slide": 21,
+    "slide_label": "Slide21 - The Ramayana Is Born",
+    "title": "The Ramayana Is Born",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "इस प्रकार वरदान पाकर तेजस्वी ऋषि वाल्मीकि ने राम के वंश की कथा को सैकड़ों मधुर और सुरीले श्लोकों में बाँध दिया । सुनो रघुकुल में श्रेष्ठ राम का जीवन और दस मस्तक वाले रावण का पतन सरल लयबद्ध शब्दों में कहा हुआ । यहीं शोक के छंद से अमर रामायण का जन्म होता है ।",
+    "on_slide_text": "धन्य और तेजस्वी ऋषि वाल्मीकि राम की कथा को सैकड़ों मीठे श्लोकों में पिरोने बैठते हैं। वे रघुकुल के सबसे महान राम का गान करते हैं और दस सिर वाले रावण के पतन को सरल सुरभरे शब्दों में सुनाते हैं। यहाँ शांत जल के पास और कोमल करुणा से महान रामायण का जन्म होता है।",
     "characters": [
-      "Valmiki",
-      "Rama",
-      "Ravana"
+      "Valmiki"
     ],
-    "location": "Valmiki's Hermitage",
-    "rationale": "Closes on the resolving beat where sorrow becomes scripture, announcing the Ramayana's birth."
+    "location": "Valmiki's Meditation Seat",
+    "rationale": "Closes on the resolving beat where the Ramayana is born in sweet shlokas."
   }
 ]

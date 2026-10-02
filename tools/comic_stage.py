@@ -411,6 +411,27 @@ def _fixture_hindi(slides: list[dict]) -> list[dict]:
     return out
 
 
+def _known_entities_block(repo: dict) -> str:
+    """One line per banked entity for the extractor: `- <type>: <name>`.
+
+    The extractor must reuse these exact canonical names for the same
+    person/place instead of coining variants. Banked prompts are never
+    regenerated, so a variant name here would fork the identity.
+    """
+    lines = []
+    for section in ("characters", "scenes"):
+        entries = repo.get(section) or {}
+        for key in sorted(entries):
+            ent = entries[key]
+            if not isinstance(ent, dict):
+                continue
+            name = ent.get("canonical_name", key)
+            aliases = [a for a in (ent.get("aliases") or []) if a]
+            extra = f" (also called: {', '.join(aliases)})" if aliases else ""
+            lines.append(f"- {section[:-1]}: {name}{extra}")
+    return "\n".join(lines)
+
+
 def _find_entity(repo: dict, name: str):
     """Return (section, entity) for a canonical name or alias, else None."""
     nk = norm_key(name or "")
@@ -437,6 +458,15 @@ def stage_entities(prompts_dir: Path, narration: str, repo: dict,
         extracted = _fixture_extraction()
     else:
         user = "ENGLISH NARRATION:\n" + narration
+        known = _known_entities_block(repo)
+        if known:
+            user += (
+                "\n\nKNOWN ENTITIES (already designed — their prompts are "
+                "locked and will NOT be regenerated). When the narration "
+                "refers to one of them, reuse its exact canonical name; "
+                "only list genuinely new entities under new names:\n"
+                + known
+            )
         extracted = None
         last_raw: str | None = None
         for _ in range(EXTRACT_ATTEMPTS):
@@ -468,6 +498,8 @@ def stage_entities(prompts_dir: Path, narration: str, repo: dict,
                 continue
             name = item["canonical_name"].strip()
             if norm_key(name) in index:
+                # Already designed: prompts are locked at first design and
+                # never regenerated. Keep the banked wording byte-identical.
                 continue  # already in the repo (canonical or alias)
             pending.append((section, item, name))
     for i in range(0, len(pending), DESIGN_BATCH):

@@ -1,0 +1,644 @@
+[
+ {
+  "slide": 1,
+  "at": 1790919357.445654,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Valmiki",
+   "Narada"
+  ],
+  "refs": [
+   "Valmiki",
+   "Narada"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In a peaceful hermitage of small mud-plastered huts with steep thatched grass roofs beneath towering banyan and peepal trees, warm golden morning light filters through dense green leaves around a central brick yajna altar with tulsi platforms and bark-mat seats. An elderly great sage with warm weathered wheat-brown skin, long white-grey matted hair gathered in a high topknot and flowing long white beard, wearing a simple saffron-ochre dhoti with rust-gold border and matching angavastram over a white sacred thread with rudraksha necklaces and white tripundra markings, bows deeply with hands folded while holding a wooden danda staff and small kamandalu. Beside him three young brahmachari disciples around twelve to sixteen with warm wheat-brown skin and shaved heads with small black shikha topknots, wearing saffron-ochre dhotis with red borders and sacred threads with sandal tilaks and rudraksha necklaces, stand together holding small kamandalu pots and palm-leaf bundles with hands folded in devotion. Above them an eternally radiant elderly Vedic sage around sixty with slender build and warm fair luminous skin, shaven head with small dark-grey shikha and trimmed white beard with joyful dark-brown eyes and Vaishnav tilak, wearing a white dhoti with saffron-gold border and saffron angavastra with triple rudraksha necklaces, rises skyward holding a twin-gourd mahati veena near his shoulder and a small brass kamandalu while offering a delighted benevolent blessing smile. The air glows with reverence and quiet wonder as petals drift over banana and mango saplings in serene sacred light., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Narada: depict this character EXACTLY as shown in the attached 'Narada' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Narada elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Narada: depict this character EXACTLY as shown in the attached 'Narada' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Narada elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 2,
+  "at": 1790956434.059253,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Narada",
+   "Valmiki's Disciples"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Narada",
+   "Valmiki's Disciples"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In the sunlit hermitage courtyard of small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees around the central brick fire altar with tulsi platforms and bark mats and clay pots among banana and mango saplings, the elderly sage Valmiki with warm weathered wheat-brown skin and lean ascetic build and deep compassionate brown eyes and long white-grey hair in a high topknot with flowing white beard, wearing saffron-ochre dhoti with rust-gold border and shoulder angavastram with sacred thread and rudraksha beads and tripundra ash, stands barefoot holding his wooden staff and offering woven baskets of marigold flowers and a brass vessel of sweet water with folded reverence. Beside him stand three young brahmachari disciples around twelve to sixteen with warm wheat-brown skin and slender builds and calm dark eyes and shaved heads with small black shikha topknots, wearing saffron-ochre dhotis and shoulder cloths with red borders and sacred threads and sandal tilaks and rudraksha necklaces and bracelets, each holding a small wooden kamandalu and palm-leaf bundle with hands folded in humble devotion and upturned loving gaze. Above them the radiant elderly sage Narada with warm fair luminous skin and slender build and large joyful dark-brown eyes and shaven head with small dark-grey shikha and trimmed white beard, wearing a white dhoti with saffron-gold border and saffron angavastra with white U-shaped tilak and red sandal line and triple rudraksha necklaces and wrist bracelets and sacred thread, rises glowing into the bright blue-gold sky holding his twin-gourd bamboo mahati veena near his shoulder and small brass kamandalu, smiling with delighted blessing as his saffron cloth lifts in heavenly light. Warm golden morning radiance pours through green leaves and follows his ascent toward shining brilliance, filling the courtyard with grateful farewell joy and peaceful awe., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Narada: depict this character EXACTLY as shown in the attached 'Narada' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Narada elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Narada: depict this character EXACTLY as shown in the attached 'Narada' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Narada elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 3,
+  "at": 1790956485.7618618,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Bharadwaja",
+   "response_id": "resp_6abfd2fa23589c288b5d49ba"
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Along the pristine holy Tamasa River where crystal-clear shallow water reveals a white sandy bed and smooth ivory sand forms a gentle bank with low stone steps fringed by blooming white and pink lotuses and trailing creepers sparkling in soft midday sunlight, the elderly sage Valmiki with warm weathered wheat-brown skin and lean build and compassionate brown eyes and long white-grey hair in a high topknot with flowing white beard, wearing saffron-ochre dhoti with rust-gold border and shoulder angavastram with sacred thread and rudraksha beads and tripundra ash, walks barefoot holding his wooden danda staff and wooden kamandalu with japa mala, smiling warmly at the pure spot. Beside him walks the eighty-year-old sage Bharadwaja with warm wheat-brown sun-weathered skin and tall lean slightly stooped build and deep compassionate dark-brown eyes beneath thick white brows with white vibhuti tripundra, his voluminous ash-white matted hair coiled in a high jatamukuta topknot with chest-length white beard, wearing an ochre-saffron handspun ankle dhoti with narrow maroon border and shoulder angavastra over sacred thread with three strands of dark rudraksha necklaces and bracelets, holding a tall bamboo danda staff and small dark-wood kamandalu in serene paternal grace. Valmiki gestures kindly toward the clear water and speaks his gentle request for the water pot to be set down and the bark cloth to be brought for bathing. Tranquil sacred purity shimmers across the ripples and lotus blossoms, wrapping the two sages in calm companionship and joyful reverence., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 3,
+  "at": 1790956572.4435682,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Bharadwaja",
+   "response_id": "resp_6abfd2fa23589c288b5d49ba"
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Along the pristine holy Tamasa River where crystal-clear shallow water reveals a white sandy bed and smooth ivory sand forms a gentle bank with low stone steps fringed by blooming white and pink lotuses and trailing creepers sparkling in soft midday sunlight, the elderly sage Valmiki with warm weathered wheat-brown skin and lean build and compassionate brown eyes and long white-grey hair in a high topknot with flowing white beard, wearing saffron-ochre dhoti with rust-gold border and shoulder angavastram with sacred thread and rudraksha beads and tripundra ash, walks barefoot holding his wooden danda staff and wooden kamandalu with japa mala, smiling warmly at the pure spot. Beside him walks the eighty-year-old sage Bharadwaja with warm wheat-brown sun-weathered skin and tall lean slightly stooped build and deep compassionate dark-brown eyes beneath thick white brows with white vibhuti tripundra, his voluminous ash-white matted hair coiled in a high jatamukuta topknot with chest-length white beard, wearing an ochre-saffron handspun ankle dhoti with narrow maroon border and shoulder angavastra over sacred thread with three strands of dark rudraksha necklaces and bracelets, holding a tall bamboo danda staff and small dark-wood kamandalu in serene paternal grace. Valmiki gestures kindly toward the clear water and speaks his gentle request for the water pot to be set down and the bark cloth to be brought for bathing. Tranquil sacred purity shimmers across the ripples and lotus blossoms, wrapping the two sages in calm companionship and joyful reverence., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 4,
+  "at": 1790959685.774666,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Kavya"
+  ],
+  "refs": [
+   "Kavya"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "A thoughtful young girl Kavya with warm wheat-brown skin and bright curious dark-brown eyes and long black hair in two neat braids tied with marigold bands, wearing a simple mint-green cotton kurta with cream border and soft beige leggings and a single rudraksha bracelet, sits cross-legged in quiet stillness beside a glassy lotus pool edged with white sand and blooming white and pink lotuses. The crystal water mirrors her gentle face with perfect clarity under soft midday sunlight filtered through green leaves, an emblem of a clear mind perceiving clearly. Mountain-calm light rests over distant green hills while a moon-gentle glow softens the ripples around her reflection, deepening the peaceful mood. She gazes with tender attention toward a drooping lotus bud beside her, learning to see quiet hurt through calm sight, wrapped in compassionate silence and warm hopeful awareness., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 5,
+  "at": 1790959733.099016,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Bharadwaja",
+   "response_id": "resp_6abfd2fa23589c288b5d49ba"
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Amid lush green trees edging the pristine Tamasa bank where crystal-clear shallow water reveals white sand and smooth ivory sand meets low stone steps fringed with white and pink lotuses and trailing creepers in sparkling midday light, the eighty-year-old sage Bharadwaja with warm sun-weathered wheat-brown skin and tall lean slightly stooped build and compassionate dark-brown eyes beneath thick white brows with vibhuti tripundra and ash-white hair in high jatamukuta topknot with chest-length white beard, wearing ochre-saffron dhoti with maroon border and shoulder angavastra over sacred thread with triple rudraksha necklaces and bracelets, extends a folded soft bark cloth with both hands in devoted obedience beside his tall bamboo staff and dark-wood kamandalu. The elderly sage Valmiki with warm weathered wheat-brown skin and lean build and deep compassionate brown eyes and long white-grey hair in high topknot with flowing white beard, wearing saffron-ochre dhoti with rust-gold border and shoulder angavastram with sacred thread and rudraksha beads and tripundra ash, receives the cloth with kind grateful hands while holding his wooden danda staff and wooden kamandalu with japa mala, standing barefoot in serene dignity. He turns his happy gaze slowly through luminous leaves and slanting light and vibrant life around him, cherishing foliage and blossom and birdsong with wonder. The grove glows with fresh vitality and tranquil delight, breathing peace around teacher and pupil in gentle harmony., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 6,
+  "at": 1790959799.184181,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Male Krauncha Bird",
+   "Female Krauncha Bird"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Male Krauncha Bird",
+   "Female Krauncha Bird"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Along the pristine holy Tamasa Riverbank where crystal-clear shallow water reveals a white sandy bed beside smooth ivory sand with low stone steps fringed by blooming white and pink lotuses and trailing flowering creepers, warm midday sunlight sparkles across gentle ripples. An elderly great sage with warm weathered wheat-brown skin and lean ascetic build watches with deep compassionate brown eyes beneath calm brows, his long white-grey matted hair gathered in a high topknot with flowing long white beard and mustache, wearing a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram draped over his left shoulder with white sacred thread across his chest and rudraksha bead necklaces and bracelets and white tripundra ash markings, standing barefoot in serene humble bearing holding a wooden danda staff and a small wooden kamandalu water pot with rudraksha japa mala. Close beside the water a large adult male krauncha waterbird with smooth ash-grey plumage and silver-grey folded wings edged in dark slate stands tall on long slender jet-black legs with gracefully curved neck, his bare head and upper neck glowing vivid crimson-red with a small white crown patch and long straight pale yellow beak and deep dark brown eyes, singing beside a petite adult female krauncha waterbird with soft light pearl-grey plumage and pale silver folded wings standing gracefully on slim dusky-grey legs with slender S-curved neck, her bare head and throat delicate rose-red with tiny white crown patch and short slender ivory-yellow beak and gentle black eyes. The pair hops side by side in playful joy with open beaks and lifted wings in warm golden sun, their sweet duet filling the quiet forest with tender laughter of deep companionship, captured in a wide eye-level framing bathed in soft glowing light and peaceful loving mood., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Male Krauncha Bird: depict this character EXACTLY as shown in the attached 'Male Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Male Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.\n- Female Krauncha Bird: depict this character EXACTLY as shown in the attached 'Female Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Female Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Male Krauncha Bird: depict this character EXACTLY as shown in the attached 'Male Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Male Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.\n- Female Krauncha Bird: depict this character EXACTLY as shown in the attached 'Female Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Female Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 7,
+  "at": 1790959878.2749288,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Nishada Fowler",
+   "Male Krauncha Bird",
+   "Female Krauncha Bird"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Nishada Fowler",
+   "Male Krauncha Bird",
+   "Female Krauncha Bird"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "On the pristine holy Tamasa Riverbank where crystal-clear shallow water reveals a white sandy bed beside smooth ivory sand with low stone steps fringed by blooming white and pink lotuses, bright midday sun glints hard across the ripples. A middle-aged Nishada tribal hunter with dark sun-burnt brown skin and short stocky muscular build stands in harsh arrogant stance with fierce narrow dark eyes under heavy brows, his coarse black matted hair tied in a topknot adorned with a single crane feather and short stubbled beard on his face, wearing a coarse brown deer-skin loincloth with rope belt and leather chest-strap with bone and black-seed bead necklaces and brass armlets and ankle bands, drawing a tall bamboo longbow with leather back-quiver of arrows and coiled rope net bag at his waist as a sharp arrow streaks forward. A large adult male krauncha waterbird with smooth ash-grey plumage and silver-grey folded wings edged in dark slate collapses low on long slender jet-black legs with gracefully curved neck twisted in pain, his bare head and upper neck glowing vivid crimson-red with small white crown patch and long straight pale yellow beak and deep dark brown eyes, soft grey feathers ruffled and scattered loosely in the ivory sand, wings drooping and folded, a single spent arrow resting harmlessly beside him. Beside him a petite adult female krauncha waterbird with soft light pearl-grey plumage and pale silver folded wings flaps wildly on slim dusky-grey legs with slender S-curved neck outstretched, her bare head and throat delicate rose-red with tiny white crown patch and short slender ivory-yellow beak open in a loud cry and large gentle black eyes wide with grief, framed close at ground level under stark glaring light in sudden shattering sorrow., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Nishada Fowler: depict this character EXACTLY as shown in the attached 'Nishada Fowler' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Nishada Fowler elsewhere in this prompt; those words describe an older draft, not the final design.\n- Male Krauncha Bird: depict this character EXACTLY as shown in the attached 'Male Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Male Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.\n- Female Krauncha Bird: depict this character EXACTLY as shown in the attached 'Female Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Female Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Nishada Fowler: depict this character EXACTLY as shown in the attached 'Nishada Fowler' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Nishada Fowler elsewhere in this prompt; those words describe an older draft, not the final design.\n- Male Krauncha Bird: depict this character EXACTLY as shown in the attached 'Male Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Male Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.\n- Female Krauncha Bird: depict this character EXACTLY as shown in the attached 'Female Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Female Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 8,
+  "at": 1790959936.8360379,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Nishada Fowler",
+   "Female Krauncha Bird"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Nishada Fowler",
+   "Female Krauncha Bird"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "On the pristine holy Tamasa Riverbank where crystal-clear shallow water reveals a white sandy bed beside smooth ivory sand with low stone steps fringed by blooming white and pink lotuses and trailing flowering creepers under soft midday sunlight sparkling across ripples, grief hangs heavy in warm air. An elderly great sage with warm weathered wheat-brown skin and lean ascetic build stands barefoot in dignified upright posture with deep compassionate brown eyes blazing beneath calm brows, his long white-grey matted hair gathered in a high topknot with flowing long white beard and mustache, wearing a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram over his left shoulder with white sacred thread and rudraksha bead necklaces and bracelets and white tripundra ash markings, raising his right hand holding a wooden danda staff toward a cowering hunter while his left hand grips a small wooden kamandalu water pot with rudraksha japa mala, voice bursting outward in sorrowful rebuke. Before him cowers a middle-aged Nishada tribal hunter with dark sun-burnt brown skin and short stocky muscular build with fierce narrow dark eyes now lowered under heavy brows, his coarse black matted hair tied in a topknot adorned with a single crane feather and short stubbled beard, wearing a coarse brown deer-skin loincloth with rope belt and leather chest-strap with bone and black-seed bead necklaces and brass armlets, his tall bamboo longbow lowered toward the sand beside a leather back-quiver. Beside a small still mound of ash-grey feathers resting in the ivory sand a petite adult female krauncha waterbird with soft light pearl-grey plumage and pale silver folded wings stands on slim dusky-grey legs with slender S-curved neck stretched upward, her bare head and throat delicate rose-red with tiny white crown patch and short slender ivory-yellow beak open in lament and large gentle black eyes brimming, framed in medium eye-level view under glowing sorrowful light charged with compassionate moral fire., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Nishada Fowler: depict this character EXACTLY as shown in the attached 'Nishada Fowler' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Nishada Fowler elsewhere in this prompt; those words describe an older draft, not the final design.\n- Female Krauncha Bird: depict this character EXACTLY as shown in the attached 'Female Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Female Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Nishada Fowler: depict this character EXACTLY as shown in the attached 'Nishada Fowler' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Nishada Fowler elsewhere in this prompt; those words describe an older draft, not the final design.\n- Female Krauncha Bird: depict this character EXACTLY as shown in the attached 'Female Krauncha Bird' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Female Krauncha Bird elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 9,
+  "at": 1790960828.7052832,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Kavya"
+  ],
+  "refs": [
+   "Kavya"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In a cozy warm reading corner lit by soft golden lamp glow with cushions and picture books stacked around, a young girl with warm light-brown skin and bright curious dark eyes and long black hair in two neat braids tied with red ribbons, wearing a sunny yellow cotton kurta with white leggings, sits cross-legged holding a small open paper pad on her lap with a pencil poised in thoughtful wonder. Above her floats a luminous edgeless glow set apart from the room where a trembling heart-flame of deep red sorrow melts into flowing golden musical swirls curling into four neat lines of script on a glowing palm leaf, emblem of pain shaped into lasting song. Her gaze lifts toward the gentle light with soft understanding, cheeks warm with empathy and lips parted in quiet awe, framed in close medium view bathed in tender amber light and reflective hopeful mood., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 10,
+  "at": 1790960893.001655,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Kavya"
+  ],
+  "refs": [
+   "Kavya"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In a bright sunlit home garden with soft green grass and marigold bushes under clear morning light, a young girl with warm light-brown skin and bright curious dark eyes and long black hair in two neat braids tied with red ribbons, wearing a sunny yellow cotton kurta with white leggings, kneels gently with hands folded in calm kindness beside a small wooden toy bow and arrow laid softly on the grass. Above her glows a luminous edgeless vision set apart from the garden, showing two tiny pearl-grey and ash-grey krauncha birds singing side by side with open beaks amid golden song-light, emblem of playful love kept safe and whole. She gazes at the peaceful emblem with tender protective smile and compassionate stillness, framed in gentle eye-level view bathed in warm hopeful daylight and caring thoughtful mood., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 11,
+  "at": 1790960958.535701,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Bharadwaja",
+   "response_id": "resp_6abfd2fa23589c288b5d49ba"
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "On the ivory sand of the pristine Tamasa Riverbank where crystal-clear shallow water reveals a white sandy bed beside low stone steps fringed with blooming white and pink lotuses and trailing flowering creepers sparkling under soft midday sunlight, an elderly great sage with warm weathered wheat-brown skin and lean ascetic build stands barefoot in dignified upright posture, his long white-grey matted hair gathered in a high topknot with flowing long white beard and mustache framing deep compassionate brown eyes beneath calm brows, wearing a simple saffron-ochre cotton dhoti with woven rust-gold border and matching angavastram over his left shoulder with white sacred thread and rudraksha necklaces and bracelets and white tripundra ash markings, wooden danda staff in his right hand and small wooden kamandalu with rudraksha mala in his left, his lips parted in startled wonder with one hand lifted toward the sky as fresh verse flows forth. Beside him a tall lean slightly stooped eighty-year-old Vedic sage with warm wheat-brown sun-weathered skin and deep compassionate dark-brown eyes beneath thick white brows marked with white vibhuti tripundra, his voluminous ash-white matted hair coiled in a high jatamukuta topknot with chest-length white beard, wearing an ochre-saffron handspun ankle-length dhoti with narrow maroon border and shoulder-draped angavastra over white yajnopavita with three strands of dark-brown rudraksha necklaces and bracelets, holding a tall bamboo danda staff and small dark-wood kamandalu, listens with joyful attention. A soft musical glow shimmers in the air around them like veena strings humming in rhythm with the newfound metre. The framing holds both sages close together against the glittering ripples and lotus fringe in sacred stillness and wonder., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 12,
+  "at": 1790961052.093056,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Kavya"
+  ],
+  "refs": [
+   "Kavya"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In a sunlit quiet study corner with a low wooden desk scattered with palm paper and colored pencils beside a small clay lamp glowing warm, a young girl around ten years old with warm wheat-brown skin and bright curious dark-brown eyes and long black hair tied in two neat braids with red ribbons, wearing a simple sky-blue cotton kurta with white floral border and white leggings, sits cross-legged with a fresh leaf-paper journal open on her lap. She holds a reed pen poised above the page, her face lit with sudden surprise and delight as a new line sings through her. Gentle swirls of golden light and flowing musical melodies drift upward from the page, carrying the feeling of a song arriving before thought. The close framing rests on her wonder and the glowing page in a mood of tender discovery and eagerness to share., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 13,
+  "at": 1790961099.588158,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Amid Valmiki's peaceful hermitage with small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees around a central brick yajna fire altar with tulsi platforms, bark-mat seats, clay water pots and wooden ladles among banana and mango saplings, bathed in warm golden morning light filtering through dense green leaves, an elderly great sage with warm weathered wheat-brown skin and lean ascetic build and deep compassionate brown eyes beneath calm brows, his long white-grey matted hair in a high topknot with flowing long white beard, wearing a saffron-ochre cotton dhoti with rust-gold border and matching angavastram over his left shoulder with white sacred thread and rudraksha necklaces and bracelets and white tripundra ash markings, walks barefoot with serene thoughtful calm, wooden danda staff in his right hand and small wooden kamandalu in his left, his lips softly shaping a cherished rhythm. Just behind him a tall lean slightly stooped eighty-year-old sage with warm wheat-brown sun-weathered skin and compassionate dark-brown eyes beneath thick white brows with white vibhuti tripundra, his voluminous ash-white hair in a high jatamukuta topknot with chest-length white beard, wearing an ochre-saffron ankle-length dhoti with maroon border and shoulder angavastra over white yajnopavita with triple rudraksha necklaces, follows carrying a brimming clay water pot cradled with care beside his tall bamboo danda and dark-wood kamandalu. Clear water sparkles nearby, and the mood rests in peaceful discipleship, quiet joy, and contemplative return., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Bharadwaja: depict this character EXACTLY as shown in the attached 'Bharadwaja' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Bharadwaja elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Bharadwaja: depict this character EXACTLY as shown in the attached 'Bharadwaja' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Bharadwaja elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 14,
+  "at": 1790961148.52403,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Brahma",
+   "Valmiki's Disciples"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Brahma",
+   "Valmiki's Disciples"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Within Valmiki's peaceful hermitage of mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees around a central brick yajna altar with tulsi platforms and bark mats and clay pots among banana and mango saplings in warm golden morning light, an elderly great sage with warm weathered wheat-brown skin and lean build and compassionate brown eyes, his long white-grey matted hair in a high topknot with flowing white beard, wearing a saffron-ochre dhoti with rust-gold border and shoulder angavastram with sacred thread and rudraksha adornments and tripundra markings, stands barefoot holding his wooden danda and kamandalu, gazing upward in awe as his lips still shape a remembered verse. Radiant light blooms in the air above the courtyard as an elderly grandsire creator with warm golden-wheat fair skin and stately full build and four identical serene faces each with calm dark-brown lotus eyes and gentle smile framed by long white matted hair and flowing white beard, crowned with a tall golden jeweled crown with rubies and pearls and adorned with layered pearl and rudraksha necklaces and golden earrings and armlets and bracelets, wearing a white silk dhoti with broad golden lotus and hamsa borders and red-gold shoulder cloth and white sacred thread, glows in majesty with four arms holding a crystal rosary and bound palm-leaf Vedas and brass water pot and white lotus stalk. Close by three young brahmachari disciples around twelve to sixteen years old with warm wheat-brown skin and slender builds and calm dark eyes and shaved heads with small black shikha topknots, wearing saffron-ochre dhotis and shoulder cloths with red borders and white sacred threads and sandal tilaks and rudraksha necklaces, stand together with hands folded in humble devotion holding small wooden kamandalus and palm-leaf bundles. The light shimmers gold and rose around the divine arrival. The mood holds hushed wonder, reverence, and sacred surprise., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 15,
+  "at": 1790961255.857868,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Brahma"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Brahma"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "At Valmiki's peaceful hermitage with mud-plastered huts with steep thatched roofs and bamboo doors beneath towering banyan and peepal trees around the brick yajna altar with tulsi platforms and bark-mat seats and clay water pots among banana and mango saplings in warm golden morning light, an elderly great sage with warm weathered wheat-brown skin and lean ascetic build and deep compassionate brown eyes, his long white-grey matted hair in a high topknot with flowing white beard and mustache, wearing a simple saffron-ochre dhoti with rust-gold border and shoulder angavastram with white sacred thread and rudraksha necklaces and tripundra markings, kneels barefoot with hands folded in reverent greeting, a shining brass vessel of clean water and a tall carved wooden seat set beside him for honoring a guest. Before him glows an elderly grandsire creator with warm golden-wheat fair skin and stately full build and four serene smiling faces each with calm lotus eyes and long white hair and flowing white beard beneath a tall golden jeweled crown with rubies and pearls, adorned with pearl and rudraksha necklaces and golden earrings and armlets, wearing a white silk dhoti with golden lotus borders and red-gold shoulder cloth and sacred thread, his four arms holding crystal rosary and palm-leaf Vedas and brass pot and white lotus stalk, his expression warm and kind with a hand raised in blessing welcome. Soft garlands and fragrant blossoms adorn the seat, and gentle golden radiance fills the courtyard air. The mood breathes humility, devotion, and gracious kindness., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 16,
+  "at": 1790961310.673861,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Brahma"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Brahma"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In the peaceful courtyard of Valmiki's hermitage with small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees, an elderly great sage with warm weathered wheat-brown skin and deep compassionate brown eyes beneath calm brows, long white-grey matted hair in a high topknot with flowing white beard, wearing a saffron-ochre dhoti with rust-gold border and angavastram over his left shoulder with white sacred thread and rudraksha beads and white tripundra ash on forehead, sits on a bark mat with his wooden danda staff beside him and small kamandalu pot near his hand in heavy downcast stillness. Beside him sits a stately grandsire creator with warm golden-wheat fair skin and four serene faces with calm lotus eyes and gentle smiles beneath a tall golden jeweled crown with rubies and pearls, wearing a white silk dhoti with golden lotus borders and red-gold shoulder cloth with pearl necklaces, his four arms holding a crystal rosary and palm-leaf Veda bundle and brass water pot and white lotus stalk in calm majesty. Above them in the soft sky glows a luminous edgeless memory of a sunlit riverbank with a small sweet songbird on a leafy branch in tender morning light, set apart from the solid foreground. Warm golden light filters through dense green leaves around the central brick fire altar with tulsi platforms and clay water pots, holding the mood in quiet compassionate sorrow., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 16,
+  "at": 1790961367.819896,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Brahma"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Brahma"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In the peaceful courtyard of Valmiki's hermitage with small mud-plastered huts with steep thatched grass roofs and bamboo doors beneath towering banyan and peepal trees, an elderly great sage with warm weathered wheat-brown skin and deep compassionate brown eyes beneath calm brows, long white-grey matted hair in a high topknot with flowing white beard, wearing a saffron-ochre dhoti with rust-gold border and angavastram over his left shoulder with white sacred thread and rudraksha beads and white tripundra ash on forehead, sits on a bark mat with his wooden danda staff beside him and small kamandalu pot near his hand in heavy downcast stillness. Beside him sits a stately grandsire creator with warm golden-wheat fair skin and four serene faces with calm lotus eyes and gentle smiles beneath a tall golden jeweled crown with rubies and pearls, wearing a white silk dhoti with golden lotus borders and red-gold shoulder cloth with pearl necklaces, his four arms holding a crystal rosary and palm-leaf Veda bundle and brass water pot and white lotus stalk in calm majesty. Above them in the soft sky glows a luminous edgeless memory of a sunlit riverbank with a small sweet songbird on a leafy branch in tender morning light, set apart from the solid foreground. Warm golden light filters through dense green leaves around the central brick fire altar with tulsi platforms and clay water pots, holding the mood in quiet compassionate sorrow., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 17,
+  "at": 1790961415.075575,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Brahma"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Brahma"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In the sun-dappled courtyard of Valmiki's peaceful hermitage with mud-plastered huts with steep thatched roofs beneath towering banyan and peepal trees around a brick fire altar with tulsi platforms and bark mats and clay pots, an elderly great sage with weathered wheat-brown skin and compassionate brown eyes and long white-grey topknot and flowing white beard in saffron-ochre dhoti with rust-gold border and rudraksha beads and tripundra ash kneels with hands folded and wooden staff beside him in deep listening. Before him stands a majestic grandsire creator with golden-wheat fair skin and four serene smiling faces with lotus eyes under a tall golden jeweled crown with rubies and pearls, wearing a white silk dhoti with golden lotus borders and red-gold shoulder cloth with pearl necklaces, his four arms holding a crystal rosary and Veda bundle and brass pot and white lotus stalk with one hand raised in gracious blessing. A warm radiant glow streams from his gesture toward the sage, carrying drifting lotus petals and soft golden light where fresh verse takes birth. The close framing holds both figures beneath green leaves in golden morning light, alive with reverent hope and purposeful calm., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 18,
+  "at": 1790961463.62202,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Kavya"
+  ],
+  "refs": [
+   "Kavya"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "A thoughtful young girl Kavya with warm wheat-brown skin and bright dark eyes, her black hair in two neat braids tied with marigold bands, wearing a simple sky-blue cotton kurta with white leggings and a small rudraksha bracelet, sits on a stone step in a quiet flower garden at soft sunset. In her hands she holds a small glowing clay lamp close to her heart, her gaze gentle and reflective with quiet resolve. Behind her in the golden air floats a luminous edgeless glow of two small songbirds perched on separate blossoming branches across a silver stream, a tender emblem of parted love held in compassionate light set apart from the solid foreground. Warm rose-gold sunset light bathes marigold and tulsi plants around her, wrapping the moment in tender hope and mountain-calm steadiness as hurt ripens into kindness., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 18,
+  "at": 1790961553.7940428,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "",
+   "response_id": null
+  },
+  "file_attached": [
+   "Kavya"
+  ],
+  "refs": [
+   "Kavya"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Kavya, a young adult woman with warm light-brown skin and bright curious dark eyes, her long black hair in a single neat braid adorned with white flowers, wearing a teal cotton saree with gold border over a cream blouse with gold jhumka earrings and bangles, sits on a stone step in a quiet flower garden at soft sunset. In her hands she holds a small glowing clay lamp close to her heart, her gaze gentle and reflective with quiet resolve. Behind her in the golden air floats a luminous edgeless glow of two small songbirds perched on separate blossoming branches across a silver stream, a tender emblem of parted love held in compassionate light set apart from the solid foreground. Warm rose-gold sunset light bathes marigold and tulsi plants around her, wrapping the moment in tender hope and mountain-calm steadiness as hurt ripens into kindness., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 19,
+  "at": 1790961606.351965,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Brahma",
+   "Valmiki's Disciples"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Brahma",
+   "Valmiki's Disciples"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In Valmiki's peaceful hermitage with mud-plastered huts with thatched roofs beneath towering banyan trees around a brick fire altar with tulsi platforms and bark mats, an elderly great sage with weathered wheat-brown skin and compassionate brown eyes and white-grey topknot and flowing white beard in saffron-ochre dhoti with rust-gold border and sacred thread and rudraksha beads and tripundra ash gazes upward with open hands and joyful wonder, his wooden staff resting near him. Above him in the dawn sky a majestic four-faced grandsire creator with golden-wheat skin and gentle smiles under a tall golden jeweled crown with rubies and pearls, wearing a white silk dhoti with golden lotus borders, his four arms holding rosary and Veda bundle and brass pot and lotus stalk, rises in a column of radiant golden light growing luminous and edgeless set apart from the solid foreground. To one side stand three young brahmachari disciples with wheat-brown skin and shaved heads with small black shikha topknots, in saffron-ochre dhotis with red borders and sacred threads and sandal tilaks and rudraksha beads, each holding a kamandalu pot and palm-leaf bundle with hands folded in awe. Far beyond the trees stretches a luminous panorama of high blue mountains meeting a deep shining ocean under dawn light while warm petals drift in the air, sealing the mood in vast enduring promise., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Brahma: depict this character EXACTLY as shown in the attached 'Brahma' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Brahma elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 20,
+  "at": 1790961659.237854,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Hermitage",
+   "response_id": "resp_6abfd2d39706117009114d04"
+  },
+  "file_attached": [
+   "Valmiki",
+   "Valmiki's Disciples"
+  ],
+  "refs": [
+   "Valmiki's Hermitage",
+   "Valmiki",
+   "Valmiki's Disciples"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In the golden courtyard of Valmiki's peaceful hermitage with mud-plastered huts with thatched roofs beneath banyan and peepal trees around a brick fire altar with tulsi platforms and bark mats, three young brahmachari disciples with wheat-brown skin and shaved heads with black shikha topknots, wearing saffron-ochre dhotis with red borders and sacred threads and sandal tilaks with rudraksha beads, clap in rhythm with bright smiling faces, small kamandalu pots and palm-leaf bundles placed near their feet. Before them sits an elderly great sage with weathered wheat-brown skin and compassionate brown eyes and long white-grey topknot and flowing white beard in saffron-ochre dhoti with rust-gold border and rudraksha necklaces and tripundra ash, his wooden staff resting near him, listening with tender pride and gentle laughter. Soft morning light filters through dense green leaves, scattering warm glow on banana and mango saplings and clay water pots and wooden ladles. The close framing holds joyful movement and even musical rhythm in the air, full of tender hope and sweet anticipation., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki's Disciples: depict this character EXACTLY as shown in the attached 'Valmiki's Disciples' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki's Disciples elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 21,
+  "at": 1790961711.5040011,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Meditation Seat",
+   "response_id": "resp_6abfe4715c1c5a24925b4ef2"
+  },
+  "file_attached": [
+   "Valmiki"
+  ],
+  "refs": [
+   "Valmiki's Meditation Seat",
+   "Valmiki"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In a serene forest hermitage bathed in soft golden morning light filtering through leaves, an elderly great sage with warm weathered wheat-brown skin and lean ascetic build sits in calm meditation on a low circular seat of fresh green kusha grass mats on a raised earthen platform. His long white-grey matted hair is gathered in a high topknot with a flowing long white beard and mustache framing deep compassionate brown eyes beneath calm brows, white tripundra ash markings bright on forehead and arms. He wears a simple saffron-ochre cotton dhoti with woven rust-gold border and a matching angavastram draped over his left shoulder, adorned with a white sacred thread across his chest and multiple rudraksha bead necklaces and bracelets, barefoot in dignified upright posture. His wooden danda staff rests beside a deer skin holding a wooden kamandalu and rudraksha japa mala near a small clay lamp and stone fire altar, while an ancient peepal tree with thick textured bark and dense green canopy rises above. Before him palm leaves hold fresh sweet verses beside still reflective water glowing with gentle dawn radiance, his lips parted in tuneful song weaving a bright auspicious beginning suffused with tender compassionate grief and quiet joy., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 21,
+  "at": 1790961788.5614982,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Valmiki's Meditation Seat",
+   "response_id": "resp_6abfe4715c1c5a24925b4ef2"
+  },
+  "file_attached": [
+   "Valmiki"
+  ],
+  "refs": [
+   "Valmiki's Meditation Seat",
+   "Valmiki"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "In a serene forest hermitage bathed in soft golden morning light filtering through leaves, an elderly great sage with warm weathered wheat-brown skin and lean ascetic build sits in calm meditation on a low circular seat of fresh green kusha grass mats on a raised earthen platform. His long white-grey matted hair is gathered in a high topknot with a flowing long white beard and mustache framing deep compassionate brown eyes beneath calm brows, white tripundra ash markings bright on forehead and arms. He wears a simple saffron-ochre cotton dhoti with woven rust-gold border and a matching angavastram draped over his left shoulder, adorned with a white sacred thread across his chest and multiple rudraksha bead necklaces and bracelets, barefoot in dignified upright posture. His wooden danda staff rests beside a deer skin holding a wooden kamandalu and rudraksha japa mala near a small clay lamp and stone fire altar, while an ancient peepal tree with thick textured bark and dense green canopy rises above. Before him blank unmarked palm leaves with no script and no writing rest beside still reflective water glowing with gentle dawn radiance, his lips parted in tuneful song weaving a bright auspicious beginning suffused with tender compassionate grief and quiet joy., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ },
+ {
+  "slide": 5,
+  "at": 1790962428.916513,
+  "model": "muse-image-1.0",
+  "size": "1536x1024",
+  "transport": "responses",
+  "prev_anchor": {
+   "ref": "Bharadwaja",
+   "response_id": "resp_6abfd2fa23589c288b5d49ba"
+  },
+  "file_attached": [
+   "Tamasa Riverbank",
+   "Valmiki"
+  ],
+  "refs": [
+   "Tamasa Riverbank",
+   "Valmiki",
+   "Bharadwaja"
+  ],
+  "omitted_refs": 0,
+  "fallback": false,
+  "fallback_reason": "",
+  "prompt": "Amid lush green trees edging the pristine Tamasa bank where crystal-clear shallow water reveals white sand and smooth ivory sand meets low stone steps fringed with white and pink lotuses and trailing creepers in sparkling midday light, the eighty-year-old sage Bharadwaja with warm sun-weathered wheat-brown skin and tall lean slightly stooped build and compassionate dark-brown eyes beneath thick white brows with vibhuti tripundra and ash-white hair in high jatamukuta topknot with chest-length white beard, wearing ochre-saffron dhoti with maroon border and shoulder angavastra over sacred thread with triple rudraksha necklaces and bracelets, extends a folded soft bark cloth with both hands in devoted obedience, his tall bamboo staff planted with its butt resting on the stone step beside him and his dark-wood kamandalu resting on the stone step at his feet, his hands holding only the cloth. The elderly sage Valmiki with warm weathered wheat-brown skin and lean build and deep compassionate brown eyes and long white-grey hair in high topknot with flowing white beard, wearing saffron-ochre dhoti with rust-gold border and shoulder angavastram with sacred thread and rudraksha beads and tripundra ash, receives the cloth with kind grateful hands while holding his wooden danda staff and wooden kamandalu with japa mala, standing barefoot in serene dignity. He turns his happy gaze slowly through luminous leaves and slanting light and vibrant life around him, cherishing foliage and blossom and birdsong with wonder. The grove glows with fresh vitality and tranquil delight, breathing peace around teacher and pupil in gentle harmony., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design.",
+  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Tamasa Riverbank: depict this character EXACTLY as shown in the attached 'Tamasa Riverbank' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Tamasa Riverbank elsewhere in this prompt; those words describe an older draft, not the final design.\n- Valmiki: depict this character EXACTLY as shown in the attached 'Valmiki' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Valmiki elsewhere in this prompt; those words describe an older draft, not the final design."
+ }
+]

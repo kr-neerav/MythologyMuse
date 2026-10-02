@@ -2,13 +2,13 @@
   "verdict": "PASS",
   "gate": "structural",
   "dry_run": false,
-  "model": "muse-spark-1.3",
+  "model": "muse-spark-1.3-contributor",
   "structural_ok": true,
   "corpus": "ramayana_dutt",
   "counts": {
-    "slides": 17,
-    "extracted_characters": 60,
-    "extracted_scenes": 26
+    "slides": 21,
+    "extracted_characters": 81,
+    "extracted_scenes": 39
   },
   "storyboard_layer_a": {
     "layer": "A",
@@ -16,17 +16,15 @@
     "verdict": "PASS",
     "issues": [],
     "counts": {
-      "slides": 17
+      "slides": 21
     }
   },
   "judge": {
     "verdict": "PASS",
     "strengths": [
-      "Full story arc covered in order from Narada farewell to Ramayana birth including Tamasa ghat, krauncha pair, killing, curse, shloka discovery, bathing return, Brahma worship, boons, vanishing and disciples singing",
-      "All five reflections faithfully compressed with 3+ layers and takeaway practices preserved without new philosophy",
-      "No invented events or characters; dialogue paraphrases preserve core meaning of curse and Brahma command",
-      "Characters and locations consistent and well-formed with sequential slide numbering and labels",
-      "All scene on_slide_text self-contained and 30-60 words; insight slides carry clear question plus layered answer"
+      "All major story beats covered in order from Narada farewell to Ramayana birth",
+      "All five reflection takeaways present with faithful compression and weekly practice",
+      "Scene texts are 30-60 words in child-clear language; insight slides open with question, answer plainly, and land on takeaway"
     ],
     "weaknesses": []
   }

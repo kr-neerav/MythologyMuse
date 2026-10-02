@@ -903,6 +903,17 @@
       "image_prompt": "A full-figure character model-sheet of Shri Ram, King of Ayodhya, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, plain backdrop, no on-image text. A man in his early thirties with luminous azure-blue complexion, tall athletic regal build, large lotus-shaped dark eyes, serene expression, black hair in a royal topknot under a tall golden kiritamukuta with sun motif, rubies and pearls. He wears a golden-yellow silk dhoti with red and gold zari woven borders, a saffron draped angavastra, white sacred thread, U-shaped Vaishnava tilak with sandal paste, gold armlets, bracelets, necklaces, pearl garlands, jeweled waistband and royal sandals, holding his long Kodanda bow with quiver at his back, bearing calm majestic compassion in a straight royal standing pose.",
       "muse_prompt": "A regal prince-king in his early thirties with a luminous azure-blue complexion, tall athletic build and large lotus-shaped dark eyes. His black hair is tied in a neat royal topknot beneath a tall golden kiritamukuta adorned with sun motifs, rubies and pearls. He wears a golden-yellow silk dhoti with red and gold zari borders, a draped angavastra, sacred thread, sandal paste Vaishnava tilak, abundant gold jewellery, and holds his great Kodanda bow, embodying calm majestic compassion.",
       "first_seen": "Book_1_Bala_Kanda_Chapter_4"
+    },
+    "kavya": {
+      "type": "character",
+      "canonical_name": "Kavya",
+      "aliases": [],
+      "description": "",
+      "flow_ref": "Kavya",
+      "image_prompt": "A full-figure character model-sheet of Kavya, a young Indian woman storyteller in her late twenties, in classical Indian mythological art style, standing facing the viewer against a plain seamless neutral-grey studio backdrop with soft even lighting, no on-image text. Warm wheat-brown complexion, large dark expressive eyes with a thoughtful compassionate gaze, long jet-black hair in a neat side braid adorned with small white jasmine flowers. She wears a deep teal cotton saree with a thin gold border over a cream blouse, simple gold jhumka earrings and thin gold bangles, small red bindi. Slender graceful build with calm composed posture.",
+      "muse_prompt": "",
+      "first_seen": "Book_1_Bala_Kanda_Chapter_1",
+      "restored": "2026-10-02 re-banked from Ch1 roster bytes (ledger PASS 50063201); muse_prompt/description unrecoverable, left empty rather than invented"
     }
   },
   "scenes": {

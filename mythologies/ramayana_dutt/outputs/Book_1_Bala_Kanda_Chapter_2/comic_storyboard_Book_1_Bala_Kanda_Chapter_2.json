@@ -1,269 +1,327 @@
 [
   {
     "slide": 1,
-    "slide_label": "Slide01 - Narada's Farewell",
-    "title": "Narada's Farewell",
+    "slide_label": "Slide01 - The Tiny Beginning",
+    "title": "The Tiny Beginning",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "After hearing Narada's tale of the perfect man, Valmiki worshipped him with his disciples and bowed in gratitude. Honoured, Narada blessed them and rose through the sky to his own realm, leaving the sage by the Ganga where a tiny sight would soon birth a deathless epic.",
+    "on_slide_text": "Sage Valmiki has just heard from Narada about a perfect man full of truth and kindness. Narada has promised to tell his noble story. Now a very small moment by a river is about to grow into a very big book. Watch closely, for greatness often starts small.",
+    "characters": [
+      "Valmiki",
+      "Narada"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Opens on the hook that a tiny river moment will birth a vast epic after Narada's promise."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - Farewell Through Sky",
+    "title": "Farewell Through Sky",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Valmiki folds his hands and honours Narada with flowers and sweet water. His young disciples stand beside him with love. Narada smiles and blesses them all. Then he rises into the bright sky and flies back to his own shining world.",
     "characters": [
       "Valmiki",
       "Narada",
       "Valmiki's Disciples"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Opens on the hook after Narada's blessing, showing his skyward departure that sets up the tiny incident about to birth the epic."
-  },
-  {
-    "slide": 2,
-    "slide_label": "Slide02 - The Pure Tamasa Ghat",
-    "title": "The Pure Tamasa Ghat",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Valmiki walked to the Tamasa river near the Ganga and found a holy bathing spot, clear, beautiful, and free of mud. Pleased, he called to his disciple, Child Bharadwaja, set down the pitcher and hand me my bark cloth, for I will bathe here.",
-    "characters": [
-      "Valmiki",
-      "Bharadwaja"
-    ],
-    "location": "Tamasa Riverbank",
-    "rationale": "Establishes the mud-free holy spot and Valmiki's request for bark cloth, the calm before the transformative sight."
+    "rationale": "Shows honoured farewell as Narada leaves through sky, closing the prior telling."
   },
   {
     "slide": 3,
-    "slide_label": "Slide03 - Clear Water, Clear Mind",
-    "title": "Clear Water, Clear Mind",
-    "type": "insight",
-    "text_mode": null,
+    "slide_label": "Slide03 - The Clean Riverbank",
+    "title": "The Clean Riverbank",
+    "type": "scene",
+    "text_mode": "caption",
     "speaker": null,
-    "question": "Why is Tamasa's mud-free ghat compared to the mind of good men just before the killing?",
-    "answer": "Layer one: the simile is condition, not decoration, for reflection needs still water. Layer two: Valmiki sought purity for bathing but gained purity of seeing, so he heard both play and scream. Layer three: city minds filled with noise witness daily killings unmoved, proving sensitivity is cleanliness before morality. Practice: take ten screen-free quiet minutes daily to let inner mud settle.",
-    "on_slide_text": "Why compare the clear ghat to a good mind? Because purity is not decoration but condition for seeing; as still water reflects, a noise-free mind perceives another's pain, letting Valmiki hear both play and scream, teaching us to settle inner mud daily to truly notice suffering.",
+    "on_slide_text": "Valmiki walks with Bharadwaja to the calm Tamasa river near Ganga. The water is clear and the bank is clean with no mud. Valmiki smiles at the pure spot. He says, dear child Bharadwaja, set down the water pot and bring my bark cloth for bathing.",
     "characters": [
-      "Kavya"
+      "Valmiki",
+      "Bharadwaja"
     ],
-    "location": null,
-    "rationale": "Pauses on the pure-ghat simile to explain why inner clarity must precede compassion."
+    "location": "Tamasa Riverbank",
+    "rationale": "Places Valmiki at Tamasa's clean bank and sets up the bathing request to Bharadwaja."
   },
   {
     "slide": 4,
-    "slide_label": "Slide04 - Song of the Kraunchas",
-    "title": "Song of the Kraunchas",
-    "type": "scene",
-    "text_mode": "caption",
+    "slide_label": "Slide04 - Clear Mind Sees Pain",
+    "title": "Clear Mind Sees Pain",
+    "type": "insight",
+    "text_mode": null,
     "speaker": null,
-    "on_slide_text": "Before bathing, Valmiki wandered through the riverside forest, looking around in peace. Near a tree he saw two krauncha birds, mates in joyful love-play, singing sweetly to each other. Their happy music filled the clear air, untouched by fear or sorrow.",
+    "question": "Why is Tamasa's clean bank like the mind of a good person?",
+    "answer": "Because muddy water hides your face, and a busy mind hides another's pain. Valmiki wanted clean water to bathe, but he found clean sight to care. He could hear both happy song and sad cry. Sit ten quiet minutes each day with no screen, and you will see who is hurting near you.",
+    "on_slide_text": "Why call Tamasa's clean bank like a good mind? Because muddy water hides your face, and a noisy mind hides others' pain. Valmiki found clean water and gained clean sight. Sit ten quiet minutes daily with no phone, and notice whose hurt you see first.",
     "characters": [
-      "Valmiki",
-      "Male Krauncha Bird",
-      "Female Krauncha Bird"
+      "Kavya"
     ],
-    "location": "Tamasa Forest",
-    "rationale": "Presents the joyful pair in love-play, the image of love whose loss will trigger the epic."
+    "location": null,
+    "rationale": "Pauses after the pure bank to draw the mind-clarity lesson from the reflection."
   },
   {
     "slide": 5,
-    "slide_label": "Slide05 - Arrow Without Hatred",
-    "title": "Arrow Without Hatred",
+    "slide_label": "Slide05 - The Bark Cloth",
+    "title": "The Bark Cloth",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "In that very moment of song, a cruel Nishada fowler crept near and, without hatred or cause, aimed his arrow at the loving pair. The shaft struck the male krauncha, who fell drenched in blood, writhing in pain while his mate screamed in sudden, helpless grief.",
+    "on_slide_text": "Bharadwaja quickly obeys his teacher and brings the soft bark cloth. Valmiki takes it with kind thanks. Before he steps into the water, he walks slowly among the green trees. He looks around at leaves, light, and life with happy eyes.",
+    "characters": [
+      "Valmiki",
+      "Bharadwaja"
+    ],
+    "location": "Tamasa Riverbank",
+    "rationale": "Shows obedient preparation and slow forest gaze before bathing."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Two Happy Birds",
+    "title": "Two Happy Birds",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Near a wide tree Valmiki sees two krauncha birds side by side. They are mates, singing sweet songs together. They hop and play with joy in the warm sun. Their music fills the quiet forest like happy laughter between best friends.",
+    "characters": [
+      "Valmiki",
+      "Male Krauncha Bird",
+      "Female Krauncha Bird"
+    ],
+    "location": "Tamasa Riverbank",
+    "rationale": "Stages the joyful love of the krauncha pair, the happiness soon to be broken."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - The Cruel Arrow",
+    "title": "The Cruel Arrow",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Suddenly a Nishada fowler lifts his bow with no anger and no reason. He lets the sharp arrow fly. The male bird falls, covered in red blood and shaking in pain. His mate cries out loudly, flapping and weeping for her lost love.",
     "characters": [
       "Nishada Fowler",
       "Male Krauncha Bird",
       "Female Krauncha Bird"
     ],
-    "location": "Tamasa Forest",
-    "rationale": "Isolates the killing without enmity as its own beat, preserving the shock of celebration shattered."
+    "location": "Tamasa Riverbank",
+    "rationale": "Stages the apex killing without cause and the mate's grief, the epic's spark."
   },
   {
-    "slide": 6,
-    "slide_label": "Slide06 - Violence Against Joy",
-    "title": "Violence Against Joy",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "The fowler was only doing his daily work, so why did Valmiki condemn a killing without enmity as grave adharma?",
-    "answer": "Layer one: the key qualifier is without cause, without hatred; Valmiki does not oppose food but shattering love absorbed in play. Layer two: the male died not in battle but while singing and loving, violence aimed at celebration itself. Layer three: this mirrors today when boredom, views or profit make us shoot arrows through mockery, interruption or trolling. Practice: notice where you become Nishada and choose silence.",
-    "on_slide_text": "If the fowler only worked for food, why call it grave sin? Because he killed without cause or hatred, shattering love in its play, striking celebration itself, not battle. His curse mirrors us today when boredom or profit makes us loose arrows into others' joy, urging silence instead.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on causeless violence to show why shattering play is adharma, not mere livelihood."
-  },
-  {
-    "slide": 7,
-    "slide_label": "Slide07 - The Curse of Compassion",
-    "title": "The Curse of Compassion",
+    "slide": 8,
+    "slide_label": "Slide08 - The Curse of Sorrow",
+    "title": "The Curse of Sorrow",
     "type": "scene",
     "text_mode": "dialogue",
     "speaker": "Valmiki",
-    "on_slide_text": "O Nishada fowler, you have cruelly killed one innocent krauncha lost in love and sweet song without cause! Therefore you shall never find honour or peace in this world; your name shall bear this injustice as long as living beings remember love torn apart by needless violence.",
+    "on_slide_text": "O Nishada, you killed one of a loving pair lost in joy for no reason. You broke a happy song with cruel force. For this heartless act you shall never find honour or lasting glory. Learn that love must never be shot down.",
     "characters": [
       "Valmiki",
       "Nishada Fowler",
       "Female Krauncha Bird"
     ],
-    "location": "Tamasa Forest",
-    "rationale": "Gives the curse its own panel as the emotional climax where compassion erupts as anger."
-  },
-  {
-    "slide": 8,
-    "slide_label": "Slide08 - Shoka Becomes Shloka",
-    "title": "Shoka Becomes Shloka",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why does the great epic begin not with a blessing but with a curse, and why is compassion first heard in anger?",
-    "answer": "Layer one: shoka and shloka share one root, when sorrow overflows it bursts as rhythm. Layer two: rage is not justice but soul's cry at loss of love; anger is compassion boiling over. Layer three: psychology agrees formless pain becomes trauma while rhythmic pain becomes meaning, so lament bound in metre turned immortal. Hence Ramayana starts with separation, not war. Practice: give sharp grief four rhythmic lines.",
-    "on_slide_text": "Why does eternity open with a curse, not a blessing? Because shoka becomes shloka when overflowing sorrow finds rhythm; Valmiki's anger is compassion boiling over at severed love, proving formless pain wounds while measured lament heals, so the epic rightly starts with separation, not war.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Unpacks why a curse births poetry, linking sorrow, anger and rhythm to the epic's start in separation."
+    "location": "Tamasa Riverbank",
+    "rationale": "Stages the compassionate curse where sorrow bursts as moral speech."
   },
   {
     "slide": 9,
-    "slide_label": "Slide09 - What Came From My Mouth",
-    "title": "What Came From My Mouth",
-    "type": "scene",
-    "text_mode": "dialogue",
-    "speaker": "Valmiki",
-    "on_slide_text": "What words have just come from my mouth in grief? Look, disciple, this sentence falls in equal feet and rhythm, fit to be sung to the veena! Born of my sorrow, my shoka, it shall henceforth be called shloka, the first verse of poetry.",
-    "characters": [
-      "Valmiki",
-      "Bharadwaja"
-    ],
-    "location": "Tamasa Riverbank",
-    "rationale": "Holds Valmiki's startled recognition separate, marking the conscious discovery of metre from sorrow."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Creation Before Understanding",
-    "title": "Creation Before Understanding",
+    "slide_label": "Slide09 - Curse Born of Love",
+    "title": "Curse Born of Love",
     "type": "insight",
     "text_mode": null,
     "speaker": null,
-    "question": "Why does the wise Valmiki startle at his own utterance and ask, what has come from my mouth?",
-    "answer": "Layer one: most human moment, true creation happens first and understanding follows. Layer two: he did not construct equal feet and syllables fit for veena; compassion's natural music settled on its own, what we call flow where unconscious outruns conscious. Layer three: he at once makes the disciple witness, for the first spark needs a second pair of eyes to survive. Practice: write down true lines at once and share with someone trusted.",
-    "on_slide_text": "Why does the sage startle at his own lips? Because true creation flows before understanding; grief itself shaped equal syllables fit for veena, not grammar but compassion's music, the unconscious outrunning thought. So he calls his disciple to witness, for a newborn spark needs trusted eyes to survive.",
+    "question": "Why does a holy book start with an angry curse instead of a sweet blessing?",
+    "answer": "Because Valmiki's deep sorrow boiled over as hot anger, and hot anger cooled into lasting music. His curse was really love crying for broken joy. Loose pain stays heavy inside, but pain tied in rhythm turns into meaning. When anger burns you, write four short lines instead of shouting at someone.",
+    "on_slide_text": "Why start a holy tale with a curse and not a blessing? Because deep sorrow first bursts out as hot anger, and anger is only love boiling over. Shaped pain turns into song that lasts. When anger burns you this week, write four short lines and make your own small shloka.",
     "characters": [
       "Kavya"
     ],
     "location": null,
-    "rationale": "Explores flow and witness, why the sage needs Bharadwaja to confirm the unplanned creation."
+    "rationale": "Reflects on curse-born compassion right after the outburst."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - Do Not Break Play",
+    "title": "Do Not Break Play",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why was the hunter's everyday work called such a great wrong?",
+    "answer": "Because he shot without hate and without need into singing love at play. Valmiki does not blame honest work, he blames breaking joy for fun. We do the same when we mock, cut off talk, or troll for laughs. Pause this week, notice your arrow, and choose kind silence instead.",
+    "on_slide_text": "Why blame a hunter just doing his daily work? Because he shot without hate and without need into singing love at play. Breaking joy for fun is true cruelty. Watch this week where you mock or troll, and choose kind silence instead of shooting your arrow.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on causeless cruelty right after the killing."
   },
   {
     "slide": 11,
-    "slide_label": "Slide11 - Bathing With the Verse",
-    "title": "Bathing With the Verse",
+    "slide_label": "Slide11 - What Left My Mouth",
+    "title": "What Left My Mouth",
     "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "His disciple Bharadwaja joyfully affirmed the new metre, giving Valmiki quiet satisfaction. The sage then bathed in the holy Tamasa waters and walked back to the hermitage, turning the verse over in his mind, while Bharadwaja followed behind bearing the filled water pitcher.",
+    "text_mode": "dialogue",
+    "speaker": "Valmiki",
+    "on_slide_text": "What words have just left my mouth? Look, Bharadwaja, these lines stand in equal feet and sweet rhythm. They can be sung to the veena's strings. Born from my deep sorrow, this new music shall be called a shloka for all time.",
     "characters": [
       "Valmiki",
       "Bharadwaja"
     ],
     "location": "Tamasa Riverbank",
-    "rationale": "Covers the bathing and brooding return, bridging the riverbank discovery to the hermitage revelation."
+    "rationale": "Stages the startled discovery of metre as shloka fit for veena."
   },
   {
     "slide": 12,
-    "slide_label": "Slide12 - Brahma Arrives",
+    "slide_label": "Slide12 - Catch Your True Line",
+    "title": "Catch Your True Line",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why did wise Valmiki gasp at his own mouth?",
+    "answer": "Because true songs come before we understand them. Valmiki did not build the beat, his grief sang it in even steps fit for veena. That fast flow runs ahead of slow thinking. He asked Bharadwaja to hold the line, for a new spark needs a friend's eyes. Write your true line at once and share it.",
+    "on_slide_text": "Why did Valmiki gasp at his own mouth? Because true making comes first and knowing comes later. Grief sang an even beat by itself, like music flowing. New sparks fade fast. When a true line jumps from your heart this week, write it down at once and show a trusted friend.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on creation-before-understanding and witnessing the spark."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Bath and Return",
+    "title": "Bath and Return",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Bharadwaja nods with joy and repeats the sweet verse back. Valmiki feels peace hearing his student's voice. He bathes in the clear water and walks back to his hut, still turning the rhythm in his mind. Bharadwaja follows behind with the full water pot.",
+    "characters": [
+      "Valmiki",
+      "Bharadwaja"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Shows disciple support, bathing, and thoughtful return carrying the pitcher."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Brahma Arrives",
     "title": "Brahma Arrives",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "At the hermitage Valmiki spoke of ordinary things, yet the sorrowful metre echoed endlessly within him. Then to everyone's wonder, the radiant four-faced Lord Brahma himself appeared in splendour, come in person to meet the musing sage.",
+    "on_slide_text": "Back at his leaf hut Valmiki chats lightly about daily tasks. Yet inside his heart the new verse keeps beating again and again. Suddenly a bright light fills the air. Four-faced Brahma himself, glowing and kind, appears to meet the sage.",
     "characters": [
       "Valmiki",
       "Brahma",
       "Valmiki's Disciples"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Introduces Brahma's astonishing arrival while Valmiki remains inwardly fixed on the verse."
+    "rationale": "Brings the divine turn with Brahma's sudden arrival amid the echoing verse."
   },
   {
-    "slide": 13,
-    "slide_label": "Slide13 - Worship of the Creator",
-    "title": "Worship of the Creator",
+    "slide": 15,
+    "slide_label": "Slide15 - Welcoming Brahma",
+    "title": "Welcoming Brahma",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "The moment he saw the Creator, Valmiki rose in awe and stood silent with folded hands. He bowed low, offered water to wash Brahma's feet, gave him the honoured seat and worshipped him duly, while Brahma kindly asked his welfare and bade him sit.",
+    "on_slide_text": "The moment Valmiki sees Brahma he jumps up in wonder. He stands silent with folded hands and bows low. He washes Brahma's feet with clean water and offers a high seat. Brahma smiles warmly, asks about his health, and invites him to sit.",
     "characters": [
       "Valmiki",
       "Brahma"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Shows due worship and welcome, pausing before divine instruction while grief still lingers."
+    "rationale": "Shows reverent welcome and seating that honours Brahma."
   },
   {
-    "slide": 14,
-    "slide_label": "Slide14 - Compose Rama's Story",
-    "title": "Compose Rama's Story",
+    "slide": 16,
+    "slide_label": "Slide16 - Stuck in Sorrow",
+    "title": "Stuck in Sorrow",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Even seated beside Brahma, Valmiki cannot smile. His mind stays stuck on the sad riverbank. He keeps picturing the sweet bird singing before death. He thinks, what a heavy wrong that hunter did, taking a joyful life for no cause at all.",
+    "characters": [
+      "Valmiki",
+      "Brahma"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Shows Valmiki stuck in sorrow even before God, needing direction."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Write Rama's Story",
+    "title": "Write Rama's Story",
     "type": "scene",
     "text_mode": "dialogue",
     "speaker": "Brahma",
-    "on_slide_text": "Do not doubt, for this metre from your grieving lips shall be immortal by My will alone. Now compose Rama's whole story in this same shloka — all you heard from Narada and more, of Rama, Lakshmana, Sita and the rakshasas. Even the unknown shall be revealed, and no word of yours shall prove false.",
+    "on_slide_text": "Dear Valmiki, do not doubt, this new metre from your lips will live forever. By my wish it burst from your grief. Now use it to sing Rama's full story, with Lakshmana, Sita, and the rakshasas. All truth, seen and unseen, will shine to you, and no word will fail.",
     "characters": [
-      "Brahma",
-      "Valmiki"
+      "Valmiki",
+      "Brahma"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Delivers Brahma's central command and boons of revelation and truth, turning private grief toward Ramayana."
+    "rationale": "Stages Brahma's command to compose Rama's story in the immortal metre."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Wound Into Work",
-    "title": "Wound Into Work",
+    "slide": 18,
+    "slide_label": "Slide18 - Turn Wound Into Work",
+    "title": "Turn Wound Into Work",
     "type": "insight",
     "text_mode": null,
     "speaker": null,
-    "question": "Why does Brahma snatch Valmiki's private grief and order him to make it the vast tale of Rama, Sita and the rakshasas?",
-    "answer": "Layer one: Brahma converts wound into work; lonely sorrow stays lament but acknowledged sorrow becomes resolve for every separated Sita. Layer two: by my will it burst forth reframes suffering as divine design, not punishment. Layer three: boons that even the unknown will be seen and no word false prove compassion sees larger truth than fact, outlasting mountains. Practice: name one old hurt and turn it to serve someone.",
-    "on_slide_text": "Why turn one bird's death into Rama's epic? Because Brahma converts wound into work; private lament becomes resolve for every separated Sita when suffering is seen as design, not punishment. Compassion reveals deeper truth than fact, so a grief-song blessed by heaven can outlast mountains and oceans.",
+    "question": "Why did Brahma turn one bird's grief into Rama's huge story?",
+    "answer": "Because a lonely hurt stays a small cry, but a blessed hurt becomes work for many. Brahma showed Valmiki his tears were for every parted love, like Sita parted from Rama. Truth seen with kindness lasts longer than mountains. Name one old hurt this week and use it to help one person.",
+    "on_slide_text": "Why make one bird's grief into Rama and Sita's vast tale? Because a lonely wound stays a cry, but a blessed wound becomes work for all. Valmiki's tears were for every parted love. Name one old hurt this week and turn it into help for someone else.",
     "characters": [
       "Kavya"
     ],
     "location": null,
-    "rationale": "Reframes divine intervention as turning personal wound into universal blessing and enduring truth."
+    "rationale": "Reflects on wound-into-work after the divine commission."
   },
   {
-    "slide": 16,
-    "slide_label": "Slide16 - The Disciples Sing",
-    "title": "The Disciples Sing",
+    "slide": 19,
+    "slide_label": "Slide19 - Living Beyond Mountains",
+    "title": "Living Beyond Mountains",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "Promising that his Ramayana would live as long as mountains and oceans endure, and that Valmiki would dwell in both Brahma's world and this world while it is sung, Brahma vanished. Amazed, the disciples sang the four-part shloka again and again in deep pathos.",
+    "on_slide_text": "As long as high mountains and deep oceans stand on earth, your Ramayana will travel among people. As long as children sing this tale, you will live in my world and here. Saying this, Brahma vanishes, and Valmiki gazes in joyful wonder.",
     "characters": [
+      "Valmiki",
       "Brahma",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Stages the blessing of endurance and vanishing that seals authority."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Disciples Sing Again",
+    "title": "Disciples Sing Again",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Valmiki's disciples clap and sing the new verse again and again. Four short lines, even beats, full of tender sadness. They laugh with hope and say, our teacher will now sing the whole Ramayana in this sweet singing style for the world.",
+    "characters": [
       "Valmiki",
       "Valmiki's Disciples"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Captures Brahma's vanishing and the disciples' joyful repetition, confirming the metre will carry the epic."
+    "rationale": "Shows disciples repeating the verse and foreseeing the full Ramayana."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Birth of the Ramayana",
-    "title": "Birth of the Ramayana",
+    "slide": 21,
+    "slide_label": "Slide21 - The Ramayana Is Born",
+    "title": "The Ramayana Is Born",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "Thus blessed, the graceful sage Valmiki bound Rama's dynasty in hundreds of sweet, melodious shlokas. Hear the life of Rama, noblest of Raghus, and the fall of ten-headed Ravana, told in simple rhythmic words. Here, from sorrow's verse, the deathless Ramayana is born.",
+    "on_slide_text": "Blessed and bright, sage Valmiki sits to weave Rama's line in hundreds of sweet verses. He sings Rama, noblest of Raghus, and the fall of ten-headed Ravana in simple tuneful words. Here by still water and kind grief, the great Ramayana is born.",
     "characters": [
-      "Valmiki",
-      "Rama",
-      "Ravana"
+      "Valmiki"
     ],
-    "location": "Valmiki's Hermitage",
-    "rationale": "Closes on the resolving beat where sorrow becomes scripture, announcing the Ramayana's birth."
+    "location": "Valmiki's Meditation Seat",
+    "rationale": "Closes on the resolving beat where the Ramayana is born in sweet shlokas."
   }
 ]
