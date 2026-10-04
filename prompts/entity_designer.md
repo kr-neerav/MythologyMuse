@@ -31,6 +31,10 @@ Rules:
   unambiguously.
 * Consistency-critical details (Rama's azure-blue complexion, Sita's jasmine
   braid) must be unambiguous and repeated identically every time.
+* Rama's sheet stays the Ayodhya prince WITH crown (kiritamukuta) — keep
+  it. His vanavasa exile look (bare-headed jatabhara, no crown) is a
+  per-panel override owned by panel_prompts.md, never a second Rama
+  entity.
 * No story action, no panel composition, no other entities — identity ONLY.
 * Culture-faithful attire and setting; avoid modern anachronisms unless the
   description demands them (Kavya is modern dress).

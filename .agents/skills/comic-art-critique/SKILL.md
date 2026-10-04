@@ -32,9 +32,16 @@ fails for the same reasons old ones did.
   split into extra people, invoked-but-absent gods, the dead as cloud
   apparitions, offstage beneficiaries, elsewhere-informants, and
   collectives drawn as individuals.
-- Crowds stay faceless masses. Corpses and weapons are props. Similes
-  become emblems, motifs, or nothing.
-- One moment per panel: the apex beat. Earlier beats at most faceless hints.
+- Crowds stay undesigned with complete faces or no faces attempted: backs
+  to the viewer, soft blur, small distant figures, cropped hands/lamps at
+  the frame edge, or omitted entirely. NEVER "faceless" wording (it renders
+  as blank smeared faces). FAIL any prompt or render with face-negation
+  wording ("faceless", "without/no face", "no distinct faces", "no readable
+  facial features", "featureless", "blank face", "only X has a visible
+  face") or any background figure with a blank/smeared face zone.
+  Corpses and weapons are props. Similes become emblems, motifs, or nothing.
+- One moment per panel: the apex beat. Earlier beats at most background
+  hints seen from behind, softly out of focus, or omitted.
 - Fight beats stage the clash, not just its aftermath: the hostile force
   advances toward the hero with visible momentum while its defeat already
   reads at the edges (recoil, falter, dust, lowered weapons) — never an
@@ -59,6 +66,17 @@ fails for the same reasons old ones did.
   words every time.
 - Twins share one build; faces, manes, and regalia stay distinct.
 - Ravana: single head, two arms. This is project canon, not a mistake.
+- Exile dress (Ramayana canon): during the vanavasa exile — after Rama's
+  departure from Ayodhya, through the forest years up to the
+  return/coronation — Rama wears NO crown of any kind (no
+  kiritamukuta/mukuta/karanda/circlet): bare-headed, matted jatabhara
+  topknot, bark/valkala or plain ascetic cloth with bow and quiver. The
+  roster sheet shows the Ayodhya prince with crown; that crown never
+  transfers to an exile panel. FAIL any exile-context render or prompt
+  showing or naming a crown on Rama. Fix in the panel prompt (both
+  copies) by describing the jatabhara topknot bare-headed and deleting
+  every crown word, then re-render. Crowned Rama outside exile (Ayodhya
+  before departure, coronation/return) still passes.
 - No attribute bleed between staged figures: no extra limbs or heads on
   anyone, ever. Rama reads two-armed, one head.
 - One tail per vanara: each monkey-figured staged cast member shows
@@ -104,7 +122,12 @@ without rendering when any prop noun lacks a support verb: every
 staff, vessel, weapon, lamp, and seat must read held, worn, planted,
 rested, slung, or set down somewhere explicit. Vague standees
 ("beside his kamandalu", "with his staff nearby") fail at $0 — name
-the support, then render.
+the support, then render. Fail the prompt without rendering when it
+contains face-negation wording ("faceless", "without face(s)",
+"no face(s)", "no distinct faces", "no readable facial features",
+"featureless", "blank face", "only X has a visible face"): rewrite with
+camera language (backs to viewer, soft blur, small distant figures, crop)
+or omit the crowd, then render.
 A provider-side block (image API content_policy_violation on a prompt
 that passed this pre-scan) is not a stop: rewrite the panel prompt in
 both copies to clear the filter while staying consistent with the
@@ -157,6 +180,15 @@ more. Never loop a whole chapter unasked.
   source change, spend exactly one single-candidate round via
   `tools/studio_loop.py --chapter <id> --slide <N> --live` (dry-run
   first when the prompt changed), view the candidate, critique again.
+  Critique from the 768px thumbnail (`tools/critique_packet.py`); open
+  full-res only to zoom prop-support zones. Thumbnails never replace the
+  zoom: no PASS with an unaccounted object.
+- Before round 1, run the pre-trim gate (`tools/pretrim.py --chapter
+  <id>`): storyboard slides staging more than 5 named faces fail the
+  face cap on arrival, so trim them to the apex beat first (same three
+  files as any wrong-person fix, plus the panel prompt in both copies).
+  Entry count is a proxy — a slide resolved with background hints
+  (backs/blur, no staged faces) needs no storyboard trim.
 - Entities once only: evaluate each entity sheet the first time it
   appears; a PASS stands book-wide for that exact final (same roster
   image prompt, same final file) and is never re-critiqued while the

@@ -313,3 +313,20 @@ Frozen downstream shapes (preserved exactly): storyboard slide keys
 - Retrofit path per chapter: `comic_stage.py --chapter <name> --redo-comic`
   (text-only; studio finals untouched). Fresh chapters pick the style up
   directly.
+
+## Rama exile dress — no crown during vanavasa
+- Rule: during the vanavasa exile (after Rama's departure from Ayodhya,
+  through the forest years up to the return/coronation) Rama is
+  bare-headed with a matted jatabhara topknot — no crown of any kind.
+  Crowned Rama is correct only outside exile (Ayodhya before departure,
+  coronation/return).
+- `panel_prompts.md`: new exile-dress rule — exile panels fold the
+  jatabhara/bark-cloth look into the prose and omit every crown word;
+  the roster sheet (Ayodhya prince with crown) never transfers its crown
+  to an exile panel.
+- `entity_designer.md`: Rama's sheet stays the crowned Ayodhya prince;
+  exile is a per-panel override, never a second Rama entity.
+- `.agents/skills/comic-art-critique/SKILL.md` §2: FAIL any
+  exile-context render or prompt showing/naming a crown on Rama; fix in
+  the panel prompt (both copies), then re-render.
+- Existing Rama sheet + standing PASS unchanged (pre-exile prince).
