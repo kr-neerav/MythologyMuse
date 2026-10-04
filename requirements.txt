@@ -1,3 +1,5 @@
 # MythologyMuse requirements (text pipeline only — no audio/image deps in v1)
 urllib3>=2.0
 pyyaml>=6.0
+# Art-loop helpers only (frame gate, critique thumbnails); pipeline stays dep-free
+Pillow>=10.0

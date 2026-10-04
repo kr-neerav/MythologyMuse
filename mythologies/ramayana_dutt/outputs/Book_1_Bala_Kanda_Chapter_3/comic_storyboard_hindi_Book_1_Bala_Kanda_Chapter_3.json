@@ -1,348 +1,323 @@
 [
-  {
-    "slide": 1,
-    "slide_label": "Slide01 - Narada Departs",
-    "title": "Narada Departs",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "राम की कथा सुनाकर और वाल्मीकि की पूजा पाकर नारद आकाश में उड़ते हुए अपने लोक को चले गए। आश्रम में अकेले रह गए वाल्मीकि गहरे सोच में डूब गए। वे नहीं जानते थे कि जंगल की एक छोटी सी घटना जल्द ही उनके मन में गाने का बड़ा संकल्प जगाने वाली है।",
-    "characters": [
-      "Valmiki",
-      "Narada"
-    ],
-    "location": "Valmiki's Hermitage",
-    "rationale": "Opens on the hook — Narada's skyward departure leaves Valmiki alone, setting the quiet before resolve."
-  },
-  {
-    "slide": 2,
-    "slide_label": "Slide02 - East-Facing Vision",
-    "title": "East-Facing Vision",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "पूर्व की ओर मुख करके कुशा की चटाई पर बैठकर वाल्मीकि ने विधि से जल पिया और योग में उतरकर मन को राम में लगा दिया। योग की शक्ति से सब उनके सामने जीवंत खड़े हो गए, राम, लक्ष्मण, सीता और अपनी पत्नियों के साथ राजा दशरथ, हँसते, बोलते और चलते फिरते।",
-    "characters": [
-      "Valmiki",
-      "Rama",
-      "Lakshmana",
-      "Sita",
-      "Dasharatha",
-      "Dasharatha's Wives"
-    ],
-    "location": "Valmiki's Meditation Seat",
-    "rationale": "Establishes yogic preparation and the living vision that grounds the whole composition."
-  },
-  {
-    "slide": 3,
-    "slide_label": "Slide03 - Hearing Versus Knowing",
-    "title": "Hearing Versus Knowing",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "वाल्मीकि ने नारद से राम की पूरी कथा ध्यान से सुनने के बाद भी पूर्व दिशा की ओर मुख करके आसन पर बैठकर योग में स्वयं सत्य देखने की इच्छा क्यों की थी?",
-    "answer": "सुना हुआ पराया अनुभव है, योग उसे सीधा दर्शन बनाता है। भरत का नंदिग्राम शासन सुनने में नीति, देखने में जीवित भाई भक्ति है। पूर्वमुख बैठना और स्थिर होना कर्मकांड नहीं, मन की तैयारी है, जिससे शांत इंद्रियों में सत्य उतरता है। सूचनाओं की भीड़ में हम तुरंत न्याय करते हैं, इसलिए दस मिनट ठहरकर मानव पक्ष देखो, तभी बोलो।",
-    "on_slide_text": "नारद से रामकथा सुनकर भी वाल्मीकि पूर्वमुख बैठे ताकि स्वयं देख सकें, क्योंकि सुना हुआ पराया अनुभव है और योग सत्य को सीधा दर्शन बनाता है। शरीर स्थिर और इंद्रियाँ शांत हों तो भरत की खड़ाऊँ शासन जैसी नीति जीवित भक्ति दिखती है, जो खबर आँकने से पहले दस मिनट ठहरना सिखाती है।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Pauses to distill why direct seeing must follow hearing."
-  },
-  {
-    "slide": 4,
-    "slide_label": "Slide04 - God in Laughter",
-    "title": "God in Laughter",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "सर्वोच्च योग दृष्टि ने वाल्मीकि को चमकते अलौकिक प्रकाश के बदले आँगन में हँसते, बातें करते और घूमते फिरते साधारण मनुष्य क्यों दिखाए, इस अनोखे चयन के पीछे गहरा रहस्य क्या था?",
-    "answer": "सत्य ऊपर नहीं, उसी आँगन में मिला जहाँ दशरथ पत्नियों संग हँसते हैं। देवत्व मनुष्यता से अलग नहीं, रिश्ते निभाने में है। बड़े व्यक्ति को हँसते देखकर पूजा की दूरी समझ और अपनेपन में बदल जाती है, यही करुणा का मनोविज्ञान है। इसलिए आदर्श को पूजो मत, थकान, हँसी या चिंता का एक साधारण क्षण देखो और जुड़कर सीखो।",
-    "on_slide_text": "चकाचौंध करने वाला प्रकाश क्यों नहीं, बल्कि आँगन जहाँ दशरथ अपनी पत्नियों के साथ हँसते हैं? क्योंकि देवत्व चमत्कार में नहीं, रिश्ते निभाने में बसता है। बड़े मनुष्य को हँसते देखकर पूजा समझ में बदल जाती है और अपनापन जागता है, जो हमें इस सप्ताह एक साधारण मानवीय क्षण से सीखने को कहता है।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Draws the human-divine insight from the laughing courtyard vision."
-  },
-  {
-    "slide": 5,
-    "slide_label": "Slide05 - Amla on the Palm",
-    "title": "Amla on the Palm",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "हथेली पर रखे आँवले की तरह साफ वाल्मीकि ने राम के भूत, वर्तमान और भविष्य को देखा, और व्रतधारी राम ने सीता लक्ष्मण के साथ वनवास में जो कष्ट सहे, वे भी देखे। सच्चा दर्शन पाकर उन्होंने सागर सा गहरा, कानों को मीठा लगने वाला रघु इतिहास रचने का निश्चय किया, जो धर्म, अर्थ, काम और मोक्ष देने वाला है।",
-    "characters": [
-      "Valmiki",
-      "Rama",
-      "Sita",
-      "Lakshmana"
-    ],
-    "location": "Valmiki's Meditation Seat",
-    "rationale": "Shows total trikala vision turning into resolve for ocean-deep history."
-  },
-  {
-    "slide": 6,
-    "slide_label": "Slide06 - Witness Not Fate",
-    "title": "Witness Not Fate",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "हथेली पर रखे आँवले की तरह अतीत और भविष्य को एक साथ देख लेने से क्या यही सिद्ध होता है कि जीवन में सब कुछ पहले से ही तय है",
-    "answer": "उल्टा सच है वाल्मीकि अपहरण जानते हुए राम रोते हैं जटायु का संस्कार करते हैं पंपा तक खोजते हैं वे कठपुतली नहीं पूर्ण दृष्टि भाग्यवाद नहीं करुणा जगाती है साक्षी बनने पर दोष मिटता है समझ आती है समय ज्ञान से कर्म को अर्थ मिलता है चिंता में परिस्थिति को आँवले जैसा देखो और पूछो अंत से कर्म क्या है",
-    "on_slide_text": "वाल्मीकि ने अतीत और भविष्य को हथेली के आँवले जैसा देखा तो क्या सब तय है नहीं राम फिर भी रोते हैं जटायु को सम्मान देते हैं पंपा तक खोजते हैं वे कठपुतली नहीं पूर्ण ज्ञान भाग्यवाद नहीं करुणा और साक्षी दायित्व देता है चिंता को अंत से देखो और अभी सही कर्म चुनो",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Unpacks the amla simile as compassion, not fatalism."
-  },
-  {
-    "slide": 7,
-    "slide_label": "Slide07 - Prince of Virtues",
-    "title": "Prince of Virtues",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "पहले उन्होंने राम का जन्म शक्ति सब पर दया लोकप्रियता धैर्य सत्य और अच्छाई देखी फिर विश्वामित्र के साथ यात्रा संवाद और यज्ञ रक्षा जनकपुर में शिव धनुष का टूटना सीता से विवाह उत्सव और मार्ग में परशुराम के सामने शांत तेजस्वी साहस देखा",
-    "characters": [
-      "Rama",
-      "Sita",
-      "Vishwamitra",
-      "Parashurama"
-    ],
-    "location": "Janakpur",
-    "rationale": "Covers early-life virtues, Vishwamitra, bow, marriage and Parashurama as foundation."
-  },
-  {
-    "slide": 8,
-    "slide_label": "Slide08 - Coronation Undone",
-    "title": "Coronation Undone",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "अयोध्या में राम के राज्याभिषेक की तैयारियाँ हुईं पर कैकेयी के विरोध से सब रुक गया अभिषेक टूटा चौदह वर्ष का वनवास तय हुआ शोक में राजा दशरथ विलाप करते हुए चल बसे प्रजा रोई फिर भी राम ने उन्हें समझाया और लौटा दिया अयोध्या का सुखी जीवन समाप्त हुआ",
-    "characters": [
-      "Rama",
-      "Dasharatha",
-      "Kaikeyi",
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Marks the great turning point — blocked consecration, exile and Dasharatha's death."
-  },
-  {
-    "slide": 9,
-    "slide_label": "Slide09 - Exile and Sandals",
-    "title": "Exile and Sandals",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "वन मार्ग में राम निषादराज गुह से मिले और गंगा पार की जबकि सुमंत्र खाली रथ लेकर अयोध्या लौटे भरद्वाज के आश्रम में विश्राम के बाद उनकी सलाह से चित्रकूट में पत्तों की कुटिया बनाई भरत लौटने की प्रार्थना लेकर आए राम ने पिता को जल दिया और भरत ने नंदिग्राम से खड़ाऊँ के नाम पर शासन किया",
-    "characters": [
-      "Rama",
-      "Sita",
-      "Lakshmana",
-      "Nishadraj Guha",
-      "Sumantra",
-      "Bharadwaja",
-      "Bharata"
-    ],
-    "location": "Chitrakuta",
-    "rationale": "Traces the forest path via Guha, Ganga, Bharadwaja, Chitrakuta and Bharata's sandals rule."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Dandaka Trials",
-    "title": "Dandaka Trials",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "चित्रकूट से राम दंडक वन गए जहाँ राक्षस विराध मारा गया फिर शरभंग और सुतीक्ष्ण मुनियों से मिले जबकि अनसूया ने सीता का श्रृंगार कर आशीष दिया अगस्त्य ने दिव्य धनुष दिया फिर शूर्पणखा आई नाक कान कटवाए खर दूषण और त्रिशिरा ने आक्रमण किया और राम से हारकर गिरे तब रावण ने मारीच के साथ अपहरण की योजना बनाई",
-    "characters": [
-      "Rama",
-      "Lakshmana",
-      "Sita",
-      "Viradha",
-      "Sharabhanga",
-      "Sutikshna",
-      "Anasuya",
-      "Agastya",
-      "Shurpanakha",
-      "Khara",
-      "Trishira",
-      "Dushana",
-      "Ravana",
-      "Maricha"
-    ],
-    "location": "Dandaka Forest",
-    "rationale": "Condenses Dandaka encounters, Anasuya's blessing, Agastya's bow and Shurpanakha war trigger."
-  },
-  {
-    "slide": 11,
-    "slide_label": "Slide11 - Golden Deer Loss",
-    "title": "Golden Deer Loss",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "मारीच सुनहरा हिरन बनकर राम लक्ष्मण को दूर ले गया और मारा गया, तभी रावण सीता हर ले गया। राम रोते बिलखते सीता को खोजने लगे। घायल जटायु ने प्राण दे दिए। फिर कबंध मिला और पंपा सरोवर दिखा, जहाँ शबरी ने प्रेम से बेर खिलाए और दुखी राम हनुमान से मिले।",
-    "characters": [
-      "Rama",
-      "Lakshmana",
-      "Sita",
-      "Maricha",
-      "Ravana",
-      "Jatayu",
-      "Kabandha",
-      "Shabari",
-      "Hanuman"
-    ],
-    "location": "Lake Pampa",
-    "rationale": "Follows golden deer lure, abduction, Jatayu, Kabandha, Shabari and Hanuman meeting."
-  },
-  {
-    "slide": 12,
-    "slide_label": "Slide12 - Song Over Sermon",
-    "title": "Song Over Sermon",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "धर्म अर्थ काम और मोक्ष चारों फलों को देने के लिए वाल्मीकि ने सूखे नियमों के बदले कान और मन को प्रिय लगने वाला सागर जैसा गहरा काव्य क्यों रचा?",
-    "answer": "मनुष्य आदेश से नहीं रस से बदलता है, बेर खिलाती शबरी नियम नहीं सिखाती, पर भक्ति शास्त्र खोल देती है। मोती लहर गहराई वाले सागर जैसा पाठक प्यास भर पाता है, मन आंकड़ों से नहीं कथा से पिघलता है। अतः शास्त्र गीत बना जो पहले कान, फिर मन, फिर जीवन छूता है, इसलिए भाषण नहीं सच्ची छोटी कथा कहो।",
-    "on_slide_text": "जीवन के चार फलों हेतु सूखा नियम नहीं, सागर जैसा गहरा गीत क्यों? क्योंकि मनुष्य आदेश से नहीं, रस से बदलता है, शबरी के बेर भक्ति का शास्त्र खोल देते हैं। मोती, लहर और गहराई वाले सागर जैसे कथा पहले कान, फिर मन, फिर जीवन पकड़ती है, इसलिए संस्कार हेतु कोई सच्ची छोटी कहानी सुनाओ।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects why sweet ocean-like poetry carries dharma better than instruction."
-  },
-  {
-    "slide": 13,
-    "slide_label": "Slide13 - Friendship and Fall",
-    "title": "Friendship and Fall",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "हनुमान राम को ऋष्यमूक पर सुग्रीव से मिलाने ले गए, भय मिटा और गहरी मित्रता हुई। फिर सुग्रीव बालि से भिड़े और राम ने बालि को मारा। तारा का विलाप दिल चीर गया और सुग्रीव राजा बने। राम वर्षा भर ठहरे, खोज में देरी पर सिंह जैसे क्रोध से जले, तब सुग्रीव ने वानर सेना जुटाई।",
-    "characters": [
-      "Rama",
-      "Hanuman",
-      "Sugriva",
-      "Vali",
-      "Tara"
-    ],
-    "location": "Mount Rishyamukha",
-    "rationale": "Captures Sugriva friendship, Vali slaying, Tara lament and rainy halt anger."
-  },
-  {
-    "slide": 14,
-    "slide_label": "Slide14 - Leap Across Ocean",
-    "title": "Leap Across Ocean",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "सुग्रीव ने वानरों को चारों दिशाओं में भेजा और हर दल को क्षेत्र बांटा, राम ने हनुमान को पहचान हेतु अंगूठी दी। जांबवान संग खोज में एक गुफा मिली, फिर सब सागर तट पर उपवास कर बैठे। वहाँ संपाति मिले। हनुमान पर्वत से उछले और सागर लांघ गए, मैनाक का विश्राम छोड़ा और छाया ग्राहिणी व सिंहिका को हराया।",
-    "characters": [
-      "Sugriva",
-      "Rama",
-      "Hanuman",
-      "Jambavan",
-      "Sampati",
-      "Mainaka",
-      "Simhika",
-      "Shadow-Catching Demoness"
-    ],
-    "location": "Ocean Shore",
-    "rationale": "Follows four-way search, ring token, Sampati and Hanuman's ocean leap trials."
-  },
-  {
-    "slide": 15,
-    "slide_label": "Slide15 - Night in Lanka",
-    "title": "Night in Lanka",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "रात में हनुमान लंका में घुसे, असहाय समय में धीरज रखना सीखा, मदिरालय, अंतःपुर और महल देखे जहाँ रावण और पुष्पक दिखा। अशोक वाटिका में सीता मिलीं, उन्हें राम की अंगूठी और संदेश दिया। राक्षसियां गरजीं, त्रिजटा ने अपना स्वप्न सुनाया, और सीता ने विश्वास हेतु अपनी चूड़ामणि सौंपी।",
-    "characters": [
-      "Hanuman",
-      "Sita",
-      "Ravana",
-      "Trijata",
-      "Demonesses Of Ashoka Vatika"
-    ],
-    "location": "Ashoka Vatika",
-    "rationale": "Enters Lanka by night, Pushpaka sight, Sita found, ring exchanged and jewel received."
-  },
-  {
-    "slide": 16,
-    "slide_label": "Slide16 - Fire and Hope",
-    "title": "Fire and Hope",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "फिर हनुमान ने अशोक वाटिका के पेड़ उखाड़ दिए, पहरेदार गिर पड़े और राक्षसियाँ भाग गईं। पवनपुत्र ने स्वयं को बँधने दिया, फिर भयंकर गर्जना के साथ लंका जला दी। सागर लाँघकर लौटे, किष्किंधा के मधुवन में धूम मचाई, राम को धीरज दिया और सीता की मणि उनके हाथ में रखकर डूबते मन में नई आशा भर दी।",
-    "characters": [
-      "Hanuman",
-      "Rama"
-    ],
-    "location": "Kishkindha",
-    "rationale": "Shows Vatika ruin, capture, Lanka burning and hopeful return with jewel."
-  },
-  {
-    "slide": 17,
-    "slide_label": "Slide17 - Bridge to Dharma",
-    "title": "Bridge to Dharma",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "राम ने सागर से मार्ग माँगा और नल के नेतृत्व में सेतु बन गया। वानर सेना पार उतरी और रात में लंका घेर ली। विभीषण शरण आए और जीत का उपाय बताया। युद्ध में कुंभकर्ण और मेघनाद मरे, रावण मारा गया और सीता मिलीं। विभीषण का राजतिलक हुआ और पुष्पक आया, धर्म की जीत ने सबके मन छू लिए।",
-    "characters": [
-      "Rama",
-      "Nala",
-      "Monkey Army",
-      "Vibhishana",
-      "Kumbhakarna",
-      "Meghanada",
-      "Ravana",
-      "Sita"
-    ],
-    "location": "Lanka Battlefield",
-    "rationale": "Delivers the climax — ocean bridge, siege, Vibhishana refuge and Ravana's fall."
-  },
-  {
-    "slide": 18,
-    "slide_label": "Slide18 - Crown and Renunciation",
-    "title": "Crown and Renunciation",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "युद्ध के बाद राम पुष्पक से अयोध्या चले, रास्ते में भरद्वाज से मिले और हनुमान को भरत के पास भेजा। फिर राम और भरत का आँसुओं भरा मिलन हुआ और राम का राजतिलक हुआ। वानर दलों को विदा किया। राम ने प्रजा को प्रसन्न किया, पर लोगों के लिए सीता को त्याग दिया, राम की जीवनकथा उत्तरकांड के लिए छोड़कर।",
-    "characters": [
-      "Rama",
-      "Sita",
-      "Bharata",
-      "Bharadwaja",
-      "Hanuman",
-      "People Of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Resolves with Pushpaka return, Bharata reunion, coronation and Sita renunciation pointing to Uttara."
-  },
-  {
-    "slide": 19,
-    "slide_label": "Slide19 - Counting the Cost",
-    "title": "Counting the Cost",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "लंका विजय और राजतिलक के बाद वाल्मीकि ने सुखांत पर न रोककर सीता त्याग की चुभन क्यों बनाए रखी?",
-    "answer": "वाल्मीकि प्रजा सुख और सीता त्याग को साथ रखते हैं, आदर्श राजा वहाँ घायल है जहाँ धर्म कीमत माँगता है। राम के लिए सबका हित प्रेम से बड़ा है, धर्म केवल सुख नहीं देता। हर जीत के पीछे तस्वीर से कटा त्याग है, कथा जीत से कीमत गिनती है। अपनी सफलता का छिपा त्याग लिखो और देखो सुधार बाकी है।",
-    "on_slide_text": "विजय के बाद सीता के त्याग को क्यों रखा, सुखांत क्यों नहीं? क्योंकि वाल्मीकि जीत के साथ कीमत गिनते हैं — सबके धर्म के आगे निजी प्रेम झुकता है तो आदर्श राजा भी घाव पाता है। सफलता की तस्वीर के पीछे छिपा त्याग है। इस सप्ताह अपनी सफलता के पीछे एक छिपा समझौता लिखो और देखो क्या सुधार बाकी है।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Closes on the sharpest insight — why Valmiki keeps the wound with victory."
-  }
+ {
+  "slide": 1,
+  "slide_label": "Slide01 - Narada Departs",
+  "title": "Narada Departs",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "राम की कथा सुनाकर और वाल्मीकि की पूजा पाकर नारद आकाश में उड़ते हुए अपने लोक को चले गए। आश्रम में अकेले रह गए वाल्मीकि गहरे सोच में डूब गए। वे नहीं जानते थे कि जंगल की एक छोटी सी घटना जल्द ही उनके मन में गाने का बड़ा संकल्प जगाने वाली है।",
+  "characters": [
+   "Valmiki",
+   "Narada"
+  ],
+  "location": "Valmiki's Hermitage",
+  "rationale": "Opens on the hook — Narada's skyward departure leaves Valmiki alone, setting the quiet before resolve."
+ },
+ {
+  "slide": 2,
+  "slide_label": "Slide02 - East-Facing Vision",
+  "title": "East-Facing Vision",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "पूर्व की ओर मुख करके कुशा की चटाई पर बैठकर वाल्मीकि ने विधि से जल पिया और योग में उतरकर मन को राम में लगा दिया। योग की शक्ति से सब उनके सामने जीवंत खड़े हो गए, राम, लक्ष्मण, सीता और अपनी पत्नियों के साथ राजा दशरथ, हँसते, बोलते और चलते फिरते।",
+  "characters": [
+   "Valmiki",
+   "Rama",
+   "Lakshmana",
+   "Sita",
+   "Dasharatha",
+   "Dasharatha's Wives"
+  ],
+  "location": "Valmiki's Meditation Seat",
+  "rationale": "Establishes yogic preparation and the living vision that grounds the whole composition."
+ },
+ {
+  "slide": 3,
+  "slide_label": "Slide03 - Hearing Versus Knowing",
+  "title": "Hearing Versus Knowing",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "वाल्मीकि ने नारद से राम की पूरी कथा ध्यान से सुनने के बाद भी पूर्व दिशा की ओर मुख करके आसन पर बैठकर योग में स्वयं सत्य देखने की इच्छा क्यों की थी?",
+  "answer": "सुना हुआ पराया अनुभव है, योग उसे सीधा दर्शन बनाता है। भरत का नंदिग्राम शासन सुनने में नीति, देखने में जीवित भाई भक्ति है। पूर्वमुख बैठना और स्थिर होना कर्मकांड नहीं, मन की तैयारी है, जिससे शांत इंद्रियों में सत्य उतरता है। सूचनाओं की भीड़ में हम तुरंत न्याय करते हैं, इसलिए दस मिनट ठहरकर मानव पक्ष देखो, तभी बोलो।",
+  "on_slide_text": "नारद से रामकथा सुनकर भी वाल्मीकि पूर्वमुख बैठे ताकि स्वयं देख सकें, क्योंकि सुना हुआ पराया अनुभव है और योग सत्य को सीधा दर्शन बनाता है। शरीर स्थिर और इंद्रियाँ शांत हों तो भरत की खड़ाऊँ शासन जैसी नीति जीवित भक्ति दिखती है, जो खबर आँकने से पहले दस मिनट ठहरना सिखाती है।",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Pauses to distill why direct seeing must follow hearing."
+ },
+ {
+  "slide": 4,
+  "slide_label": "Slide04 - God in Laughter",
+  "title": "God in Laughter",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "सर्वोच्च योग दृष्टि ने वाल्मीकि को चमकते अलौकिक प्रकाश के बदले आँगन में हँसते, बातें करते और घूमते फिरते साधारण मनुष्य क्यों दिखाए, इस अनोखे चयन के पीछे गहरा रहस्य क्या था?",
+  "answer": "सत्य ऊपर नहीं, उसी आँगन में मिला जहाँ दशरथ पत्नियों संग हँसते हैं। देवत्व मनुष्यता से अलग नहीं, रिश्ते निभाने में है। बड़े व्यक्ति को हँसते देखकर पूजा की दूरी समझ और अपनेपन में बदल जाती है, यही करुणा का मनोविज्ञान है। इसलिए आदर्श को पूजो मत, थकान, हँसी या चिंता का एक साधारण क्षण देखो और जुड़कर सीखो।",
+  "on_slide_text": "चकाचौंध करने वाला प्रकाश क्यों नहीं, बल्कि आँगन जहाँ दशरथ अपनी पत्नियों के साथ हँसते हैं? क्योंकि देवत्व चमत्कार में नहीं, रिश्ते निभाने में बसता है। बड़े मनुष्य को हँसते देखकर पूजा समझ में बदल जाती है और अपनापन जागता है, जो हमें इस सप्ताह एक साधारण मानवीय क्षण से सीखने को कहता है।",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Draws the human-divine insight from the laughing courtyard vision."
+ },
+ {
+  "slide": 5,
+  "slide_label": "Slide05 - Amla on the Palm",
+  "title": "Amla on the Palm",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "हथेली पर रखे आँवले की तरह साफ वाल्मीकि ने राम के भूत, वर्तमान और भविष्य को देखा, और व्रतधारी राम ने सीता लक्ष्मण के साथ वनवास में जो कष्ट सहे, वे भी देखे। सच्चा दर्शन पाकर उन्होंने सागर सा गहरा, कानों को मीठा लगने वाला रघु इतिहास रचने का निश्चय किया, जो धर्म, अर्थ, काम और मोक्ष देने वाला है।",
+  "characters": [
+   "Valmiki",
+   "Rama",
+   "Sita",
+   "Lakshmana"
+  ],
+  "location": "Valmiki's Meditation Seat",
+  "rationale": "Shows total trikala vision turning into resolve for ocean-deep history."
+ },
+ {
+  "slide": 6,
+  "slide_label": "Slide06 - Witness Not Fate",
+  "title": "Witness Not Fate",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "हथेली पर रखे आँवले की तरह अतीत और भविष्य को एक साथ देख लेने से क्या यही सिद्ध होता है कि जीवन में सब कुछ पहले से ही तय है",
+  "answer": "उल्टा सच है वाल्मीकि अपहरण जानते हुए राम रोते हैं जटायु का संस्कार करते हैं पंपा तक खोजते हैं वे कठपुतली नहीं पूर्ण दृष्टि भाग्यवाद नहीं करुणा जगाती है साक्षी बनने पर दोष मिटता है समझ आती है समय ज्ञान से कर्म को अर्थ मिलता है चिंता में परिस्थिति को आँवले जैसा देखो और पूछो अंत से कर्म क्या है",
+  "on_slide_text": "वाल्मीकि ने अतीत और भविष्य को हथेली के आँवले जैसा देखा तो क्या सब तय है नहीं राम फिर भी रोते हैं जटायु को सम्मान देते हैं पंपा तक खोजते हैं वे कठपुतली नहीं पूर्ण ज्ञान भाग्यवाद नहीं करुणा और साक्षी दायित्व देता है चिंता को अंत से देखो और अभी सही कर्म चुनो",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Unpacks the amla simile as compassion, not fatalism."
+ },
+ {
+  "slide": 7,
+  "slide_label": "Slide07 - Prince of Virtues",
+  "title": "Prince of Virtues",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "पहले उन्होंने राम का जन्म शक्ति सब पर दया लोकप्रियता धैर्य सत्य और अच्छाई देखी फिर विश्वामित्र के साथ यात्रा संवाद और यज्ञ रक्षा जनकपुर में शिव धनुष का टूटना सीता से विवाह उत्सव और मार्ग में परशुराम के सामने शांत तेजस्वी साहस देखा",
+  "characters": [
+   "Rama",
+   "Sita",
+   "Vishwamitra",
+   "Parashurama"
+  ],
+  "location": "Janakpur",
+  "rationale": "Covers early-life virtues, Vishwamitra, bow, marriage and Parashurama as foundation."
+ },
+ {
+  "slide": 8,
+  "slide_label": "Slide08 - Coronation Undone",
+  "title": "Coronation Undone",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "अयोध्या में राम के राज्याभिषेक की तैयारियाँ हुईं पर कैकेयी के विरोध से सब रुक गया अभिषेक टूटा चौदह वर्ष का वनवास तय हुआ शोक में राजा दशरथ विलाप करते हुए चल बसे प्रजा रोई फिर भी राम ने उन्हें समझाया और लौटा दिया अयोध्या का सुखी जीवन समाप्त हुआ",
+  "characters": [
+   "Rama",
+   "Dasharatha",
+   "Kaikeyi",
+   "Citizens of Ayodhya"
+  ],
+  "location": "Ayodhya",
+  "rationale": "Marks the great turning point — blocked consecration, exile and Dasharatha's death."
+ },
+ {
+  "slide": 9,
+  "slide_label": "Slide09 - Exile and Sandals",
+  "title": "Exile and Sandals",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "वन मार्ग में राम निषादराज गुह से मिले और गंगा पार की जबकि सुमंत्र खाली रथ लेकर अयोध्या लौटे भरद्वाज के आश्रम में विश्राम के बाद उनकी सलाह से चित्रकूट में पत्तों की कुटिया बनाई भरत लौटने की प्रार्थना लेकर आए राम ने पिता को जल दिया और भरत ने नंदिग्राम से खड़ाऊँ के नाम पर शासन किया",
+  "characters": [
+   "Rama",
+   "Sita",
+   "Lakshmana",
+   "Nishadraj Guha",
+   "Sumantra",
+   "Bharadwaja",
+   "Bharata"
+  ],
+  "location": "Chitrakuta",
+  "rationale": "Traces the forest path via Guha, Ganga, Bharadwaja, Chitrakuta and Bharata's sandals rule."
+ },
+ {
+  "slide": 10,
+  "slide_label": "Slide10 - Dandaka Trials",
+  "title": "Dandaka Trials",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "चित्रकूट से राम दंडक वन गए जहाँ राक्षस विराध मारा गया फिर शरभंग और सुतीक्ष्ण मुनियों से मिले जबकि अनसूया ने सीता का श्रृंगार कर आशीष दिया अगस्त्य ने दिव्य धनुष दिया फिर शूर्पणखा आई नाक कान कटवाए खर दूषण और त्रिशिरा ने आक्रमण किया और राम से हारकर गिरे तब रावण ने मारीच के साथ अपहरण की योजना बनाई",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Sita",
+   "Anasuya",
+   "Agastya"
+  ],
+  "location": "Dandaka Forest",
+  "rationale": "Condenses Dandaka encounters, Anasuya's blessing, Agastya's bow and Shurpanakha war trigger."
+ },
+ {
+  "slide": 11,
+  "slide_label": "Slide11 - Golden Deer Loss",
+  "title": "Golden Deer Loss",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "मारीच सुनहरा हिरन बनकर राम लक्ष्मण को दूर ले गया और मारा गया, तभी रावण सीता हर ले गया। राम रोते बिलखते सीता को खोजने लगे। घायल जटायु ने प्राण दे दिए। फिर कबंध मिला और पंपा सरोवर दिखा, जहाँ शबरी ने प्रेम से बेर खिलाए और दुखी राम हनुमान से मिले।",
+  "characters": [
+   "Rama",
+   "Lakshmana",
+   "Jatayu"
+  ],
+  "location": "Dandaka Forest",
+  "rationale": "Follows golden deer lure, abduction, Jatayu, Kabandha, Shabari and Hanuman meeting."
+ },
+ {
+  "slide": 12,
+  "slide_label": "Slide12 - Song Over Sermon",
+  "title": "Song Over Sermon",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "धर्म अर्थ काम और मोक्ष चारों फलों को देने के लिए वाल्मीकि ने सूखे नियमों के बदले कान और मन को प्रिय लगने वाला सागर जैसा गहरा काव्य क्यों रचा?",
+  "answer": "मनुष्य आदेश से नहीं रस से बदलता है, बेर खिलाती शबरी नियम नहीं सिखाती, पर भक्ति शास्त्र खोल देती है। मोती लहर गहराई वाले सागर जैसा पाठक प्यास भर पाता है, मन आंकड़ों से नहीं कथा से पिघलता है। अतः शास्त्र गीत बना जो पहले कान, फिर मन, फिर जीवन छूता है, इसलिए भाषण नहीं सच्ची छोटी कथा कहो।",
+  "on_slide_text": "जीवन के चार फलों हेतु सूखा नियम नहीं, सागर जैसा गहरा गीत क्यों? क्योंकि मनुष्य आदेश से नहीं, रस से बदलता है, शबरी के बेर भक्ति का शास्त्र खोल देते हैं। मोती, लहर और गहराई वाले सागर जैसे कथा पहले कान, फिर मन, फिर जीवन पकड़ती है, इसलिए संस्कार हेतु कोई सच्ची छोटी कहानी सुनाओ।",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Reflects why sweet ocean-like poetry carries dharma better than instruction."
+ },
+ {
+  "slide": 13,
+  "slide_label": "Slide13 - Friendship and Fall",
+  "title": "Friendship and Fall",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "हनुमान राम को ऋष्यमूक पर सुग्रीव से मिलाने ले गए, भय मिटा और गहरी मित्रता हुई। फिर सुग्रीव बालि से भिड़े और राम ने बालि को मारा। तारा का विलाप दिल चीर गया और सुग्रीव राजा बने। राम वर्षा भर ठहरे, खोज में देरी पर सिंह जैसे क्रोध से जले, तब सुग्रीव ने वानर सेना जुटाई।",
+  "characters": [
+   "Rama",
+   "Hanuman",
+   "Sugriva",
+   "Vali",
+   "Tara"
+  ],
+  "location": "Mount Rishyamukha",
+  "rationale": "Captures Sugriva friendship, Vali slaying, Tara lament and rainy halt anger."
+ },
+ {
+  "slide": 14,
+  "slide_label": "Slide14 - Leap Across Ocean",
+  "title": "Leap Across Ocean",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "सुग्रीव ने वानरों को चारों दिशाओं में भेजा और हर दल को क्षेत्र बांटा, राम ने हनुमान को पहचान हेतु अंगूठी दी। जांबवान संग खोज में एक गुफा मिली, फिर सब सागर तट पर उपवास कर बैठे। वहाँ संपाति मिले। हनुमान पर्वत से उछले और सागर लांघ गए, मैनाक का विश्राम छोड़ा और छाया ग्राहिणी व सिंहिका को हराया।",
+  "characters": [
+   "Rama",
+   "Hanuman",
+   "Jambavan",
+   "Sampati"
+  ],
+  "location": "Ocean Shore",
+  "rationale": "Follows four-way search, ring token, Sampati and Hanuman's ocean leap trials."
+ },
+ {
+  "slide": 15,
+  "slide_label": "Slide15 - Night in Lanka",
+  "title": "Night in Lanka",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "रात में हनुमान लंका में घुसे, असहाय समय में धीरज रखना सीखा, मदिरालय, अंतःपुर और महल देखे जहाँ रावण और पुष्पक दिखा। अशोक वाटिका में सीता मिलीं, उन्हें राम की अंगूठी और संदेश दिया। राक्षसियां गरजीं, त्रिजटा ने अपना स्वप्न सुनाया, और सीता ने विश्वास हेतु अपनी चूड़ामणि सौंपी।",
+  "characters": [
+   "Hanuman",
+   "Sita",
+   "Ravana",
+   "Trijata",
+   "Demonesses Of Ashoka Vatika"
+  ],
+  "location": "Ashoka Vatika",
+  "rationale": "Enters Lanka by night, Pushpaka sight, Sita found, ring exchanged and jewel received."
+ },
+ {
+  "slide": 16,
+  "slide_label": "Slide16 - Fire and Hope",
+  "title": "Fire and Hope",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "फिर हनुमान ने अशोक वाटिका के पेड़ उखाड़ दिए, पहरेदार गिर पड़े और राक्षसियाँ भाग गईं। पवनपुत्र ने स्वयं को बँधने दिया, फिर भयंकर गर्जना के साथ लंका जला दी। सागर लाँघकर लौटे, किष्किंधा के मधुवन में धूम मचाई, राम को धीरज दिया और सीता की मणि उनके हाथ में रखकर डूबते मन में नई आशा भर दी।",
+  "characters": [
+   "Hanuman",
+   "Rama"
+  ],
+  "location": "Kishkindha",
+  "rationale": "Shows Vatika ruin, capture, Lanka burning and hopeful return with jewel."
+ },
+ {
+  "slide": 17,
+  "slide_label": "Slide17 - Bridge to Dharma",
+  "title": "Bridge to Dharma",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "राम ने सागर से मार्ग माँगा और नल के नेतृत्व में सेतु बन गया। वानर सेना पार उतरी और रात में लंका घेर ली। विभीषण शरण आए और जीत का उपाय बताया। युद्ध में कुंभकर्ण और मेघनाद मरे, रावण मारा गया और सीता मिलीं। विभीषण का राजतिलक हुआ और पुष्पक आया, धर्म की जीत ने सबके मन छू लिए।",
+  "characters": [
+   "Rama",
+   "Nala",
+   "Vibhishana"
+  ],
+  "location": "Lanka Battlefield",
+  "rationale": "Delivers the climax — ocean bridge, siege, Vibhishana refuge and Ravana's fall."
+ },
+ {
+  "slide": 18,
+  "slide_label": "Slide18 - Crown and Renunciation",
+  "title": "Crown and Renunciation",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "युद्ध के बाद राम पुष्पक से अयोध्या चले, रास्ते में भरद्वाज से मिले और हनुमान को भरत के पास भेजा। फिर राम और भरत का आँसुओं भरा मिलन हुआ और राम का राजतिलक हुआ। वानर दलों को विदा किया। राम ने प्रजा को प्रसन्न किया, पर लोगों के लिए सीता को त्याग दिया, राम की जीवनकथा उत्तरकांड के लिए छोड़कर।",
+  "characters": [
+   "Rama",
+   "Sita",
+   "Bharata",
+   "Bharadwaja",
+   "Hanuman"
+  ],
+  "location": "Ayodhya",
+  "rationale": "Resolves with Pushpaka return, Bharata reunion, coronation and Sita renunciation pointing to Uttara."
+ },
+ {
+  "slide": 19,
+  "slide_label": "Slide19 - Counting the Cost",
+  "title": "Counting the Cost",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "लंका विजय और राजतिलक के बाद वाल्मीकि ने सुखांत पर न रोककर सीता त्याग की चुभन क्यों बनाए रखी?",
+  "answer": "वाल्मीकि प्रजा सुख और सीता त्याग को साथ रखते हैं, आदर्श राजा वहाँ घायल है जहाँ धर्म कीमत माँगता है। राम के लिए सबका हित प्रेम से बड़ा है, धर्म केवल सुख नहीं देता। हर जीत के पीछे तस्वीर से कटा त्याग है, कथा जीत से कीमत गिनती है। अपनी सफलता का छिपा त्याग लिखो और देखो सुधार बाकी है।",
+  "on_slide_text": "विजय के बाद सीता के त्याग को क्यों रखा, सुखांत क्यों नहीं? क्योंकि वाल्मीकि जीत के साथ कीमत गिनते हैं — सबके धर्म के आगे निजी प्रेम झुकता है तो आदर्श राजा भी घाव पाता है। सफलता की तस्वीर के पीछे छिपा त्याग है। इस सप्ताह अपनी सफलता के पीछे एक छिपा समझौता लिखो और देखो क्या सुधार बाकी है।",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Closes on the sharpest insight — why Valmiki keeps the wound with victory."
+ }
 ]

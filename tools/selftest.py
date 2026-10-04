@@ -9,6 +9,7 @@ tools/prompts change:
     python3 tools/selftest.py
 """
 
+import hashlib
 import json
 import re
 import sys
@@ -758,8 +759,119 @@ def main() -> int:
     fatal, _ = loop.prescan_prompt("warriors slay the collapsing host", "16:9")
     check("loop prescan fails gore lexicon",
           any("policy-lexicon" in f for f in fatal), fatal)
+    fatal, _ = loop.prescan_prompt("a faceless crowd mass with no distinct faces", "16:9")
+    check("loop prescan fails face-negation wording",
+          any("face-negation" in f for f in fatal), fatal)
+    fatal, _ = loop.prescan_prompt(
+        "a softly blurred gathering seen from behind with backs to the viewer", "16:9")
+    check("loop prescan passes backs-to-viewer wording", fatal == [], fatal)
     fatal, _ = loop.prescan_prompt("a serene grove at dawn", "3:2")
     check("loop prescan fails bad aspect", fatal != [], fatal)
+
+    # art-loop tools: frame gate, batch runner, finalizer, packets
+    import check_frame as _cf
+    import loop_batch as _lb
+    import finalize as _fin
+    import critique_packet as _cp
+    try:
+        from PIL import Image as _Im
+        with tempfile.TemporaryDirectory() as tmp:
+            _art = _Im.new("RGB", (320, 200), (90, 140, 80))
+            _clean = Path(tmp) / "clean.jpg"
+            _art.save(_clean)
+            _rep = _cf.analyze(str(_clean))
+            check("frame gate passes full-bleed art", _rep["verdict"] == "PASS", _rep)
+            _box = _Im.new("RGB", (320, 280), (210, 208, 200))
+            _box.paste(_art, (0, 40))
+            _matted = Path(tmp) / "matted.jpg"
+            _box.save(_matted)
+            _rep = _cf.analyze(str(_matted))
+            check("frame gate fails letterbox surround",
+                  _rep["verdict"] == "FAIL"
+                  and set(_rep["failed_sides"]) == {"top", "bottom"}, _rep)
+            _crop = Path(tmp) / "cropped.jpg"
+            check("frame crop exits 1 on FAIL verdict",
+                  _cf.main([str(_matted), "--crop-out", str(_crop)]) == 1
+                  and _crop.is_file())
+            _rep2 = _cf.analyze(str(_crop))
+            check("frame crop removes surround", _rep2["verdict"] == "PASS", _rep2)
+    except ImportError:
+        check("frame gate checks skipped (no Pillow)", True)
+    check("frame gate missing file rc=2", _cf.main(["/nope.jpg"]) == 2)
+    check("batch rejects slides+sheets", _lb.main(
+        ["--chapter", "C", "--slides", "1", "--sheets", "R"]) == 2)
+    check("batch rejects empty targets", _lb.main(["--chapter", "C"]) == 2)
+    check("batch unknown chapter rc=2", _lb.main(
+        ["--chapter", "Nope", "--slides", "1"]) == 2)
+    check("finalize names panel slots",
+          _fin.candidate_name("panel", "3", 1) == "slide_03_candidate_1.jpg"
+          and _fin.final_name("panel", "3") == "slide_03_final.jpg")
+    check("finalize names sheet slots",
+          _fin.candidate_name("sheet", "Rama", 2) == "sheet_Rama_candidate_2.jpg"
+          and _fin.final_name("sheet", "Rama") == "sheet_Rama_final.jpg")
+    _ent = _fin.build_sheet_entry("Rama", "Rama", "character", "prompt",
+                                  "Ch/f.jpg", "abc", "Ch Rama")
+    check("finalize ledger entry hashes prompt",
+          _ent["prompt_sha256"] == hashlib.sha256(b"prompt").hexdigest()
+          and _ent["verdict"] == "PASS", _ent.get("prompt_sha256"))
+    check("finalize missing candidate rc=2", _fin.main(
+        ["--chapter", "Book_1_Bala_Kanda_Chapter_3",
+         "--sheet", "NoSuchRef"]) == 2)
+    with tempfile.TemporaryDirectory() as tmp:
+        _ch = "Book_1_Bala_Kanda_Chapter_3"
+        _cand = (Path("mythologies/ramayana_dutt/outputs") / _ch
+                 / "studio_images" / "slide_01_final.jpg")
+        _pkt = Path(tmp) / "pkt.json"
+        _rc = _cp.main(["--chapter", _ch, "--slide", "1",
+                        "--candidate", str(_cand), "--thumb-dir", tmp,
+                        "--out", str(_pkt)]) if _cand.is_file() else 2
+        _body = json.loads(_pkt.read_text()) if _pkt.is_file() else {}
+        check("packet assembles slide critique inputs",
+              _rc == 0 and _body.get("prompt_render_plan")
+              and _body.get("spec", {}).get("characters")
+              and _body.get("thumbnail"), str(_pkt))
+    import pretrim as _pt
+    with tempfile.TemporaryDirectory() as tmp:
+        _cd, _ch = Path(tmp), "ChX"
+        _board = [{"slide": 1, "characters": list("abcdef"), "location": "L",
+                   "rationale": "r"},
+                  {"slide": 2, "characters": ["a", "b"], "location": "L",
+                   "rationale": "r"}]
+        (_cd / f"comic_storyboard_{_ch}.json").write_text(json.dumps(_board))
+        (_cd / f"comic_storyboard_hindi_{_ch}.json").write_text(json.dumps(_board))
+        (_cd / f"comic_render_plan_{_ch}.json").write_text(json.dumps({
+            "roster": [{"name": n, "flow_ref": n, "kind": "character",
+                        "image_prompt": "p"} for n in "abcdef"],
+            "slides": [{"slide": 1, "muse_prompt": "old", "subjects": "[]"},
+                       {"slide": 2, "muse_prompt": "old", "subjects": "[]"}]}))
+        (_cd / f"comic_muse_prompts_{_ch}.json").write_text(json.dumps(
+            [{"slide": 1, "muse_prompt": "old"},
+             {"slide": 2, "muse_prompt": "old"}]))
+        _flag = _pt.overcast_slides(_board)
+        check("pretrim gate flags 6-face slide only",
+              [f["slide"] for f in _flag] == [1], _flag)
+        _rep = _pt.trim_slide(_cd, _ch, 1, ["a", "b"], "L", "apex", "new prompt")
+        _sb = json.loads((_cd / f"comic_storyboard_{_ch}.json").read_text())
+        _rp = json.loads((_cd / f"comic_render_plan_{_ch}.json").read_text())
+        _mp = json.loads((_cd / f"comic_muse_prompts_{_ch}.json").read_text())
+        check("pretrim rewrites cast plus both prompt copies",
+              _sb[0]["characters"] == ["a", "b"] and _sb[0]["rationale"] == "apex"
+              and _rp["slides"][0]["muse_prompt"] == "new prompt"
+              and _mp[0]["muse_prompt"] == "new prompt"
+              and len(_sb) == 2 and len(_rp["slides"]) == 2 and len(_mp) == 2,
+              _rep)
+        _refused = False
+        try:
+            _pt.trim_slide(_cd, _ch, 2, ["zzz"], "L", "r", "p")
+        except ValueError:
+            _refused = True
+        check("pretrim refuses names outside roster", _refused)
+        _refused = False
+        try:
+            _pt.trim_slide(_cd, _ch, 2, list("abcdef"), "L", "r", "p")
+        except ValueError:
+            _refused = True
+        check("pretrim refuses keep above face cap", _refused)
 
     print(f"\n{len(FAILS)} failures" if FAILS else "\nSELFTEST PASS")
     return 1 if FAILS else 0

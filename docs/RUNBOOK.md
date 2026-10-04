@@ -109,6 +109,40 @@ recipe](https://raw.githubusercontent.com/meta-models/meta-model-cookbook/main/0
 The per-mythology `entities/entity_repository.json` grows live chapter by
 chapter (E dedups, P appends with `first_seen`). Dry runs never mutate it.
 
+## Chapter art loop (token-efficient; comic-art-critique skill governs verdicts)
+
+The skill judges; this is the cheap execution shape. Parent never views
+full-res renders — workers view thumbnails and return verdicts only.
+
+0. Pre-trim gate ($0): `python3 tools/pretrim.py --chapter <id>`. Any flagged
+   slide gets its apex-beat trim (storyboard + Hindi + subjects + prompt in
+   both copies) before its first paid round. Entry count is a proxy: slides
+   already resolved with background hints (backs/blur, no staged faces)
+   need no trim.
+1. Prescan batch ($0): `python3 tools/loop_batch.py --chapter <id> --slides 1,2,...`
+   (or `--sheets Ref,...`). Any rc=1 is a prompt rewrite at the source, no spend.
+2. Generate: same command with `--live`. One compact JSON line per target.
+3. Frame gate without viewing: `python3 tools/check_frame.py <candidate>`
+   (exit 1 = matte/border/letterbox). Crop fixes need no re-render:
+   `check_frame.py <candidate> --crop-out <candidate_N+1>` then re-gate the crop.
+4. Packets: `python3 tools/critique_packet.py --chapter <id> --slide <N>
+   --candidate <path>` writes `/tmp/critique_<ch>_<target>.json` plus a 768px
+   thumbnail. The packet holds spec, Hindi text, both prompt copies, staged
+   roster rows, and ledger standing — everything a worker needs, nothing more.
+5. Fan out viewing: one worker per slide (parallel, read-only checkout each),
+   each viewing only its thumbnail + packet. Worker brief template:
+   "Critique this one render under the comic-art-critique skill. Inputs are in
+   <packet>. View the thumbnail for staging/frame/face checks; open the
+   full-res candidate ONLY to zoom prop-support zones (hands, hips, ground
+   contact). Return verdict PASS, or FAIL with one line per finding (rule
+   broken, what is seen, exact source-layer fix). Do not re-render."
+6. Parent applies the cited source fix, spends the next round via
+   `studio_loop.py --live` (max 3 rounds x 1 candidate per image), finalizes
+   passes with `python3 tools/finalize.py --chapter <id> --slide <N>`
+   (sheets also refresh `sheet_verdicts.json`).
+
+Text (English + Hindi) is immutable throughout.
+
 ## Prompts (`prompts/`)
 
 One reviewer template (`reviewer.md`, rubrics A+B) serves both QA phases —

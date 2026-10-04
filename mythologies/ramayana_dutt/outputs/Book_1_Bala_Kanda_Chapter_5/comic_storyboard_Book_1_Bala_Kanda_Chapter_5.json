@@ -1,0 +1,298 @@
+[
+  {
+    "slide": 1,
+    "slide_label": "Slide01 - The Sage Sits Still",
+    "title": "The Sage Sits Still",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Old sage Valmiki sits quiet after Narada leaves for his own home. His mind sinks deep into still thought. Birds sing soft in the green forest round him. He seeks the true tale of a perfect good man.",
+    "characters": [
+      "Valmiki"
+    ],
+    "location": "Valmiki's Meditation Seat",
+    "rationale": "Opens on the hook with Valmiki alone in meditation after Narada departs."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - A Story Begins",
+    "title": "A Story Begins",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Valmiki calls his dear pupils close to his forest seat. After Rama wins his throne he sings twenty-four thousand verses. From today we hear the old kings of the sun line. In that bright line Prince Rama was born to save the world.",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Sets the promise to hear the dynasty tale from the start and notes the twenty-four thousand verses."
+  },
+  {
+    "slide": 3,
+    "slide_label": "Slide03 - Kings Who Dug Seas",
+    "title": "Kings Who Dug Seas",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Valmiki tells of kings from Prajapati the first father. King Ikshvaku laid the strong base of the sun line. King Sagara dug the deep ocean with great strength. His sixty thousand sons marched behind him like a rushing river.",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers the lineage beat of Prajapati, Ikshvaku and Sagara digging the ocean."
+  },
+  {
+    "slide": 4,
+    "slide_label": "Slide04 - River Before Star",
+    "title": "River Before Star",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why does Valmiki sing of old kings before Rama is even born?",
+    "answer": "Because Rama is not a lonely star but the last step of a long river. Kings like Sagara and Ikshvaku worked hard for years so Rama could be calm and strong. If we call ourselves self-made we feel rootless and break. Write three gifts from your elders and carry one gift forward each day.",
+    "on_slide_text": "Why sing old kings before Rama is born? Because Rama is not a lonely star but the last step of a long river. Sagara dug the sea so later kings could swim. Write three gifts from your elders and carry one gift forward.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects why genealogy comes before Rama as river before star."
+  },
+  {
+    "slide": 5,
+    "slide_label": "Slide05 - Listen With Clean Heart",
+    "title": "Listen With Clean Heart",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Valmiki folds his hands and speaks to all who hear. Leave anger and jealousy far outside your mind. Hear this full tale of the sun kings from the start. This holy story gives goodness, wealth, and joy to clean hearts.",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers the call to listen free of ill will for merit, profit and joy."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Learning Needs Clean Eyes",
+    "title": "Learning Needs Clean Eyes",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why must we leave jealousy behind before hearing the story?",
+    "answer": "Because a jealous mind cannot receive but only compares. Ayodhya looks so happy that envy counts what we lack. Scroll phones teach the same burning habit today. A clean mind learns fast. When sourness rises, pause and write what you can learn in one line.",
+    "on_slide_text": "Why leave jealousy outside before the tale? Because a jealous mind compares instead of learning. Ayodhya looks so perfect that envy counts what we lack. When sourness rises, pause and write in one line what you can learn.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects cleansing envy as a technique for learning."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Land Of Golden Grain",
+    "title": "Land Of Golden Grain",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Beside the clear Sarayu river spreads the rich land of Kosala. Corn turns gold in the wide fields. Every home fills with grain and wealth. The calm people lack nothing they need and live happy days together.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Kosala",
+    "rationale": "Covers the Kosala beat of fertile fields and happy people on the Sarayu."
+  },
+  {
+    "slide": 8,
+    "slide_label": "Slide08 - City Built By Manu",
+    "title": "City Built By Manu",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "In Kosala stands Ayodhya the great capital city. Wise Manu himself built its strong walls long ago. Its fame for goodness spread through the whole wide world. People speak its holy name with love and pride everywhere.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Ayodhya founded by Manu with fame spread across the world."
+  },
+  {
+    "slide": 9,
+    "slide_label": "Slide09 - Roads Of Flowers",
+    "title": "Roads Of Flowers",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya stretches twelve yojanas long and ten yojanas wide. Broad straight roads run in neat lines outside. Fresh flower petals lie soft on the clean paths. Men sprinkle cool water each day so highways shine bright.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers the city measure and flower-strewn watered highways."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - King Like Indra",
+    "title": "King Like Indra",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "King Dasharatha rules the rich city of Ayodhya with care. He guards his people day and night like a father. As Indra guards bright heaven above the clouds, Dasharatha guards his shining streets below with justice and love.",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Dasharatha dwelling in Ayodhya as Indra dwells in heaven."
+  },
+  {
+    "slide": 11,
+    "slide_label": "Slide11 - Shops And Strong Gates",
+    "title": "Shops And Strong Gates",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya holds strong doors and tall bright gateways. Neat shops fill each street with colour and life. Skilled workers make every tool and fine craft. Singers praise old kings while flags wave and strong Shataghni guard the walls.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers doors, shops, artisans, singers, flags and Shataghni weapons."
+  },
+  {
+    "slide": 12,
+    "slide_label": "Slide12 - Gardens Behind Walls",
+    "title": "Gardens Behind Walls",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya keeps bright theatres for women and green mango groves. Sweet gardens bloom on every side for joy. A tall wall runs round the city with a deep moat outside. No friend or foe can pass inside without leave.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers theatres, gardens, wall and moat that guard entry."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Elephants In Markets",
+    "title": "Elephants In Markets",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Busy roads crowd with elephants, horses, cows, and camels. Slow donkeys carry heavy loads through dust. Near kings bring gifts to pay honour in markets. Rich traders come from far lands to buy and sell goods.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers crowded animals and tribute markets with distant merchants."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Palaces Like Heaven",
+    "title": "Palaces Like Heaven",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "High palaces rise like hills and shine with bright gems. Soft pleasure grounds for women spread on each side. Ayodhya glows like Indra's Amaravati in the sky. Gold-clad ladies add grace to royal halls with gentle smiles.",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers gem palaces and pleasure grounds shining like Amaravati."
+  },
+  {
+    "slide": 15,
+    "slide_label": "Slide15 - Sweet Water Music",
+    "title": "Sweet Water Music",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Golden paddy and white rice grow thick in Ayodhya fields. Cool water tastes sweet like sugarcane juice to lips. Streets ring with drums, veenas, and sweet pipes each night. Music and joy float through every home till dawn.",
+    "characters": [
+      "Citizens of Ayodhya",
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers paddy abundance, sweet water and nightly music."
+  },
+  {
+    "slide": 16,
+    "slide_label": "Slide16 - Clean Roads Holy Hearts",
+    "title": "Clean Roads Holy Hearts",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why does scripture praise sweet water and flower roads as holy?",
+    "answer": "Because clean roads show clean hearts, not just rich hands. When King Manu plans well and Dasharatha guards well, fields give grain and water turns sweet. Order itself is prayer. Clean ten feet outside your home, sprinkle water, and plant one small sapling.",
+    "on_slide_text": "Why call flower roads and sweet water holy? Because clean roads grow from clean hearts, not rich hands. Good kings make fields give grain and water taste sweet. Clean ten feet outside your home, sprinkle water, and plant one sapling.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects order as worship in flower roads and sweet water."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Guard Joy Wisdom",
+    "title": "Guard Joy Wisdom",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "What are weapons and pleasure gardens doing in one holy city?",
+    "answer": "Because a good city needs guard, joy, and wisdom together. Strong Shataghni guard the walls while gardens and music feed happy hearts. Wise priests share gifts and guide all. Draw your triangle of guard, joy, and wisdom, and give one full hour to the empty corner.",
+    "on_slide_text": "What do strong weapons and glad gardens do in one holy city? Because goodness means balance, not just saying no. Walls guard bodies while music and gardens feed hearts. Draw your triangle of guard, joy, and wisdom, and fill the empty corner for one hour.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects purity as balance of security, joy and wisdom."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Arrows Held Back",
+    "title": "Arrows Held Back",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "King Dasharatha keeps thousands of swift Maharatha fighters. Their hands move fast like bright lightning in war. They can stop wild lions, tigers, and boars in forests. Yet they never shoot the lost, helpless, hiding, or fleeing man.",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Maharathas who can slay beasts yet spare the helpless."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Strength Holds Back",
+    "title": "Strength Holds Back",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why praise strong fighters for not shooting the weak?",
+    "answer": "Because true strength shows when we hold back, not when we strike. These fighters can kill wild beasts yet spare the scared and fleeing man. Walls guard the city outside, kind hearts guard it inside. Once a day hold your sharp words and let the other leave safe.",
+    "on_slide_text": "Why praise fighters who can kill lions yet spare the weak? Because true power shows in holding back, not striking hard. Walls guard the city outside, kind hearts guard it inside. Once a day hold your sharp words and let the other leave safe.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects civilization measured by restraint not capability."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Heaven On Earth",
+    "title": "Heaven On Earth",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya shines most with wise Brahmanas who love truth. They light holy fires each dawn and sing the Vedas. Learned in all lore, they give gifts by thousands. With such kind hearts, the city glows like heaven on earth.",
+    "characters": [
+      "Brahmanas",
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Closes on the resolving beat of truthful Brahmanas making heaven-like Ayodhya."
+  }
+]

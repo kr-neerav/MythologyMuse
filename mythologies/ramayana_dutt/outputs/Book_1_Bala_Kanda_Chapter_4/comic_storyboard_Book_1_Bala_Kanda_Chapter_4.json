@@ -1,304 +1,373 @@
 [
   {
     "slide": 1,
-    "slide_label": "Slide01 - Meditation on Rama",
-    "title": "Meditation on Rama",
+    "slide_label": "Slide01 - Quiet Yoga Seat",
+    "title": "Quiet Yoga Seat",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "After Narada sang Rama's brief glory and soared skyward home, Valmiki remains alone upon his kusha-grass seat. Eyes closed in deep yoga, he turns Rama's perfect character over in his heart, while far away in Ayodhya, Shri Ram has already received the kingdom.",
+    "on_slide_text": "Sage Valmiki sits alone on a soft seat of kusha grass. He closes his eyes and thinks deeply about Rama through yoga. Narada has left for the sky after telling Rama's brief tale. Now in quiet stillness, a full new story begins to rise.",
     "characters": [
       "Valmiki"
     ],
     "location": "Valmiki's Meditation Seat",
-    "rationale": "Opens on the hook of Valmiki alone in yoga after Narada's departure, establishing the time after Rama's coronation."
+    "rationale": "Opens on the hook of Valmiki alone in yoga, from which the whole tale rises."
   },
   {
     "slide": 2,
-    "slide_label": "Slide02 - Twenty-Four Thousand Verses",
-    "title": "Twenty-Four Thousand Verses",
+    "slide_label": "Slide02 - Twenty Four Thousand Verses",
+    "title": "Twenty Four Thousand Verses",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "From yogic vision joining past and future, Valmiki composes Rama's complete history in beautiful verses — twenty-four thousand shlokas, five hundred cantos, seven kandas crowned by the Uttara. Every word brims with meaning. Finished, he wonders who shall first sing it before assemblies.",
+    "on_slide_text": "After Rama receives the kingdom of Ayodhya, Valmiki writes his whole life in sweet verses. The poem holds twenty four thousand verses in five hundred parts and seven books. Each word is full of deep sense. With clear yogic sight he joins what happened with what will come.",
     "characters": [
       "Valmiki"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Establishes the composition feat and Valmiki's dilemma of who should first present it, motivating Kush-Lav's entry."
+    "rationale": "Establishes the completed Ramayana with its vast size and yogic scope."
   },
   {
     "slide": 3,
-    "slide_label": "Slide03 - Princes in Bark Cloth",
-    "title": "Princes in Bark Cloth",
+    "slide_label": "Slide03 - Who Will Sing First",
+    "title": "Who Will Sing First",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "As he ponders, Kush and Lav arrive in ascetic dress and touch his feet. Radiant princes raised in the hermitage, deep in dharma, sweet-voiced, quick to grasp poetry, sharp in memory and Vedic study. Seeing their promise, Valmiki first teaches them to understand the Vedas' meaning.",
+    "on_slide_text": "The great poem is now complete and ready. Valmiki looks around his quiet hut and thinks hard. Who will sing this holy tale first before learned groups. The story is too big for one voice alone. It needs fresh young throats to carry it far.",
     "characters": [
-      "Valmiki",
-      "Kush",
-      "Lav"
+      "Valmiki"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Introduces Kush-Lav's arrival and Valmiki's foundational choice to teach Vedic meaning before the story."
+    "rationale": "Shows Valmiki searching for first singers, creating the need for Kush and Lav."
   },
   {
     "slide": 4,
-    "slide_label": "Slide04 - First the Eye, Then the Lamp",
-    "title": "First the Eye, Then the Lamp",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why did Valmiki first awaken Kush-Lav to the meaning of the Vedas instead of directly handing them the sweet Rama story?",
-    "answer": "Without discernment a story becomes mere entertainment, not instruction. Though Gandharvas too have sweet throats and firm memory, only a cultivated intellect can weigh meaning, so Valmiki gave first the eye of interpretation and then the lamp of narrative. Today we reverse it — making a viral voice before teaching values — and talent loses its way, for to sing a story is art, but to live it is shastra.",
-    "on_slide_text": "Why teach Vedic meaning before Rama's sweet tale? Because without discernment story stays entertainment, not instruction; sweet throats alone cannot weigh meaning. Valmiki gave first the eye of interpretation, then the lamp of narrative — to sing is art, to live is shastra.",
-    "characters": [
-      "Valmiki",
-      "Kush",
-      "Lav"
-    ],
-    "location": null,
-    "rationale": "Pauses to unpack why Vedic discernment must precede narrative art."
-  },
-  {
-    "slide": 5,
-    "slide_label": "Slide05 - Song of Sita and Ravana",
-    "title": "Song of Sita and Ravana",
+    "slide_label": "Slide04 - Two Boys Touch Feet",
+    "title": "Two Boys Touch Feet",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "Then the vow-observing Valmiki teaches them the whole Ramayana by heart — Sita's life and the fall of Ravana, Pulastya's descendant. Beautiful as Gandharvas, skilled in music and dance, they master Sthana and Murchhana, three measures and seven notes on the veena, breathing love, pathos, humour, anger, fear and heroism.",
+    "on_slide_text": "Two bright boys enter in simple ascetic dress and touch Valmiki's feet. They are Kush and Lav, princes who live in the hut and love right action. Their voices ring sweet and clear. They learn quick, remember fast, and already know the holy Vedas well.",
     "characters": [
       "Valmiki",
       "Kush",
       "Lav"
     ],
     "location": "Valmiki's Hermitage",
-    "rationale": "Covers the teaching of the full Ramayana with musical mastery in measures, notes and rasas."
+    "rationale": "Introduces Kush and Lav arriving and their bright fitness to learn."
   },
   {
-    "slide": 6,
-    "slide_label": "Slide06 - Mirrors of the Sun and Moon",
-    "title": "Mirrors of the Sun and Moon",
+    "slide": 5,
+    "slide_label": "Slide05 - Eyes To Judge Right",
+    "title": "Eyes To Judge Right",
     "type": "scene",
     "text_mode": "caption",
     "speaker": null,
-    "on_slide_text": "Versed in drama with honey-sweet voices, the blameless princes — Rama's own sons, like sun and moon mirrored — memorize the sacred tale with full devotion. With concentrated minds they begin to sing it exactly as learned before assemblies of ascetics, Brahmanas and good people gathered to listen.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Brahmanas"
-    ],
-    "location": "Ascetics' Assembly",
-    "rationale": "Shows devoted memorization and first public singing before learned assemblies exactly as taught."
-  },
-  {
-    "slide": 7,
-    "slide_label": "Slide07 - Tears in the Hermitage",
-    "title": "Tears in the Hermitage",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "One day the pure brothers sing before pure-souled ascetics, every auspicious mark shining upon them. Wonder fills the hermitage; tears fill eyes as cries of well done, well done rise. What enchanting music, what sweetness, the saints exclaim — though long past, we see it before our eyes.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Sages of Dandaka"
-    ],
-    "location": "Ascetics' Assembly",
-    "rationale": "Captures the wonder and tears of ascetics who feel the distant past as present."
-  },
-  {
-    "slide": 8,
-    "slide_label": "Slide08 - When Knowledge Becomes Tears",
-    "title": "When Knowledge Becomes Tears",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why were even ascetics of hard penance filled with tears on hearing the tale, why was history bound in seven notes and rasas?",
-    "answer": "Intellect forgets, the heart does not, and dry facts across five hundred cantos would hold no one. So Valmiki wove love, pathos, humour and heroism into melody, rhythm and enactment, so listeners would not merely hear but see — as the sages said, we see it before our eyes. This is a science of memory: only when knowledge becomes tears does it become samskara, for detachment is not absence of feeling but its purification.",
-    "on_slide_text": "Why did hard ascetics weep at history set to seven notes? Because intellect forgets but the heart remembers; Valmiki wove love, pathos and heroism into melody so listeners see, not merely hear. Only when knowledge melts into tears does it become lasting samskara.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Sages of Dandaka"
-    ],
-    "location": null,
-    "rationale": "Reflects on why melody and rasa make history unforgettable and turn knowledge into samskara."
-  },
-  {
-    "slide": 9,
-    "slide_label": "Slide09 - Pitcher and Deerskin",
-    "title": "Pitcher and Deerskin",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Together in one tune, high-pitched in pure Shadja notes, the brothers spellbind every listener; even sages proud of penance never tire of praise. Delighted, one offers a water pitcher, another bark-cloth, another black deerskin, a sacred thread, a clay kamandalu for ascetic life.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Sages of Dandaka"
-    ],
-    "location": "Ascetics' Assembly",
-    "rationale": "Details the first wave of ascetic gifts honoring the spellbinding song in pure notes."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Axe, Firewood and Blessing",
-    "title": "Axe, Firewood and Blessing",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Gifts now pour forth: a munja-grass girdle, a sitting mat, a small kaupina, an axe, red cloth, thread for matted locks. Others bring twine for firewood, offering vessels, sacred fuel, a fig-wood seat. Voices cry Swasti! while elders bless the singers with long, protected life.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Sages of Dandaka"
-    ],
-    "location": "Ascetics' Assembly",
-    "rationale": "Completes the gift sequence showing forest-life sustenance and blessings for long life."
-  },
-  {
-    "slide": 11,
-    "slide_label": "Slide11 - Gifts That Sustain Practice",
-    "title": "Gifts That Sustain Practice",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why did the all-knowing sages give the singers no gold coins, but simple gifts like a pitcher, an axe, firewood and a kaupina?",
-    "answer": "The forest sages had no royal treasury, but they had understanding of life. They weighed praise not by price but by usefulness — they gave not to decorate the singer but to sustain his sadhana, where axe serves work, pitcher quenches thirst and seat steadies practice. The greatest gift was the blessing that the poem will give themes to future poets, for true reward is not present price but future fertility.",
-    "on_slide_text": "Why no gold, only pitcher, axe and kaupina? Because forest sages weigh praise by usefulness, not price — gifts to sustain sadhana, not decorate singers. The axe serves work, the seat steadies practice. True reward is not present price but future fertility for poets yet unborn.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Sages of Dandaka"
-    ],
-    "location": null,
-    "rationale": "Interprets why useful objects outweigh gold as true patronage that sustains practice."
-  },
-  {
-    "slide": 12,
-    "slide_label": "Slide12 - Themes for Future Poets",
-    "title": "Themes for Future Poets",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "The truth-speaking ascetics bless them: wonderfully sung to its end, this poem delights ear and heart and grants long life and prosperity. Skilled in music, you have completed it beautifully. This same song shall give themes to poets yet to be born.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Sages of Dandaka"
-    ],
-    "location": "Ascetics' Assembly",
-    "rationale": "Records the ascetics' blessing that the completed poem will seed future poets."
-  },
-  {
-    "slide": 13,
-    "slide_label": "Slide13 - Singers in the Bazaar",
-    "title": "Singers in the Bazaar",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Honored wherever they wander, the two singers are seen one bright morning in a street of Ayodhya, lined on both sides with bustling stalls. Townsfolk pause to stare at the radiant ascetic boys with veenas slung, whose fame has already travelled before them.",
-    "characters": [
-      "Kush",
-      "Lav",
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya Street",
-    "rationale": "Moves the honored singers to Ayodhya street, bridging the hermitage to the court."
-  },
-  {
-    "slide": 14,
-    "slide_label": "Slide14 - Larger Than Its Author",
-    "title": "Larger Than Its Author",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why did Valmiki not go himself to Ayodhya to present so great a history, why did he make two children its medium?",
-    "answer": "A king may protect a preaching sage, but he will not listen to his tale; power bows only before an innocent voice. Kush-Lav are Rama's own reflections, like sun and moon in a mirror, and a father cannot see himself until his sons sing him back. By stepping aside Valmiki made the tale larger than its author, moving it from his lap to living throats so it becomes the breath of ages, not one generation's memory.",
-    "on_slide_text": "Why send children, not go himself? Because power shelters sages but listens only to innocence. As Rama's living mirrors, Kush-Lav sing the father back to himself. By stepping aside, Valmiki lifts the tale beyond its author into throats that carry it for ages.",
+    "on_slide_text": "Before giving the sweet story, Valmiki first opens their inner eye. He teaches Kush and Lav how to find true sense in the Vedas. He shows how to weigh right and wrong in every line. Only clear thought can hold a holy tale right.",
     "characters": [
       "Valmiki",
       "Kush",
       "Lav"
     ],
-    "location": null,
-    "rationale": "Explains why Valmiki sends innocent mirrors rather than presenting the tale himself before power."
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers Valmiki first teaching Vedic sense before handing the story."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Called to the Golden Throne",
-    "title": "Called to the Golden Throne",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "There Bharata's elder brother Shri Ram beholds them and calls them to his house. The destroyer of enemies welcomes the worthy pair with honour, then takes his golden throne among brothers and ministers. Gazing at the modest, handsome boys, he bids Lakshmana, Bharata and Shatrughna listen.",
-    "characters": [
-      "Shri Ram",
-      "Kush",
-      "Lav",
-      "Lakshmana",
-      "Bharata",
-      "Shatrughna"
-    ],
-    "location": "Ayodhya Palace Court",
-    "rationale": "Brings the singers before Rama on the golden throne with brothers and ministers to listen."
-  },
-  {
-    "slide": 16,
-    "slide_label": "Slide16 - Royal Marks Beneath Bark",
-    "title": "Royal Marks Beneath Bark",
-    "type": "scene",
-    "text_mode": "dialogue",
-    "speaker": "Shri Ram",
-    "on_slide_text": "Listen, Lakshmana, Bharata, Shatrughna! Sweet and clear as veena strings, their high song makes our hair stand and our hearts bloom. Though dressed as hard-penance ascetics, royal marks shine upon Kush and Lav. This tale spreads my fame — hear it knowing its great worth.",
-    "characters": [
-      "Shri Ram",
-      "Kush",
-      "Lav",
-      "Lakshmana",
-      "Bharata",
-      "Shatrughna"
-    ],
-    "location": "Ayodhya Palace Court",
-    "rationale": "Delivers Rama's recognition of royalty beneath ascetic dress and his call to hear its worth."
-  },
-  {
-    "slide": 17,
-    "slide_label": "Slide17 - From Hermitage to Court",
-    "title": "From Hermitage to Court",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Commanded anew, the brothers sing in the pure Marga style from the court's centre. Seated among his kin, Rama is wholly drawn into the music, wishing his history to live forever for every generation. Thus Valmiki's Ramayana travels from forest hermitage to royal court, where its hero listens.",
-    "characters": [
-      "Shri Ram",
-      "Kush",
-      "Lav",
-      "Lakshmana",
-      "Bharata"
-    ],
-    "location": "Ayodhya Palace Court",
-    "rationale": "Closes the resolving beat as the Marga song carries the hermitage tale into court for eternity."
-  },
-  {
-    "slide": 18,
-    "slide_label": "Slide18 - Learning to Listen",
-    "title": "Learning to Listen",
+    "slide": 6,
+    "slide_label": "Slide06 - Sense Before Story",
+    "title": "Sense Before Story",
     "type": "insight",
     "text_mode": null,
     "speaker": null,
-    "question": "Why did Rama, himself the embodiment of propriety, sit in court to hear his own tale, and is calling it fame-enhancing not pride?",
-    "answer": "Until a hero hears his tale from another mouth, he remains only a doer, never a seer, so this is not pride but self-vision. On the throne Rama turned from king to listener, recognizing royal marks within ascetic dress and seeing by essence, not outer form. Wishing history to live is not self-publicity but responsibility, giving future citizens a touchstone to judge kings, for only one who learns to listen becomes worthy to govern.",
-    "on_slide_text": "Is hearing his own fame pride? No — it is self-vision. The doer becomes seer only through another's mouth. As listener, Rama sees royalty beneath bark-cloth and keeps history alive not for praise but as a touchstone for future kings, for only listeners are worthy to govern.",
+    "question": "Why did Valmiki teach Kush and Lav how to judge sense before giving the sweet Rama tale?",
+    "answer": "Because a sweet voice alone only entertains. Valmiki knew meaning must come first. He gave them clear eyes to judge right, then gave the lamp of story. Singing is art, but living the sense is true learning.",
+    "on_slide_text": "Why teach sense before story to Kush and Lav? Because a sweet tale without clear thought is only fun, not guide. Valmiki gave first the eye to judge, then the lamp of tale. This week pause before you share a story and teach one child how to find its right sense.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Pauses to draw the first reflection on sense before story."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Tale Learned By Heart",
+    "title": "Tale Learned By Heart",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Then Valmiki teaches the boys the whole Ramayana by heart. The tale holds Sita's pure life and the fall of Ravana. Kush and Lav learn each verse with love and care. They keep the holy words safe in strong young memory.",
+    "characters": [
+      "Valmiki",
+      "Kush",
+      "Lav"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers entrusting of the whole Ramayana centered on Sita and Ravana's fall."
+  },
+  {
+    "slide": 8,
+    "slide_label": "Slide08 - Seven Notes With Veena",
+    "title": "Seven Notes With Veena",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Kush and Lav shine bright like young Gandharvas in song and dance. They learn tune steps called Sthana and Murchhana with care. They sing in three speeds and seven clear notes with the veena. Their song can show love, grief, fun, anger, fear, and brave hearts.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Details the musical mastery that makes the tale singable and felt."
+  },
+  {
+    "slide": 9,
+    "slide_label": "Slide09 - Singing Before Good Folk",
+    "title": "Singing Before Good Folk",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "With full love the two princes learn the whole holy tale by heart. They keep their minds calm and fixed on each word. Then they go to sing before ascetics, Brahmanas, and good folk. They sing just as Valmiki taught, with no change.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ascetics' Assembly",
+    "rationale": "Moves the singers from hut to public assemblies exactly as taught."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - Small Voices Carry Far",
+    "title": "Small Voices Carry Far",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why did Valmiki not carry his great tale to Ayodhya himself, but send two small boys to sing it?",
+    "answer": "Because kings seldom hear old sages with open hearts. They hear pure children. Kush and Lav are like Rama's own face in a clear mirror. When Valmiki stepped back, the tale grew bigger than him and could live in young throats for all time.",
+    "on_slide_text": "Why send children, not go himself with the great tale? Because power often guards a sage but only hears a pure young voice. Kush and Lav mirror Rama to himself. This week let a young voice speak one of your ideas, and you sit back and just listen well.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on why children, not the author, carry the tale to power."
+  },
+  {
+    "slide": 11,
+    "slide_label": "Slide11 - Well Done Well Done",
+    "title": "Well Done Well Done",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "One day Kush and Lav sing in a large group of pure ascetics. Holy marks shine bright on their young limbs. Hearing them, the sages weep with joy and cry well done, well done. They say the old tale feels alive, as if we see it with our own eyes now.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ascetics' Assembly",
+    "rationale": "Shows the first great singing where sages weep that past feels present."
+  },
+  {
+    "slide": 12,
+    "slide_label": "Slide12 - One High Sweet Tune",
+    "title": "One High Sweet Tune",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Both brothers sing as one in a high sweet tune. Their pure notes like Shadja fill the still air. The sound holds every heart in the group. Even proud sages strong in hard penance never tire of praising their song again and again.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ascetics' Assembly",
+    "rationale": "Holds on united high singing that never tires praise."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Tears That Remember",
+    "title": "Tears That Remember",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why did hard ascetics weep with tears, when the tale was bound in seven notes and strong feelings?",
+    "answer": "Because the mind forgets dry facts, but the heart keeps tears. Valmiki wrapped truth in sweet song and strong feelings, so ears could see. When learning melts into feeling, it stays deep inside. Calm hearts still feel, but their feelings are clean and bright.",
+    "on_slide_text": "Why bind old history in music that brings tears? Because dry facts slip from mind, but felt song stays in heart. Valmiki made listeners see, not just hear. This week turn one dry rule at home into a small song or play, and watch what hearts truly keep.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Draws the memory science that feeling makes history stay."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Pots And Bark Robes",
+    "title": "Pots And Bark Robes",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Pleased sages give simple gifts from kind hearts. One gives a water pot, one gives a bark cloth robe. One gives a soft black deer skin for sitting. One gives a holy thread, and one gives a small clay pot for holy use.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ascetics' Assembly",
+    "rationale": "Begins the gift flow of useful ascetic things, not gold."
+  },
+  {
+    "slide": 15,
+    "slide_label": "Slide15 - Axe Firewood And Blessings",
+    "title": "Axe Firewood And Blessings",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "More gifts keep coming for the young singers. One gives a grass belt, one a soft mat to sit on. One gives a small cloth, one an axe for wood work. One gives red cloth and string for hair, one fire sticks and a fig wood seat, with blessings for long life.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ascetics' Assembly",
+    "rationale": "Completes the gift list and blessings for long life."
+  },
+  {
+    "slide": 16,
+    "slide_label": "Slide16 - Giving That Helps Work",
+    "title": "Giving That Helps Work",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why did wise sages give no gold coins, but plain things like a pot, an axe, and firewood?",
+    "answer": "Because true giving helps life, not show. The sages had no gold, but they knew need. A pot gives water, an axe helps work, a seat steadies prayer. Their best gift was a blessing that the song would feed new poets for all time to come.",
+    "on_slide_text": "Why give a pot and axe, not gold coins? Because kind giving feeds practice, not pride. A pot cools thirst, an axe aids work, a seat holds prayer. This week give a young talent not just praise, but a real tool, time, or friend that keeps their work alive.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on true giving as sustaining practice."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Song For Future Poets",
+    "title": "Song For Future Poets",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "All truth speaking sages bless the boys with warm words. They say your sweet song delights ear and heart and brings long life. You have sung the holy poem well to its end. This same song will give new ideas to poets yet to be born.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ascetics' Assembly",
+    "rationale": "Records the blessing that the poem will seed future poets."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Singers In Market Street",
+    "title": "Singers In Market Street",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Honoured in many places, the two singers walk one day in Ayodhya street. Stalls stand in bright rows on both sides of the road. People stop to look at the twin boys with veenas in hand. Their sweet fame has now reached the king's own city.",
+    "characters": [
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ayodhya Street",
+    "rationale": "Shifts the scene to Ayodhya street where fame reaches the city."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Called To King's House",
+    "title": "Called To King's House",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Shri Ram, Bharata's elder brother, sees the boys in the city. He calls the worthy singers to his house with love. The brave king greets them with full honour and kind care. Two young ascetics now stand before the great king of Ayodhya.",
     "characters": [
       "Shri Ram",
       "Kush",
       "Lav"
     ],
+    "location": "Ayodhya Palace Court",
+    "rationale": "Brings the singers before Shri Ram who welcomes them with honour."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Open Your Ears And Hearts",
+    "title": "Open Your Ears And Hearts",
+    "type": "scene",
+    "text_mode": "dialogue",
+    "speaker": "Shri Ram",
+    "on_slide_text": "Shri Ram sits on a bright gold throne with his brothers and wise guides near. He looks at the modest handsome boys and speaks. Lakshmana, Bharata, Shatrughna, hear this tale of deep sense. These bright youths sing with god given voice, so open your ears and hearts.",
+    "characters": [
+      "Shri Ram",
+      "Lakshmana",
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ayodhya Palace Court",
+    "rationale": "Seats the court to listen at Rama's order to the divine song."
+  },
+  {
+    "slide": 21,
+    "slide_label": "Slide21 - Hair Stands On End",
+    "title": "Hair Stands On End",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "At Rama's word Kush and Lav lift their clear sweet voices high. Their song rings like the soft strings of a veena. The hair of hearers stands up and hearts open wide with joy. Every ear in the full court is caught and held by that pure sound.",
+    "characters": [
+      "Shri Ram",
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ayodhya Palace Court",
+    "rationale": "Captures the singing effect that thrills ears and hearts."
+  },
+  {
+    "slide": 22,
+    "slide_label": "Slide22 - Royal Marks Shine Through",
+    "title": "Royal Marks Shine Through",
+    "type": "scene",
+    "text_mode": "dialogue",
+    "speaker": "Shri Ram",
+    "on_slide_text": "Shri Ram smiles and speaks to the full court with warm praise. These boys look like hard ascetics, yet royal signs shine on them. This tale spreads my fame and holds great worth. Hear it with care, for it shows the right path for all.",
+    "characters": [
+      "Shri Ram",
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ayodhya Palace Court",
+    "rationale": "Voices Rama seeing royalty under ascetic dress and worth of the tale."
+  },
+  {
+    "slide": 23,
+    "slide_label": "Slide23 - From Hut To Bright Court",
+    "title": "From Hut To Bright Court",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "At his order they sing in the pure old Marga style. Shri Ram sits in the midst and sinks deep into the music. He wishes his life tale to live for all ages to come. So Valmiki's song travels from quiet hut to the king's bright court.",
+    "characters": [
+      "Shri Ram",
+      "Kush",
+      "Lav"
+    ],
+    "location": "Ayodhya Palace Court",
+    "rationale": "Closes the story arc as hut song reaches court in Marga style."
+  },
+  {
+    "slide": 24,
+    "slide_label": "Slide24 - The King Who Listened",
+    "title": "The King Who Listened",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why should a king hear his own tale, is that pride?",
+    "answer": "Because hearing makes a doer a seer. On the throne Rama turned king into listener. He saw royal worth under plain dress, not outer show. Keeping the tale alive guides future people. Only one who truly listens can rule with care.",
+    "on_slide_text": "Why should a king hear his own tale, is that pride? No, it is clear self seeing. Rama left the throne in heart to listen and learn. He looked past plain dress to true worth. This week hear your own story from a trusted friend for five still minutes, and ask what it teaches.",
+    "characters": [
+      "Kavya"
+    ],
     "location": null,
-    "rationale": "Ends on the sharpest insight that listening turns the doer into a seer worthy to govern."
+    "rationale": "Ends on the sharpest insight that listening makes one worthy to rule."
   }
 ]

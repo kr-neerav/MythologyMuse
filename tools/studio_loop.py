@@ -38,6 +38,9 @@ from server import resolve_mythology  # noqa: E402
 GORE = re.compile(
     r"(?i)\bblood\w*|\bslay\w*|slaughter|massacre|\bgore\w*|corpse|"
     r"severed|dismember\w*|decapitat\w*|entrails|mutilat\w*")
+FACELESS = re.compile(
+    r"(?i)faceless|featureless|blank fac\w*|without fac\w*|\bno fac\w*|"
+    r"no distinct faces|no readable facial|only \w[^.]* visible face")
 
 
 def prescan_prompt(prompt: str, aspect: str) -> tuple[list, list]:
@@ -51,6 +54,9 @@ def prescan_prompt(prompt: str, aspect: str) -> tuple[list, list]:
     m = GORE.search(prompt)
     if m:
         fatal.append(f"policy-lexicon hit: {m.group()!r} — rewrite, then render")
+    m = FACELESS.search(prompt)
+    if m:
+        fatal.append(f"face-negation hit: {m.group()!r} — rewrite with backs-to-viewer/blur/distant/crop wording (never 'faceless'), then render")
     if "photoreal" in prompt.lower():
         warnings.append("prompt mentions photorealism; style strips it")
     return fatal, warnings

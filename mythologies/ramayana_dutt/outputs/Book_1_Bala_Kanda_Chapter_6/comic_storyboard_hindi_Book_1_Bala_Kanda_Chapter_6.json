@@ -1,0 +1,315 @@
+[
+  {
+    "slide": 1,
+    "slide_label": "Slide01 - A New Story Starts",
+    "title": "A New Story Starts",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "महर्षि वाल्मीकि गहरे ध्यान में राम के पूरे जीवन को देख चुके हैं। अब वे बिल्कुल शुरू से यह महान कथा सुनाने को तैयार हैं। वे प्रजापति से चले आ रहे पुराने इक्ष्वाकु वंश से शुरुआत करते हैं। राजा इक्ष्वाकु ने बहुत पहले इसकी मजबूत नींव रखी थी।",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Opens the hook and sets Valmiki as teller starting the Ikshvaku tale from the beginning."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - King Dasharatha of Ayodhya",
+    "title": "King Dasharatha of Ayodhya",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या की महान नगरी पर राजा दशरथ राज करते हैं। वे इक्ष्वाकु वंश के हैं और पवित्र वेदों को जानते हैं। उनमें राजा के सारे गुण हैं और वे दूर की सोचते हैं। वे युद्ध में मजबूत और बहादुर हैं। नगर और गाँव के सभी लोग उन्हें बहुत प्यार करते हैं।",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Introduces Dasharatha as warrior, Veda-knower, and beloved lord of Ayodhya."
+  },
+  {
+    "slide": 3,
+    "slide_label": "Slide03 - A King Like a Sage",
+    "title": "A King Like a Sage",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "राजा दशरथ मन लगाकर पवित्र यज्ञ करते हैं। वे रोज़ अपने कर्तव्य निभाते हैं और शांत ऋषि की तरह मन को वश में रखते हैं। तीनों लोकों के लोग उनकी बड़ाई करते हैं। वे उन्हें राजर्षि कहते हैं। बाहर से वे राजा हैं, अंदर से ऋषि हैं।",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Establishes his sacrifice, duty, and self-control as a royal sage."
+  },
+  {
+    "slide": 4,
+    "slide_label": "Slide04 - Strong and True Protector",
+    "title": "Strong and True Protector",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "राजा दशरथ शक्ति से भरे हैं और शत्रुओं को हराते हैं। उनके कई अच्छे मित्र हैं और वे अपनी इंद्रियों को वश में रखते हैं। जैसे बहुत पहले मनु ने रक्षा की, वैसे ही वे प्रेम से प्रजा की रक्षा करते हैं। वे वचन के पक्के हैं। वे धर्म, धन और सुख को जोड़कर अयोध्या पर राज करते हैं।",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Shows his strength, friendship, sense-control, and rule by dharma, artha, and kama."
+  },
+  {
+    "slide": 5,
+    "slide_label": "Slide05 - City Before Hero",
+    "title": "City Before Hero",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "वाल्मीकि राम का परिचय देने से पहले अयोध्या नगर का इतना विस्तार से वर्णन क्यों करते हैं? नायक से पहले नगर क्यों?",
+    "answer": "क्योंकि राम आसमान से नहीं टपके। वे स्वस्थ घर से ऐसे उगते हैं, जैसे अच्छी मिट्टी से पेड़। जब राजा वचन निभाता है, तो लोग सच बोलते हैं। जब राजा खुद को वश में रखता है, तो नगर साफ रहता है। इसलिए पहले अपने घर को देखो। दूसरों से कहने से पहले खुद एक अच्छा नियम जियो।",
+    "on_slide_text": "क्यों नायक से पहले नगर दिखाया गया? क्योंकि नायक आसमान से नहीं टपकता, वह अच्छी मिट्टी से पेड़ की तरह उगता है। जब राजा वचन निभाता है, तो प्रजा सच बोलती है। जब राजा शांत रहता है, तो नगर साफ रहता है। अपने घर का एक नियम पक्का करो और पहले खुद उसे निभाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects that dharma is first a healthy system, then a person."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Joy With Control",
+    "title": "Joy With Control",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों दशरथ को एक ही साँस में इंद्र-कुबेर जैसा तेजस्वी और महर्षि जैसा संयमी कहा गया — क्या भोग और संयम साथ रह सकते हैं?",
+    "answer": "हाँ, दोनों साथ रह सकते हैं। अच्छी चीज़ें बुरा नहीं हैं, अगर तुम उनके गुलाम न बनो। दशरथ धन भोगते हैं पर उसे कर्तव्य में बाँधे रखते हैं। उनकी माला और इत्र देखभाल दिखाते हैं, लालच नहीं। शक्ति तभी भला करती है जब संयम से बँधी हो। सात दिन तक एक पसंदीदा चीज़ अपनी तय सीमा में भोगकर देखो।",
+    "on_slide_text": "कैसे कोई राजा धन का सुख लेकर भी साधु जैसा शांत रह सकता है? चीज़ें रखना अलग है, उनका गुलाम बनना अलग है। दशरथ धन और आनंद को कर्तव्य में रखते हैं। उनके इत्र और मालाएँ देखभाल दिखाती हैं, लालच नहीं। एक सुख चुनो और सात दिन तक अपनी सीमा में रहकर उसका आनंद लो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Explains how wealth and desire bound by dharma become discipline, not lust."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Happy People of Ayodhya",
+    "title": "Happy People of Ayodhya",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या के लोग सुखी हैं और मन के अच्छे हैं। वे बहुत सीखते हैं और अपने पास जो है उसी में संतुष्ट रहते हैं। वे लालच से दूर रहते हैं और सदा सच बोलते हैं। किसी घर में अच्छे भोजन और सामान की कमी नहीं है। हर परिवार के पास घोड़े, गायें, अनाज और खूब धन है।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Shows contentment, truthfulness, and plenty as the base of city life."
+  },
+  {
+    "slide": 8,
+    "slide_label": "Slide08 - Clean Hearts Everywhere",
+    "title": "Clean Hearts Everywhere",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या में तुम्हें कोई अशिष्ट, धोखेबाज़, आलसी या बेईमान व्यक्ति नहीं मिलेगा। सभी स्त्री-पुरुष अच्छे आचरण वाले और शांत मन के हैं। वे अपनी इंद्रियों को वश में रखते हैं और प्रसन्न रहते हैं। काम और व्यवहार में वे ऋषियों जैसे चमकते हैं। वे दया के नियमों के साथ पवित्र जीवन जीते हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Continues the moral portrait of restrained, cheerful, sage-like citizens."
+  },
+  {
+    "slide": 9,
+    "slide_label": "Slide09 - No Greed No Theft",
+    "title": "No Greed No Theft",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्या बिना लालची, बिना चोर, बिना झूठे वाले नगर का वर्णन कवि की बढ़ा-चढ़ाकर कही बात है या मन का नक्शा?",
+    "answer": "यह मन का नक्शा है। अयोध्या वह स्थान है जिसे कोई शत्रु जीत न सके। मन संतोष से जीतता है। लालच झूठ और चोरी का द्वार खोलता है। जब लोग अपने हिस्से में संतुष्ट रहते हैं, बुराई को जगह नहीं मिलती। रोज़ आधे घंटे लालची स्क्रॉल बंद करो और मन को मज़बूत बनाओ।",
+    "on_slide_text": "क्या बिना लालच का नगर केवल मीठा सपना है? नहीं, यह तुम्हारे मन का नक्शा है। अयोध्या का अर्थ है जिसे कोई शत्रु जीत न सके। लालच झूठ और चोरी के लिए द्वार खोलता है। जब मन अपने हिस्से में संतोष पाता है, बुरे कामों को जगह नहीं मिलती। हर दिन आधे घंटे के लिए एक लालची स्क्रॉल बंद करो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reads Ayodhya as inner contentment that cuts crime at its root."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - Dressed in Joy",
+    "title": "Dressed in Joy",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "लोग चमकीले कुंडल, मुकुट और फूलों की मालाएँ पहनते हैं। वे रोज़ स्नान करते हैं और बाँहों पर ठंडा चंदन लगाते हैं। वे इत्र से महकते हैं और शुद्ध भोजन खाते हैं। वे दूसरों को उपहार देना पसंद करते हैं। कलाई में कड़े पहने वे अपनी इच्छाओं को शांत रखते हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Shows adornment, cleanliness, pure food, and charity held with self-control."
+  },
+  {
+    "slide": 11,
+    "slide_label": "Slide11 - No Dark Homes",
+    "title": "No Dark Homes",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या के हर घर में पवित्र आग जलती रहती है। हर व्यक्ति सच्चे मन से पूजा में जुड़ता है। कोई छोटी या बुरी बात नहीं सोचता है। गलियों में कोई चोर नहीं घूमता है। कोई गलत काम या बुरी राह से पैसा नहीं कमाता है।",
+    "characters": [
+      "Citizens of Ayodhya",
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Marks universal worship and absence of theft and wrong livelihood."
+  },
+  {
+    "slide": 12,
+    "slide_label": "Slide12 - Wise and Giving Guides",
+    "title": "Wise and Giving Guides",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या के शांत पुजारी अपना काम बहुत अच्छे से करते हैं। वे दान देते हैं और पवित्र किताबें पढ़ते हैं और सोचकर दान लेते हैं। उनमें कोई झूठा या नफरत करने वाला या मूर्ख नहीं है। सभी वेद जानते हैं और पक्के नियम निभाते हैं। वे हजारों में दान देते हैं और कभी डर से काम नहीं करते हैं।",
+    "characters": [
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Praises self-controlled Brahmanas learned in Vedas and generous in gifts."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Faces Full of Light",
+    "title": "Faces Full of Light",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या में हर नर और नारी सेहत और सुंदरता से चमकते हैं। कोई भी उदास या मुरझाया नहीं दिखता है। सभी अपने दिल में राजा के लिए गहरा प्रेम रखते हैं। हर चेहरा खुशी और दया से मुस्कुराता है। हर व्यक्ति प्यार से मिलता है और सच्चे मन से राजा का सम्मान करता है।",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Shows splendour, beauty, and heartfelt loyalty to the king."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Serving Gods and Guests",
+    "title": "Serving Gods and Guests",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "चारों वर्णों के लोग पहले ज्ञानी गुरुओं का सम्मान करते हैं। वे देवताओं की सेवा करते हैं और मेहमानों का प्रेम से स्वागत करते हैं। वे आभारी रहते हैं और खुलकर दान देते हैं और बहादुर बनकर खड़े रहते हैं। वे हिम्मत से सही जीवन की रक्षा करते हैं। इसलिए शहर में भक्ति और वीरता साथ साथ बसती हैं।",
+    "characters": [
+      "Citizens of Ayodhya",
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Unites gratitude, charity, and valour in service of gods and guests."
+  },
+  {
+    "slide": 15,
+    "slide_label": "Slide15 - Long Happy Homes",
+    "title": "Long Happy Homes",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या के लोग लंबा जीते हैं और हर दिन सच पर चलते हैं। वे भरे पूरे घरों में खुशी से साथ रहते हैं। बेटे पोते और पत्नियां एक ही छत के नीचे रहते हैं। हर घर में परिवार की जड़ें मजबूत होती जाती हैं। गहरा प्रेम उन्हें जोड़ता है इसलिए हर रसोई और आंगन में शांति बसती है।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Depicts long life, joint families, and affection rooted in dharma."
+  },
+  {
+    "slide": 16,
+    "slide_label": "Slide16 - Each Duty in Place",
+    "title": "Each Duty in Place",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "ज्ञानी मार्ग दिखाते हैं और योद्धा ताकत से रक्षा करते हैं। व्यापारी योद्धाओं के साथ चलते हैं और सेवक हुनर से तीनों की सेवा करते हैं। हर वर्ग अपने काम में दृढ़ रहता है। राजा दशरथ बड़े अनुशासन से राज करते हैं। वे विशाल नगर की वैसे ही समझ से रक्षा करते हैं जैसे पहले मनु करते थे।",
+    "characters": [
+      "Dasharatha",
+      "Brahmanas",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Orders the four duties in harmony under Dasharatha's skilled rule."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Teamwork Not Rank",
+    "title": "Teamwork Not Rank",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "कैसे पढ़ें कि क्षत्रिय ब्राह्मणों के नीचे और वैश्य क्षत्रियों के पीछे हैं — क्या यह पुराने ऊँच नीच की तारीफ है?",
+    "answer": "इसे ऊँच नीच नहीं, मेलजोल मानकर पढ़ो। हर वर्ग सेवा करता है। ज्ञानी ज्ञान देते हैं, रक्षक सुरक्षा देते हैं, व्यापारी भोजन देते हैं, सहायक प्रेम से जुड़ते हैं। आज सब बराबरी कहते हैं पर एक ही काम के लिए लड़ते हैं। अपने जीवन की तीन भूमिकाएँ लिखो और बिना शिकायत हर एक का एक काम इस हफ्ते करो।",
+    "on_slide_text": "क्यों एक वर्ग दूसरे के पीछे चलता है — क्या यह अन्याय है? नहीं, यह सबके लिए मेलजोल है। ज्ञानी ज्ञान देते हैं, रक्षक सुरक्षा देते हैं, व्यापारी भोजन देते हैं, सहायक प्रेम से जुड़ते हैं। सभी मिलकर देवों और मेहमानों की सेवा करते हैं। अपने जीवन के तीन काम लिखो और इस हफ्ते हर एक का एक सच्चा कर्तव्य निभाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reframes varna as mutual service and role-clarity for today."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Lions and Swift Horses",
+    "title": "Lions and Swift Horses",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या गुफा में शेरों जैसे चमकीले योद्धाओं से भरी है। वे सीधे रास्ते पर चलते हैं और किसी शत्रु से नहीं डरते। वे हुनर से धनुष और हथियार चलाते हैं। कंबोज, बाह्लीक, वनायु और सिंधु के सुंदर घोड़े थान में हिनहिनाते हैं। वे हवा जैसी तेज चाल से दौड़ते हैं।",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Displays lion-like warriors and famed horses as city strength."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Hills That Walk",
+    "title": "Hills That Walk",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "विंध्य और बर्फीले पहाड़ों के विशाल हाथी अयोध्या में चिंघाड़ते हैं। वे मद में चलते पहाड़ों जैसे बलवान हैं। भद्र, मंद और मृग जाति के हाथी मजबूत पैरों पर खड़े हैं। कुछ उत्तम कुल में तीनों का मेल हैं। ऐरावत जैसे वे चलते काले पहाड़ लगते हैं।",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Details mountain-like elephants of noble breeds guarding the city."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - The City None Can Win",
+    "title": "The City None Can Win",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या दो योजन तक फैली है और इसे कोई जीत नहीं सकता। राजा दशरथ शत्रुओं को कुचलते हैं और तारों में चाँद जैसे चमकते हैं। मजबूत फाटक और अर्गल इसकी दीवारों की रक्षा करते हैं। सुंदर महल कतारों में उठते हैं। हजारों प्रसन्न लोग इसकी सुरक्षित गलियों में उमड़ते हैं।",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Closes the city portrait with its unconquerable name and moon-like king."
+  },
+  {
+    "slide": 21,
+    "slide_label": "Slide21 - Beauty Is Discipline",
+    "title": "Beauty Is Discipline",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों धर्म की नगरी में इतना श्रृंगार है — चंदन और इत्र की खुशबू, कुंडल और मालाएँ, मदमाते हाथी और घोड़े? क्या मुक्ति का रास्ता सादगी और त्याग से नहीं जाता?",
+    "answer": "क्योंकि सच्चा संयम उदास नहीं, सुंदर होता है। स्नान, मीठी खुशबू, साफ भोजन और दान एक साथ चलते हैं। लालच के बिना शरीर की देखभाल पूजा बन जाती है। दया को टिकने के लिए मजबूत रक्षक चाहिए। एक प्यारी आदत चुनो — नहाकर दो मिनट शांत बैठो या धन्यवाद से खाओ — और कर्तव्य को चमकाओ।",
+    "on_slide_text": "क्यों कर्तव्य के रास्ते पर इत्र और गहने पहनें? क्योंकि सच्चा संयम उदास नहीं, सुंदर होता है। साफ स्नान, मीठी खुशबू और दान साथ-साथ बढ़ते हैं। ताकत दया की रक्षा करती है ताकि शांति टिक सके। एक प्यारी आदत रखो — नहाकर दो मिनट शांत बैठो या धन्यवाद के साथ खाना खाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Lands the sharpest insight that restraint shines as beauty guarded by strength."
+  }
+]

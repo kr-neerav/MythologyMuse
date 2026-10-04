@@ -1,0 +1,298 @@
+[
+  {
+    "slide": 1,
+    "slide_label": "Slide01 - The Sage Sits Still",
+    "title": "The Sage Sits Still",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "नारद के अपने घर लौट जाने के बाद बूढ़े ऋषि वाल्मीकि शांत बैठे हैं। उनका मन गहरे शांत विचार में डूब जाता है। चारों ओर हरे जंगल में पक्षी मीठे गीत गाते हैं। वे एक सच्चे अच्छे और पूर्ण मनुष्य की सच्ची कथा खोज रहे हैं।",
+    "characters": [
+      "Valmiki"
+    ],
+    "location": "Valmiki's Meditation Seat",
+    "rationale": "Opens on the hook with Valmiki alone in meditation after Narada departs."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - A Story Begins",
+    "title": "A Story Begins",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वाल्मीकि अपने प्यारे शिष्यों को जंगल में अपने पास बुलाते हैं। राम के राजा बनने के बाद वे चौबीस हजार श्लोक गाते हैं। आज से हम सूर्य वंश के पुराने राजाओं की कथा सुनेंगे। उसी उज्ज्वल वंश में संसार की रक्षा के लिए राजकुमार राम का जन्म हुआ।",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Sets the promise to hear the dynasty tale from the start and notes the twenty-four thousand verses."
+  },
+  {
+    "slide": 3,
+    "slide_label": "Slide03 - Kings Who Dug Seas",
+    "title": "Kings Who Dug Seas",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वाल्मीकि पहले पिता प्रजापति से शुरू करके राजाओं की कथा सुनाते हैं। राजा इक्ष्वाकु ने सूर्य वंश की मजबूत नींव रखी। राजा सगर ने बड़ी शक्ति से गहरा सागर खोदा। उनके साठ हजार बेटे उनके पीछे बहती नदी की तरह चले।",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers the lineage beat of Prajapati, Ikshvaku and Sagara digging the ocean."
+  },
+  {
+    "slide": 4,
+    "slide_label": "Slide04 - River Before Star",
+    "title": "River Before Star",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों करते हैं वाल्मीकि राम के जन्म से पहले ही पुराने राजाओं का गुणगान?",
+    "answer": "क्योंकि राम अकेला तारा नहीं बल्कि लंबी नदी का अंतिम चरण हैं। सगर और इक्ष्वाकु जैसे राजाओं ने वर्षों तक कठिन तप किया ताकि राम शांत और बलवान बन सकें। अगर हम खुद को अपने बल पर बना मानें तो हम जड़हीन होकर टूट जाते हैं। अपने बड़ों से मिले तीन उपहार रोज लिखो और एक उपहार रोज आगे बढ़ाओ।",
+    "on_slide_text": "क्यों गाएँ राम के जन्म से पहले पुराने राजाओं की कथा? क्योंकि राम अकेला तारा नहीं बल्कि लंबी नदी का अंतिम चरण हैं। सगर ने सागर खोदा ताकि बाद के राजा तैर सकें। अपने बड़ों से मिले तीन उपहार लिखो और एक उपहार आगे बढ़ाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects why genealogy comes before Rama as river before star."
+  },
+  {
+    "slide": 5,
+    "slide_label": "Slide05 - Listen With Clean Heart",
+    "title": "Listen With Clean Heart",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "वाल्मीकि हाथ जोड़कर सुनने वाले सभी लोगों से कहते हैं। क्रोध और ईर्ष्या को अपने मन से बहुत दूर छोड़ दो। शुरू से सूर्य राजाओं की यह पूरी कथा सुनो। यह पवित्र कथा साफ मन वाले लोगों को अच्छाई धन और आनंद देती है।",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers the call to listen free of ill will for merit, profit and joy."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Learning Needs Clean Eyes",
+    "title": "Learning Needs Clean Eyes",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "कहानी सुनने से पहले हमें ईर्ष्या को पीछे क्यों छोड़ना चाहिए?",
+    "answer": "क्योंकि जलता हुआ मन ले नहीं पाता, बस तुलना करता है। अयोध्या इतनी सुखी लगती है कि ईर्ष्या हमारी कमी गिनने लगती है। आज मोबाइल चलाते समय भी यही जलन होती है। साफ मन जल्दी सीखता है। जब खटास उठे, रुको और एक पंक्ति में लिखो कि क्या सीख सकते हो।",
+    "on_slide_text": "कथा सुनने से पहले ईर्ष्या को बाहर क्यों छोड़ें? क्योंकि जलने वाला मन सीखने की जगह तुलना करता है। अयोध्या इतनी सुंदर लगती है कि मन हमारी कमी गिनने लगता है। जब मन खट्टा हो, रुको और एक पंक्ति में लिखो कि तुम क्या सीख सकते हो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects cleansing envy as a technique for learning."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Land Of Golden Grain",
+    "title": "Land Of Golden Grain",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "साफ सरयू नदी के किनारे कोसल की धनी धरती फैली है। चौड़े खेतों में फसल सोने जैसी चमकती है। हर घर अनाज और धन से भरा है। शांत लोगों को किसी चीज़ की कमी नहीं है और वे मिलकर सुख के दिन बिताते हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Kosala",
+    "rationale": "Covers the Kosala beat of fertile fields and happy people on the Sarayu."
+  },
+  {
+    "slide": 8,
+    "slide_label": "Slide08 - City Built By Manu",
+    "title": "City Built By Manu",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "कोसल में महान राजधानी अयोध्या खड़ी है। ज्ञानी मनु ने बहुत पहले इसकी मज़बूत दीवारें बनाईं थीं। इसकी अच्छाई की शोहरत पूरे बड़े संसार में फैल गई। लोग हर जगह इसका पवित्र नाम प्यार और गर्व से लेते हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Ayodhya founded by Manu with fame spread across the world."
+  },
+  {
+    "slide": 9,
+    "slide_label": "Slide09 - Roads Of Flowers",
+    "title": "Roads Of Flowers",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या बारह योजन लंबी और दस योजन चौड़ी फैली है। बाहर चौड़ी सीधी सड़कें साफ कतारों में जाती हैं। साफ रास्तों पर ताज़े फूलों की पंखुड़ियाँ नरम बिछी हैं। लोग हर दिन ठंडा पानी छिड़कते हैं जिससे राजमार्ग चमक उठते हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers the city measure and flower-strewn watered highways."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - King Like Indra",
+    "title": "King Like Indra",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "राजा दशरथ धनी अयोध्या नगरी पर प्यार से राज करते हैं। वे पिता की तरह दिन रात अपनी प्रजा की रक्षा करते हैं। जैसे इंद्र बादलों के ऊपर चमकते स्वर्ग की रक्षा करते हैं, वैसे दशरथ नीचे अपनी चमकती गलियों की न्याय और प्रेम से रक्षा करते हैं।",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Dasharatha dwelling in Ayodhya as Indra dwells in heaven."
+  },
+  {
+    "slide": 11,
+    "slide_label": "Slide11 - Shops And Strong Gates",
+    "title": "Shops And Strong Gates",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या में मजबूत दरवाजे और ऊँचे चमकदार द्वार हैं। हर गली में सजे दुकान रंग और जीवन से भरे हैं। कुशल कारीगर हर औजार और सुंदर शिल्प बनाते हैं। गायक पुराने राजाओं का गुण गाते हैं। झंडे लहराते हैं और शतघ्नी दीवारों की रक्षा करती हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers doors, shops, artisans, singers, flags and Shataghni weapons."
+  },
+  {
+    "slide": 12,
+    "slide_label": "Slide12 - Gardens Behind Walls",
+    "title": "Gardens Behind Walls",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या में स्त्रियों के लिए सुंदर नाट्यशालाएँ और हरे आम के बाग हैं। चारों ओर मीठे फूलों वाले बगीचे आनंद के लिए खिलते हैं। शहर के चारों ओर ऊँची दीवार है और बाहर गहरी खाई है। बिना आज्ञा कोई मित्र या शत्रु अंदर नहीं जा सकता।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers theatres, gardens, wall and moat that guard entry."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Elephants In Markets",
+    "title": "Elephants In Markets",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "व्यस्त सड़कों पर हाथी घोड़े गाय और ऊँटों की भीड़ रहती है। धीरे चलने वाले गधे धूल में भारी बोझ ढोते हैं। पास के राजा बाजारों में सम्मान देने उपहार लाते हैं। दूर देशों से धनी व्यापारी सामान खरीदने और बेचने आते हैं।",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers crowded animals and tribute markets with distant merchants."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Palaces Like Heaven",
+    "title": "Palaces Like Heaven",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "ऊँचे महल पहाड़ों जैसे उठते हैं और चमकते रत्नों से दमकते हैं। स्त्रियों के लिए कोमल विहार स्थल दोनों ओर फैले हैं। अयोध्या आकाश में इंद्र की अमरावती जैसी चमकती है। सुनहरे वस्त्रों वाली स्त्रियाँ मीठी मुस्कान से राजमहलों की शोभा बढ़ाती हैं।",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers gem palaces and pleasure grounds shining like Amaravati."
+  },
+  {
+    "slide": 15,
+    "slide_label": "Slide15 - Sweet Water Music",
+    "title": "Sweet Water Music",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या के खेतों में सुनहरा धान और सफेद चावल घना उगता है। ठंडा पानी होठों पर गन्ने के रस जैसा मीठा लगता है। हर रात गलियाँ ढोल वीणा और मीठी बाँसुरी से गूँजती हैं। भोर तक हर घर में संगीत और आनंद तैरता रहता है।",
+    "characters": [
+      "Citizens of Ayodhya",
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers paddy abundance, sweet water and nightly music."
+  },
+  {
+    "slide": 16,
+    "slide_label": "Slide16 - Clean Roads Holy Hearts",
+    "title": "Clean Roads Holy Hearts",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों शास्त्र मीठे पानी और फूलों वाली सड़कों को पवित्र कहता है?",
+    "answer": "क्योंकि साफ सड़कें साफ दिल दिखाती हैं, सिर्फ अमीर हाथ नहीं। जब राजा मनु अच्छी योजना बनाते हैं और दशरथ अच्छी रक्षा करते हैं, तो खेत अनाज देते हैं और पानी मीठा हो जाता है। सुव्यवस्था ही पूजा है। अपने घर के बाहर दस फुट सफाई करो, पानी छिड़को और एक छोटा पौधा लगाओ।",
+    "on_slide_text": "क्यों फूलों से सजी सड़कों और मीठे पानी को पवित्र कहते हैं? क्योंकि साफ सड़कें साफ दिलों से बनती हैं, अमीर हाथों से नहीं। अच्छे राजा से खेतों में अनाज उगता है और पानी मीठा लगता है। अपने घर के बाहर दस फुट जगह साफ करो, पानी छिड़को और एक पौधा लगाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects order as worship in flower roads and sweet water."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Guard Joy Wisdom",
+    "title": "Guard Joy Wisdom",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्या एक पवित्र नगर में हथियार और आनंद के बगीचे साथ क्यों हैं?",
+    "answer": "क्योंकि अच्छे नगर को रक्षा, खुशी और ज्ञान तीनों एक साथ चाहिए। मजबूत शतघ्नी दीवारों की रक्षा करती हैं, जबकि बगीचे और संगीत खुश दिलों को सींचते हैं। ज्ञानी पुरोहित दान देते हैं और सबको राह दिखाते हैं। रक्षा, खुशी और ज्ञान का त्रिकोण बनाओ, और खाली कोने को पूरा एक घंटा दो।",
+    "on_slide_text": "क्या मजबूत हथियार और खुशहाल बगीचे एक पवित्र नगर में करते हैं? क्योंकि अच्छाई का मतलब संतुलन है, सिर्फ मना करना नहीं। दीवारें शरीर की रक्षा करती हैं, संगीत और बगीचे दिल को खिलाते हैं। रक्षा, खुशी और ज्ञान का अपना त्रिकोण बनाओ, और एक घंटे खाली कोने को भरो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects purity as balance of security, joy and wisdom."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Arrows Held Back",
+    "title": "Arrows Held Back",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "राजा दशरथ के पास हजारों तेज महारथी योद्धा हैं। युद्ध में उनके हाथ चमकीली बिजली जैसे तेजी से चलते हैं। वे जंगल में जंगली शेर, बाघ और सूअर को रोक सकते हैं। फिर भी वे भटके, बेसहारा, छिपे या भागते मनुष्य पर कभी बाण नहीं चलाते।",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Maharathas who can slay beasts yet spare the helpless."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Strength Holds Back",
+    "title": "Strength Holds Back",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों कमजोर पर बाण न चलाने के लिए बलवान योद्धाओं की तारीफ होती है?",
+    "answer": "क्योंकि सच्ची ताकत वार रोकने में दिखती है, वार करने में नहीं। ये योद्धा जंगली जानवरों को मार सकते हैं, फिर भी डरे और भागते मनुष्य को छोड़ देते हैं। दीवारें नगर की बाहर से रक्षा करती हैं, दयालु दिल अंदर से। दिन में एक बार अपने तीखे बोल रोको और दूसरे को सुरक्षित जाने दो।",
+    "on_slide_text": "क्यों शेर मारने वाले योद्धाओं की तारीफ करें, जो कमजोर को छोड़ देते हैं? क्योंकि सच्ची ताकत रोकने में दिखती है, जोर से मारने में नहीं। दीवारें नगर की बाहर से रक्षा करती हैं, दयालु दिल अंदर से। दिन में एक बार अपने तीखे बोल रोको और सामने वाले को सुरक्षित जाने दो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Insight reflects civilization measured by restraint not capability."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Heaven On Earth",
+    "title": "Heaven On Earth",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "अयोध्या ज्ञानी ब्राह्मणों से सबसे ज्यादा चमकती है, जो सत्य से प्रेम करते हैं। वे हर भोर पवित्र अग्नि जलाते हैं और वेद गाते हैं। सब शास्त्रों में निपुण वे हजारों में दान देते हैं। ऐसे दयालु दिलों से नगर धरती पर स्वर्ग जैसा चमकता है।",
+    "characters": [
+      "Brahmanas",
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Closes on the resolving beat of truthful Brahmanas making heaven-like Ayodhya."
+  }
+]

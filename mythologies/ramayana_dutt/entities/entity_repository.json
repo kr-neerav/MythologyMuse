@@ -1372,6 +1372,16 @@
       "image_prompt": "An establishing-shot sheet of the Ayodhya Palace Court, a grand pillared royal hall of white marble and polished sandstone with tall carved pillars bearing lotus capitals and gold inlay, central golden lion-throne with red silk cushions and pearl-fringed canopy on a raised marble dais, ivory-inlaid side seats for princes and ministers, hanging brass lamps, silk wall hangings with Ramayana lotus motifs, warm golden lamp and daylight glow, majestic solemn royal mood, classical Indian mythological art style, plain seamless neutral-grey studio backdrop, soft even lighting, facing the viewer, no on-image text.",
       "muse_prompt": "The Ayodhya Palace Court is a grand pillared royal hall of white marble and polished sandstone with tall carved pillars bearing lotus capitals and gold inlay. A central golden lion-throne with red silk cushions and a pearl-fringed canopy stands on a raised marble dais, flanked by ivory-inlaid side seats for princes and ministers. Hanging brass lamps and silk wall hangings with lotus motifs glow in warm golden light, creating a majestic solemn royal mood.",
       "first_seen": "Book_1_Bala_Kanda_Chapter_4"
+    },
+    "kosala": {
+      "type": "scene",
+      "canonical_name": "Kosala",
+      "aliases": [],
+      "description": "The large flourishing land on the banks of the Sarayu whose capital is Ayodhya.",
+      "flow_ref": "Kosala",
+      "image_prompt": "An establishing-shot sheet of Kosala, the large flourishing kingdom on the banks of the Sarayu with Ayodhya as its capital, classical Indian mythological art style, soft even lighting, expansive fertile plains with lush green rice fields and mango groves, wide serene Sarayu river winding through the land, distant skyline of Ayodhya with sandstone ramparts, ornate torana gateways, golden temple shikharas and domed palaces, clear morning sky, prosperous and tranquil mood, NO on-image text.",
+      "muse_prompt": "The kingdom of Kosala spreads as vast fertile plains along the wide serene Sarayu river, lush with green rice fields, flowering groves and mango orchards. On the riverbank rises the distant capital Ayodhya with sandstone ramparts, ornate torana gateways, golden temple shikharas and domed palaces glowing in warm morning light. The land feels prosperous, tranquil and sacred under a clear luminous sky.",
+      "first_seen": "Book_1_Bala_Kanda_Chapter_5"
     }
   }
 }

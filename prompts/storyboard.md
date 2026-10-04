@@ -58,11 +58,12 @@ STAGE-DRAW rubric (one panel = one drawn moment):
   faces; never more than 5.
 * One moment per panel. When the text spans two moments (farewell trail +
   river meeting, plotting + abduction + grief), stage the apex/resolving
-  beat; earlier beats may survive only as faceless background hints.
+  beat; earlier beats may survive only as background hints seen from
+  behind, softly out of focus, or omitted entirely.
 * NEVER stage: simile/comparison figures, lineage names, epithets,
   invoked-but-absent gods, the remembered dead (no apparitions gazing
   from clouds), offstage beneficiaries, elsewhere-informants, or
-  collectives as individuals. Crowds stay undesigned background masses.
+  collectives as individuals. Crowds stay undesigned: backs to the viewer, soft blur, small distant figures, or omitted — never face-negation wording (no "faceless", "without/no face", "featureless", "blank face").
 * A described-but-absent figure may appear ONLY as an explicitly unreal
   vision inside a telling scene (glow/cloud inset), never as a physical
   presence.
