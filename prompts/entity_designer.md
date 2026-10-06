@@ -31,10 +31,26 @@ Rules:
   unambiguously.
 * Consistency-critical details (Rama's azure-blue complexion, Sita's jasmine
   braid) must be unambiguous and repeated identically every time.
+  Paired attributes (ears, eyes, limbs, ornaments) are described once,
+  identically, with "both alike" wording — never two different types
+  on one figure. Hanuman's ears are small round human-type ears, both
+  alike; never pointed, tall, or vanara-type wording.
+  Gods read Indian, never classical-Greek: Vedic deities wear
+  kirita-mukuta, yajnopavita, dhoti with Indian-draped angavastram,
+  sect tilak (Agni: tripundra), rudraksha/gold jewelry, and emblem
+  halos (Agni: seven-tongued flame halo) with sruk ladle and torch —
+  never toga drapes, wild flame beards, or laurel-like hair.
+  Agni's full canon: red ember body, black topknotted hair (never
+  all-flame hair), trimmed black moustache and short black beard,
+  tripundra tilak, yajnopavita, uttariya over the left shoulder with
+  both ends hanging, marigold-and-fruit garland, seven flame tongues
+  plus seven light rays, white ram vahana at his side. Single head
+  and two arms per project canon (texts mention more; we never render
+  them).
 * Rama's sheet stays the Ayodhya prince WITH crown (kiritamukuta) — keep
-  it. His vanavasa exile look (bare-headed jatabhara, no crown) is a
-  per-panel override owned by panel_prompts.md, never a second Rama
-  entity.
+  it. His vanavasa exile look (bare-headed jatabhara, no crown) lives in
+  the render-plan layer (a `RamaExile` roster variant + per-slide subject
+  `sheet` overrides), never as a second entity in the repository.
 * No story action, no panel composition, no other entities — identity ONLY.
 * Culture-faithful attire and setting; avoid modern anachronisms unless the
   description demands them (Kavya is modern dress).

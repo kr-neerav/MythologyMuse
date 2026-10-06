@@ -168,6 +168,70 @@ def _write_ch9_plan(out, chapter, roster, subjects, prompt="paint scene"):
                      "size": "1536x864"}]}))
 
 
+def test_subject_sheet_override_selects_variant():
+    """Per-slide look variants (exile Rama): a subject `sheet` key resolves
+    readiness against the variant sheet while the staged name stays, so the
+    panel attaches the variant final instead of the base look. Unknown
+    variants fail closed (missing) rather than rendering the base."""
+    import server as server_mod
+    with tempfile.TemporaryDirectory() as t:
+        out = Path(t)
+        roster = [{"name": "Rama", "flow_ref": "Rama", "kind": "character",
+                   "image_prompt": "crowned prince"},
+                  {"name": "Rama (Exile)", "flow_ref": "RamaExile",
+                   "kind": "character", "image_prompt": "bare-headed exile"}]
+        subjects = [{"name": "Rama", "kind": "character",
+                     "sheet": "RamaExile"}]
+        _write_ch9_plan(out, "Ch9", roster, subjects)
+        b = bundle_mod.chapter_bundle(out, "Ch9")
+        sub = b["slides"][0]["subjects"][0]
+        assert sub["name"] == "Rama" and sub["sheet"] == "RamaExile", sub
+        assert sub["flow_ref"] == "RamaExile", sub
+        assert sub["sheet_state"] == "missing" and sub["generatable"] is True
+        h = server_mod.Handler.__new__(server_mod.Handler)
+        r = h._resolve_target(out, "Ch9", {"kind": "panel", "slide": 1})
+        assert r["cast"] == [{"name": "Rama", "ref": "RamaExile"}], r
+        assert r["ref_names"] == [], r  # gate blocks until variant picked
+        imgs = out / "Ch9" / "studio_images"
+        imgs.mkdir(parents=True, exist_ok=True)
+        (imgs / "sheet_Rama_final.jpg").write_bytes(b"prince")
+        b2 = bundle_mod.chapter_bundle(out, "Ch9")
+        assert b2["slides"][0]["subjects"][0]["sheet_state"] == "missing"
+        (imgs / "sheet_RamaExile_final.jpg").write_bytes(b"exile")
+        b3 = bundle_mod.chapter_bundle(out, "Ch9")
+        sub3 = b3["slides"][0]["subjects"][0]
+        assert sub3["sheet_state"] == "ready"
+        assert sub3["sheet_final"] == "sheet_RamaExile_final.jpg"
+        r3 = h._resolve_target(out, "Ch9", {"kind": "panel", "slide": 1})
+        assert r3["cast"] == [{"name": "Rama", "ref": "RamaExile"}], r3
+        assert r3["ref_names"] == ["Rama"], r3
+        refs = image_gen_mod.collect_refs(
+            imgs, b3["slides"][0]["subjects"])
+        assert [p.name for p in refs] == ["sheet_RamaExile_final.jpg"]
+        # Unknown variant fails closed: no silent fallback to the base look.
+        _write_ch9_plan(out, "ChX", roster,
+                        [{"name": "Rama", "kind": "character",
+                          "sheet": "RamaNope"}])
+        bx = bundle_mod.chapter_bundle(out, "ChX")
+        subx = bx["slides"][0]["subjects"][0]
+        assert subx["flow_ref"] == "" and subx["sheet_state"] == "missing"
+        assert subx["generatable"] is False, subx
+        # Pre-trim preserves the variant link when it rebuilds subjects.
+        sys.path.insert(0, str(STUDIO.parent / "tools"))
+        import pretrim as pretrim_mod
+        rep = pretrim_mod.trim_slide(
+            out / "Ch9", "Ch9", 1, ["Rama"], None, "apex why", "paint Rama")
+        assert rep["kept"] == ["Rama"], rep
+        import ast as _ast
+        rp = json.loads(
+            (out / "Ch9" / "comic_render_plan_Ch9.json").read_text())
+        subs = _ast.literal_eval(next(
+            s["subjects"] for s in rp["slides"] if s["slide"] == 1))
+        assert {"name": "Rama", "kind": "character",
+                "sheet": "RamaExile"} in subs, subs
+    print("ok subject sheet override selects variant, unknown fails closed")
+
+
 def test_junk_subject_not_generatable():
     """Kavya-like junk (kind unknown, no flow_ref) must never offer Generate."""
     with tempfile.TemporaryDirectory() as t:
@@ -1140,6 +1204,7 @@ if __name__ == "__main__":
     test_refs_and_jobs()
     test_subject_ref_resolution()
     test_shared_sheet_final_visible_across_chapters()
+    test_subject_sheet_override_selects_variant()
     test_junk_subject_not_generatable()
     test_panel_candidates_resurface()
     test_sheet_resolve_errors()
@@ -1162,4 +1227,4 @@ if __name__ == "__main__":
     test_data_url_sniffs_real_bytes()
     test_fallback_reason_carries_api_body()
     test_turn_body_gate_rejects_before_spend()
-    print("studio tests: 30/30 PASS")
+    print("studio tests: 31/31 PASS")

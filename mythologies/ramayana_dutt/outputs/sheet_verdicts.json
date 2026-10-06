@@ -320,14 +320,14 @@
    "name": "Hanuman",
    "flow_ref": "Hanuman",
    "kind": "character",
-   "prompt_sha256": "9ccf6c99824b99d1c32651604a6ed1ec9765842f83c41bc14e0c97103addfacd",
-   "prompt_source": "comic_render_plan_Book_1_Bala_Kanda_Chapter_1.json roster",
+   "prompt_sha256": "8926b5f196092e4fc55a256c6aa3281a01c4fed9d2a8312579ac5d5f9cffdcc5",
+   "prompt_source": "comic_render_plan roster",
    "final": "Book_1_Bala_Kanda_Chapter_1/studio_images/sheet_Hanuman_final.jpg",
-   "final_sha256": "66232d90eb1e38d259fad683f29c85bdde108e2c9c13fddb4320635e7e8121df",
+   "final_sha256": "035e0b545a322e1dc3329c7efac2c0a8a203ad5f0a480d460c224d0479e2dc5c",
    "verdict": "PASS",
-   "decided_at": 1790873158,
-   "passed_on": "Ch1 slides 11-15 entity pass",
-   "note": "viewed and critiqued 2026-10-01"
+   "decided_at": 1791171643,
+   "passed_on": "Book_1_Bala_Kanda_Chapter_1 Hanuman",
+   "note": "Ear canon fix: small round human-type ears both alike; face and attire unchanged"
   },
   "Sugriva": {
    "name": "Sugriva",
@@ -385,14 +385,14 @@
    "name": "Agni",
    "flow_ref": "Agni",
    "kind": "character",
-   "prompt_sha256": "5a8e0f67dc24c4f8b57c5aa2df4f2192b20fe0d76a75ee96f38f157112711074",
-   "prompt_source": "comic_render_plan_Book_1_Bala_Kanda_Chapter_1.json roster",
+   "prompt_sha256": "df96aafb62fbf8814875722c9ae960a17216e2b1a9445a28165ce6a5cd976f60",
+   "prompt_source": "comic_render_plan roster",
    "final": "Book_1_Bala_Kanda_Chapter_1/studio_images/sheet_Agni_final.jpg",
-   "final_sha256": "dba9ff3a45876358c39e51c07f1d3899c866b23c0fb2fdcf8d68f1b63c7b0748",
+   "final_sha256": "b8965697ff2f32321d10d8bed8bf96fa08872664258f71f6e4878094c13e179c",
    "verdict": "PASS",
-   "decided_at": 1790876804,
-   "passed_on": "Ch1 slides 16-18 entity pass",
-   "note": "viewed and critiqued 2026-10-01"
+   "decided_at": 1791288211,
+   "passed_on": "Book_1_Bala_Kanda_Chapter_1 Agni",
+   "note": "Indian canon: black topknot, seven tongues, ram vahana, fruit garland, uttariya"
   },
   "Lanka": {
    "name": "Lanka",
@@ -1095,6 +1095,19 @@
    "decided_at": 1791028434,
    "passed_on": "Book_1_Bala_Kanda_Chapter_4 Kush",
    "note": "Ch4 entity loop R3 best-candidate; remaining: kusha ring duplicated on left hand despite right-only prompt"
+  },
+  "RamaExile": {
+   "name": "Rama (Exile)",
+   "flow_ref": "RamaExile",
+   "kind": "character",
+   "prompt_sha256": "a9f9790aa8a29db1ad1e64dc57a88f01bfdccb4e55146c7a233e5400d1fa8ea5",
+   "prompt_source": "comic_render_plan roster",
+   "final": "Book_1_Bala_Kanda_Chapter_1/studio_images/sheet_RamaExile_final.jpg",
+   "final_sha256": "73d1dcba9a5f85b02944bd4c885ee5fdfdfce8a5f71bdee9439a1a66da3491fa",
+   "verdict": "PASS",
+   "decided_at": 1791113176,
+   "passed_on": "Book_1_Bala_Kanda_Chapter_1 RamaExile",
+   "note": "Exile variant: bare jatabhara, no crown; same face as prince sheet"
   }
  }
 }

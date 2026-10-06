@@ -55,7 +55,9 @@ Schema — every slide has EXACTLY these keys:
 STAGE-DRAW rubric (one panel = one drawn moment):
 * DRAW only who is physically present AND dramatically necessary: acts,
   speaks, or is the emotional focus of this beat. Prefer at most 4 named
-  faces; never more than 5.
+  faces; never more than 5. Principals outrank minors: when trimming to
+  the cap, drop charioteers, attendants, and collectives first — Rama,
+  Sita, and Lakshmana are never the ones cut.
 * One moment per panel. When the text spans two moments (farewell trail +
   river meeting, plotting + abduction + grief), stage the apex/resolving
   beat; earlier beats may survive only as background hints seen from

@@ -58,7 +58,54 @@ fails for the same reasons old ones did.
   (both copies) by naming the recipient and the facing explicitly
   ("kneeling facing Rama, offering the crown up toward Rama"), then
   re-render.
+- Goddesses travel with dignity: Sita (and every goddess) is never
+  clutched, gripped, or carried bodily by an antagonist. Abductions
+  stage her upright — standing or seated inside the vehicle with rails,
+  seats, or space between her and her captor, his hands on reins, rails,
+  or weapons, never on her (slide 13 precedent: Ravana bore Sita aloft
+  pressed to his chest; fixed to Sita standing in the Pushpaka cabin
+  behind its rail). One staged woman per panel — FAIL duplicates. Fix
+  in the panel prompt (both copies), then re-render.
+- Blessings flow down, never up: elders, sages, and gurus bless;
+  juniors receive with joined palms or a bowed head. FAIL a younger
+  prince giving ashirwad (raised blessing palm) to a sage or elder —
+  Rama kneels in anjali before Agastya; Agastya's hands bless above him
+  (slide 10 precedent). Fix in the panel prompt (both copies), then
+  re-render.
 - At most 5 named faces, prefer 4 or fewer.
+- Ancient-tech realism: vehicles of the age have no engines, so no
+  smoke, exhaust, fumes, or fire beneath them — divine chariots and
+  vimanas fly by celestial power, trailing only pale dust and petals
+  (slide 13 precedent: Pushpaka rendered with gasoline-style exhaust
+  wisps; fixed with "engine-less, divine power, no smoke no exhaust no
+  fumes"). Name ONE cabin and one pavilion only — extra pavilion,
+  swan-prow, or trailing-cabin nouns grow a second occupied vehicle
+  and a duplicate figure (slide 13 rounds 2-3 precedent).
+- Same-location continuity: consecutive slides in one place share
+  identical place prose PLUS one explicit layout anchor (hut at the
+  right, fence at the left, altar center foreground) — prose alone
+  drifts the camera (slides 12-14 precedent: same hermitage).
+  Identical wording still leaves minor per-render differences (no seed
+  or composite support): same ref, same words, same anchor is the
+  ceiling — never promise pixel-identical backgrounds.
+- Shut doors, don't empty them: an "empty doorway/opening" grows a
+  duplicate figure; a SHUT door ("closed bamboo door, no opening, no
+  one at it") stays shut (slide 13 precedent: doorway Sita twice).
+- Positive counts only: negated quantities ("no second cabin", "no
+  other vehicle") render the negated thing — state what exists ("the
+  lone craft in an otherwise empty sky"). Seat staged figures
+  physically: "both feet on the cabin floor, hands on the rail from
+  inside" keeps Sita in the cabin (slide 13 precedent: she leaned half
+  over the rail).
+- Principals over minors: Rama, Sita, and Lakshmana are never dropped,
+  merged, or backgrounded for minor figures (charioteers, attendants,
+  citizens). When a panel crowds toward the face cap, minor figures yield
+  first — trim them, push them to backs/blur/distance, or omit them —
+  and Lakshmana stays a distinct foreground face with his bow and sword
+  (slide 7 precedent: Lakshmana merged away while the Charioteer kept a
+  prominent face). Lookalike principals get disambiguated, never fused:
+  one feathered bowman is Guha, the clean-shaven sword-bearing youth is
+  Lakshmana.
 
 ### 2. Identity consistency (sheets and panels)
 
@@ -75,14 +122,42 @@ fails for the same reasons old ones did.
   transfers to an exile panel. FAIL any exile-context render or prompt
   showing or naming a crown on Rama. Fix in the panel prompt (both
   copies) by describing the jatabhara topknot bare-headed and deleting
-  every crown word, then re-render. Crowned Rama outside exile (Ayodhya
-  before departure, coronation/return) still passes.
+  every crown word, then re-render. When the crown persists across
+  rounds, the attached crowned sheet is forcing it (attached files win
+  over words by design): attach the exile variant sheet on that slide's
+  Rama subject (`"sheet": "RamaExile"` in the render plan) instead of
+  re-rolling. Tag the variant at chapter-build time for every
+  exile-context panel — Ch3 precedent: slides 13/14/16 shipped with
+  crowned Rama because the variant was never tagged there, and two
+  paid rounds on corrected words alone still rendered the crown.
+  Crowned Rama outside exile (Ayodhya before departure,
+  coronation/return) still passes.
+- Uncrowned never means hairless: "bare-headed / no crown" without an
+  explicit full-head-of-hair clause renders a BALD head when the
+  attached sheet wears a crown (slide 26 precedent). Always pair the
+  negation with positive hair: "full jet-black hair tied in a topknot,
+  hair alone on his head, no crown".
+- One crown, one recipient: a handoff stages a SINGLE crown in the
+  giver's hands with giver body and gaze fixed only on the receiver —
+  never a crown on the receiver's head at the same time (slide 26
+  precedent: crowned Rama plus Bharata offering a second crown toward
+  Hanuman; fixed to uncrowned topknot Rama, Bharata kneeling with back
+  to Hanuman, crown raised toward Rama alone).
 - No attribute bleed between staged figures: no extra limbs or heads on
   anyone, ever. Rama reads two-armed, one head.
 - One tail per vanara: each monkey-figured staged cast member shows
   exactly one tail, visibly rooted at its own back — one tail per
   figure no matter how many share the frame. FAIL doubled, stray, or
   unrooted tails (slide 16 precedent: Hanuman rendered with two tails).
+- Paired attributes match, both alike: ears, eyes, limbs, and ornaments
+  are described once, identically, with "both alike" wording — never
+  two different types on one figure. FAIL mixed pairs (Hanuman
+  precedent: "tall pointed vanara ears" rendered as two different ear
+  types, sometimes pointed one side and round the other; fixed to
+  "small round human-type ears, both alike" in the repository, both
+  rosters, and all panel prompts, plus the corrected sheet). Zoom ears
+  on every vanara critique: hair hides one side, which is where the
+  mismatch breeds.
 - Garments, crowns, marks, and attributes match the sheet.
 
 ### 3. Composition safety
@@ -111,6 +186,29 @@ fails for the same reasons old ones did.
   per object. Small dark vessels tucked against garments at hips and
   waists hide most often: zoom those zones. No PASS with an
   unaccounted object.
+- Projectiles stay connected: every arrow, spear, or thrown weapon must
+  visibly join its origin to its target in one straight line — tail at
+  the string or hand, tip at or biting into the target. FAIL floating
+  shafts that touch neither (slide 17 precedent: an arrow frozen
+  mid-air with both ends free) and cross-eyed aim (archer's gaze not on
+  the target). The release instant reads best: bow arm extended at the
+  target, string hand at the cheek, gaze fixed down the shaft, motion
+  told by splinters, dust, or strain — never by a detached object. Fix
+  in the panel prompt (both copies), then re-render.
+- Name the target: a drawn weapon points AT its intended victim — eye,
+  weapon, and target colinear — never at empty space or off-frame when
+  the text names who falls (slide 18 precedent: Rama's arrow aimed past
+  Vali while the text says it fells him). Phrase aim as geometry
+  ("shaft pointing toward Vali, gaze fixed on Vali"), never as
+  wound-targeting ("aimed at his chest") — the latter trips the
+  provider content filter on the attach shape.
+- Clear the firing lane: a drawn weapon threatens no staged figure but
+  its target. FAIL any protagonist or bystander standing in the shaft's
+  path (slide 22 precedent: Rama's nocked arrow pointing at a kneeling
+  Hanuman). Fix in the panel prompt (both copies) with geometry plus
+  position — name open ground or water as the aim point AND place every
+  other figure behind the bow arm, below the shaft line, or otherwise
+  visibly clear of it — then re-render.
 
 ### 4. Policy pre-scan (before any spend)
 

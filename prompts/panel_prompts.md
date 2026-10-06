@@ -41,6 +41,54 @@ Rules:
   what the camera sees instead (backs, blur, distance, crop).
 * An explicitly-unreal vision (a telling scene's inset) must read as a
   vision: luminous, edgeless, set apart from the physical foreground.
+* Principals over minors: stage Rama, Sita, and Lakshmana as distinct
+  foreground faces with their signature attributes (Lakshmana: youthful
+  clean-shaven face, golden-cord topknot, bamboo bow in hand, sword at
+  waist); never merge or background them for minor figures. Push
+  charioteers, attendants, and crowds back (backs, blur, distance, or by
+  their vehicle) and disambiguate lookalikes (one feathered bowman is
+  Guha, never two).
+* Blessings flow down, never up: sages, gurus, and elders bless with
+  raised or extended hands; juniors receive kneeling with joined palms
+  or bowed head. Never pose a younger prince with a raised blessing
+  palm toward a sage or elder.
+* Goddesses travel with dignity: never clutch, grip, or carry a goddess
+  bodily. Stage abductions with her upright — standing or seated inside
+  the vehicle with rails, seats, or space between her and her captor,
+  his hands on reins, rails, or weapons, never on her. Exactly one
+  staged figure per staged name, never a duplicate.
+* Projectiles stay connected: write every arrow, spear, or thrown
+  weapon as one unbroken line from origin to target — tail at the
+  string or hand, tip at or biting into the target — with bow arm
+  extended at the target, string hand at the cheek, and gaze fixed down
+  the shaft. Never a detached shaft frozen mid-air, never aim and gaze
+  pointing different ways.
+* Name the target: a drawn weapon points AT its named victim (eye,
+  weapon, target colinear). Phrase aim as geometry ("shaft pointing
+  toward Vali"), never as wound-targeting ("aimed at his chest") —
+  wound words trip the provider content filter on attached renders.
+* Clear the firing lane: a drawn weapon threatens no staged figure but
+  its target — name open ground or water as the aim point AND place
+  every other figure behind the bow arm, below the shaft line, or
+  otherwise visibly clear of the shaft's path.
+* Ancient vehicles fly clean: no engines in the age, so no smoke,
+  exhaust, fumes, or fire beneath chariots and vimanas — divine power
+  only, trailing pale dust and petals. Stage ONE cabin and one
+  pavilion; never enumerate extra cabins, prows, or trailing cars.
+* Same place, same frame: consecutive slides in one location repeat the
+  place prose identically plus one layout anchor (named landmark per
+  frame edge) so the camera cannot drift. Same ref, same words, same
+  anchor is the ceiling — minor per-render differences remain, since
+  generations cannot share pixels.
+* Positive counts, shut doors, seated figures: never negate a quantity
+  or object ("no second cabin") — state what exists ("the lone craft
+  in an otherwise empty sky"). Close unused openings ("shut bamboo
+  door", never "empty doorway"). Seat figures physically ("both feet
+  on the cabin floor, hands on the rail from inside").
+* Uncrowned keeps its hair: pair every no-crown clause with positive
+  hair ("full jet-black hair tied in a topknot, hair alone on his
+  head"). A handoff stages ONE crown in the giver's hands, giver
+  facing only the receiver.
 * Exile dress (Ramayana canon): whenever a slide stages Rama during the
   vanavasa exile — after his departure from Ayodhya, through the forest
   years up to the return — fold his exile look into the prose and omit

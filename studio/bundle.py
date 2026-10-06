@@ -79,19 +79,31 @@ def chapter_bundle(outputs_dir: Path, chapter: str) -> dict:
         out = []
         for s in raw or []:
             if isinstance(s, str):
-                name, kind = s, ""
+                name, kind, sheet = s, "", ""
             else:
                 name, kind = s.get("name", ""), s.get("kind", "")
-            ref = ref_by_name.get(str(name).lower(), "")
+                sheet = s.get("sheet", "") or ""
+            ref = ""
+            if sheet:
+                # Per-slide look variant (e.g. exile Rama): readiness
+                # resolves against the variant sheet while the staged
+                # character name stays. An unknown variant fails closed
+                # (missing) instead of silently rendering the base look.
+                ref = ref_by_name.get(str(sheet).lower(), "")
+            if not ref:
+                ref = "" if sheet else ref_by_name.get(str(name).lower(), "")
             st = image_gen_mod.sheet_status(imgs, ref)
-            out.append({"name": name, "kind": kind, "flow_ref": ref,
-                        "sheet_state": st["state"],
-                        "sheet_final": st["final"],
-                        "sheet_candidates": st["candidates"],
-                        # Junk entities (kind unknown, no flow_ref, e.g.
-                        # "Kavya") can never resolve: no Generate button,
-                        # excluded from missing counts and the panel gate.
-                        "generatable": bool(ref)})
+            sub = {"name": name, "kind": kind, "flow_ref": ref,
+                   "sheet_state": st["state"],
+                   "sheet_final": st["final"],
+                   "sheet_candidates": st["candidates"],
+                   # Junk entities (kind unknown, no flow_ref, e.g.
+                   # "Kavya") can never resolve: no Generate button,
+                   # excluded from missing counts and the panel gate.
+                   "generatable": bool(ref)}
+            if sheet:
+                sub["sheet"] = sheet
+            out.append(sub)
         return out
 
     slides = []

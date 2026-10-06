@@ -95,8 +95,20 @@ def trim_slide(chdir: Path, chapter: str, slide: int, keep: list,
     loc = location if location is not None else rows[0].get("location")
     if loc:
         kinds.setdefault(loc, "scene")
-    subjects = str([{"name": n, "kind": kinds[n]} for n in keep]
-                   + ([{"name": loc, "kind": "scene"}] if loc else []))
+    prior = {}
+    for s in rp["slides"]:
+        if str(s.get("slide")) == str(slide):
+            for sub in (s.get("subjects") or []):
+                if isinstance(sub, dict) and sub.get("name"):
+                    prior[sub["name"]] = sub
+    kept = []
+    for n in keep:
+        sub = {"name": n, "kind": kinds[n]}
+        if "sheet" in prior.get(n, {}):
+            # Per-slide look variant (e.g. exile Rama) survives the trim.
+            sub["sheet"] = prior[n]["sheet"]
+        kept.append(sub)
+    subjects = str(kept + ([{"name": loc, "kind": "scene"}] if loc else []))
 
     backup = backup_specs(chdir, chapter)
     for s in sb:
