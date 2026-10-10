@@ -63,7 +63,8 @@ from muse_client import (  # noqa: E402
 # `mythology podcast/comic_generation/comic_pipeline_checks.py`
 # (deterministic gates; no model). Constants reconstructed to match the
 # documented contract: `SlideNN - <title>` labels, scene|insight types,
-# caption|dialogue modes, @flow_ref ingredient usage both directions.
+# caption|dialogue modes, @flow_ref ingredient usage both directions,
+# story-first order (all scenes, then all insights).
 _LABEL_RE = re.compile(r"^Slide(\d+)\s*-\s*.+")
 _GENERIC_TITLE_RE = re.compile(r"(?i)^\s*(scene|slide|panel|untitled|chapter)\s*\d*\s*$")
 _SCENE_TEXT_MODES = ("caption", "dialogue")
@@ -120,6 +121,17 @@ def check_storyboard_layer_a(slides) -> dict:
         else:
             issues.append({"slide": idx, "type": "TYPE",
                            "problem": f"type {stype!r} not in scene|insight."})
+    insight_open = False
+    for idx, slide in enumerate(slides, start=1):
+        if not isinstance(slide, dict):
+            continue
+        if slide.get("type") == "insight":
+            insight_open = True
+        elif slide.get("type") == "scene" and insight_open:
+            issues.append({"slide": idx, "type": "ORDER",
+                           "problem": "scene slide after an insight slide: "
+                                      "all scenes first, then all insights."})
+            break
     verdict = "PASS" if not issues else "FAIL"
     return {"layer": "A", "target": "storyboard", "verdict": verdict,
             "issues": issues, "counts": {"slides": len(slides) if isinstance(slides, list) else 0}}

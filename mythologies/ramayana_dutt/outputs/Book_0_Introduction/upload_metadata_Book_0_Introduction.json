@@ -1,0 +1,160 @@
+{
+ "chapter": "Book_0_Introduction",
+ "series": {
+  "title_en": "Mythic Tales and Today's Truth",
+  "title_hi": "पौराणिक कथाएँ और आज का सच"
+ },
+ "season": 0,
+ "episode": 0,
+ "kind": "intro",
+ "assets": {
+  "video_dual": "video_Book_0_Introduction_dual.mp4",
+  "audio_en": "audio_track_Book_0_Introduction_en.wav",
+  "audio_hi": "audio_track_Book_0_Introduction_hi.wav",
+  "duration_s": 365.2,
+  "durations_timed": true
+ },
+ "youtube": {
+  "how": "Upload video_dual once. Set default language Hindi, default audio Hindi; add English as an additional audio track (use the audio_en WAV), then paste the localized English title/description.",
+  "upload_file": "video_Book_0_Introduction_dual.mp4",
+  "default_language": "hi",
+  "default_audio": "hi",
+  "title": "पौराणिक कथाएँ और आज का सच | परिचय — रामायण यात्रा का शुभारंभ",
+  "description": "काव्या यात्रा का शुभारंभ करती हैं: रामायण क्या है, हर कड़ी दत्त के अनुवाद पर क्यों टिकी है, हर कथा के साथ चिंतन-प्रश्न क्यों हैं, और पहली बार सुनने वाला श्रोता शुरुआत कैसे करे।\n\nकथा: काव्या • 10 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\n\nइस वीडियो में हिंदी और English दोनों ऑडियो ट्रैक हैं — प्लेयर में ऑडियो ट्रैक बदलकर भाषा चुनें।\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nअध्याय (Chapters):\n00:00 नमस्ते दोस्तों, 'पौराणिक कथाएँ और आज का…\n00:30 रामायण महर्षि वाल्मीकि की रचना है —…\n01:06 हर कड़ी का आधार मनमथा नाथ दत्त…\n01:39 हमारी हर कड़ी दो भागों में बुनकर…\n02:15 एक आवश्यक सूचना — बालकांड के आरंभिक…\n02:54 भाषा को लेकर कोई चिंता न रखें।…\n03:26 तो यह यात्रा केवल मनोरंजन नहीं है।…\n04:02 और अब, शुभारंभ का समय है। अगले…\n04:37 हर कथा के साथ चिंतन के प्रश्न…\n05:18 जो श्रोता रामायण पहली बार सुन रहा…\n\n#रामायण #Ramayana #Introduction #Kavya",
+  "tags": [
+   "ramayana",
+   "ramayan",
+   "ramayan katha",
+   "ramayana hindi",
+   "ramayana english",
+   "bala kanda",
+   "valmiki ramayana",
+   "manmatha nath dutt",
+   "kavya narration",
+   "hindu mythology",
+   "indian mythology podcast",
+   "dharma",
+   "ram katha hindi",
+   "mythic tales and todays truth",
+   "ramayana introduction"
+  ],
+  "category": "Education",
+  "playlist": "रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)",
+  "audience": "general — not made for kids",
+  "chapters": [
+   {
+    "start": "00:00",
+    "title_en": "Hello friends, and a heartfelt welcome to…",
+    "title_hi": "नमस्ते दोस्तों, 'पौराणिक कथाएँ और आज का…"
+   },
+   {
+    "start": "00:30",
+    "title_en": "The Ramayana is the creation of Maharishi…",
+    "title_hi": "रामायण महर्षि वाल्मीकि की रचना है —…"
+   },
+   {
+    "start": "01:06",
+    "title_en": "Every episode is grounded in Manmatha Nath…",
+    "title_hi": "हर कड़ी का आधार मनमथा नाथ दत्त…"
+   },
+   {
+    "start": "01:39",
+    "title_en": "Each of our episodes is woven in…",
+    "title_hi": "हमारी हर कड़ी दो भागों में बुनकर…"
+   },
+   {
+    "start": "02:15",
+    "title_en": "One important note — the opening chapters…",
+    "title_hi": "एक आवश्यक सूचना — बालकांड के आरंभिक…"
+   },
+   {
+    "start": "02:54",
+    "title_en": "Have no worry about language. The tale…",
+    "title_hi": "भाषा को लेकर कोई चिंता न रखें।…"
+   },
+   {
+    "start": "03:26",
+    "title_en": "So this journey is not mere entertainment.…",
+    "title_hi": "तो यह यात्रा केवल मनोरंजन नहीं है।…"
+   },
+   {
+    "start": "04:02",
+    "title_en": "And now, the hour of beginning is…",
+    "title_hi": "और अब, शुभारंभ का समय है। अगले…"
+   },
+   {
+    "start": "04:37",
+    "title_en": "Why pair every tale with a reflective…",
+    "title_hi": "हर कथा के साथ चिंतन के प्रश्न…"
+   },
+   {
+    "start": "05:18",
+    "title_en": "How should a listener hearing the Ramayana…",
+    "title_hi": "जो श्रोता रामायण पहली बार सुन रहा…"
+   }
+  ],
+  "additional_audio_tracks": [
+   {
+    "language": "hi",
+    "file": "audio_track_Book_0_Introduction_hi.wav",
+    "role": "default"
+   },
+   {
+    "language": "en",
+    "file": "audio_track_Book_0_Introduction_en.wav",
+    "role": "additional"
+   }
+  ],
+  "captions": "Upload Hindi + English subtitles from hindi/english_narration_<ch>.txt once timed files exist.",
+  "localized": {
+   "en": {
+    "title": "Mythic Tales and Today's Truth | Intro — Beginning the Ramayana Journey",
+    "description": "Kavya opens the journey: what the Ramayana is, why Dutt's translation grounds every episode, how each tale pairs story with reflection, and how first-time listeners should begin.\n\nNarrated by Kavya • 10 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\n\nThis video carries both Hindi and English audio tracks — switch audio tracks in the player to change language.\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nChapters:\n00:00 Hello friends, and a heartfelt welcome to…\n00:30 The Ramayana is the creation of Maharishi…\n01:06 Every episode is grounded in Manmatha Nath…\n01:39 Each of our episodes is woven in…\n02:15 One important note — the opening chapters…\n02:54 Have no worry about language. The tale…\n03:26 So this journey is not mere entertainment.…\n04:02 And now, the hour of beginning is…\n04:37 Why pair every tale with a reflective…\n05:18 How should a listener hearing the Ramayana…",
+    "playlist": "Ramayana — Mythic Tales and Today's Truth (Hindi + English)"
+   }
+  }
+ },
+ "spotify": {
+  "strategy": "Two monolingual episodes in ONE show (one file = one language). Same season/episode numbers; language suffix in the title.",
+  "show": {
+   "title_en": "Mythic Tales and Today's Truth",
+   "title_hi": "पौराणिक कथाएँ और आज का सच"
+  },
+  "episodes": {
+   "hi": {
+    "upload_file": "audio_track_Book_0_Introduction_hi.wav",
+    "title": "परिचय — रामायण यात्रा का शुभारंभ [Hindi]",
+    "description": "काव्या यात्रा का शुभारंभ करती हैं: रामायण क्या है, हर कड़ी दत्त के अनुवाद पर क्यों टिकी है, हर कथा के साथ चिंतन-प्रश्न क्यों हैं, और पहली बार सुनने वाला श्रोता शुरुआत कैसे करे।\n\nकथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\nयह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S0E0 [English])।",
+    "season": 0,
+    "episode": 0,
+    "language": "hi",
+    "episode_type": "full",
+    "explicit": false,
+    "artwork": "show-level cover (per-episode art optional)"
+   },
+   "en": {
+    "upload_file": "audio_track_Book_0_Introduction_en.wav",
+    "title": "Intro — Beginning the Ramayana Journey [English]",
+    "description": "Kavya opens the journey: what the Ramayana is, why Dutt's translation grounds every episode, how each tale pairs story with reflection, and how first-time listeners should begin.\n\nNarrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\nThis episode is in English; the Hindi telling is a separate episode (S0E0 [Hindi]).",
+    "season": 0,
+    "episode": 0,
+    "language": "en",
+    "episode_type": "full",
+    "explicit": false,
+    "artwork": "show-level cover (per-episode art optional)"
+   }
+  }
+ },
+ "limits_check": {
+  "youtube_title_chars": 60,
+  "youtube_title_ok": true,
+  "youtube_description_chars": 1267,
+  "youtube_description_ok": true,
+  "youtube_tags_chars": 241,
+  "youtube_tags_ok": true,
+  "youtube_localized_title_chars": 71,
+  "youtube_localized_title_ok": true,
+  "youtube_localized_description_chars": 1308,
+  "youtube_localized_description_ok": true
+ }
+}

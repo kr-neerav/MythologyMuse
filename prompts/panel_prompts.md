@@ -34,6 +34,7 @@ Rules:
   let the on-slide text carry the crowd; corpses and
   weapons are props, not characters (a donor's bow appears as the gifted
   object, never with the donor standing behind it).
+* No gratuitous animals or animal-skin props: never add a live animal, hide, skin, or ajina/deerskin mat unless the slide's `characters` list stages that animal, the on-slide text names it, or a staged entity's fixed identity requires it as a functional attribute. A sage's kusha seat needs no deer skin; Maricha's golden-deer lure (a staged beat) keeps its deer.
 * NEVER write face-negation wording into a prompt: no "faceless", "without
   face(s)", "no face(s)", "no distinct faces", "no readable facial
   features", "featureless", "blank face", or "only X has a visible face".
@@ -51,7 +52,9 @@ Rules:
 * Blessings flow down, never up: sages, gurus, and elders bless with
   raised or extended hands; juniors receive kneeling with joined palms
   or bowed head. Never pose a younger prince with a raised blessing
-  palm toward a sage or elder.
+  palm toward a sage or elder. A rishi, sage, or elder never kneels
+  before juniors to offer a gift — the elder stands upright and offers
+  down while the junior kneels or bows to receive.
 * Goddesses travel with dignity: never clutch, grip, or carry a goddess
   bodily. Stage abductions with her upright — standing or seated inside
   the vehicle with rails, seats, or space between her and her captor,

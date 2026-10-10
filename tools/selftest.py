@@ -9,8 +9,10 @@ tools/prompts change:
     python3 tools/selftest.py
 """
 
+import base64
 import hashlib
 import json
+import os
 import re
 import sys
 import tempfile
@@ -24,8 +26,11 @@ from muse_client import (  # noqa: E402
     reasoning_effort,
 )
 import podcast_stage as podcast  # noqa: E402
+import generate_audio_gemini as audio  # noqa: E402
 import comic_stage as comic  # noqa: E402
 import bridge_stage as bridge  # noqa: E402
+import av_map_stage as avmap  # noqa: E402
+import metadata_stage as metadata  # noqa: E402
 import run_chapter as driver  # noqa: E402
 import studio_loop as loop  # noqa: E402
 
@@ -51,8 +56,8 @@ GOOD_NARR = [{"character": "Kavya", "voice": "Hindi (Female)",
               "text": "कथा यहाँ। <narrative>",
               "text_en": "The story here. <narrative>"}]
 GOOD_REFL = [{"character": "Kavya", "voice": "Hindi (Female)",
-              "text": "प्रश्न: क्यों? विवेचना: इसलिए। जीवन-सूत्र: रोज़ करें। <formal>",
-              "text_en": "Question: Why? Reflection: Because. Takeaway: Do daily. <formal>"}]
+              "text": "ऐसा क्यों हुआ? इसलिए हुआ। रोज़ यह करके देखें — एक नियम लिखें। <formal>",
+              "text_en": "Why did this happen? Because it did. Try this daily — write one rule. <formal>"}]
 
 
 def main() -> int:
@@ -90,10 +95,16 @@ def main() -> int:
     check("missing emotion tag flagged",
           any("emotion tag" in p for p in podcast.validate_segments(bad_tag, "narration")))
     check("valid reflection passes", podcast.validate_segments(GOOD_REFL, "reflection") == [])
-    bad_order = [dict(GOOD_REFL[0],
-                      text="विवेचना: पहले। प्रश्न: बाद में। जीवन-सूत्र: रोज़। <formal>")]
-    check("misordered Hindi labels flagged",
-          any("order" in p for p in podcast.validate_segments(bad_order, "reflection")))
+    bad_labels = [dict(GOOD_REFL[0],
+                       text="प्रश्न: क्यों? विवेचना: इसलिए। जीवन-सूत्र: रोज़ करें। <formal>",
+                       text_en="Question: Why? Reflection: Because. Takeaway: Do daily. <formal>")]
+    check("spoken labels flagged in both languages",
+          sum("spoken label" in p for p in podcast.validate_segments(bad_labels, "reflection")) == 2)
+    bad_noq = [dict(GOOD_REFL[0],
+                    text="ऐसा हुआ। इसलिए हुआ। रोज़ एक नियम लिखें। <formal>",
+                    text_en="It happened. Because it did. Write one rule daily. <formal>")]
+    check("missing spoken question flagged",
+          sum("spoken question" in p for p in podcast.validate_segments(bad_noq, "reflection")) == 2)
     check("verdict APPROVED", podcast.parse_verdict("... \nAPPROVED\n") == "APPROVED")
     check("verdict defaults REJECTED", podcast.parse_verdict("hmm") == "REJECTED")
     check("fence JSON extracts",
@@ -109,6 +120,11 @@ def main() -> int:
     check("reviewer requires emotion tags", "Emotion tags" in rev and "NEVER ask for its removal" in rev)
     check("agent1 has tag compliance teeth", "TAG COMPLIANCE IS MANDATORY" in (PROMPTS / "agent1_narration.md").read_text(encoding="utf-8"))
     check("agent3 has tag compliance teeth", "TAG COMPLIANCE IS MANDATORY" in (PROMPTS / "agent3_reflection.md").read_text(encoding="utf-8"))
+    _a3 = (PROMPTS / "agent3_reflection.md").read_text(encoding="utf-8")
+    check("agent3 forbids spoken labels",
+          "NO SPOKEN LABELS" in _a3 and "Takeaway:`" in _a3)
+    check("reviewer forbids spoken labels",
+          "NO spoken labels" in rev and "spoken distraction" in rev)
     check("agent1 has word budget", "WORD BUDGET" in (PROMPTS / "agent1_narration.md").read_text(encoding="utf-8"))
     check("agent3 has word budget", "WORD BUDGET" in (PROMPTS / "agent3_reflection.md").read_text(encoding="utf-8"))
     check("old agent2 removed", not (PROMPTS / "agent2_narration_qa.md").exists())
@@ -141,6 +157,27 @@ def main() -> int:
     bad_sb = [dict(good_sb[0], slide_label="Bogus")]
     check("storyboard Layer A catches label",
           comic.check_storyboard_layer_a(bad_sb)["verdict"] == "FAIL")
+    grouped_sb = [
+        dict(good_sb[0], slide=1, slide_label="Slide01 - Hook"),
+        dict(good_sb[0], slide=2, slide_label="Slide02 - Beat",
+             title="Beat", rationale="Next."),
+        dict(good_sb[0], slide=3, slide_label="Slide03 - Moral",
+             title="Moral", type="insight", text_mode=None,
+             question="Why?", answer="Because."),
+    ]
+    check("storyboard Layer A passes grouped scenes-then-insights",
+          comic.check_storyboard_layer_a(grouped_sb)["verdict"] == "PASS")
+    interleaved_sb = [
+        grouped_sb[0],
+        dict(grouped_sb[2], slide=2, slide_label="Slide02 - Moral"),
+        dict(good_sb[0], slide=3, slide_label="Slide03 - Late",
+             title="Late", rationale="Late."),
+    ]
+    check("storyboard Layer A fails scene-after-insight",
+          comic.check_storyboard_layer_a(interleaved_sb)["verdict"] == "FAIL"
+          and any(i.get("type") == "ORDER"
+                  for i in comic.check_storyboard_layer_a(
+                      interleaved_sb)["issues"]))
     check("flow_ref unique", comic.flow_ref_for("Valmiki's Hermitage", {"ValmikisHermitage"}) != "ValmikisHermitage")
     check("live resume honors live PASS",
           comic.is_live_pass({"verdict": "PASS"}) is True)
@@ -748,6 +785,7 @@ def main() -> int:
     # stage exit contracts (no chapter => rc 2, no FS touched)
     check("podcast no-chapter rc=2", podcast.main([]) == 2)
     check("bridge no-chapter rc=2", bridge.main([]) == 2)
+    check("av-map no-chapter rc=2", avmap.main([]) == 2)
     check("comic no-chapter rc=2", comic.main([]) == 2)
     check("driver no-chapter rc=2", driver.main([]) == 2)
     check("loop no-chapter rc=2",
@@ -872,6 +910,572 @@ def main() -> int:
         except ValueError:
             _refused = True
         check("pretrim refuses keep above face cap", _refused)
+
+    # av-map stage: script segments -> slide images (deterministic)
+    _asegs = ([{"text": f"k{i}", "text_en": f"s{i}"} for i in range(3)]
+              + [{"text": "प्रश्न: q?", "text_en": "Question: q?"}])
+    _aboard = [{"slide": i, "type": "insight" if i == 4 else "scene"}
+               for i in range(1, 6)]
+    _achunks, _aerr = avmap.build_mapping(_asegs, _aboard, 3)
+    _aused = sorted({s for c in _achunks for s in c["slides"]})
+    check("av-map covers every slide, discussion hits insight",
+          _aerr == "" and len(_achunks) == 4
+          and [c["script_index"] for c in _achunks] == [0, 1, 2, 3]
+          and [c["kind"] for c in _achunks] == ["narration"] * 3 + ["discussion"]
+          and _aused == [1, 2, 3, 4, 5]
+          and _achunks[3]["slides"] == [4], f"{_aerr} {_achunks}")
+    _bchunks, _ = avmap.build_mapping(
+        [{"text": "k", "text_en": "s"}] * 5,
+        [{"slide": 1, "type": "scene"}, {"slide": 2, "type": "insight"}])
+    check("av-map pins endpoints when segs outnumber slides",
+          _bchunks[0]["slides"] == [1] and _bchunks[-1]["slides"] == [2]
+          and all(c["kind"] == "narration" for c in _bchunks),
+          f"{_bchunks}")
+    with tempfile.TemporaryDirectory() as tmp:
+        _mroot = Path(tmp)
+        _mch = _mroot / "outputs" / "chA"
+        (_mch / "studio_images").mkdir(parents=True)
+        (_mch / "script_chA.json").write_text(json.dumps(_asegs),
+                                              encoding="utf-8")
+        (_mch / "comic_storyboard_chA.json").write_text(json.dumps(_aboard),
+                                                        encoding="utf-8")
+        (_mch / "studio_images" / "slide_04_final.jpg").write_text(
+            "fake", encoding="utf-8")
+        check("av-map writes mapping file",
+              avmap.av_map(_mroot, "chA") == 0
+              and (_mch / "av_mapping_chA.json").is_file())
+        _am = json.loads((_mch / "av_mapping_chA.json").read_text(
+            encoding="utf-8"))
+        _miss = sorted({f for c in _am["chunks"]
+                        for f in c["images_missing"]})
+        check("av-map flags unrendered images",
+              _am["chunks"][3]["images"]
+              == ["studio_images/slide_04_final.jpg"]
+              and len(_miss) == 4, f"{_miss}")
+
+    # av-map semantic judge: strict validation, deterministic repair,
+    # stubbed judge retry/give-up, dry-run fallback (no network)
+    _vgood = [{"script_index": 0, "slides": [1]},
+              {"script_index": 1, "slides": [2]}]
+    check("av-map semantic validation passes clean input",
+          avmap.validate_mapping(_vgood, 2, [1, 2]) == [])
+    _vbad = [{"script_index": 0, "slides": [9]},
+             {"script_index": 0, "slides": [1]}]
+    check("av-map semantic validation flags bad refs",
+          len(avmap.validate_mapping(_vbad, 2, [1, 2])) >= 3,
+          avmap.validate_mapping(_vbad, 2, [1, 2]))
+    _rep = avmap.repair_mapping(
+        [{"script_index": 1, "slides": [2]}], ["narration"] * 3,
+        [1, 2], {1: "scene", 2: "scene"})
+    check("av-map semantic repair fills gaps deterministically",
+          [(c["script_index"], c["slides"]) for c in _rep]
+          == [(0, [1]), (1, [2]), (2, [2])], f"{_rep}")
+    _mj = {"n": 0}
+
+    def _fake_judge(*a, **k):
+        _mj["n"] += 1
+        if _mj["n"] == 1:
+            return None  # status=incomplete, empty message part
+        return '```json\n[{"script_index": 0, "slides": [1]}]\n```'
+
+    _real_cm = avmap.call_muse
+    avmap.call_muse = _fake_judge
+    try:
+        _got = avmap.request_mapping("PROMPT", {}, 1, [1])
+        check("av-map judge retries empty then succeeds",
+              _got == [{"script_index": 0, "slides": [1]}] and _mj["n"] == 2,
+              f"{_got} calls={_mj['n']}")
+    finally:
+        avmap.call_muse = _real_cm
+    avmap.call_muse = lambda *a, **k: None
+    try:
+        check("av-map judge gives up after budget",
+              avmap.request_mapping("P", {}, 1, [1]) is None)
+    finally:
+        avmap.call_muse = _real_cm
+    with tempfile.TemporaryDirectory() as tmp:
+        _sroot = Path(tmp)
+        _sch = _sroot / "outputs" / "chS"
+        (_sch / "studio_images").mkdir(parents=True)
+        (_sch / "script_chS.json").write_text(json.dumps(_asegs),
+                                              encoding="utf-8")
+        (_sch / "comic_storyboard_chS.json").write_text(json.dumps(_aboard),
+                                                        encoding="utf-8")
+        check("av-map semantic dry-run falls back positional",
+              avmap.av_map(_sroot, "chS", semantic=True, dry_run=True) == 0
+              and json.loads((_sch / "av_mapping_chS.json").read_text(
+                  encoding="utf-8"))["strategy"] == avmap.STRATEGY)
+
+    # av-map enrichment: image prompts + per-slide cue timings per chunk
+    _esegs = [{"text": "a", "text_en": "a"}, {"text": "b", "text_en": "b"}]
+    _eboard = [{"slide": 1, "title": "T1", "type": "scene",
+                "slide_label": "Slide01 - T1"},
+               {"slide": 2, "title": "T2", "type": "scene",
+                "slide_label": "Slide02 - T2"},
+               {"slide": 3, "title": "T3", "type": "insight",
+                "slide_label": "Slide03 - T3"}]
+    _echunks, _ = avmap.build_mapping(_esegs, _eboard, 2)
+    _eprompts = {1: {"muse_prompt": "p1", "slide_label": "S01"},
+                 2: {"muse_prompt": "p2", "slide_label": "S02"},
+                 3: {"muse_prompt": "p3", "slide_label": "S03"}}
+    _etiming = avmap.enrich_chunks(
+        _echunks, _eboard, _eprompts, {"en": [4.0, 2.0], "hi": [None, None]})
+    check("av-map panels carry image prompts",
+          _echunks[0]["panels"][0]["muse_prompt"] == "p1"
+          and _echunks[1]["panels"][0]["title"] == "T2"
+          and abs(sum(p["share"] for p in _echunks[1]["panels"]) - 1.0) < 1e-9,
+          f"{_echunks}")
+    check("av-map cues go absolute only on a complete track",
+          _etiming["langs_absolute"] == ["en"]
+          and _echunks[0]["panels"][0]["en"] == {"start_s": 0.0, "end_s": 4.0,
+                                                 "duration_s": 4.0}
+          and [p["en"]["start_s"] for p in _echunks[1]["panels"]] == [4.0, 5.0]
+          and _echunks[0]["panels"][0]["hi"] is None
+          and _echunks[0]["audio"]["hi"] is None
+          and _echunks[0]["audio"]["en"]["duration_s"] == 4.0,
+          f"{_etiming} {_echunks}")
+    _r3, _ = avmap.build_mapping(
+        [{"text": "a", "text_en": "a"}],
+        [{"slide": 1, "type": "scene"}, {"slide": 2, "type": "scene"},
+         {"slide": 3, "type": "scene"}])
+    # single segment, three slides: one chunk carries all three
+    _r3[0]["images"] = []
+    _r3[0]["images_missing"] = []
+    avmap.enrich_chunks(_r3, [], {}, {"en": [1.0], "hi": [1.0]})
+    check("av-map last panel takes the remainder (no 1ms leak)",
+          [p["en"]["duration_s"] for p in _r3[0]["panels"]] == [0.333, 0.333, 0.334]
+          and _r3[0]["panels"][-1]["en"]["end_s"] == 1.0
+          and _r3[0]["panels"][-1]["hi"]["end_s"] == 1.0,
+          f"{_r3[0]['panels']}")
+    with tempfile.TemporaryDirectory() as tmp:
+        _eroot = Path(tmp)
+        _ech = _eroot / "outputs" / "chE"
+        (_ech / "studio_images").mkdir(parents=True)
+        (_ech / "script_chE.json").write_text(json.dumps(_esegs),
+                                              encoding="utf-8")
+        (_ech / "comic_storyboard_chE.json").write_text(json.dumps(_eboard),
+                                                        encoding="utf-8")
+        (_ech / "comic_muse_prompts_chE.json").write_text(
+            json.dumps([{"slide": i, "slide_label": f"S{i:02d}",
+                         "muse_prompt": f"p{i}"} for i in (1, 2, 3)]),
+            encoding="utf-8")
+        check("av-map enrich-only needs a mapping first",
+              avmap.av_map(_eroot, "chE", enrich_only=True) == 2)
+        check("av-map positional run carries relative cues without audio",
+              avmap.av_map(_eroot, "chE") == 0
+              and (lambda _m: _m["timing"].startswith("relative-shares")
+                   and _m["prompts_source"] == "comic_muse_prompts_chE.json"
+                   and _m["chunks"][0]["panels"][0]["muse_prompt"] == "p1"
+                   and _m["chunks"][0]["panels"][0]["en"] is None)(
+                  json.loads((_ech / "av_mapping_chE.json").read_text(
+                      encoding="utf-8"))))
+        _before = [list(c["slides"]) for c in json.loads(
+            (_ech / "av_mapping_chE.json").read_text(
+                encoding="utf-8"))["chunks"]]
+        (_ech / "audio_en").mkdir(exist_ok=True)
+        (_ech / "audio_hi").mkdir(exist_ok=True)
+        for _i in (1, 2):
+            (_ech / "audio_en" / f"chunk_{_i:03d}.wav").write_bytes(
+                audio.silent_wav(seconds=1.5))
+            (_ech / "audio_hi" / f"chunk_{_i:03d}.wav").write_bytes(
+                audio.silent_wav(seconds=1.0))
+        check("av-map enrich-only keeps slides, stamps absolute cues",
+              avmap.av_map(_eroot, "chE", enrich_only=True) == 0
+              and (lambda _m: [list(c["slides"]) for c in _m["chunks"]] == _before
+                   and _m["timing"].startswith("absolute")
+                   and _m["langs_absolute"] == ["en", "hi"]
+                   and _m["chunks"][0]["panels"][0]["en"]
+                   == {"start_s": 0.0, "end_s": 1.5, "duration_s": 1.5}
+                   and _m["chunks"][0]["panels"][0]["hi"]
+                   == {"start_s": 0.0, "end_s": 1.0, "duration_s": 1.0})(
+                  json.loads((_ech / "av_mapping_chE.json").read_text(
+                      encoding="utf-8"))))
+
+    # standalone Gemini audio tool (explicit trigger; outside run_chapter)
+    check("audio strips verbatim-spoken tags",
+          audio.clean_transcript("कथा यहाँ। <narrative>") == "कथा यहाँ।"
+          and audio.clean_transcript("The story. <formal>") == "The story.")
+    check("audio gate passes clean transcripts",
+          audio.find_spoken_labels(GOOD_NARR) == [])
+    _labseg = [dict(GOOD_NARR[0], text="प्रश्न: क्यों? <narrative>",
+                    text_en="Question: why? <narrative>")]
+    check("audio gate flags labels in both languages",
+          audio.find_spoken_labels(_labseg)
+          == ["chunk 1 [hi]: spoken label 'प्रश्न:' in transcript "
+              "(fix the script first)",
+              "chunk 1 [en]: spoken label 'Question:' in transcript "
+              "(fix the script first)"])
+    with tempfile.TemporaryDirectory() as tmp:
+        _groot = Path(tmp)
+        for _req in ("sources", "outputs", "entities"):
+            (_groot / _req).mkdir()
+        (_groot / "mythology.yaml").write_text("name: t\n", encoding="utf-8")
+        _gch = _groot / "outputs" / "Book_1_X_Chapter_7"
+        _gch.mkdir(parents=True)
+        (_gch / "script_Book_1_X_Chapter_7.json").write_text(
+            json.dumps(_labseg), encoding="utf-8")
+        check("audio refuses labeled scripts with no writes",
+              audio.generate(["--mythology", str(_groot),
+                              "--chapter", "Book_1_X_Chapter_7",
+                              "--dry-run"]) == 2
+              and not (_gch / "audio_en").exists()
+              and not (_gch / "audio_hi").exists()
+              and not (_gch / "audio_manifest_Book_1_X_Chapter_7.json")
+              .exists())
+    _abody = audio.synth_request_body("m", "Leda", "calm", "hi")
+    check("audio request targets interactions shape",
+          _abody["model"] == "m"
+          and _abody["response_format"] == {"type": "audio"}
+          and _abody["generation_config"]["speech_config"] == [{"voice": "Leda"}]
+          and _abody["input"][0]["content"][0]["text"] == "hi")
+    _ablob = base64.b64encode(b"RIFF....wavbytes").decode()
+    check("audio extracts last audio block",
+          audio.extract_audio({"steps": [
+              {"content": [{"type": "text", "data": "xx"}]},
+              {"content": [{"type": "audio", "data": _ablob}]}]}) == b"RIFF....wavbytes")
+    check("audio passthrough keeps real WAV",
+          audio.ensure_wav(b"RIFF....wavbytes") == b"RIFF....wavbytes")
+    check("audio wraps bare PCM as 24kHz wav",
+          audio.ensure_wav(b"\x00\x00" * 24).startswith(b"RIFF"))
+    with tempfile.TemporaryDirectory() as tmp:
+        _aroot = Path(tmp)
+        for _req in ("sources", "outputs", "entities"):
+            (_aroot / _req).mkdir()
+        (_aroot / "mythology.yaml").write_text("name: t\n", encoding="utf-8")
+        _ach = _aroot / "outputs" / "Book_1_X_Chapter_1"
+        _ach.mkdir(parents=True)
+        (_ach / "script_Book_1_X_Chapter_1.json").write_text(
+            json.dumps(GOOD_NARR + [dict(GOOD_NARR[0], text="",
+                                        text_en="")]), encoding="utf-8")
+        check("audio dry-run writes per-chunk wavs + manifest",
+              audio.generate(["--mythology", str(_aroot),
+                              "--chapter", "Book_1_X_Chapter_1",
+                              "--dry-run"]) == 0
+              and (_ach / "audio_en" / "chunk_001.wav").exists()
+              and (_ach / "audio_hi" / "chunk_001.wav").exists()
+              and len(json.loads(
+                  (_ach / "audio_manifest_Book_1_X_Chapter_1.json")
+                  .read_text(encoding="utf-8"))["chunks"]) == 2)
+        import wave as _wv
+        with _wv.open(str(_ach / "audio_en" / "chunk_001.wav"), "rb") as _w:
+            check("audio dry-run wav is valid PCM",
+                  _w.getnchannels() == 1 and _w.getframerate() == 24000)
+        _man = json.loads((_ach / "audio_manifest_Book_1_X_Chapter_1.json")
+                          .read_text(encoding="utf-8"))
+        check("audio manifest skips empty transcripts",
+              _man["chunks"][1]["en"]["status"] == "skipped-empty")
+        check("audio dry-run tags placeholder source",
+              _man["chunks"][0]["en"]["source"] == "dry-run")
+        (_ach / "audio_en" / "chunk_001.wav").write_bytes(
+            audio.silent_wav(seconds=2.0))
+        check("audio dry-run never clobbers existing wavs",
+              audio.generate(["--mythology", str(_aroot),
+                              "--chapter", "Book_1_X_Chapter_1",
+                              "--dry-run"]) == 0
+              and json.loads((_ach / "audio_manifest_Book_1_X_Chapter_1.json")
+                             .read_text(encoding="utf-8"))
+              ["chunks"][0]["en"] == {"chars": len(audio.clean_transcript(
+                  GOOD_NARR[0]["text_en"])),
+                  "file": "audio_en/chunk_001.wav", "status": "ok",
+                  "source": "reused", "bytes": len(audio.silent_wav(2.0)),
+                  "duration_s": 2.0})
+        check("audio rejects missing chapter id",
+              audio.generate(["--mythology", str(_aroot)]) == 2)
+        # Tier 1 pacing/budget contracts (no network: stubbed synthesize)
+        class _Exc:
+            def __init__(self, headers):
+                self.headers = headers
+        check("audio default pacing respects Tier 1 10 RPM",
+              audio.DEFAULT_DELAY_S >= 60.0 / 10
+              and audio.DEFAULT_DAILY_BUDGET == 100)
+        check("audio honors Retry-After header",
+              audio.retry_after_s(_Exc({"Retry-After": "7"}), 2.0) == 7.0
+              and audio.retry_after_s(_Exc({}), 2.0) == 2.0
+              and audio.retry_after_s(_Exc({"Retry-After": "junk"}), 2.0)
+              == 2.0
+              and audio.retry_after_s(_Exc({"Retry-After": "999"}), 2.0)
+              == 120.0)
+        _real_synth, _real_pace = audio.synthesize, audio.pace
+        _sleeps: list[float] = []
+        audio.synthesize = lambda *a, **k: audio.silent_wav()
+        audio.pace = _sleeps.append
+        _old_key = os.environ.get("GEMINI_API_KEY")
+        os.environ["GEMINI_API_KEY"] = "test-key"
+        try:
+            (_ach / "audio_en").mkdir(exist_ok=True)
+            for _f in (_ach / "audio_en").glob("*.wav"):
+                _f.unlink()
+            for _f in (_ach / "audio_hi").glob("*.wav"):
+                _f.unlink()
+            if (_ach / "audio_manifest_Book_1_X_Chapter_1.json").exists():
+                (_ach / "audio_manifest_Book_1_X_Chapter_1.json").unlink()
+            check("audio budget gate refuses over-budget live runs",
+                  audio.generate(["--mythology", str(_aroot),
+                                  "--chapter", "Book_1_X_Chapter_1",
+                                  "--daily-budget", "1"]) == 2
+                  and not (_ach / "audio_en").exists()
+                  or list((_ach / "audio_en").glob("*.wav")) == [])
+            _pch = _aroot / "outputs" / "Book_1_X_Chapter_2"
+            _pch.mkdir(parents=True, exist_ok=True)
+            (_pch / "script_Book_1_X_Chapter_2.json").write_text(
+                json.dumps(GOOD_NARR + [GOOD_NARR[0]]), encoding="utf-8")
+            check("audio live run paces between calls",
+                  audio.generate(["--mythology", str(_aroot),
+                                  "--chapter", "Book_1_X_Chapter_2",
+                                  "--lang", "en", "--delay-s", "2.5",
+                                  "--daily-budget", "100"]) == 0
+                  and _sleeps == [2.5]
+                  and json.loads((_pch / "audio_manifest_Book_1_X_Chapter_2.json")
+                                 .read_text(encoding="utf-8"))
+                  ["chunks"][0]["en"]["source"] == "synthesized")
+            _sleeps.clear()
+            check("audio --ignore-budget proceeds over budget",
+                  audio.generate(["--mythology", str(_aroot),
+                                  "--chapter", "Book_1_X_Chapter_2",
+                                  "--lang", "both", "--delay-s", "0",
+                                  "--daily-budget", "1", "--redo",
+                                  "--ignore-budget"]) == 0
+                  and _sleeps == [0, 0, 0])
+        finally:
+            audio.synthesize, audio.pace = _real_synth, _real_pace
+            if _old_key is None:
+                os.environ.pop("GEMINI_API_KEY", None)
+            else:
+                os.environ["GEMINI_API_KEY"] = _old_key
+
+    # upload metadata: dual-audio shape, limits, fallbacks (no network)
+    check("metadata no-chapter rc=2", metadata.main([]) == 2)
+    with tempfile.TemporaryDirectory() as tmp:
+        _mroot = Path(tmp)
+        _mch = _mroot / "outputs" / "Book_9_Test_Chapter_1"
+        _mch.mkdir(parents=True)
+        (_mch / "script_Book_9_Test_Chapter_1.json").write_text(json.dumps([
+            {"character": "Kavya", "voice": "Hindi (Female)",
+             "text": "कथा यहाँ शुरू। <narrative>",
+             "text_en": "The story starts here. <narrative>"},
+            {"character": "Kavya", "voice": "Hindi (Female)",
+             "text": "ऐसा क्यों हुआ? <formal>",
+             "text_en": "Why did this happen? <formal>"}]), encoding="utf-8")
+        _meta = metadata.build_metadata(_mroot, "Book_9_Test_Chapter_1")
+        _lc = _meta["limits_check"]
+        check("metadata ships one youtube plus two spotify episodes",
+              set(_meta["spotify"]["episodes"]) == {"hi", "en"}
+              and _meta["youtube"]["default_language"] == "hi"
+              and len(_meta["youtube"]["additional_audio_tracks"]) == 2)
+        check("metadata passes platform limits",
+              all(v for k, v in _lc.items() if k.endswith("_ok")), f"{_lc}")
+        check("metadata untimed without manifests",
+              _meta["assets"]["duration_s"] is None
+              and _meta["youtube"]["chapters"] == [])
+        try:
+            metadata.build_metadata(_mroot, "Book_9_Test_Chapter_9")
+            check("metadata missing script raises", False)
+        except SystemExit:
+            check("metadata missing script raises", True)
+        (_mch / "audio_manifest_Book_9_Test_Chapter_1.json").write_text(json.dumps(
+            {"chunks": [{"en": {"duration_s": 5.0}, "hi": {"duration_s": 6.0}}]}),
+            encoding="utf-8")
+        _stale = metadata.build_metadata(_mroot, "Book_9_Test_Chapter_1")
+        check("metadata drops chapters on stale manifest",
+              _stale["youtube"]["chapters"] == []
+              and _stale["assets"]["duration_s"] == 6.0)
+    check("metadata chapter numbers parse",
+          metadata._chapter_numbers("Book_1_Bala_Kanda_Chapter_5") == (1, 5, "chapter")
+          and metadata._chapter_numbers("Book_0_Introduction") == (0, 0, "intro"))
+
+    # video build stage: timing math, filter graph, dry-run plan (no ffmpeg)
+    import build_video as _bv
+    check("video no-chapter rc=2", _bv.main([]) == 2)
+    check("video splits a chunk evenly over its images",
+          _bv.split_durations(4.0, 2) == [2.0, 2.0])
+    check("video xfade offsets accumulate",
+          _bv.xfade_offsets([2.0, 3.0, 4.0], 0.5) == [1.5, 4.0])
+    check("video xfade clamps below the shortest segment",
+          _bv.clamp_xfade(0.5, [2.0, 0.5]) == 0.2
+          and _bv.clamp_xfade(0.5, [2.0]) == 0.0)
+    check("video kenburns drifts, static holds",
+          "zoompan" in _bv.segment_chain(0, "kenburns", 2.0, 640, 360, 30)
+          and "zoompan" not in _bv.segment_chain(0, "static", 2.0, 640, 360, 30)
+          and "tpad" in _bv.segment_chain(0, "static", 2.0, 640, 360, 30))
+    _bg, _bv_dur = _bv.build_filter([2.0, 3.0], "kenburns", "xfade", 0.5,
+                                    640, 360, 30, 2)
+    check("video xfade graph shortens by the overlap",
+          "xfade" in _bg and _bv_dur == 4.5, f"{_bg[:60]} {_bv_dur}")
+    _bg2, _bv2 = _bv.build_filter([2.0, 3.0], "static", "cut", 0.5,
+                                  640, 360, 30, 2)
+    check("video cut graph keeps full duration",
+          "concat" in _bg2 and "xfade" not in _bg2 and _bv2 == 5.0)
+    check("video avoids filters missing from this ffmpeg",
+          "aconcat" not in _bg and "aconcat" not in _bg2)
+    check("video kenburns carries sway plus grain",
+          "sin(2*PI*on" in _bv.segment_chain(0, "kenburns", 2.0, 640, 360, 30)
+          and "noise=alls=" in _bv.segment_chain(0, "kenburns", 2.0, 640, 360, 30)
+          and "noise" not in _bv.segment_chain(0, "static", 2.0, 640, 360, 30))
+    _shots = _bv.expand_shots([{"image": "a", "duration_s": 18.0},
+                               {"image": "b", "duration_s": 5.0}])
+    check("video renews long holds into ~8s shots",
+          [(s["image"], s["shot"], s["shots"]) for s in _shots]
+          == [("a", 1, 3), ("a", 2, 3), ("a", 3, 3), ("b", 1, 1)]
+          and abs(sum(s["duration_s"] for s in _shots) - 23.0) < 0.01)
+    check("video never pushes in (pull-outs and pans only)",
+          "1.15-0.15*on" in _bv.kenburns_exprs(0, 90)[0]
+          and "1.0+0.35" not in _bv.segment_chain(0, "kenburns", 2.0,
+                                                  640, 360, 30))
+    check("video holds discussion shots still, drifts narration",
+          _bv.shot_motion({"kind": "discussion"}, "kenburns") == "static"
+          and _bv.shot_motion({"kind": "narration"}, "kenburns") == "kenburns"
+          and _bv.shot_motion({"kind": "discussion"}, "static") == "static")
+    _mix, _ = _bv.build_video_chain([2.0, 2.0], ["kenburns", "static"],
+                                    "cut", 0.0, 640, 360, 30)
+    check("video mixes moves per shot",
+          "zoompan" in _mix and "tpad" in _mix)
+    check("video static holds clone the frame (never black pads)",
+          "stop_mode=clone" in _bv.segment_chain(0, "static", 2.0,
+                                                 640, 360, 30))
+    with tempfile.TemporaryDirectory() as tmp:
+        _vroot = Path(tmp)
+        for _req in ("sources", "outputs", "entities"):
+            (_vroot / _req).mkdir()
+        (_vroot / "mythology.yaml").write_text("name: t\n", encoding="utf-8")
+        _vch = _vroot / "outputs" / "Book_1_X_Chapter_9"
+        (_vch / "studio_images").mkdir(parents=True)
+        (_vch / "audio_en").mkdir(parents=True)
+        _vmap = {"chapter": "Book_1_X_Chapter_9",
+                 "chunks": [
+                     {"chunk": 1, "kind": "narration", "script_index": 0,
+                      "slides": [1],
+                      "images": ["studio_images/slide_01_final.jpg"]},
+                     {"chunk": 2, "kind": "narration", "script_index": 1,
+                      "slides": [2, 3],
+                      "images": ["studio_images/slide_02_final.jpg",
+                                 "studio_images/slide_03_final.jpg"]},
+                 ]}
+        (_vch / "av_mapping_Book_1_X_Chapter_9.json").write_text(
+            json.dumps(_vmap), encoding="utf-8")
+        for _i in (1, 2, 3):
+            (_vch / "studio_images" / f"slide_{_i:02d}_final.jpg").write_bytes(
+                b"fake-jpg")
+        for _i in (1, 2):
+            (_vch / "audio_en" / f"chunk_{_i:03d}.wav").write_bytes(
+                audio.silent_wav(seconds=1.5))
+        (_vch / "audio_hi").mkdir(parents=True)
+        for _i in (1, 2):
+            (_vch / "audio_hi" / f"chunk_{_i:03d}.wav").write_bytes(
+                audio.silent_wav(seconds=1.0))
+        check("video dry-run plans audio-timed segments",
+              _bv.main(["--mythology", str(_vroot),
+                        "--chapter", "Book_1_X_Chapter_9",
+                        "--lang", "en", "--dry-run"]) == 0
+              and (_vch / "video_manifest_Book_1_X_Chapter_9.json").is_file())
+        _vent = json.loads(
+            (_vch / "video_manifest_Book_1_X_Chapter_9.json")
+            .read_text(encoding="utf-8"))["videos"]["en"]
+        # Shots are stretched by their share of the dissolve overlap
+        # (0.3 fade x2 over 3 shots = +0.2 each) so the video lands exactly
+        # on the audio length instead of cutting the narration tail.
+        check("video plan splits multi-image chunk evenly",
+              [s["duration_s"] for s in _vent["segments"]] == [1.7, 0.95, 0.95]
+              and _vent["video_total_s"] == _vent["audio_total_s"] == 3.0,
+              f"{_vent['segments']}")
+        check("video dual cuts to the longer track, pads the shorter",
+              _bv.main(["--mythology", str(_vroot),
+                        "--chapter", "Book_1_X_Chapter_9",
+                        "--dual", "--dry-run"]) == 0
+              and (lambda _d: _d["base_lang"] == "en"
+                   and _d["video_total_s"] == 3.0
+                   and _d["en_total_s"] == 3.0 and _d["hi_total_s"] == 2.0
+                   and _d["track_files"] == {
+                       "en": "audio_track_Book_1_X_Chapter_9_en.wav",
+                       "hi": "audio_track_Book_1_X_Chapter_9_hi.wav"})(
+                  json.loads((_vch / "video_manifest_Book_1_X_Chapter_9.json")
+                             .read_text(encoding="utf-8"))["videos"]["dual"]))
+        check("video dual labels one chain per track",
+              "[aen]" in _bv.build_audio_chain(3, 2, 5.0, "aen")
+              and "[ahi]" in _bv.build_audio_chain(5, 2, 5.0, "ahi"))
+        check("video bed is quiet, faded, and mixed without renorm",
+              "volume=0.1995" in _bv.music_bed_chain(9, 30.0, -14.0, "mbed")
+              and "afade=t=out" in _bv.music_bed_chain(9, 30.0, -14.0, "mbed")
+              and "normalize=0" in _bv.mix_chain("aout", "mbed", "mix"))
+        (_vch / "bed.wav").write_bytes(audio.silent_wav(seconds=5.0))
+        check("video dual dry-run accepts a music bed",
+              _bv.main(["--mythology", str(_vroot),
+                        "--chapter", "Book_1_X_Chapter_9",
+                        "--dual", "--dry-run",
+                        "--music", str(_vch / "bed.wav")]) == 0
+              and json.loads((_vch / "video_manifest_Book_1_X_Chapter_9.json")
+                             .read_text(encoding="utf-8"))
+              ["videos"]["dual"]["music"]["db"] == -14.0)
+        check("video rejects a missing music file",
+              _bv.main(["--mythology", str(_vroot),
+                        "--chapter", "Book_1_X_Chapter_9",
+                        "--dual", "--dry-run",
+                        "--music", str(_vch / "nope.wav")]) == 2)
+        (_vch / "audio_en" / "chunk_002.wav").unlink()
+        check("video fails loud on missing audio",
+              _bv.main(["--mythology", str(_vroot),
+                        "--chapter", "Book_1_X_Chapter_9",
+                        "--lang", "en", "--dry-run"]) == 2)
+        check("video fails loud on missing chapter dir",
+              _bv.main(["--mythology", str(_vroot),
+                        "--chapter", "Book_1_X_Chapter_8",
+                        "--lang", "en", "--dry-run"]) == 2)
+    # video cue sheet: panel shares weight the split, prompts ride along,
+    # and every row carries its timeline cue
+    with tempfile.TemporaryDirectory() as tmp:
+        _crow = Path(tmp)
+        (_crow / "studio_images").mkdir(parents=True)
+        for _i in (1, 2, 3):
+            (_crow / "studio_images" / f"slide_{_i:02d}_final.jpg").write_bytes(
+                b"fake-jpg")
+        _cchunks = [
+            {"chunk": 1, "kind": "narration", "script_index": 0,
+             "slides": [1, 2],
+             "images": ["studio_images/slide_01_final.jpg",
+                        "studio_images/slide_02_final.jpg"],
+             "panels": [
+                 {"slide": 1, "image": "studio_images/slide_01_final.jpg",
+                  "title": "T1", "muse_prompt": "p1", "share": 0.75},
+                 {"slide": 2, "image": "studio_images/slide_02_final.jpg",
+                  "title": "T2", "muse_prompt": "p2", "share": 0.25}]},
+            {"chunk": 2, "kind": "narration", "script_index": 1,
+             "slides": [3],
+             "images": ["studio_images/slide_03_final.jpg"]},
+        ]
+        _ctracks = [{"script_index": 0, "file": "a0.wav", "duration_s": 4.0},
+                    {"script_index": 1, "file": "a1.wav", "duration_s": 2.0}]
+        _csegs, _cerr = _bv.plan_segments(_cchunks, _ctracks, _crow)
+        check("video cue sheet honors shares, prompts, coverage",
+              _cerr == []
+              and [(s["slide"], s["duration_s"], s["start_s"], s["end_s"])
+                   for s in _csegs] == [(1, 3.0, 0.0, 3.0),
+                                        (2, 1.0, 3.0, 4.0),
+                                        (3, 2.0, 4.0, 6.0)]
+              and [s["muse_prompt"] for s in _csegs] == ["p1", "p2", None],
+              f"{_cerr} {_csegs}")
+        _cshots = _bv.shot_timeline([dict(s) for s in _csegs], "xfade", 0.4)
+        check("video shot cues overlap by the dissolve",
+              [(s["start_s"], s["end_s"]) for s in _cshots]
+              == [(0.0, 3.0), (2.6, 3.6), (3.2, 5.2)],
+              f"{_cshots}")
+        _cshots2 = _bv.shot_timeline([dict(s) for s in _csegs], "cut", 0.0)
+        check("video cut cues run contiguous",
+              [(s["start_s"], s["end_s"]) for s in _cshots2]
+              == [(0.0, 3.0), (3.0, 4.0), (4.0, 6.0)],
+              f"{_cshots2}")
+        _r3ch = [{"chunk": 1, "kind": "narration", "script_index": 0,
+                  "slides": [1, 2, 3],
+                  "images": ["studio_images/slide_01_final.jpg",
+                             "studio_images/slide_02_final.jpg",
+                             "studio_images/slide_03_final.jpg"]}]
+        _r3segs, _r3err = _bv.plan_segments(
+            _r3ch, [{"script_index": 0, "file": "a.wav", "duration_s": 1.0}],
+            _crow)
+        check("video last image takes the remainder (no 1ms leak)",
+              _r3err == []
+              and [s["duration_s"] for s in _r3segs] == [0.333, 0.333, 0.334]
+              and _r3segs[-1]["end_s"] == 1.0
+              and sum(s["duration_s"] for s in _r3segs) == 1.0,
+              f"{_r3err} {_r3segs}")
 
     print(f"\n{len(FAILS)} failures" if FAILS else "\nSELFTEST PASS")
     return 1 if FAILS else 0

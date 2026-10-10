@@ -45,7 +45,179 @@
   },
   {
     "slide": 4,
-    "slide_label": "Slide04 - River Before Star",
+    "slide_label": "Slide04 - Listen With Clean Heart",
+    "title": "Listen With Clean Heart",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Valmiki folds his hands and speaks to all who hear. Leave anger and jealousy far outside your mind. Hear this full tale of the sun kings from the start. This holy story gives goodness, wealth, and joy to clean hearts.",
+    "characters": [
+      "Valmiki",
+      "Valmiki's Disciples"
+    ],
+    "location": "Valmiki's Hermitage",
+    "rationale": "Covers the call to listen free of ill will for merit, profit and joy."
+  },
+  {
+    "slide": 5,
+    "slide_label": "Slide05 - Land Of Golden Grain",
+    "title": "Land Of Golden Grain",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Beside the clear Sarayu river spreads the rich land of Kosala. Corn turns gold in the wide fields. Every home fills with grain and wealth. The calm people lack nothing they need and live happy days together.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Kosala",
+    "rationale": "Covers the Kosala beat of fertile fields and happy people on the Sarayu."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - City Built By Manu",
+    "title": "City Built By Manu",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "In Kosala stands Ayodhya the great capital city. Wise Manu himself built its strong walls long ago. Its fame for goodness spread through the whole wide world. People speak its holy name with love and pride everywhere.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Ayodhya founded by Manu with fame spread across the world."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Roads Of Flowers",
+    "title": "Roads Of Flowers",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya stretches twelve yojanas long and ten yojanas wide. Broad straight roads run in neat lines outside. Fresh flower petals lie soft on the clean paths. Men sprinkle cool water each day so highways shine bright.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers the city measure and flower-strewn watered highways."
+  },
+  {
+    "slide": 8,
+    "slide_label": "Slide08 - King Like Indra",
+    "title": "King Like Indra",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "King Dasharatha rules the rich city of Ayodhya with care. He guards his people day and night like a father. As Indra guards bright heaven above the clouds, Dasharatha guards his shining streets below with justice and love.",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Dasharatha dwelling in Ayodhya as Indra dwells in heaven."
+  },
+  {
+    "slide": 9,
+    "slide_label": "Slide09 - Shops And Strong Gates",
+    "title": "Shops And Strong Gates",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya holds strong doors and tall bright gateways. Neat shops fill each street with colour and life. Skilled workers make every tool and fine craft. Singers praise old kings while flags wave and strong Shataghni guard the walls.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers doors, shops, artisans, singers, flags and Shataghni weapons."
+  },
+  {
+    "slide": 10,
+    "slide_label": "Slide10 - Gardens Behind Walls",
+    "title": "Gardens Behind Walls",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya keeps bright theatres for women and green mango groves. Sweet gardens bloom on every side for joy. A tall wall runs round the city with a deep moat outside. No friend or foe can pass inside without leave.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers theatres, gardens, wall and moat that guard entry."
+  },
+  {
+    "slide": 11,
+    "slide_label": "Slide11 - Elephants In Markets",
+    "title": "Elephants In Markets",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Busy roads crowd with elephants, horses, cows, and camels. Slow donkeys carry heavy loads through dust. Near kings bring gifts to pay honour in markets. Rich traders come from far lands to buy and sell goods.",
+    "characters": [
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers crowded animals and tribute markets with distant merchants."
+  },
+  {
+    "slide": 12,
+    "slide_label": "Slide12 - Palaces Like Heaven",
+    "title": "Palaces Like Heaven",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "High palaces rise like hills and shine with bright gems. Soft pleasure grounds for women spread on each side. Ayodhya glows like Indra's Amaravati in the sky. Gold-clad ladies add grace to royal halls with gentle smiles.",
+    "characters": [
+      "Dasharatha",
+      "Citizens of Ayodhya"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers gem palaces and pleasure grounds shining like Amaravati."
+  },
+  {
+    "slide": 13,
+    "slide_label": "Slide13 - Sweet Water Music",
+    "title": "Sweet Water Music",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Golden paddy and white rice grow thick in Ayodhya fields. Cool water tastes sweet like sugarcane juice to lips. Streets ring with drums, veenas, and sweet pipes each night. Music and joy float through every home till dawn.",
+    "characters": [
+      "Citizens of Ayodhya",
+      "Brahmanas"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers paddy abundance, sweet water and nightly music."
+  },
+  {
+    "slide": 14,
+    "slide_label": "Slide14 - Arrows Held Back",
+    "title": "Arrows Held Back",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "King Dasharatha keeps thousands of swift Maharatha fighters. Their hands move fast like bright lightning in war. They can stop wild lions, tigers, and boars in forests. Yet they never shoot the lost, helpless, hiding, or fleeing man.",
+    "characters": [
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Covers Maharathas who can slay beasts yet spare the helpless."
+  },
+  {
+    "slide": 15,
+    "slide_label": "Slide15 - Heaven On Earth",
+    "title": "Heaven On Earth",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "Ayodhya shines most with wise Brahmanas who love truth. They light holy fires each dawn and sing the Vedas. Learned in all lore, they give gifts by thousands. With such kind hearts, the city glows like heaven on earth.",
+    "characters": [
+      "Brahmanas",
+      "Dasharatha"
+    ],
+    "location": "Ayodhya",
+    "rationale": "Closes on the resolving beat of truthful Brahmanas making heaven-like Ayodhya."
+  },
+  {
+    "slide": 16,
+    "slide_label": "Slide16 - River Before Star",
     "title": "River Before Star",
     "type": "insight",
     "text_mode": null,
@@ -60,23 +232,8 @@
     "rationale": "Insight reflects why genealogy comes before Rama as river before star."
   },
   {
-    "slide": 5,
-    "slide_label": "Slide05 - Listen With Clean Heart",
-    "title": "Listen With Clean Heart",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Valmiki folds his hands and speaks to all who hear. Leave anger and jealousy far outside your mind. Hear this full tale of the sun kings from the start. This holy story gives goodness, wealth, and joy to clean hearts.",
-    "characters": [
-      "Valmiki",
-      "Valmiki's Disciples"
-    ],
-    "location": "Valmiki's Hermitage",
-    "rationale": "Covers the call to listen free of ill will for merit, profit and joy."
-  },
-  {
-    "slide": 6,
-    "slide_label": "Slide06 - Learning Needs Clean Eyes",
+    "slide": 17,
+    "slide_label": "Slide17 - Learning Needs Clean Eyes",
     "title": "Learning Needs Clean Eyes",
     "type": "insight",
     "text_mode": null,
@@ -91,136 +248,8 @@
     "rationale": "Insight reflects cleansing envy as a technique for learning."
   },
   {
-    "slide": 7,
-    "slide_label": "Slide07 - Land Of Golden Grain",
-    "title": "Land Of Golden Grain",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Beside the clear Sarayu river spreads the rich land of Kosala. Corn turns gold in the wide fields. Every home fills with grain and wealth. The calm people lack nothing they need and live happy days together.",
-    "characters": [
-      "Citizens of Ayodhya"
-    ],
-    "location": "Kosala",
-    "rationale": "Covers the Kosala beat of fertile fields and happy people on the Sarayu."
-  },
-  {
-    "slide": 8,
-    "slide_label": "Slide08 - City Built By Manu",
-    "title": "City Built By Manu",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "In Kosala stands Ayodhya the great capital city. Wise Manu himself built its strong walls long ago. Its fame for goodness spread through the whole wide world. People speak its holy name with love and pride everywhere.",
-    "characters": [
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers Ayodhya founded by Manu with fame spread across the world."
-  },
-  {
-    "slide": 9,
-    "slide_label": "Slide09 - Roads Of Flowers",
-    "title": "Roads Of Flowers",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Ayodhya stretches twelve yojanas long and ten yojanas wide. Broad straight roads run in neat lines outside. Fresh flower petals lie soft on the clean paths. Men sprinkle cool water each day so highways shine bright.",
-    "characters": [
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers the city measure and flower-strewn watered highways."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - King Like Indra",
-    "title": "King Like Indra",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "King Dasharatha rules the rich city of Ayodhya with care. He guards his people day and night like a father. As Indra guards bright heaven above the clouds, Dasharatha guards his shining streets below with justice and love.",
-    "characters": [
-      "Dasharatha"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers Dasharatha dwelling in Ayodhya as Indra dwells in heaven."
-  },
-  {
-    "slide": 11,
-    "slide_label": "Slide11 - Shops And Strong Gates",
-    "title": "Shops And Strong Gates",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Ayodhya holds strong doors and tall bright gateways. Neat shops fill each street with colour and life. Skilled workers make every tool and fine craft. Singers praise old kings while flags wave and strong Shataghni guard the walls.",
-    "characters": [
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers doors, shops, artisans, singers, flags and Shataghni weapons."
-  },
-  {
-    "slide": 12,
-    "slide_label": "Slide12 - Gardens Behind Walls",
-    "title": "Gardens Behind Walls",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Ayodhya keeps bright theatres for women and green mango groves. Sweet gardens bloom on every side for joy. A tall wall runs round the city with a deep moat outside. No friend or foe can pass inside without leave.",
-    "characters": [
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers theatres, gardens, wall and moat that guard entry."
-  },
-  {
-    "slide": 13,
-    "slide_label": "Slide13 - Elephants In Markets",
-    "title": "Elephants In Markets",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Busy roads crowd with elephants, horses, cows, and camels. Slow donkeys carry heavy loads through dust. Near kings bring gifts to pay honour in markets. Rich traders come from far lands to buy and sell goods.",
-    "characters": [
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers crowded animals and tribute markets with distant merchants."
-  },
-  {
-    "slide": 14,
-    "slide_label": "Slide14 - Palaces Like Heaven",
-    "title": "Palaces Like Heaven",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "High palaces rise like hills and shine with bright gems. Soft pleasure grounds for women spread on each side. Ayodhya glows like Indra's Amaravati in the sky. Gold-clad ladies add grace to royal halls with gentle smiles.",
-    "characters": [
-      "Dasharatha",
-      "Citizens of Ayodhya"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers gem palaces and pleasure grounds shining like Amaravati."
-  },
-  {
-    "slide": 15,
-    "slide_label": "Slide15 - Sweet Water Music",
-    "title": "Sweet Water Music",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Golden paddy and white rice grow thick in Ayodhya fields. Cool water tastes sweet like sugarcane juice to lips. Streets ring with drums, veenas, and sweet pipes each night. Music and joy float through every home till dawn.",
-    "characters": [
-      "Citizens of Ayodhya",
-      "Brahmanas"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers paddy abundance, sweet water and nightly music."
-  },
-  {
-    "slide": 16,
-    "slide_label": "Slide16 - Clean Roads Holy Hearts",
+    "slide": 18,
+    "slide_label": "Slide18 - Clean Roads Holy Hearts",
     "title": "Clean Roads Holy Hearts",
     "type": "insight",
     "text_mode": null,
@@ -235,8 +264,8 @@
     "rationale": "Insight reflects order as worship in flower roads and sweet water."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Guard Joy Wisdom",
+    "slide": 19,
+    "slide_label": "Slide19 - Guard Joy Wisdom",
     "title": "Guard Joy Wisdom",
     "type": "insight",
     "text_mode": null,
@@ -251,22 +280,8 @@
     "rationale": "Insight reflects purity as balance of security, joy and wisdom."
   },
   {
-    "slide": 18,
-    "slide_label": "Slide18 - Arrows Held Back",
-    "title": "Arrows Held Back",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "King Dasharatha keeps thousands of swift Maharatha fighters. Their hands move fast like bright lightning in war. They can stop wild lions, tigers, and boars in forests. Yet they never shoot the lost, helpless, hiding, or fleeing man.",
-    "characters": [
-      "Dasharatha"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Covers Maharathas who can slay beasts yet spare the helpless."
-  },
-  {
-    "slide": 19,
-    "slide_label": "Slide19 - Strength Holds Back",
+    "slide": 20,
+    "slide_label": "Slide20 - Strength Holds Back",
     "title": "Strength Holds Back",
     "type": "insight",
     "text_mode": null,
@@ -279,20 +294,5 @@
     ],
     "location": null,
     "rationale": "Insight reflects civilization measured by restraint not capability."
-  },
-  {
-    "slide": 20,
-    "slide_label": "Slide20 - Heaven On Earth",
-    "title": "Heaven On Earth",
-    "type": "scene",
-    "text_mode": "caption",
-    "speaker": null,
-    "on_slide_text": "Ayodhya shines most with wise Brahmanas who love truth. They light holy fires each dawn and sing the Vedas. Learned in all lore, they give gifts by thousands. With such kind hearts, the city glows like heaven on earth.",
-    "characters": [
-      "Brahmanas",
-      "Dasharatha"
-    ],
-    "location": "Ayodhya",
-    "rationale": "Closes on the resolving beat of truthful Brahmanas making heaven-like Ayodhya."
   }
 ]

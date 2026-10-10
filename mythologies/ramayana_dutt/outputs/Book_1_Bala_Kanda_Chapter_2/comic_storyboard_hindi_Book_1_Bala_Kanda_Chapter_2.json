@@ -47,23 +47,7 @@
   },
   {
     "slide": 4,
-    "slide_label": "Slide04 - Clear Mind Sees Pain",
-    "title": "Clear Mind Sees Pain",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "तमसा का साफ किनारा अच्छे व्यक्ति के मन जैसा क्यों है?",
-    "answer": "क्योंकि गंदा पानी तुम्हारा चेहरा छिपा देता है, और उलझा मन दूसरों का दर्द छिपा देता है। वाल्मीकि नहाने के लिए साफ जल चाहते थे, पर उन्हें परवाह करने वाली साफ दृष्टि मिली। वे खुशी का गीत और दुख की पुकार दोनों सुन सके। रोज़ बिना स्क्रीन दस शांत मिनट बैठो, तुम्हें दिखेगा पास में कौन दुखी है।",
-    "on_slide_text": "क्यों तमसा का साफ किनारा अच्छे मन जैसा लगता है? क्योंकि गंदा पानी तुम्हारा चेहरा छिपा देता है, और शोर भरा मन दूसरों का दर्द छिपा देता है। वाल्मीकि को साफ जल में साफ दृष्टि मिली। रोज़ बिना फोन दस शांत मिनट बैठो, और पहले देखो किसे दुख है।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Pauses after the pure bank to draw the mind-clarity lesson from the reflection."
-  },
-  {
-    "slide": 5,
-    "slide_label": "Slide05 - The Bark Cloth",
+    "slide_label": "Slide04 - The Bark Cloth",
     "title": "The Bark Cloth",
     "type": "scene",
     "text_mode": "caption",
@@ -77,8 +61,8 @@
     "rationale": "Shows obedient preparation and slow forest gaze before bathing."
   },
   {
-    "slide": 6,
-    "slide_label": "Slide06 - Two Happy Birds",
+    "slide": 5,
+    "slide_label": "Slide05 - Two Happy Birds",
     "title": "Two Happy Birds",
     "type": "scene",
     "text_mode": "caption",
@@ -93,8 +77,8 @@
     "rationale": "Stages the joyful love of the krauncha pair, the happiness soon to be broken."
   },
   {
-    "slide": 7,
-    "slide_label": "Slide07 - The Cruel Arrow",
+    "slide": 6,
+    "slide_label": "Slide06 - The Cruel Arrow",
     "title": "The Cruel Arrow",
     "type": "scene",
     "text_mode": "caption",
@@ -109,8 +93,8 @@
     "rationale": "Stages the apex killing without cause and the mate's grief, the epic's spark."
   },
   {
-    "slide": 8,
-    "slide_label": "Slide08 - The Curse of Sorrow",
+    "slide": 7,
+    "slide_label": "Slide07 - The Curse of Sorrow",
     "title": "The Curse of Sorrow",
     "type": "scene",
     "text_mode": "dialogue",
@@ -125,40 +109,8 @@
     "rationale": "Stages the compassionate curse where sorrow bursts as moral speech."
   },
   {
-    "slide": 9,
-    "slide_label": "Slide09 - Curse Born of Love",
-    "title": "Curse Born of Love",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "क्यों पवित्र ग्रंथ मीठे आशीर्वाद की जगह गुस्से भरे शाप से शुरू होता है?",
-    "answer": "क्योंकि वाल्मीकि का गहरा दुख तेज गुस्से में उबल पड़ा, और वही गुस्सा ठंडा होकर हमेशा का संगीत बन गया। उनका शाप टूटी खुशी के लिए रोता हुआ प्रेम था। खुला दर्द मन में भारी रहता है, पर लय में बँधा दर्द अर्थ बन जाता है। जब तुम्हें गुस्सा आए तो किसी पर चिल्लाने की जगह चार छोटी पंक्तियाँ लिखो।",
-    "on_slide_text": "क्यों पवित्र कथा आशीर्वाद से नहीं, शाप से शुरू होती है? क्योंकि गहरा दुख पहले तेज गुस्से में फूटता है, और गुस्सा बस उबलता हुआ प्रेम है। सँवरा हुआ दर्द हमेशा रहने वाला गीत बन जाता है। इस हफ्ते जब तुम्हें गुस्सा आए तो चार छोटी पंक्तियाँ लिखो और अपना छोटा श्लोक बनाओ।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on curse-born compassion right after the outburst."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Do Not Break Play",
-    "title": "Do Not Break Play",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "क्यों शिकारी के रोज़ के काम को इतनी बड़ी गलती कहा गया?",
-    "answer": "क्योंकि उसने बिना नफरत और बिना ज़रूरत खेलते हुए गाते प्रेम पर तीर चलाया। वाल्मीकि ईमानदार काम को दोष नहीं देते, वे मस्ती के लिए खुशी तोड़ने को दोष देते हैं। जब हम हँसी के लिए मज़ाक उड़ाते, बात काटते या ताना मारते हैं तो हम वही करते हैं। इस हफ्ते रुको, अपने तीर को पहचानो और दयालु चुप्पी चुनो।",
-    "on_slide_text": "क्यों शिकारी को उसके रोज़ के काम के लिए दोष दें? क्योंकि उसने बिना नफरत और बिना ज़रूरत गाते हुए प्रेम पर तीर चलाया। मस्ती के लिए खुशी तोड़ना ही सच्ची क्रूरता है। इस हफ्ते देखो तुम कहाँ मज़ाक या ताना मारते हो, और तीर चलाने की जगह दयालु चुप्पी चुनो।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on causeless cruelty right after the killing."
-  },
-  {
-    "slide": 11,
-    "slide_label": "Slide11 - What Left My Mouth",
+    "slide": 8,
+    "slide_label": "Slide08 - What Left My Mouth",
     "title": "What Left My Mouth",
     "type": "scene",
     "text_mode": "dialogue",
@@ -172,24 +124,8 @@
     "rationale": "Stages the startled discovery of metre as shloka fit for veena."
   },
   {
-    "slide": 12,
-    "slide_label": "Slide12 - Catch Your True Line",
-    "title": "Catch Your True Line",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "ज्ञानी वाल्मीकि अपने ही मुँह को देखकर क्यों चौंक गए?",
-    "answer": "क्योंकि सच्चे गीत हमारी समझ से पहले आते हैं। वाल्मीकि ने लय नहीं बनाई, उनके दुःख ने वीणा योग्य सम चरणों में खुद गाया। यह तेज़ बहाव धीमी सोच से आगे दौड़ता है। उन्होंने भरद्वाज से पंक्ति सँभालने को कहा, क्योंकि नई चिंगारी को मित्र की आँखें चाहिए। अपनी सच्ची पंक्ति तुरंत लिखो और बाँटो।",
-    "on_slide_text": "वाल्मीकि अपने ही मुँह को देखकर क्यों चौंक गए? क्योंकि सच्ची रचना पहले आती है, समझ बाद में आती है। दुःख ने खुद सम लय में गीत गाया, जैसे बहता संगीत। नई चिंगारी जल्दी बुझ जाती है। इस सप्ताह जब दिल से सच्ची पंक्ति निकले, उसे तुरंत लिख लो और किसी भरोसेमंद मित्र को दिखाओ।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on creation-before-understanding and witnessing the spark."
-  },
-  {
-    "slide": 13,
-    "slide_label": "Slide13 - Bath and Return",
+    "slide": 9,
+    "slide_label": "Slide09 - Bath and Return",
     "title": "Bath and Return",
     "type": "scene",
     "text_mode": "caption",
@@ -203,8 +139,8 @@
     "rationale": "Shows disciple support, bathing, and thoughtful return carrying the pitcher."
   },
   {
-    "slide": 14,
-    "slide_label": "Slide14 - Brahma Arrives",
+    "slide": 10,
+    "slide_label": "Slide10 - Brahma Arrives",
     "title": "Brahma Arrives",
     "type": "scene",
     "text_mode": "caption",
@@ -219,8 +155,8 @@
     "rationale": "Brings the divine turn with Brahma's sudden arrival amid the echoing verse."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Welcoming Brahma",
+    "slide": 11,
+    "slide_label": "Slide11 - Welcoming Brahma",
     "title": "Welcoming Brahma",
     "type": "scene",
     "text_mode": "caption",
@@ -234,8 +170,8 @@
     "rationale": "Shows reverent welcome and seating that honours Brahma."
   },
   {
-    "slide": 16,
-    "slide_label": "Slide16 - Stuck in Sorrow",
+    "slide": 12,
+    "slide_label": "Slide12 - Stuck in Sorrow",
     "title": "Stuck in Sorrow",
     "type": "scene",
     "text_mode": "caption",
@@ -249,8 +185,8 @@
     "rationale": "Shows Valmiki stuck in sorrow even before God, needing direction."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Write Rama's Story",
+    "slide": 13,
+    "slide_label": "Slide13 - Write Rama's Story",
     "title": "Write Rama's Story",
     "type": "scene",
     "text_mode": "dialogue",
@@ -264,24 +200,8 @@
     "rationale": "Stages Brahma's command to compose Rama's story in the immortal metre."
   },
   {
-    "slide": 18,
-    "slide_label": "Slide18 - Turn Wound Into Work",
-    "title": "Turn Wound Into Work",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "क्यों ब्रह्मा ने एक चिड़िया के दुख को राम की बड़ी कथा बनाया?",
-    "answer": "क्योंकि अकेला दर्द छोटा रोना रहता है पर आशीर्वाद पाया दर्द बहुतों का काम करता है। ब्रह्मा ने वाल्मीकि को दिखाया कि उनके आँसू हर बिछड़े प्रेम के लिए थे जैसे सीता राम से बिछड़ीं। दया से देखा सत्य पहाड़ों से लंबा जीता है। इस सप्ताह अपना एक पुराना दर्द याद करो और उससे एक व्यक्ति की मदद करो।",
-    "on_slide_text": "क्यों एक चिड़िया के दुख को राम और सीता की बड़ी कथा बनाना है? क्योंकि अकेला घाव बस रोना रहता है पर आशीर्वाद पाया घाव सबके काम आता है। वाल्मीकि के आँसू हर बिछड़े प्रेम के लिए थे। इस सप्ताह अपना एक पुराना दर्द याद करो और उसे किसी और की मदद बना दो।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on wound-into-work after the divine commission."
-  },
-  {
-    "slide": 19,
-    "slide_label": "Slide19 - Living Beyond Mountains",
+    "slide": 14,
+    "slide_label": "Slide14 - Living Beyond Mountains",
     "title": "Living Beyond Mountains",
     "type": "scene",
     "text_mode": "caption",
@@ -296,8 +216,8 @@
     "rationale": "Stages the blessing of endurance and vanishing that seals authority."
   },
   {
-    "slide": 20,
-    "slide_label": "Slide20 - Disciples Sing Again",
+    "slide": 15,
+    "slide_label": "Slide15 - Disciples Sing Again",
     "title": "Disciples Sing Again",
     "type": "scene",
     "text_mode": "caption",
@@ -311,8 +231,8 @@
     "rationale": "Shows disciples repeating the verse and foreseeing the full Ramayana."
   },
   {
-    "slide": 21,
-    "slide_label": "Slide21 - The Ramayana Is Born",
+    "slide": 16,
+    "slide_label": "Slide16 - The Ramayana Is Born",
     "title": "The Ramayana Is Born",
     "type": "scene",
     "text_mode": "caption",
@@ -323,5 +243,85 @@
     ],
     "location": "Valmiki's Meditation Seat",
     "rationale": "Closes on the resolving beat where the Ramayana is born in sweet shlokas."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Clear Mind Sees Pain",
+    "title": "Clear Mind Sees Pain",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "तमसा का साफ किनारा अच्छे व्यक्ति के मन जैसा क्यों है?",
+    "answer": "क्योंकि गंदा पानी तुम्हारा चेहरा छिपा देता है, और उलझा मन दूसरों का दर्द छिपा देता है। वाल्मीकि नहाने के लिए साफ जल चाहते थे, पर उन्हें परवाह करने वाली साफ दृष्टि मिली। वे खुशी का गीत और दुख की पुकार दोनों सुन सके। रोज़ बिना स्क्रीन दस शांत मिनट बैठो, तुम्हें दिखेगा पास में कौन दुखी है।",
+    "on_slide_text": "क्यों तमसा का साफ किनारा अच्छे मन जैसा लगता है? क्योंकि गंदा पानी तुम्हारा चेहरा छिपा देता है, और शोर भरा मन दूसरों का दर्द छिपा देता है। वाल्मीकि को साफ जल में साफ दृष्टि मिली। रोज़ बिना फोन दस शांत मिनट बैठो, और पहले देखो किसे दुख है।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Pauses after the pure bank to draw the mind-clarity lesson from the reflection."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Curse Born of Love",
+    "title": "Curse Born of Love",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों पवित्र ग्रंथ मीठे आशीर्वाद की जगह गुस्से भरे शाप से शुरू होता है?",
+    "answer": "क्योंकि वाल्मीकि का गहरा दुख तेज गुस्से में उबल पड़ा, और वही गुस्सा ठंडा होकर हमेशा का संगीत बन गया। उनका शाप टूटी खुशी के लिए रोता हुआ प्रेम था। खुला दर्द मन में भारी रहता है, पर लय में बँधा दर्द अर्थ बन जाता है। जब तुम्हें गुस्सा आए तो किसी पर चिल्लाने की जगह चार छोटी पंक्तियाँ लिखो।",
+    "on_slide_text": "क्यों पवित्र कथा आशीर्वाद से नहीं, शाप से शुरू होती है? क्योंकि गहरा दुख पहले तेज गुस्से में फूटता है, और गुस्सा बस उबलता हुआ प्रेम है। सँवरा हुआ दर्द हमेशा रहने वाला गीत बन जाता है। इस हफ्ते जब तुम्हें गुस्सा आए तो चार छोटी पंक्तियाँ लिखो और अपना छोटा श्लोक बनाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on curse-born compassion right after the outburst."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Do Not Break Play",
+    "title": "Do Not Break Play",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों शिकारी के रोज़ के काम को इतनी बड़ी गलती कहा गया?",
+    "answer": "क्योंकि उसने बिना नफरत और बिना ज़रूरत खेलते हुए गाते प्रेम पर तीर चलाया। वाल्मीकि ईमानदार काम को दोष नहीं देते, वे मस्ती के लिए खुशी तोड़ने को दोष देते हैं। जब हम हँसी के लिए मज़ाक उड़ाते, बात काटते या ताना मारते हैं तो हम वही करते हैं। इस हफ्ते रुको, अपने तीर को पहचानो और दयालु चुप्पी चुनो।",
+    "on_slide_text": "क्यों शिकारी को उसके रोज़ के काम के लिए दोष दें? क्योंकि उसने बिना नफरत और बिना ज़रूरत गाते हुए प्रेम पर तीर चलाया। मस्ती के लिए खुशी तोड़ना ही सच्ची क्रूरता है। इस हफ्ते देखो तुम कहाँ मज़ाक या ताना मारते हो, और तीर चलाने की जगह दयालु चुप्पी चुनो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on causeless cruelty right after the killing."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Catch Your True Line",
+    "title": "Catch Your True Line",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "ज्ञानी वाल्मीकि अपने ही मुँह को देखकर क्यों चौंक गए?",
+    "answer": "क्योंकि सच्चे गीत हमारी समझ से पहले आते हैं। वाल्मीकि ने लय नहीं बनाई, उनके दुःख ने वीणा योग्य सम चरणों में खुद गाया। यह तेज़ बहाव धीमी सोच से आगे दौड़ता है। उन्होंने भरद्वाज से पंक्ति सँभालने को कहा, क्योंकि नई चिंगारी को मित्र की आँखें चाहिए। अपनी सच्ची पंक्ति तुरंत लिखो और बाँटो।",
+    "on_slide_text": "वाल्मीकि अपने ही मुँह को देखकर क्यों चौंक गए? क्योंकि सच्ची रचना पहले आती है, समझ बाद में आती है। दुःख ने खुद सम लय में गीत गाया, जैसे बहता संगीत। नई चिंगारी जल्दी बुझ जाती है। इस सप्ताह जब दिल से सच्ची पंक्ति निकले, उसे तुरंत लिख लो और किसी भरोसेमंद मित्र को दिखाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on creation-before-understanding and witnessing the spark."
+  },
+  {
+    "slide": 21,
+    "slide_label": "Slide21 - Turn Wound Into Work",
+    "title": "Turn Wound Into Work",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों ब्रह्मा ने एक चिड़िया के दुख को राम की बड़ी कथा बनाया?",
+    "answer": "क्योंकि अकेला दर्द छोटा रोना रहता है पर आशीर्वाद पाया दर्द बहुतों का काम करता है। ब्रह्मा ने वाल्मीकि को दिखाया कि उनके आँसू हर बिछड़े प्रेम के लिए थे जैसे सीता राम से बिछड़ीं। दया से देखा सत्य पहाड़ों से लंबा जीता है। इस सप्ताह अपना एक पुराना दर्द याद करो और उससे एक व्यक्ति की मदद करो।",
+    "on_slide_text": "क्यों एक चिड़िया के दुख को राम और सीता की बड़ी कथा बनाना है? क्योंकि अकेला घाव बस रोना रहता है पर आशीर्वाद पाया घाव सबके काम आता है। वाल्मीकि के आँसू हर बिछड़े प्रेम के लिए थे। इस सप्ताह अपना एक पुराना दर्द याद करो और उसे किसी और की मदद बना दो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on wound-into-work after the divine commission."
   }
 ]

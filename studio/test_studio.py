@@ -418,19 +418,32 @@ def test_ch1_hand_corrections_hold():
     plan = json.loads(
         (out / "comic_render_plan_Book_1_Bala_Kanda_Chapter_1.json").read_text(
             encoding="utf-8"))
-    p1 = next(x for x in prompts if x.get("slide") == 1)["muse_prompt"]
+    by_title = {x["title"]: x for x in board}
+    prom_by_title = {}
+    for x in prompts:
+        t = next((s["title"] for s in board if s["slide"] == x.get("slide")),
+                 None)
+        if t is not None:
+            prom_by_title[t] = x["muse_prompt"]
+    plan_by_title = {}
+    for x in plan["slides"]:
+        t = next((s["title"] for s in board if s["slide"] == x.get("slide")),
+                 None)
+        if t is not None:
+            plan_by_title[t] = x
+    p1 = prom_by_title["The Seeker's Question"]
     assert "Ayodhya" not in p1 and "palace" not in p1, p1[:200]
-    assert next(x for x in board if x.get("slide") == 1)["location"] == \
+    assert by_title["The Seeker's Question"]["location"] == \
         "Valmiki's Forest Hermitage"
-    p4 = next(x for x in prompts if x.get("slide") == 4)["muse_prompt"]
+    p4 = prom_by_title["Body Certifies Soul"]
     assert "god of righteousness" not in p4, p4[:300]
     assert "dharma-wheel" in p4, "emblem must remain"
-    subs4 = next(x for x in plan["slides"] if x.get("slide") == 4)["subjects"]
+    subs4 = plan_by_title["Body Certifies Soul"]["subjects"]
     assert all((x.get("name") if isinstance(x, dict) else x) != "Dharma"
                for x in subs4), subs4
-    p7 = next(x for x in prompts if x.get("slide") == 7)["muse_prompt"]
+    p7 = prom_by_title["Ganga to Chitrakuta"]
     assert "Rohini" not in p7 and "Janaka" not in p7, p7[-400:]
-    subs7 = next(x for x in plan["slides"] if x.get("slide") == 7)["subjects"]
+    subs7 = plan_by_title["Ganga to Chitrakuta"]["subjects"]
     assert all((x.get("name") if isinstance(x, dict) else x)
                not in ("Rohini", "Janaka") for x in subs7), subs7
     print("ok ch1 hand corrections hold")
@@ -461,20 +474,43 @@ def test_ch1_staging_rubric_holds():
             encoding="utf-8"))
     prom = {x["slide"]: x["muse_prompt"] for x in prompts}
     rsl = {x["slide"]: x for x in plan["slides"]}
+    by_title = {x["title"]: x for x in board}
+    num_to_title = {x["slide"]: x["title"] for x in board}
+    prom_by_title = {num_to_title[n]: prom[n] for n in prom
+                     if n in num_to_title}
+    # Keyed by title so a story-first renumber never moves the pins.
     expect = {
-        1: ["Valmiki", "Narada"], 2: ["Kavya"],
-        3: ["Narada", "Rama"], 4: ["Rama"], 5: ["Kavya"],
-        6: ["Dasharatha", "Rama", "Kaikeyi"],
-        7: ["Rama", "Sita", "Lakshmana", "Guha", "Charioteer"],
-        8: ["Bharata", "Rama"], 9: ["Kavya"],
-        10: ["Rama", "Agastya"], 11: ["Rama", "Shurpanakha", "Khara"],
-        12: ["Ravana", "Sita", "Jatayu"],
-        13: ["Rama", "Lakshmana", "Hanuman", "Sugriva"],
-        14: ["Rama", "Sugriva", "Vali"], 15: ["Kavya"],
-        16: ["Hanuman", "Sita"], 17: ["Rama", "Hanuman", "Ocean"],
-        18: ["Rama", "Sita", "Agni"],
-        19: ["Rama", "Sita", "Bharata", "Hanuman"], 20: ["Kavya"],
+        "The Seeker's Question": ["Valmiki", "Narada"],
+        "Measure Before Hero": ["Kavya"],
+        "Rama Named": ["Narada", "Rama"],
+        "Body Certifies Soul": ["Rama"],
+        "Flesh Shows Virtue": ["Kavya"],
+        "Two Boons Exile": ["Dasharatha", "Rama", "Kaikeyi"],
+        "Ganga to Chitrakuta": ["Rama", "Sita", "Lakshmana", "Guha",
+                                "Charioteer"],
+        "Sandals of Trust": ["Bharata", "Rama"],
+        "Power as Trust": ["Kavya"],
+        "Vow Against Rakshasas": ["Rama", "Agastya"],
+        "Fourteen Thousand Fall": ["Rama", "Shurpanakha", "Khara"],
+        "The Luring": ["Sita"],
+        "Abduction Grief": ["Ravana", "Sita", "Jatayu"],
+        "Grief": ["Rama"],
+        "Rites": ["Rama", "Lakshmana"],
+        "Shabari to Friendship": ["Rama", "Lakshmana", "Hanuman", "Sugriva"],
+        "Proof": ["Rama", "Sugriva"],
+        "Fall of Vali": ["Rama", "Sugriva", "Vali"],
+        "Periphery Saves Center": ["Kavya"],
+        "Leap to Ashoka": ["Hanuman", "Sita"],
+        "Burning": ["Hanuman"],
+        "Lanka Burns Ocean Rises": ["Rama", "Hanuman", "Ocean"],
+        "Bridge": ["Rama", "Hanuman"],
+        "Bridge Battle Fire": ["Rama", "Sita", "Agni"],
+        "Return and Golden Rule": ["Rama", "Sita", "Bharata", "Hanuman"],
+        "Coronation": ["Rama", "Sita", "Bharata", "Hanuman"],
+        "Love Tested Order Promised": ["Kavya"],
     }
+    assert set(by_title) == set(expect), (
+        set(by_title) ^ set(expect))
     banned = {"Ikshvaku", "Kausalya", "Prajapati", "Vishnu", "Kubera",
               "Dharma", "Rohini", "Janaka", "Citizens of Ayodhya",
               "Brahmanas", "Sages of Dandaka", "Rakshasas", "Monkeys",
@@ -483,17 +519,21 @@ def test_ch1_staging_rubric_holds():
               "Tara", "Dundubhi", "Shabari", "Kabandha", "Sampati",
               "Indrajit", "Aksha", "Nala", "Vibhishana", "Vashishtha",
               "Bharadwaja"}
+    # Story-first: every scene slide precedes every insight slide.
+    types = [s["type"] for s in board]
+    assert types == sorted(types, key=lambda t: t != "scene"), types
     for slide in board:
         n = slide["slide"]
-        assert slide["characters"] == expect[n], (n, slide["characters"])
+        t = slide["title"]
+        assert slide["characters"] == expect[t], (n, slide["characters"])
         h = next(x for x in hindi if x["slide"] == n)
-        assert h["characters"] == expect[n], (n, "hindi drift")
+        assert h["characters"] == expect[t], (n, "hindi drift")
         subs = rsl[n]["subjects"]
         chars = [s["name"] for s in subs if s["kind"] != "scene"]
-        assert chars == expect[n], (n, chars)
+        assert chars == expect[t], (n, chars)
         scenes = [s["name"] for s in subs if s["kind"] == "scene"]
         if slide["type"] == "insight":
-            assert expect[n] == ["Kavya"] and slide["location"] is None, n
+            assert expect[t] == ["Kavya"] and slide["location"] is None, n
             assert scenes == [], (n, scenes)
         else:
             assert len(chars) <= 5, (n, chars)
@@ -512,29 +552,96 @@ def test_ch1_staging_rubric_holds():
     for twin in ("Vali", "Sugriva"):
         rp = next(r for r in plan["roster"] if r.get("name") == twin)
         assert "powerfully athletic medium-tall twin build" in rp["image_prompt"], twin
-    assert "twin build" in prom[14], prom[14][:200]
+    assert "twin build" in prom_by_title["Fall of Vali"], \
+        prom_by_title["Fall of Vali"][:200]
     rav = next(r for r in plan["roster"] if r.get("name") == "Ravana")
     assert "ten fierce heads" not in rav["image_prompt"], rav["image_prompt"][:200]
     assert "twenty powerful arms" not in rav["image_prompt"], rav["image_prompt"][:200]
     prose_ban = {
-        3: ["Kausalya", "forebear"], 4: ["Prajapati", "Vishnu", "Kubera"],
-        6: ["Bharata"], 7: ["Dasharatha", "Citizens"],
-        8: ["Vashishtha", "Bharadwaja", "gazes down", "cloud"],
-        10: ["Indra", "Viradha", "Sharabhanga", "Sutikshna", "vajra"],
-        10: ["toward Rama", "pointed at", "aimed at"],
-        11: ["Trishira", "Dushana"], 12: ["Maricha", "ten fierce heads", "twenty powerful arms"],
-        13: ["Shabari", "Kabandha", "pyre"],
-        14: ["Tara", "Dundubhi"],
-        16: ["Sugriva", "Sampati", "Ravana", "Indrajit"],
-        17: ["Sugriva", "Sita"], 18: ["Nala", "Ravana", "Vibhishana",
-                                      "Devas"],
-        19: ["Bharadwaja", "Sugriva", "Brahmanas"],
+        "Rama Named": ["Kausalya", "forebear"],
+        "Body Certifies Soul": ["Prajapati", "Vishnu", "Kubera"],
+        "Two Boons Exile": ["Bharata"],
+        "Ganga to Chitrakuta": ["Dasharatha", "Citizens"],
+        "Sandals of Trust": ["Vashishtha", "Bharadwaja", "gazes down",
+                             "cloud"],
+        # "pointed at" excluded: slide 10 uses it only inside a no-weapon
+        # negation ("no weapon is ... pointed at anyone").
+        "Vow Against Rakshasas": ["Indra", "Viradha", "Sharabhanga",
+                                  "Sutikshna", "vajra", "toward Rama",
+                                  "aimed at"],
+        "Fourteen Thousand Fall": ["Trishira", "Dushana"],
+        "The Luring": ["Maricha", "ten fierce heads",
+                       "twenty powerful arms"],
+        "Grief": ["Tara", "Dundubhi"],
+        "Shabari to Friendship": ["Shabari", "Kabandha", "pyre", "Sampati",
+                                  "Ravana", "Indrajit"],
+        "Fall of Vali": ["Nala", "Vibhishana", "Devas"],
+        "Leap to Ashoka": ["Bharadwaja", "Sugriva", "Brahmanas"],
     }
-    for n, words in prose_ban.items():
+    for t, words in prose_ban.items():
         for w in words:
             assert re.search(r"(?i)\b" + re.escape(w) + r"s?\b",
-                             prom[n]) is None, (n, w)
+                             prom_by_title[t]) is None, (t, w)
     print("ok ch1 staging rubric holds")
+
+
+def test_ch3_exile_crown_fix_holds():
+    """Exile Rama stays uncrowned: Ch3 exile slides (Amla/Exile/Dandaka/
+    Deer/Bridge) name forest exile but previously showed or captioned a
+    crowned prince. Both prompt
+    copies must carry the bare-headed jatabhara wording with no crown
+    token left on Rama, and the plan must tag the RamaExile sheet (words
+    alone never beat the attached crowned sheet). Pinned non-Rama
+    crown-family words (Guha's feathered turban, Bharadwaja's jatamukuta,
+    Vibhishana's crown) must survive: no blanket deletion. A pipeline
+    re-run silently clobbers these files, so this test fails loudly if
+    that happens. Skips when chapter outputs are absent."""
+    root = Path(__file__).resolve().parent.parent
+    out = root / "mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_3"
+    if not out.is_dir():
+        print("skip exile crown (no chapter outputs)")
+        return
+    prompts = json.loads(
+        (out / "comic_muse_prompts_Book_1_Bala_Kanda_Chapter_3.json").read_text(
+            encoding="utf-8"))
+    plan = json.loads(
+        (out / "comic_render_plan_Book_1_Bala_Kanda_Chapter_3.json").read_text(
+            encoding="utf-8"))
+    board = json.loads(
+        (out / "comic_storyboard_Book_1_Bala_Kanda_Chapter_3.json").read_text(
+            encoding="utf-8"))
+    num_to_title = {x["slide"]: x["title"] for x in board
+                    if isinstance(x, dict)}
+    prom = {num_to_title[x["slide"]]: x["muse_prompt"] for x in prompts
+            if x.get("slide") in num_to_title}
+    rsl = {num_to_title[x["slide"]]: x for x in plan["slides"]
+           if x.get("slide") in num_to_title}
+    # Keyed by title so a story-first renumber never moves the pins.
+    titles = ("Amla on the Palm", "Exile and Sandals", "Dandaka Trials",
+              "Golden Deer Loss", "Bridge to Dharma")
+    keep = {"Exile and Sandals": ["turban crowned with a peacock feather",
+                                  "jatamukuta"],
+            "Bridge to Dharma": ["golden crown"]}
+    for t in titles:
+        assert prom[t] == rsl[t]["muse_prompt"], (t, "copies diverged")
+        for copy, text in (("prompts", prom[t]),
+                           ("plan", rsl[t]["muse_prompt"])):
+            assert "jatabhara" in text, (t, copy)
+            assert "hair alone on his head" in text, (t, copy)
+            scrubbed = text
+            for phrase in ["bare-headed with no crown", "no crown",
+                           "no circlet"] + keep.get(t, []):
+                scrubbed = scrubbed.replace(phrase, "")
+            low = scrubbed.casefold()
+            hits = [w for w in ("kiritamukuta", "crown", "mukut",
+                                "circlet", "karanda") if w in low]
+            assert not hits, (t, copy, hits)
+        subs = rsl[t]["subjects"]
+        rama = next(x for x in subs
+                    if (x.get("name") if isinstance(x, dict) else x) == "Rama")
+        assert isinstance(rama, dict) and rama.get("sheet") == "RamaExile", \
+            (t, rama)
+    print("ok ch3 exile crown fix holds")
 
 
 def test_panel_cast_scene_first():
@@ -588,7 +695,11 @@ def test_panel_aspect_always_169():
     plan = json.loads(
         (cdir / "comic_render_plan_Book_1_Bala_Kanda_Chapter_1.json").read_text(
             encoding="utf-8"))
-    assert len(plan["slides"]) == 20, len(plan["slides"])
+    board = json.loads(
+        (cdir / "comic_storyboard_Book_1_Bala_Kanda_Chapter_1.json").read_text(
+            encoding="utf-8"))
+    assert len(plan["slides"]) == len(board), (
+        len(plan["slides"]), len(board))
     assert {s.get("size") for s in plan["slides"]} == {"1536x1024"},         {s.get("slide"): s.get("size") for s in plan["slides"]}
     h = server_mod.Handler.__new__(server_mod.Handler)
     for s in plan["slides"]:
@@ -1195,6 +1306,67 @@ def test_turn_body_gate_rejects_before_spend():
         image_gen_mod._post_json = real_post
     print("ok turn gate fails closed before any paid call")
 
+
+def test_ch3_slides_13_17_prop_support_fix_holds():
+    """Ch3 slides 13/17 prop-support fixes must survive: Sugriva muzzle +
+    gripped shafts and no arrow contradiction (13), gada laid flat with
+    empty folded hands (17), both prompt copies in sync, plus the
+    heavy-headed-weapons hardening in the critique skill. A pipeline
+    re-run silently clobbers these files, so this test fails loudly if
+    that happens. Skips chapter asserts when outputs are absent."""
+    root = Path(__file__).resolve().parent.parent
+    skill = (root / ".agents/skills/comic-art-critique/SKILL.md").read_text(
+        encoding="utf-8")
+    assert "Heavy-headed weapons (gada, mace, axe) can never" in skill, \
+        "skill hardening missing"
+    assert '"planted upright" is not a support for them' in skill, \
+        "skill hardening missing"
+    assert "blended with human-prince features" in skill, \
+        "vanara disambiguation hardening missing"
+    assert "reads as the fight being" in skill, \
+        "pleader placement hardening missing"
+    out = root / "mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_3"
+    if not out.is_dir():
+        print("skip ch3 slides 13/17 prop support (no chapter outputs)")
+        return
+    prompts = json.loads(
+        (out / "comic_muse_prompts_Book_1_Bala_Kanda_Chapter_3.json").read_text(
+            encoding="utf-8"))
+    plan = json.loads(
+        (out / "comic_render_plan_Book_1_Bala_Kanda_Chapter_3.json").read_text(
+            encoding="utf-8"))
+    board = json.loads(
+        (out / "comic_storyboard_Book_1_Bala_Kanda_Chapter_3.json").read_text(
+            encoding="utf-8"))
+    num_to_title = {x["slide"]: x["title"] for x in board
+                    if isinstance(x, dict)}
+    prom = {num_to_title[x["slide"]]: x["muse_prompt"] for x in prompts
+            if x.get("slide") in num_to_title}
+    rsl = {num_to_title[x["slide"]]: x for x in plan["slides"]
+           if x.get("slide") in num_to_title}
+    for t in ("Friendship and Fall", "Bridge to Dharma"):
+        assert prom[t] == rsl[t]["muse_prompt"], (t, "copies diverged")
+    p13 = prom["Friendship and Fall"]
+    assert "furred monkey-face and muzzle" in p13, p13[400:700]
+    assert "fully simian" in p13 and "distinct from any human prince" in p13
+    assert "frame edge well clear of the fighters" in p13
+    assert "recoiling away from the duel" in p13
+    assert "both hands raised in pleading" in p13
+    assert "mace shaft in his raised right fist" in p13
+    assert "long shaft gripped in his raised right fist" in p13, p13[700:1000]
+    assert "draws his arrow" not in p13, "arrow contradiction returned"
+    assert "bow lowered" in p13 and "no arrow nocked" in p13
+    assert "recoiling" in p13 and "guard faltering" in p13, p13[-400:]
+    assert "planted upright" not in p13, "vague standee returned"
+    p17 = prom["Bridge to Dharma"]
+    assert "laid flat on the causeway stones beside him" in p17, p17[-600:]
+    assert "both hands folded" in p17 and "holds nothing" in p17
+    assert "planted upright" not in p17, "freestanding gada returned"
+    assert "no second tail" not in p17, "negated quantity returned"
+    assert "exactly one tail" in p17
+    print("ok ch3 slides 13/17 prop support fix holds")
+
+
 if __name__ == "__main__":
     test_review_roundtrip()
     test_bundle_assembly()
@@ -1213,6 +1385,7 @@ if __name__ == "__main__":
     test_panel_select_endpoint_routes()
     test_ch1_hand_corrections_hold()
     test_ch1_staging_rubric_holds()
+    test_ch3_exile_crown_fix_holds()
     test_panel_cast_scene_first()
     test_panel_aspect_always_169()
     test_partition_refs_attaches_all()
@@ -1227,4 +1400,5 @@ if __name__ == "__main__":
     test_data_url_sniffs_real_bytes()
     test_fallback_reason_carries_api_body()
     test_turn_body_gate_rejects_before_spend()
-    print("studio tests: 31/31 PASS")
+    test_ch3_slides_13_17_prop_support_fix_holds()
+    print("studio tests: 33/33 PASS")

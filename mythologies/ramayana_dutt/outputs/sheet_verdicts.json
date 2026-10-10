@@ -551,17 +551,17 @@
    "note": ""
   },
   "ValmikiSMeditationSeat": {
-   "name": "ValmikiSMeditationSeat",
+   "name": "Valmiki's Meditation Seat",
    "flow_ref": "ValmikiSMeditationSeat",
    "kind": "scene",
-   "prompt_sha256": "69348e5423120f50d5a58245edacb0a19bdfa5bbd06a89c64f174ff5d587c682",
-   "prompt_source": "comic_render_plan_Book_1_Bala_Kanda_Chapter_2.json roster",
+   "prompt_sha256": "4fd0af64fb8c94a220aa6ea5cc5b2dde67ba09e4406047253f2b4e6a8897934b",
+   "prompt_source": "comic_render_plan roster",
    "final": "Book_1_Bala_Kanda_Chapter_2/studio_images/sheet_ValmikiSMeditationSeat_final.jpg",
-   "final_sha256": "755aaea007cc1f124a2f288a1627a16bb10fc6efa190ab6552a62fca0cb11fc8",
+   "final_sha256": "af04b5119888860b36a10dd0e767d97d4305dfe8c1053f847532b96c5ef95df0",
    "verdict": "PASS",
-   "decided_at": 1790960775,
-   "passed_on": "Ch2 slides 9-21 entity pass",
-   "note": ""
+   "decided_at": 1791291497,
+   "passed_on": "Book_1_Bala_Kanda_Chapter_2 ValmikiSMeditationSeat",
+   "note": "deer-skin removal: hide-free seat per ch3 slide 2 fix"
   },
   "DasharathaSWives": {
    "name": "Dasharatha's Wives",

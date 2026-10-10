@@ -1,5 +1,32 @@
 # Prompt Changelog — podcast stage (Phase 2)
 
+## Spoken-label ban — reflections go label-free (audio fix)
+
+Why: TTS speaks every word of `text`/`text_en` except `<emotion>` tags, so
+the old `Question:` / `Reflection:` / `Takeaway:` (and `प्रश्न:` /
+`विवेचना:` / `जीवन-सूत्र:`) literals were read aloud as distractions in the
+Introduction audio. The fix removes the labels while keeping the content:
+each reflection stays a question → exploration → takeaway passage, now woven
+as one natural spoken flow (question spoken first ending in `?`, takeaway
+landed via a spoken bridge like "This week, try this — ...").
+- `agent3_reflection.md`: three-part structure becomes three label-free
+  movements + a hard NO SPOKEN LABELS rule (literals and variants banned);
+  example rewritten label-free. No contract change (same JSON keys + tags).
+- `reviewer.md`: Rubric B.7 now rejects any spoken label and requires the
+  question mark + takeaway landing; B.11 tag note reworded (tag follows the
+  closing takeaway sentence). Verdict contract unchanged.
+- `tools/podcast_stage.py`: validator rejects spoken labels in either
+  language and requires a `?` in each; dry-run fixture rewritten label-free.
+- `tools/av_map_stage.py`: `is_discussion` kept as the legacy detector for
+  pre-change artifacts; new scripts split via `narr_count` (positional).
+- `tools/selftest.py`: GOOD_REFL label-free; new checks for the label ban,
+  the `?` requirement, and the prompt wording.
+- Data fix: `Book_0_Introduction` discussion/script/EN/HI narration
+  rewritten label-free (same meaning, same 8+2 segments), bridge re-run.
+  Chapters 1–6 stored artifacts still carry the old labels (not regenerated;
+  re-run their podcast stage to pick up the new prompt). Their existing
+  audio WAVs/tracks still voice the old text until re-synthesized.
+
 All sources verified in `mythology-texts/mythology podcast/podcast_pipeline.py`.
 Downstream contract (frozen): JSON arrays of
 `{character, voice, text, text_en}` + trailing emotion tags; `text_en` on

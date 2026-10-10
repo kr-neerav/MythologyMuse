@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """MythologyMuse — podcast stage driver (Phase 2).
 
-Runs one chapter through Agents 1→2 (narration + QA) then 3→4 (structured
-Q&A reflection + QA), writing the same text artifacts the legacy pipeline
+Runs one chapter through Agents 1→2 (narration + QA) then 3→4 (flowing
+reflection + QA), writing the same text artifacts the legacy pipeline
 produced. All reads/writes stay inside the mythology folder (isolation gate
 in muse_client).
 
@@ -51,8 +51,14 @@ EMOTION_TAGS = (
 )
 _EMOTION_RE = re.compile(r"<(%s)>\s*$" % "|".join(EMOTION_TAGS))
 
-_HI_LABELS = ("प्रश्न:", "विवेचना:", "जीवन-सूत्र:")
-_EN_LABELS = ("Question:", "Reflection:", "Takeaway:")
+# Spoken-label ban: TTS reads every word of text/text_en aloud, so these
+# structural literals must NEVER appear in reflection passages. Kept as
+# tuples (not a set) for stable error messages; _HI_LABELS doubles as the
+# legacy detector for pre-change artifacts (see av_map_stage.is_discussion).
+_FORBIDDEN_HI_LABELS = ("प्रश्न:", "विवेचना:", "जीवन-सूत्र:")
+_FORBIDDEN_EN_LABELS = ("Question:", "Reflection:", "Takeaway:")
+_HI_LABELS = _FORBIDDEN_HI_LABELS
+_EN_LABELS = _FORBIDDEN_EN_LABELS
 
 
 def load_prompt(prompts_dir: Path, name: str) -> str:
@@ -79,16 +85,6 @@ def extract_json_array(raw: str | None) -> list | None:
     except json.JSONDecodeError:
         return None
     return data if isinstance(data, list) else None
-
-
-def _label_order_ok(text: str, labels: tuple[str, ...]) -> bool:
-    pos = -1
-    for lab in labels:
-        nxt = text.find(lab, pos + 1)
-        if nxt == -1:
-            return False
-        pos = nxt
-    return True
 
 
 def validate_segments(segs: list | None, kind: str) -> list[str]:
@@ -119,13 +115,27 @@ def validate_segments(segs: list | None, kind: str) -> list[str]:
             if m2 and m.group(1) != m2.group(1):
                 problems.append(f"{where}: emotion tag mismatch hindi/en")
         if kind == "reflection" and not problems:
-            if not _label_order_ok(s["text"], _HI_LABELS):
+            for lab in _FORBIDDEN_HI_LABELS:
+                if lab in (s["text"] or ""):
+                    problems.append(
+                        f"{where}: hindi text must NOT contain spoken label {lab!r} "
+                        f"(TTS reads it aloud — keep the question-to-takeaway flow natural)"
+                    )
+                    break
+            for lab in _FORBIDDEN_EN_LABELS:
+                if lab in (s["text_en"] or ""):
+                    problems.append(
+                        f"{where}: text_en must NOT contain spoken label {lab!r} "
+                        f"(TTS reads it aloud — keep the question-to-takeaway flow natural)"
+                    )
+                    break
+            if "?" not in (s["text"] or ""):
                 problems.append(
-                    f"{where}: hindi text must carry प्रश्न:/विवेचना:/जीवन-सूत्र: in order"
+                    f"{where}: hindi text must open with a spoken question (no `?` found)"
                 )
-            if not _label_order_ok(s["text_en"], _EN_LABELS):
+            if "?" not in (s["text_en"] or ""):
                 problems.append(
-                    f"{where}: text_en must carry Question:/Reflection:/Takeaway: in order"
+                    f"{where}: text_en must open with a spoken question (no `?` found)"
                 )
     return problems
 
@@ -162,8 +172,8 @@ def _fixture_reflection() -> list[dict]:
         {
             "character": "Kavya",
             "voice": "Hindi (Female)",
-            "text": "प्रश्न: वाल्मीकि ने कथा सुनने से पहले राम के गुण क्यों पूछे? विवेचना: क्योंकि वे जानते थे कि चरित्र ही कथा की आत्मा है — घटना भूल जाती है, गुण रह जाते हैं। जीवन-सूत्र: किसी की कहानी सुनने से पहले उसका एक गुण पहचानें; आप कथा को गहराई से सुनेंगे। <formal>",
-            "text_en": "Question: Why did Valmiki ask about Rama's virtues before hearing the tale? Reflection: Because he knew character is the soul of a story — events fade, virtues remain. Takeaway: Before hearing someone's story, name one of their virtues; you will listen more deeply. <formal>",
+            "text": "वाल्मीकि ने कथा सुनने से पहले राम के गुण क्यों पूछे? क्योंकि वे जानते थे कि चरित्र ही कथा की आत्मा है — घटना भूल जाती है, गुण रह जाते हैं। किसी की कहानी सुनने से पहले उसका एक गुण पहचानें; आप कथा को गहराई से सुनेंगे। <formal>",
+            "text_en": "Why did Valmiki ask about Rama's virtues before hearing the tale? Because he knew character is the soul of a story — events fade, virtues remain. Before hearing someone's story, name one of their virtues; you will listen more deeply. <formal>",
         },
     ]
 

@@ -33,3 +33,8 @@ tmp/
 *.bmp
 *.tiff
 *.tif
+
+# Generated/upload media — regenerable from checked-in scripts + manifests
+*.mp4
+*.wav
+*.mp3

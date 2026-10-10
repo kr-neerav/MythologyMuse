@@ -40,13 +40,18 @@ fails for the same reasons old ones did.
   facial features", "featureless", "blank face", "only X has a visible
   face") or any background figure with a blank/smeared face zone.
   Corpses and weapons are props. Similes become emblems, motifs, or nothing.
+- No gratuitous animals or animal-skin props: FAIL any live animal, hide, skin, or ajina/deerskin mat the storyboard does not stage, the on-slide text does not name, and no staged entity identity requires as a functional attribute (Ch3 Slide05 precedent: deer skin beside Valmiki's kusha seat, unlisted, unnamed, unrequired — cut it from the panel prompt in both copies, then re-render). A staged animal beat (Maricha's golden deer) keeps its animal.
 - One moment per panel: the apex beat. Earlier beats at most background
   hints seen from behind, softly out of focus, or omitted.
 - Fight beats stage the clash, not just its aftermath: the hostile force
   advances toward the hero with visible momentum while its defeat already
   reads at the edges (recoil, falter, dust, lowered weapons) — never an
   emptied field of pure flight with no fight happening, and never a fresh
-  unbroken charge with no turn in the tide.
+  unbroken charge with no turn in the tide. Pleading witnesses kneel at
+  the frame edge recoiling away with raised hands — never centered under
+  the clash with arms between combatants, which reads as the fight being
+  over them (Ch3 slide 13 precedent: Tara centered beneath the duel;
+  fixed to frame-edge recoiling).
 - The location is where the telling happens. Visions of absent figures
   read explicitly unreal (glow, edgeless inset), never physical.
 - Directed actions aim at their recipient: whoever offers, hands,
@@ -70,8 +75,11 @@ fails for the same reasons old ones did.
   juniors receive with joined palms or a bowed head. FAIL a younger
   prince giving ashirwad (raised blessing palm) to a sage or elder —
   Rama kneels in anjali before Agastya; Agastya's hands bless above him
-  (slide 10 precedent). Fix in the panel prompt (both copies), then
-  re-render.
+  (slide 10 precedent). A rishi, sage, or elder never kneels before
+  juniors to offer a gift — the elder stands upright and offers down
+  while the junior kneels or bows to receive (Ch3 slide 10 Dandaka
+  precedent: Agastya kneeling to offer the divine bow to a standing
+  Rama). Fix in the panel prompt (both copies), then re-render.
 - At most 5 named faces, prefer 4 or fewer.
 - Ancient-tech realism: vehicles of the age have no engines, so no
   smoke, exhaust, fumes, or fire beneath them — divine chariots and
@@ -105,7 +113,10 @@ fails for the same reasons old ones did.
   (slide 7 precedent: Lakshmana merged away while the Charioteer kept a
   prominent face). Lookalike principals get disambiguated, never fused:
   one feathered bowman is Guha, the clean-shaven sword-bearing youth is
-  Lakshmana.
+  Lakshmana. Staged vanara read fully simian (muzzle, fur, tail), never
+  blended with human-prince features (Ch3 slide 13 precedent: Sugriva
+  rendered as a Lakshmana-like human prince; fixed with fully-simian
+  wording distinct from any human prince).
 
 ### 2. Identity consistency (sheets and panels)
 
@@ -176,7 +187,9 @@ fails for the same reasons old ones did.
   Bharadwaja's kamandalu hanging unsupported at his hip while both
   hands hold the cloth). A long bow can never balance
   upright on its tip: never fix it with "planted upright / tip resting
-  on the ground". When hands are occupied (joined palms, blessings,
+  on the ground". Heavy-headed weapons (gada, mace, axe) can never
+  balance on end: "planted upright" is not a support for them — FAIL
+  a freestanding vertical weapon as floating. When hands are occupied (joined palms, blessings,
   carrying), remove the weapon from the hands entirely — sling it
   across the back or lay it flat on the ground — and say the hands are
   empty. Fix in the panel prompt (both copies) with that explicit
@@ -186,6 +199,7 @@ fails for the same reasons old ones did.
   per object. Small dark vessels tucked against garments at hips and
   waists hide most often: zoom those zones. No PASS with an
   unaccounted object.
+- Seated sages carry no staff: a danda/staff appears ONLY when its bearer is walking or traveling. A seated, meditating, or yoga-pose figure shows NO staff at all — omit it entirely, never "planted beside", "resting nearby", or freestanding (Ch3 slide 2 precedent: Valmiki's staff standing alone beside his seated yoga pose, physically impossible). A staff can never stand on its own. When hands are in dhyana/anjali or otherwise occupied, state the hands empty and the staff absent.
 - Projectiles stay connected: every arrow, spear, or thrown weapon must
   visibly join its origin to its target in one straight line — tail at
   the string or hand, tip at or biting into the target. FAIL floating
@@ -220,7 +234,7 @@ without rendering when any prop noun lacks a support verb: every
 staff, vessel, weapon, lamp, and seat must read held, worn, planted,
 rested, slung, or set down somewhere explicit. Vague standees
 ("beside his kamandalu", "with his staff nearby") fail at $0 — name
-the support, then render. Fail the prompt without rendering when it
+the support, then render. Exception: a seated/meditating figure must not name a staff at all — omit the noun entirely (never "planted beside his hand"); a staff named for a seated figure fails at $0. Fail the prompt without rendering when it
 contains face-negation wording ("faceless", "without face(s)",
 "no face(s)", "no distinct faces", "no readable facial features",
 "featureless", "blank face", "only X has a visible face"): rewrite with
@@ -311,3 +325,8 @@ more. Never loop a whole chapter unasked.
   after a prompt rewrite (a first-time provider block mandates a
   both-copies prompt rewrite plus a retry — see §4). Report best
   candidate, remaining findings, and paid rounds used.
+- Token hygiene: never print full file contents — diffs, counts, and
+  hashes only; read in windows and never re-read an unchanged file in
+  one session; critique from the 768px thumbnail, full-res only for
+  disputed zooms, never re-view after PASS; batch discovery into
+  single calls and run gates once per workstream, not per edit.

@@ -1,0 +1,31 @@
+{
+  "verdict": "PASS",
+  "gate": "structural",
+  "dry_run": false,
+  "model": "muse-spark-1.3-contributor",
+  "structural_ok": true,
+  "corpus": "ramayana_dutt",
+  "counts": {
+    "slides": 21,
+    "extracted_characters": 81,
+    "extracted_scenes": 39
+  },
+  "storyboard_layer_a": {
+    "layer": "A",
+    "target": "storyboard",
+    "verdict": "PASS",
+    "issues": [],
+    "counts": {
+      "slides": 21
+    }
+  },
+  "judge": {
+    "verdict": "PASS",
+    "strengths": [
+      "All major story beats covered in order from Narada farewell to Ramayana birth",
+      "All five reflection takeaways present with faithful compression and weekly practice",
+      "Scene texts are 30-60 words in child-clear language; insight slides open with question, answer plainly, and land on takeaway"
+    ],
+    "weaknesses": []
+  }
+}

@@ -1,0 +1,104 @@
+[
+ {
+  "slide": 1,
+  "slide_label": "Slide01 - Welcome to the Odyssey",
+  "title": "Welcome to the Odyssey",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "Welcome to our epic visual journey through the sacred Ramayana. I am Kavya, your guide across this timeless ocean of wisdom. Together, we will experience Maharishi Valmiki’s legendary chronicle not merely as ancient lore, but as a living, breathing graphic saga brought dynamically to life through vibrant comic art and profound human inquiry.",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Introduces Kavya and the overarching vision of the visual comic adaptation."
+ },
+ {
+  "slide": 2,
+  "slide_label": "Slide02 - Rooted in the Original Source",
+  "title": "Rooted in the Original Source",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "Every panel and narrative beat you will explore is adapted directly from the celebrated Manmatha Nath Dutt prose translation of the Valmiki Ramayana, preserved on Project Gutenberg (ebooks 57265, 57826, 60188, and 62496). We have preserved the authentic structure, rhythm, and unabridged integrity of the source text so you can trace every scene back to its venerable historical foundation.",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Establishes the authentic textual provenance of the adaptation from Manmatha Nath Dutt's unabridged translation on Project Gutenberg."
+ },
+ {
+  "slide": 3,
+  "slide_label": "Slide03 - Beyond Plain Narration",
+  "title": "Beyond Plain Narration",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "This series is far more than a conventional retelling. While each chapter brings heroic battles, royal dilemmas, and divine deeds into vivid visual focus, our journey does not stop when the action concludes. At the end of every chapter, we pause to analyze the deeper currents, psychological motives, and moral complexities beneath the surface.",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Explains the unique two-part structure combining dramatic storytelling with analytical reflection."
+ },
+ {
+  "slide": 4,
+  "slide_label": "Slide04 - Transforming Lore into Life",
+  "title": "Transforming Lore into Life",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "How do ancient mythological insights translate into our modern everyday lives?",
+  "answer": "By extracting core universal dilemmas and behavioral principles from each chapter, we convert timeless Dharma into practical wisdom for personal growth, leadership, and ethical resilience.",
+  "on_slide_text": "Why do we pair deep dive questions with every chapter? Because mythology is the mirror of human consciousness. By examining the complex choices of these characters, we extract actionable real-world lessons—making timeless wisdom easy to understand, remember, and apply to our modern personal, professional, and ethical decisions.",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Articulates how deep-dive questions connect ancient dharma to practical real-world application."
+ },
+ {
+  "slide": 5,
+  "slide_label": "Slide05 - The Executive Summary Chapters",
+  "title": "The Executive Summary Chapters",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "A vital note as we begin: the opening chapters of Bala Kanda serve as the epic’s 'Executive Summary.' Much like the concise overview at the start of a massive document, Maharishi Valmiki compressed Rama's entire lifetime arc into these initial cantos to establish the grand overarching framework before diving into detail.",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Explains the structural purpose of the opening summary cantos (Samkshepa Ramayana)."
+ },
+ {
+  "slide": 6,
+  "slide_label": "Slide06 - The Unfolding Chronicle Ahead",
+  "title": "The Unfolding Chronicle Ahead",
+  "type": "scene",
+  "text_mode": "caption",
+  "speaker": null,
+  "on_slide_text": "Because these early chapters summarize the entire epic, the pacing is swift and you might feel some context is condensed. Rest assured, the detailed, scene-by-scene chronicle begins just a few chapters down the line. We have faithfully preserved this original narrative structure exactly as Maharishi Valmiki composed it.",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Sets reader expectations regarding the transition from summary cantos to the main narrative."
+ },
+ {
+  "slide": 7,
+  "slide_label": "Slide07 - Wisdom for All Humanity",
+  "title": "Wisdom for All Humanity",
+  "type": "insight",
+  "text_mode": null,
+  "speaker": null,
+  "question": "What is our ultimate hope for this visual journey through the Ramayana?",
+  "answer": "To immerse ourselves in profound storytelling, internalize timeless virtues, and translate these learnings into everyday action so that humanity as a whole flourishes.",
+  "on_slide_text": "What is our ultimate hope for this journey? That you not only enjoy the graphic storytelling, but also absorb and apply these profound lessons in daily life. When timeless wisdom elevates individual conduct and compassion, all of humanity benefits. Welcome aboard, and let our grand voyage begin!",
+  "characters": [
+   "Kavya"
+  ],
+  "location": null,
+  "rationale": "Concluding blessing and call to action for personal and collective human growth."
+ }
+]

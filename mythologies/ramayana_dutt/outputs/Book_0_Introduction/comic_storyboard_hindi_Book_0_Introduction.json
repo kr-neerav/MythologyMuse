@@ -1,104 +1,104 @@
 [
- {
-  "slide": 1,
-  "slide_label": "Slide01 - Welcome to the Odyssey",
-  "title": "Welcome to the Odyssey",
-  "type": "scene",
-  "text_mode": "caption",
-  "speaker": null,
-  "on_slide_text": "पवित्र रामायण की महाकाव्य दृश्य यात्रा में आपका स्वागत है। मैं हूँ काव्या — ज्ञान के इस कालातीत सागर में आपकी मार्गदर्शक। साथ मिलकर हम महर्षि वाल्मीकि के पौराणिक आख्यान को केवल प्राचीन कथा के रूप में नहीं, बल्कि एक जीवंत, साँस लेती चित्रगाथा के रूप में अनुभव करेंगे — उज्ज्वल कॉमिक कला और गहन मानवीय जिज्ञासा के माध्यम से।",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Introduces Kavya and the overarching vision of the visual comic adaptation."
- },
- {
-  "slide": 2,
-  "slide_label": "Slide02 - Rooted in the Original Source",
-  "title": "Rooted in the Original Source",
-  "type": "scene",
-  "text_mode": "caption",
-  "speaker": null,
-  "on_slide_text": "आप जो प्रत्येक चित्र और कथा-क्षण देखेंगे, वह वाल्मीकि रामायण के मनमथनाथ दत्त के प्रसिद्ध गद्य अनुवाद से सीधे रूपांतरित है, जो प्रोजेक्ट गुटेनबर्ग पर संरक्षित है (ईबुक 57265, 57826, 60188 और 62496)। हमने स्रोत पाठ की प्रामाणिक संरचना, लय और संपूर्ण अखंडता बनाए रखी है, ताकि आप हर दृश्य को उसके प्राचीन ऐतिहासिक आधार तक खोज सकें।",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Establishes the authentic textual provenance of the adaptation from Manmatha Nath Dutt's unabridged translation on Project Gutenberg."
- },
- {
-  "slide": 3,
-  "slide_label": "Slide03 - Beyond Plain Narration",
-  "title": "Beyond Plain Narration",
-  "type": "scene",
-  "text_mode": "caption",
-  "speaker": null,
-  "on_slide_text": "यह श्रृंखला साधारण पुनर्कथन से कहीं अधिक है। हर अध्याय में वीर युद्ध, राजसी दुविधाएँ और दिव्य कार्य सजीव चित्रों में उभरते हैं — पर हमारी यात्रा घटनाओं के समाप्त होने पर नहीं रुकती। हर अध्याय के अंत में हम ठहरकर सतह के नीचे की गहरी धाराओं, मानसिक प्रेरणाओं और नैतिक जटिलताओं का विश्लेषण करते हैं।",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Explains the unique two-part structure combining dramatic storytelling with analytical reflection."
- },
- {
-  "slide": 4,
-  "slide_label": "Slide04 - Transforming Lore into Life",
-  "title": "Transforming Lore into Life",
-  "type": "insight",
-  "text_mode": null,
-  "speaker": null,
-  "question": "प्राचीन पौराणिक अंतर्दृष्टियाँ हमारे आधुनिक दैनिक जीवन में कैसे उतरती हैं?",
-  "answer": "हर अध्याय से सार्वभौमिक दुविधाएँ और आचरण-सिद्धांत निकालकर हम कालातीत धर्म को व्यक्तिगत विकास, नेतृत्व और नैतिक सहनशक्ति के व्यावहारिक ज्ञान में बदल देते हैं।",
-  "on_slide_text": "हर अध्याय के साथ गहन प्रश्न क्यों? क्योंकि पौराणिक कथाएँ मानव चेतना का दर्पण हैं। इन पात्रों के जटिल निर्णयों का परीक्षण करके हम ऐसे पाठ निकालते हैं जो आज के व्यक्तिगत, व्यावसायिक और नैतिक निर्णयों में समझने, याद रखने और अपनाने में सरल हों।",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Articulates how deep-dive questions connect ancient dharma to practical real-world application."
- },
- {
-  "slide": 5,
-  "slide_label": "Slide05 - The Executive Summary Chapters",
-  "title": "The Executive Summary Chapters",
-  "type": "scene",
-  "text_mode": "caption",
-  "speaker": null,
-  "on_slide_text": "आरंभ में एक आवश्यक बात: बालकांड के शुरुआती अध्याय इस महाकाव्य का 'कार्यकारी सारांश' हैं। जैसे किसी विशाल दस्तावेज़ के आरंभ में संक्षिप्त अवलोकन होता है, वैसे ही महर्षि वाल्मीकि ने विस्तार में उतरने से पहले विराट रूपरेखा स्थापित करने के लिए इन आरंभिक सर्गों में राम के संपूर्ण जीवन-वृत्त को समेट दिया।",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Explains the structural purpose of the opening summary cantos (Samkshepa Ramayana)."
- },
- {
-  "slide": 6,
-  "slide_label": "Slide06 - The Unfolding Chronicle Ahead",
-  "title": "The Unfolding Chronicle Ahead",
-  "type": "scene",
-  "text_mode": "caption",
-  "speaker": null,
-  "on_slide_text": "चूँकि ये आरंभिक अध्याय पूरे महाकाव्य का सार प्रस्तुत करते हैं, गति तेज़ लगेगी और कुछ संदर्भ संक्षिप्त प्रतीत हो सकते हैं। निश्चिंत रहें — विस्तृत, दृश्य-दर-दृश्य वृत्तांत कुछ ही अध्यायों बाद आरंभ होता है। हमने यह मूल कथा-संरचना ठीक वैसे ही बनाए रखी है जैसे महर्षि वाल्मीकि ने रची थी।",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Sets reader expectations regarding the transition from summary cantos to the main narrative."
- },
- {
-  "slide": 7,
-  "slide_label": "Slide07 - Wisdom for All Humanity",
-  "title": "Wisdom for All Humanity",
-  "type": "insight",
-  "text_mode": null,
-  "speaker": null,
-  "question": "रामायण की इस दृश्य यात्रा से हमारी अंतिम आशा क्या है?",
-  "answer": "गहन कथा में डूबना, कालातीत सद्गुणों को आत्मसात करना, और इन शिक्षाओं को दैनिक आचरण में उतारना — ताकि समग्र मानवता फले-फूले।",
-  "on_slide_text": "इस यात्रा से हमारी अंतिम आशा क्या है? कि आप न केवल चित्रकथा का आनंद लें, बल्कि इन गहन पाठों को दैनिक जीवन में अपनाएँ भी। जब कालातीत ज्ञान व्यक्तिगत आचरण और करुणा को ऊँचा उठाता है, तो समस्त मानवता का लाभ होता है। स्वागत है — हमारी महायात्रा आरंभ हो!",
-  "characters": [
-   "Kavya"
-  ],
-  "location": null,
-  "rationale": "Concluding blessing and call to action for personal and collective human growth."
- }
+  {
+    "slide": 1,
+    "slide_label": "Slide01 - Welcome to the Odyssey",
+    "title": "Welcome to the Odyssey",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "पवित्र रामायण की महाकाव्य दृश्य यात्रा में आपका स्वागत है। मैं हूँ काव्या — ज्ञान के इस कालातीत सागर में आपकी मार्गदर्शक। साथ मिलकर हम महर्षि वाल्मीकि के पौराणिक आख्यान को केवल प्राचीन कथा के रूप में नहीं, बल्कि एक जीवंत, साँस लेती चित्रगाथा के रूप में अनुभव करेंगे — उज्ज्वल कॉमिक कला और गहन मानवीय जिज्ञासा के माध्यम से।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Introduces Kavya and the overarching vision of the visual comic adaptation."
+  },
+  {
+    "slide": 2,
+    "slide_label": "Slide02 - Rooted in the Original Source",
+    "title": "Rooted in the Original Source",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "आप जो प्रत्येक चित्र और कथा-क्षण देखेंगे, वह वाल्मीकि रामायण के मनमथनाथ दत्त के प्रसिद्ध गद्य अनुवाद से सीधे रूपांतरित है, जो प्रोजेक्ट गुटेनबर्ग पर संरक्षित है (ईबुक 57265, 57826, 60188 और 62496)। हमने स्रोत पाठ की प्रामाणिक संरचना, लय और संपूर्ण अखंडता बनाए रखी है, ताकि आप हर दृश्य को उसके प्राचीन ऐतिहासिक आधार तक खोज सकें।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Establishes the authentic textual provenance of the adaptation from Manmatha Nath Dutt's unabridged translation on Project Gutenberg."
+  },
+  {
+    "slide": 3,
+    "slide_label": "Slide03 - Beyond Plain Narration",
+    "title": "Beyond Plain Narration",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "यह श्रृंखला साधारण पुनर्कथन से कहीं अधिक है। हर अध्याय में वीर युद्ध, राजसी दुविधाएँ और दिव्य कार्य सजीव चित्रों में उभरते हैं — पर हमारी यात्रा घटनाओं के समाप्त होने पर नहीं रुकती। हर अध्याय के अंत में हम ठहरकर सतह के नीचे की गहरी धाराओं, मानसिक प्रेरणाओं और नैतिक जटिलताओं का विश्लेषण करते हैं।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Explains the unique two-part structure combining dramatic storytelling with analytical reflection."
+  },
+  {
+    "slide": 4,
+    "slide_label": "Slide04 - The Executive Summary Chapters",
+    "title": "The Executive Summary Chapters",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "आरंभ में एक आवश्यक बात: बालकांड के शुरुआती अध्याय इस महाकाव्य का 'कार्यकारी सारांश' हैं। जैसे किसी विशाल दस्तावेज़ के आरंभ में संक्षिप्त अवलोकन होता है, वैसे ही महर्षि वाल्मीकि ने विस्तार में उतरने से पहले विराट रूपरेखा स्थापित करने के लिए इन आरंभिक सर्गों में राम के संपूर्ण जीवन-वृत्त को समेट दिया।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Explains the structural purpose of the opening summary cantos (Samkshepa Ramayana)."
+  },
+  {
+    "slide": 5,
+    "slide_label": "Slide05 - The Unfolding Chronicle Ahead",
+    "title": "The Unfolding Chronicle Ahead",
+    "type": "scene",
+    "text_mode": "caption",
+    "speaker": null,
+    "on_slide_text": "चूँकि ये आरंभिक अध्याय पूरे महाकाव्य का सार प्रस्तुत करते हैं, गति तेज़ लगेगी और कुछ संदर्भ संक्षिप्त प्रतीत हो सकते हैं। निश्चिंत रहें — विस्तृत, दृश्य-दर-दृश्य वृत्तांत कुछ ही अध्यायों बाद आरंभ होता है। हमने यह मूल कथा-संरचना ठीक वैसे ही बनाए रखी है जैसे महर्षि वाल्मीकि ने रची थी।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Sets reader expectations regarding the transition from summary cantos to the main narrative."
+  },
+  {
+    "slide": 6,
+    "slide_label": "Slide06 - Transforming Lore into Life",
+    "title": "Transforming Lore into Life",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "प्राचीन पौराणिक अंतर्दृष्टियाँ हमारे आधुनिक दैनिक जीवन में कैसे उतरती हैं?",
+    "answer": "हर अध्याय से सार्वभौमिक दुविधाएँ और आचरण-सिद्धांत निकालकर हम कालातीत धर्म को व्यक्तिगत विकास, नेतृत्व और नैतिक सहनशक्ति के व्यावहारिक ज्ञान में बदल देते हैं।",
+    "on_slide_text": "हर अध्याय के साथ गहन प्रश्न क्यों? क्योंकि पौराणिक कथाएँ मानव चेतना का दर्पण हैं। इन पात्रों के जटिल निर्णयों का परीक्षण करके हम ऐसे पाठ निकालते हैं जो आज के व्यक्तिगत, व्यावसायिक और नैतिक निर्णयों में समझने, याद रखने और अपनाने में सरल हों।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Articulates how deep-dive questions connect ancient dharma to practical real-world application."
+  },
+  {
+    "slide": 7,
+    "slide_label": "Slide07 - Wisdom for All Humanity",
+    "title": "Wisdom for All Humanity",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "रामायण की इस दृश्य यात्रा से हमारी अंतिम आशा क्या है?",
+    "answer": "गहन कथा में डूबना, कालातीत सद्गुणों को आत्मसात करना, और इन शिक्षाओं को दैनिक आचरण में उतारना — ताकि समग्र मानवता फले-फूले।",
+    "on_slide_text": "इस यात्रा से हमारी अंतिम आशा क्या है? कि आप न केवल चित्रकथा का आनंद लें, बल्कि इन गहन पाठों को दैनिक जीवन में अपनाएँ भी। जब कालातीत ज्ञान व्यक्तिगत आचरण और करुणा को ऊँचा उठाता है, तो समस्त मानवता का लाभ होता है। स्वागत है — हमारी महायात्रा आरंभ हो!",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Concluding blessing and call to action for personal and collective human growth."
+  }
 ]

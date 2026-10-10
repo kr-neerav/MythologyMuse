@@ -132,31 +132,7 @@
     },
     {
       "slide": 5,
-      "slide_label": "Slide05 - City Before Hero",
-      "muse_prompt": "In a warm softly lit storytelling space open to a sunlit garden, a thoughtful young narrator with gentle expressive eyes and long dark hair tied back, wearing a simple cotton kurta in leaf green with small floral motifs, sits cross-legged with an open palm gesture of explanation. Beside her grows a vivid emblem of a strong young tree rising from rich dark good soil with deep roots and lush green canopy bathed in morning light, its leaves glowing with health and vitality. In the background a miniature motif of a clean orderly home and city skyline rests under calm mountain-calm light, echoing the lesson of a steady home growing a hero. The framing stays close and intimate, warm golden glow wrapping the scene in a reflective encouraging mood of personal responsibility and fresh beginning.",
-      "subjects": [
-        {
-          "name": "Kavya",
-          "kind": "character"
-        }
-      ],
-      "size": "1024x1024"
-    },
-    {
-      "slide": 6,
-      "slide_label": "Slide06 - Joy With Control",
-      "muse_prompt": "Kavya, a gentle young storyteller with expressive kind eyes, sits in a quiet sunlit teaching courtyard surrounded by flowering vines, holding a small brass bowl of fragrant petals. Before her rests a low wooden table bearing a royal garland of marigolds, a crystal vial of perfume, and a coiled golden cord symbolizing duty binding wealth. Warm afternoon light bathes the garland and perfume in a rich glow while a soft mountain-calm halo settles behind the table, suggesting restraint holding joy. The framing stays close on Kavya's warm explaining gesture toward the objects, breathing calm delight and balanced care.",
-      "subjects": [
-        {
-          "name": "Kavya",
-          "kind": "character"
-        }
-      ],
-      "size": "1024x1024"
-    },
-    {
-      "slide": 7,
-      "slide_label": "Slide07 - Happy People of Ayodhya",
+      "slide_label": "Slide05 - Happy People of Ayodhya",
       "muse_prompt": "In the royal capital Ayodhya of honey-golden sandstone palaces with cusped-arch windows, domed chhatris and gilded pavilions draped with saffron pennants, middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes gather along a broad sunlit street. The men wear pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, black hair in neat topknots with sandal paste tilaks and copper bracelets, while the women glow in cotton sarees of deep red, turmeric yellow and leaf green with gold butti patterns, long black hair in jasmine-adorned braids with glass bangles, gold earrings and bright bindis. Gleaming white marble temples with tall curvilinear shikharas crowned by golden kalashas rise behind crenellated walls with grand red-sandstone torana gateways, while the serene Sarayu river flows beside stepped stone ghats bordered by mango and ashoka groves in warm dawn golden light. Horses stand adorned near baskets of grain, gentle cows rest by doorways piled with fresh food and gleaming household goods, and families share books and smiles in humble devout bearing with palms folded in reverence, radiating truthful contentment and plenty.",
       "subjects": [
         {
@@ -171,8 +147,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 8,
-      "slide_label": "Slide08 - Clean Hearts Everywhere",
+      "slide": 6,
+      "slide_label": "Slide06 - Clean Hearts Everywhere",
       "muse_prompt": "Under warm morning light in the royal capital Ayodhya of honey-golden sandstone palaces with cusped-arch windows, domed chhatris and gilded pavilions draped with saffron pennants, middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes move with graceful courtesy. The men wear pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, black hair in neat topknots with sandal paste tilaks and copper bracelets, while the women shine in cotton sarees of deep red, turmeric yellow and leaf green with gold butti patterns, long black hair in jasmine-adorned braids with glass bangles, gold earrings and bright bindis. A soft mountain-calm light settles over the street as they work and greet each other with folded palms, cheerful composure and quiet senses, their faces bright with kind manners. Gleaming white marble temples with tall curvilinear shikharas crowned by golden kalashas rise above crenellated walls with red-sandstone torana gateways, while the serene Sarayu river glimmers beside stepped ghats and mango groves, wrapping the pure daily life in sage-bright serenity.",
       "subjects": [
         {
@@ -187,20 +163,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 9,
-      "slide_label": "Slide09 - No Greed No Theft",
-      "muse_prompt": "Kavya, a gentle young storyteller with expressive kind eyes, stands in a tranquil grove at dusk, gesturing toward a luminous edgeless vision floating above an open palm. Inside the glow appears a miniature golden fortified city bathed in moon-gentle radiance, symbolizing a mind held secure through contentment. Warm firefly light surrounds Kavya while the visionary city shimmers with calm fullness, suggesting hearts resting complete within their share. The close framing holds Kavya's thoughtful smile and the radiant emblem together, breathing quiet strength and inner clarity.",
-      "subjects": [
-        {
-          "name": "Kavya",
-          "kind": "character"
-        }
-      ],
-      "size": "1024x1024"
-    },
-    {
-      "slide": 10,
-      "slide_label": "Slide10 - Dressed in Joy",
+      "slide": 7,
+      "slide_label": "Slide07 - Dressed in Joy",
       "muse_prompt": "In the royal capital Ayodhya of honey-golden sandstone palaces with cusped-arch windows, domed chhatris and gilded pavilions draped with saffron pennants, middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes celebrate in bright adornment. The men wear pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, black hair in neat topknots with sandal paste tilaks and copper bracelets, their arms gleaming with cool sandal paste, while the women glow in cotton sarees of deep red, turmeric yellow and leaf green with gold butti patterns, long black hair in jasmine-adorned braids with glass bangles, gold earrings, bright bindis and flower garlands. Gleaming white marble temples with tall curvilinear shikharas crowned by golden kalashas rise behind crenellated walls with red-sandstone torana gateways, as the serene Sarayu river flows beside stepped ghats bordered by mango and ashoka groves in warm dawn golden light. The crowd shares sweet perfume in the air, clean bowls of fresh food, and generous gifts passed hand to hand with folded-palm grace, bracelets sparkling at calm wrists, radiating giving joy held within gentle wishes.",
       "subjects": [
         {
@@ -215,8 +179,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 11,
-      "slide_label": "Slide11 - No Dark Homes",
+      "slide": 8,
+      "slide_label": "Slide08 - No Dark Homes",
       "muse_prompt": "In a sunlit lane of Ayodhya among honey-golden sandstone homes with cusped-arch windows, domed chhatris and saffron pennants, small holy fires glow warmly in clay altars before each doorway. Middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes gather in devotion, the men in pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, black hair in neat topknots with sandal paste tilaks and simple copper bracelets, the women in deep red, turmeric yellow and leaf green cotton sarees with gold butti patterns and modest cholis, long black hair in jasmine-adorned braids with glass bangles, gold earrings and bright bindis, palms folded together in reverence. Elderly and middle-aged Vedic priests with fair wheat-golden complexions, lean slender builds and calm deep-set dark eyes, heads shaved clean with small black shikha tufts and white sandal tripundra, wear pristine white cotton dhotis with thin gold zari borders and white uttariyas with sacred thread across the chest, rudraksha bead necklaces and bracelets, holding palm-leaf manuscripts, darbha grass and wooden kamandalu pots with one palm raised in blessing. Warm dawn golden light bathes gleaming white marble temple shikharas crowned with golden kalashas above crenellated walls with red-sandstone torana gateways, filling the street with calm order and shared reverence.",
       "subjects": [
         {
@@ -235,8 +199,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 12,
-      "slide_label": "Slide12 - Wise and Giving Guides",
+      "slide": 9,
+      "slide_label": "Slide09 - Wise and Giving Guides",
       "muse_prompt": "In a gleaming white marble temple courtyard in Ayodhya framed by honey-golden sandstone pavilions with domed chhatris, gilded pavilions and saffron pennants, tall curvilinear shikharas crowned with golden kalashas glow in warm dawn golden light. A gathering of elderly and middle-aged Vedic priests with fair wheat-golden complexions, lean slender builds and calm deep-set dark eyes, heads shaved clean with small black shikha tufts and white sandal tripundra on the forehead, stands upright in dignified serene bearing. They wear pristine white cotton dhotis with thin gold zari borders and white uttariyas with sacred thread across the chest, adorned with rudraksha bead necklaces and bracelets, holding palm-leaf manuscripts, darbha grass and wooden kamandalu pots, one palm raised in blessing while offering grain and folded cloth gifts with careful grace. Soft golden sunlight, drifting incense and the serene Sarayu river with stepped stone ghats beyond crenellated walls create an atmosphere of learned calm, generous duty and steadfast devotion.",
       "subjects": [
         {
@@ -251,8 +215,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 13,
-      "slide_label": "Slide13 - Faces Full of Light",
+      "slide": 10,
+      "slide_label": "Slide10 - Faces Full of Light",
       "muse_prompt": "In a broad festive plaza of Ayodhya before honey-golden sandstone palaces with cusped-arch windows, domed chhatris and gilded pavilions draped with saffron pennants, warm dawn golden light glows over gleaming white marble temples with tall shikharas crowned by golden kalashas. King Dasharatha in his early sixties with wheatish-golden fair complexion and portly majestic build, large dark brown eyes with heavy lids, greying black hair in a royal topknot and thick greying mustache, stands upright in regal bearing with arms resting dignified at his sides, wearing an ivory silk dhoti with gold sun-motif zari border, deep crimson silk uttariya with gold embroidery, tall golden Kiritamukuta crown inlaid with rubies and emeralds with central sun emblem, layered pearl necklaces, heavy gold armlets, bracelets, rings and jeweled waistbelt with a jeweled ceremonial sword at his left hip. Around him gather middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes, smiling with cheer, the men in pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, topknots, sandal paste tilaks and copper bracelets, the women in deep red, turmeric yellow and leaf green cotton sarees with gold butti patterns and modest cholis, jasmine-adorned braids, glass bangles, gold earrings and bright bindis, palms folded together in reverent greeting. Lush mango and ashoka groves and the broad serene Sarayu river with stepped stone ghats frame the gathering in radiant health, loyal affection and joyful grace.",
       "subjects": [
         {
@@ -271,8 +235,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 14,
-      "slide_label": "Slide14 - Serving Gods and Guests",
+      "slide": 11,
+      "slide_label": "Slide11 - Serving Gods and Guests",
       "muse_prompt": "Under warm dawn golden light in Ayodhya where honey-golden sandstone palaces with cusped-arch windows and saffron pennants rise beside gleaming white marble temples with tall curvilinear shikharas crowned by golden kalashas, flower garlands and brass lamps adorn a stone shrine. Elderly and middle-aged Vedic priests with fair wheat-golden complexions, lean slender builds and calm deep-set dark eyes, heads shaved clean with small black shikha tufts and white sandal tripundra, stand upright in dignified serene bearing, wearing pristine white cotton dhotis with thin gold zari borders and white uttariyas with sacred thread across the chest, rudraksha bead necklaces and bracelets, holding palm-leaf manuscripts, darbha grass and wooden kamandalu pots with one palm raised in blessing. Before them gather middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes, the men in pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, neat topknots, sandal paste tilaks and copper bracelets, the women in deep red, turmeric yellow and leaf green cotton sarees with gold butti and modest cholis, jasmine-adorned braids, glass bangles, gold earrings and bright bindis, palms folded together in reverence while presenting fruit, grain and glowing lamps in generous welcome. Crenellated walls with grand red-sandstone torana gateways and lush mango and ashoka groves enclose the courtyard in thankful devotion, brave strength and shared harmony.",
       "subjects": [
         {
@@ -291,8 +255,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 15,
-      "slide_label": "Slide15 - Long Happy Homes",
+      "slide": 12,
+      "slide_label": "Slide12 - Long Happy Homes",
       "muse_prompt": "In a sun-warmed courtyard home in Ayodhya of honey-golden sandstone walls with cusped-arch windows, domed chhatris and saffron pennants, gleaming white temple shikharas crowned with golden kalashas rising beyond in warm dawn golden light. Middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark brown eyes share a joyful meal together in the open yard, the men in pleated cream cotton dhotis with saffron woven borders and shoulder angavastrams with small gold motifs, black hair in neat topknots with sandal paste tilaks and simple copper bracelets, the women in deep red, turmeric yellow and leaf green cotton sarees with gold butti patterns and modest cholis, long black hair in jasmine-adorned braids with glass bangles, gold earrings and bright bindis, palms folded together in warm affection. Glowing brass vessels beside a clay hearth, garlands of mango leaves over the doorway, lush ashoka saplings and blooming jasmine around stepped stone paths convey long family continuity, deep loving peace and calm abundance.",
       "subjects": [
         {
@@ -307,8 +271,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 16,
-      "slide_label": "Slide16 - Each Duty in Place",
+      "slide": 13,
+      "slide_label": "Slide13 - Each Duty in Place",
       "muse_prompt": "In the dawn-lit courtyard of honey-golden sandstone palaces with cusped-arch windows, domed chhatris and saffron pennants, King Dasharatha stands in upright regal bearing, a portly majestic man in his early sixties with wheatish-golden complexion, large dark brown eyes with heavy lids, greying black hair in a royal topknot and thick greying mustache, wearing an ivory silk dhoti with gold sun-motif border, deep crimson embroidered uttariya, tall golden Kiritamukuta crown with rubies and emeralds and central sun emblem, layered pearl necklaces, heavy gold armlets and bracelets, jeweled waistbelt and ceremonial sword at his left hip. Beside him stand elderly and middle-aged Vedic priests with fair wheat-golden complexions and calm deep-set dark eyes, shaved heads with small black shikha tufts and white sandal tripundra on foreheads, wearing pristine white dhotis with thin gold borders, white uttariyas with sacred thread, rudraksha beads, holding palm-leaf manuscripts, darbha grass and wooden kamandalu pots with one palm raised in blessing. Before them gather middle-aged men and women of Kosala with warm wheat-brown complexions and gentle dark eyes, the men in pleated cream dhotis with saffron borders and shoulder cloths, topknots with sandal tilaks and copper bracelets, the women in deep red, turmeric yellow and leaf green sarees with gold butti, jasmine-adorned braids, glass bangles, gold earrings and bright bindis, palms folded in reverence. Tall guardian figures stand in soft golden blur along the crenellated wall near the red-sandstone gateway, while baskets of grain and artisan tools rest in the foreground and a radiant sun emblem glows on a banner, celebrating ancient wise order. Warm morning light bathes the white marble temples with golden kalashas and lush mango groves beyond, in a wide balanced composition breathing calm harmony and steadfast duty.",
       "subjects": [
         {
@@ -331,20 +295,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 17,
-      "slide_label": "Slide17 - Teamwork Not Rank",
-      "muse_prompt": "Kavya sits in a warm lamp-lit study with wooden desk and soft ochre walls, a kind thoughtful narrator with gentle expression, dark hair tied neatly and simple cotton kurta, gesturing openly toward four glowing emblems floating in luminous edgeless light. A palm-leaf manuscript radiates wisdom, a polished shield glows with protective strength, a woven basket overflows with golden grain, and a small oil lamp shines with helpful care, arranged in a circle of harmony. Behind, softly blurred figures gather around a low table set for guests, with folded hands and welcoming garlands, bathed in shared devotion. Golden afternoon light streams through a latticed window, framing a close intimate composition full of clarity, kindness and collaborative joy.",
-      "subjects": [
-        {
-          "name": "Kavya",
-          "kind": "character"
-        }
-      ],
-      "size": "1024x1024"
-    },
-    {
-      "slide": 18,
-      "slide_label": "Slide18 - Lions and Swift Horses",
+      "slide": 14,
+      "slide_label": "Slide14 - Lions and Swift Horses",
       "muse_prompt": "In the sunlit stable courtyard of honey-golden sandstone palaces with cusped arches and saffron pennants, King Dasharatha stands in upright regal bearing, a portly majestic man in his early sixties with wheatish-golden complexion, heavy-lidded dark brown eyes, greying topknot and thick greying mustache, wearing ivory silk dhoti with gold sun border, crimson embroidered uttariya, tall golden Kiritamukuta crown with rubies and sun emblem, pearl necklaces, gold armlets and jeweled sword at his hip. Around him gather Kosala men and women with warm wheat-brown complexions and gentle dark eyes, men in cream dhotis with saffron borders and copper bracelets with topknots and sandal tilaks, women in deep red, turmeric yellow and leaf green sarees with gold butti, jasmine braids, glass bangles and bright bindis, palms folded, gazing with pride. Tall strong guardian figures in soft golden blur hold polished bows and quivers as treasured props beside carved pillars crowned with a golden lion crest glowing with cave-steady courage. Sleek fine horses with glossy chestnut, black and white coats, flowing manes and braided tails neigh in wooden stalls, muscles rippling, manes streaming in wind-swift motion. Warm golden light floods the white marble temples and crenellated walls beyond, in a dynamic wide composition pulsing with vigor, loyalty and radiant strength.",
       "subjects": [
         {
@@ -363,8 +315,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 19,
-      "slide_label": "Slide19 - Hills That Walk",
+      "slide": 15,
+      "slide_label": "Slide15 - Hills That Walk",
       "muse_prompt": "In the vast parade ground before honey-golden sandstone palaces with domed chhatris, saffron pennants and white marble temples with golden kalashas, King Dasharatha stands in upright regal bearing, a portly majestic man in his early sixties with wheatish-golden complexion, heavy-lidded dark brown eyes, greying topknot and thick greying mustache, wearing ivory silk dhoti with gold sun border, crimson embroidered uttariya, tall jeweled Kiritamukuta crown with sun emblem, pearl necklaces, gold armlets and jeweled sword at his hip. Before him stand huge dark grey elephants with firm pillar limbs, broad foreheads, curved ivory tusks and golden caparisons with red tassels, trunks raised in trumpet call, embodying noble Bhadra, Mandra and Mriga lines. Misty blue Vindhya ridges and distant white Himalayan peaks rise behind the crenellated walls and red-sandstone gateway, echoing mountain-calm strength in the lumbering grace of the herd. Warm dawn golden light bathes the Sarayu ghats and mango groves, in a grand low-angle composition radiating power, stability and majestic pride.",
       "subjects": [
         {
@@ -379,8 +331,8 @@
       "size": "1024x1536"
     },
     {
-      "slide": 20,
-      "slide_label": "Slide20 - The City None Can Win",
+      "slide": 16,
+      "slide_label": "Slide16 - The City None Can Win",
       "muse_prompt": "On a broad terrace overlooking honey-golden sandstone palaces in rising rows, domed chhatris, gilded pavilions and white marble temples with golden kalashas, King Dasharatha stands in upright regal bearing, a portly majestic man in his early sixties with wheatish-golden complexion, heavy-lidded dark brown eyes, greying topknot and thick greying mustache, wearing ivory silk dhoti with gold sun border, crimson embroidered uttariya, tall golden Kiritamukuta crown with rubies and sun emblem, pearl necklaces, gold armlets and jeweled sword at his hip, bathed in moon-gentle glow beneath a star-sprinkled dusk sky. Before him gather Kosala men and women with warm wheat-brown complexions and gentle dark eyes, men in cream dhotis with saffron borders, topknots, sandal tilaks and copper bracelets, women in deep red, turmeric yellow and leaf green sarees with gold butti, jasmine braids, glass bangles and bright bindis, palms folded in joyful reverence. Behind them a vast happy crowd flows through safe streets toward grand red-sandstone torana gateways with strong brass-bound gates and bolts, rendered in soft golden blur. The crenellated walls stretch wide, the serene Sarayu glimmers near stepped ghats and lush ashoka groves. Warm festive light fills the wide panoramic composition with triumph, peace and abiding prosperity.",
       "subjects": [
         {
@@ -397,6 +349,54 @@
         }
       ],
       "size": "1024x1536"
+    },
+    {
+      "slide": 17,
+      "slide_label": "Slide17 - City Before Hero",
+      "muse_prompt": "In a warm softly lit storytelling space open to a sunlit garden, a thoughtful young narrator with gentle expressive eyes and long dark hair tied back, wearing a simple cotton kurta in leaf green with small floral motifs, sits cross-legged with an open palm gesture of explanation. Beside her grows a vivid emblem of a strong young tree rising from rich dark good soil with deep roots and lush green canopy bathed in morning light, its leaves glowing with health and vitality. In the background a miniature motif of a clean orderly home and city skyline rests under calm mountain-calm light, echoing the lesson of a steady home growing a hero. The framing stays close and intimate, warm golden glow wrapping the scene in a reflective encouraging mood of personal responsibility and fresh beginning.",
+      "subjects": [
+        {
+          "name": "Kavya",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 18,
+      "slide_label": "Slide18 - Joy With Control",
+      "muse_prompt": "Kavya, a gentle young storyteller with expressive kind eyes, sits in a quiet sunlit teaching courtyard surrounded by flowering vines, holding a small brass bowl of fragrant petals. Before her rests a low wooden table bearing a royal garland of marigolds, a crystal vial of perfume, and a coiled golden cord symbolizing duty binding wealth. Warm afternoon light bathes the garland and perfume in a rich glow while a soft mountain-calm halo settles behind the table, suggesting restraint holding joy. The framing stays close on Kavya's warm explaining gesture toward the objects, breathing calm delight and balanced care.",
+      "subjects": [
+        {
+          "name": "Kavya",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 19,
+      "slide_label": "Slide19 - No Greed No Theft",
+      "muse_prompt": "Kavya, a gentle young storyteller with expressive kind eyes, stands in a tranquil grove at dusk, gesturing toward a luminous edgeless vision floating above an open palm. Inside the glow appears a miniature golden fortified city bathed in moon-gentle radiance, symbolizing a mind held secure through contentment. Warm firefly light surrounds Kavya while the visionary city shimmers with calm fullness, suggesting hearts resting complete within their share. The close framing holds Kavya's thoughtful smile and the radiant emblem together, breathing quiet strength and inner clarity.",
+      "subjects": [
+        {
+          "name": "Kavya",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
+    },
+    {
+      "slide": 20,
+      "slide_label": "Slide20 - Teamwork Not Rank",
+      "muse_prompt": "Kavya sits in a warm lamp-lit study with wooden desk and soft ochre walls, a kind thoughtful narrator with gentle expression, dark hair tied neatly and simple cotton kurta, gesturing openly toward four glowing emblems floating in luminous edgeless light. A palm-leaf manuscript radiates wisdom, a polished shield glows with protective strength, a woven basket overflows with golden grain, and a small oil lamp shines with helpful care, arranged in a circle of harmony. Behind, softly blurred figures gather around a low table set for guests, with folded hands and welcoming garlands, bathed in shared devotion. Golden afternoon light streams through a latticed window, framing a close intimate composition full of clarity, kindness and collaborative joy.",
+      "subjects": [
+        {
+          "name": "Kavya",
+          "kind": "character"
+        }
+      ],
+      "size": "1024x1024"
     },
     {
       "slide": 21,

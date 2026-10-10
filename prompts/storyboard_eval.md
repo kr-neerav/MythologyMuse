@@ -10,7 +10,9 @@ English narration lines and the candidate storyboard (slides).
 
 Judge:
 1. **Coverage**: every major story beat and every reflection takeaway appears
-   somewhere in the slides, in story order. Name any dropped beat.
+   somewhere in the slides — story beats in order in the scene group, then
+   reflection takeaways in order in the insight group. Name any dropped beat,
+   and fail any board that interleaves insight slides among scene slides.
 2. **Fidelity**: no invented events, characters, or dialogue claims; insight
    slides faithfully compress the reflection (no new philosophy).
 3. **Ingredient discipline**: every `characters`/`location` name is from the

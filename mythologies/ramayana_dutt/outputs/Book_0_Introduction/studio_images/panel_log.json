@@ -1,266 +1,266 @@
 [
- {
-  "slide": 1,
-  "at": 1790916476.6789298,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 1,
+    "at": 1790916476.6789298,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "At dawn on a serene riverbank, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands with arms open in warm welcome, facing the viewer. Behind her stretches a vast luminous ocean of stars swirling with drifting palm-leaf manuscripts, and on the far horizon glows the golden skyline of an ancient temple city with domed pavilions and saffron pennants. Soft rose-gold dawn light bathes her smiling face, an epic mood of invitation and beginning, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "At dawn on a serene riverbank, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands with arms open in warm welcome, facing the viewer. Behind her stretches a vast luminous ocean of stars swirling with drifting palm-leaf manuscripts, and on the far horizon glows the golden skyline of an ancient temple city with domed pavilions and saffron pennants. Soft rose-gold dawn light bathes her smiling face, an epic mood of invitation and beginning, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 2,
-  "at": 1790916522.325185,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 2,
+    "at": 1790916522.325185,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "In a quiet lamp-lit archive hall lined with tall wooden shelves of bound manuscripts and printed volumes, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, sits cross-legged on a woven mat, reverently holding open an ancient palm-leaf bundle with both hands. A soft thread of golden light runs unbroken from the oldest weathered bundle in her hands to the stately rows of volumes behind her. Warm amber lamplight glows on her face and the textured leaves, a reverent scholarly mood of authentic lineage, close intimate framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "In a quiet lamp-lit archive hall lined with tall wooden shelves of bound manuscripts and printed volumes, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, sits cross-legged on a woven mat, reverently holding open an ancient palm-leaf bundle with both hands. A soft thread of golden light runs unbroken from the oldest weathered bundle in her hands to the stately rows of volumes behind her. Warm amber lamplight glows on her face and the textured leaves, a reverent scholarly mood of authentic lineage, close intimate framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 3,
-  "at": 1790916587.3844988,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 3,
+    "at": 1790916587.3844988,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": true,
+    "fallback_reason": "anchor rejected (image API HTTP 400: {\"error\":{\"code\":\"content_policy_violation\",\"message\":\"The response was filtered due to the prompt triggering our content management policy.\",\"param\":\"prompt\",\"type\":\"invalid_request_error\"}}); text+style only",
+    "prompt": "Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands mid-stride turning away from a dramatic haze of swirling dust where blurred faceless warriors clash as an indistinct mass, toward a quiet lamp-lit wooden desk where an open scroll waits beside a glowing earthen diya, her hand lifting the lamp high. Her gaze rests thoughtfully on the scroll, embodying the turn from spectacle to reflection. Warm lamplight on one side, cool dust-haze on the other, a mood of going deeper, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel",
+    "file_override": ""
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": true,
-  "fallback_reason": "anchor rejected (image API HTTP 400: {\"error\":{\"code\":\"content_policy_violation\",\"message\":\"The response was filtered due to the prompt triggering our content management policy.\",\"param\":\"prompt\",\"type\":\"invalid_request_error\"}}); text+style only",
-  "prompt": "Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands mid-stride turning away from a dramatic haze of swirling dust where blurred faceless warriors clash as an indistinct mass, toward a quiet lamp-lit wooden desk where an open scroll waits beside a glowing earthen diya, her hand lifting the lamp high. Her gaze rests thoughtfully on the scroll, embodying the turn from spectacle to reflection. Warm lamplight on one side, cool dust-haze on the other, a mood of going deeper, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel",
-  "file_override": ""
- },
- {
-  "slide": 4,
-  "at": 1790916620.6194549,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 6,
+    "at": 1790916620.6194549,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "At soft dawn beside a still mirror-like pool edged with lotus leaves, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, kneels gracefully, one hand trailing toward the water. In the pool's calm reflection beside her own thoughtful face glows the shimmering image of an ancient royal court of soft faceless figures beneath palace arches. Gentle golden light traces her shoulders and the rippling reflection, an intimate contemplative mood of ancient wisdom meeting the present, close graceful framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "At soft dawn beside a still mirror-like pool edged with lotus leaves, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, kneels gracefully, one hand trailing toward the water. In the pool's calm reflection beside her own thoughtful face glows the shimmering image of an ancient royal court of soft faceless figures beneath palace arches. Gentle golden light traces her shoulders and the rippling reflection, an intimate contemplative mood of ancient wisdom meeting the present, close graceful framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 3,
-  "at": 1790916691.9407842,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 3,
+    "at": 1790916691.9407842,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands mid-stride turning away from a dramatic swirl of golden dust where vague faceless silhouettes of a distant ancient procession dissolve as an indistinct mass, toward a quiet lamp-lit wooden desk where an open scroll waits beside a glowing earthen diya, her hand lifting the lamp high. Her gaze rests thoughtfully on the scroll, embodying the turn from spectacle to reflection. Warm lamplight on one side, cool dust-haze on the other, a mood of going deeper, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands mid-stride turning away from a dramatic swirl of golden dust where vague faceless silhouettes of a distant ancient procession dissolve as an indistinct mass, toward a quiet lamp-lit wooden desk where an open scroll waits beside a glowing earthen diya, her hand lifting the lamp high. Her gaze rests thoughtfully on the scroll, embodying the turn from spectacle to reflection. Warm lamplight on one side, cool dust-haze on the other, a mood of going deeper, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 5,
-  "at": 1790916724.9030662,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 4,
+    "at": 1790916724.9030662,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "In a warm lamp-lit study with stacked palm-leaf manuscripts and earthen diyas, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, kneels on a woven mat unrolling an exceptionally long scroll that flows from her hands across the floor. Near her hands the scroll shows a few small vivid vignettes, a tiny golden crown, a small bow, a little forest hut, a distant swirl of dust, while its far end rolls away into soft mist. Warm amber light bathes her purposeful face, a mood of masterful compression and clarity, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "In a warm lamp-lit study with stacked palm-leaf manuscripts and earthen diyas, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, kneels on a woven mat unrolling an exceptionally long scroll that flows from her hands across the floor. Near her hands the scroll shows a few small vivid vignettes, a tiny golden crown, a small bow, a little forest hut, a distant swirl of dust, while its far end rolls away into soft mist. Warm amber light bathes her purposeful face, a mood of masterful compression and clarity, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 6,
-  "at": 1790916755.4212742,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 5,
+    "at": 1790916755.4212742,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "On a stone ridge path at golden sunrise, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands gesturing forward with an inviting hand. Behind her lies a condensed misty panorama of tiny half-seen scenes, small crowns, rivers and forests compressed in haze; ahead a sunlit detailed road winds down through lush forest, past a gleaming riverside city with temple spires, toward a bright horizon. Morning light glows on her hopeful face, a mood of promise and onward journey, wide medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "On a stone ridge path at golden sunrise, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands gesturing forward with an inviting hand. Behind her lies a condensed misty panorama of tiny half-seen scenes, small crowns, rivers and forests compressed in haze; ahead a sunlit detailed road winds down through lush forest, past a gleaming riverside city with temple spires, toward a bright horizon. Morning light glows on her hopeful face, a mood of promise and onward journey, wide medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 7,
-  "at": 1790916800.477623,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 7,
+    "at": 1790916800.477623,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "At blue dusk beneath a vast banyan tree hung with small glowing lamps, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands lifting a glowing earthen diya high, its warm light spreading outward over a gathered crowd of soft faceless villagers seated as a gentle blurred mass around her. Drifting petals and lamp-glow fill the air with compassion. Her face shines with serene joy as she looks toward the viewer, an uplifting mood of shared blessing, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "At blue dusk beneath a vast banyan tree hung with small glowing lamps, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands lifting a glowing earthen diya high, its warm light spreading outward over a gathered crowd of soft faceless villagers seated as a gentle blurred mass around her. Drifting petals and lamp-glow fill the air with compassion. Her face shines with serene joy as she looks toward the viewer, an uplifting mood of shared blessing, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 7,
-  "at": 1790916944.198156,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 7,
+    "at": 1790916944.198156,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "At blue dusk beneath a vast banyan tree hung with small glowing lamps, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands lifting a glowing earthen diya high, its warm light spreading outward over a gathered crowd of villagers in simple ancient cotton dhotis and sarees seated around her, the entire crowd rendered as a soft blurred faceless mass with no distinct faces and no readable facial features, only Kavya has a visible face. Drifting petals and lamp-glow fill the air with compassion. Her face shines with serene joy as she looks toward the viewer, an uplifting mood of shared blessing, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "At blue dusk beneath a vast banyan tree hung with small glowing lamps, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands lifting a glowing earthen diya high, its warm light spreading outward over a gathered crowd of villagers in simple ancient cotton dhotis and sarees seated around her, the entire crowd rendered as a soft blurred faceless mass with no distinct faces and no readable facial features, only Kavya has a visible face. Drifting petals and lamp-glow fill the air with compassion. Her face shines with serene joy as she looks toward the viewer, an uplifting mood of shared blessing, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 7,
-  "at": 1791060435.0397902,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 7,
+    "at": 1791060435.0397902,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "At blue dusk beneath a vast banyan tree hung with small glowing lamps, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands lifting a glowing earthen diya high, its warm light spreading outward over a gathered crowd of villagers in simple ancient cotton dhotis and sarees seated around her, the gathered crowd seen from behind with backs to the viewer and softly out of focus, their lifted diyas and garlands glowing in the foreground. Drifting petals and lamp-glow fill the air with compassion. Her face shines with serene joy as she looks toward the viewer, an uplifting mood of shared blessing, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "At blue dusk beneath a vast banyan tree hung with small glowing lamps, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands lifting a glowing earthen diya high, its warm light spreading outward over a gathered crowd of villagers in simple ancient cotton dhotis and sarees seated around her, the gathered crowd seen from behind with backs to the viewer and softly out of focus, their lifted diyas and garlands glowing in the foreground. Drifting petals and lamp-glow fill the air with compassion. Her face shines with serene joy as she looks toward the viewer, an uplifting mood of shared blessing, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 3,
-  "at": 1791061844.110806,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
+  {
+    "slide": 3,
+    "at": 1791061844.110806,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands mid-stride turning away from a dramatic swirl of golden dust where a distant ancient procession dissolves as small indistinct figures seen from behind in soft blur, toward a quiet lamp-lit wooden desk where an open scroll waits beside a glowing earthen diya, her hand lifting the lamp high. Her gaze rests thoughtfully on the scroll, embodying the turn from spectacle to reflection. Warm lamplight on one side, cool dust-haze on the other, a mood of going deeper, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
   },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, stands mid-stride turning away from a dramatic swirl of golden dust where a distant ancient procession dissolves as small indistinct figures seen from behind in soft blur, toward a quiet lamp-lit wooden desk where an open scroll waits beside a glowing earthen diya, her hand lifting the lamp high. Her gaze rests thoughtfully on the scroll, embodying the turn from spectacle to reflection. Warm lamplight on one side, cool dust-haze on the other, a mood of going deeper, medium framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- },
- {
-  "slide": 4,
-  "at": 1791061875.8635578,
-  "model": "muse-image-1.0",
-  "size": "1536x1024",
-  "transport": "responses",
-  "prev_anchor": {
-   "ref": "",
-   "response_id": null
-  },
-  "file_attached": [
-   "Kavya"
-  ],
-  "refs": [
-   "Kavya"
-  ],
-  "omitted_refs": 0,
-  "fallback": false,
-  "fallback_reason": "",
-  "prompt": "At soft dawn beside a still mirror-like pool edged with lotus leaves, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, kneels gracefully, one hand trailing toward the water. In the pool's calm reflection beside her own thoughtful face glows the shimmering image of an ancient royal court beneath palace arches, its small distant figures seen from behind, soft and rippled in the water. Gentle golden light traces her shoulders and the rippling reflection, an intimate contemplative mood of ancient wisdom meeting the present, close graceful framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
-  "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority \u2014 these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image \u2014 same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
- }
+  {
+    "slide": 6,
+    "at": 1791061875.8635578,
+    "model": "muse-image-1.0",
+    "size": "1536x1024",
+    "transport": "responses",
+    "prev_anchor": {
+      "ref": "",
+      "response_id": null
+    },
+    "file_attached": [
+      "Kavya"
+    ],
+    "refs": [
+      "Kavya"
+    ],
+    "omitted_refs": 0,
+    "fallback": false,
+    "fallback_reason": "",
+    "prompt": "At soft dawn beside a still mirror-like pool edged with lotus leaves, Kavya, a young Indian woman storyteller in her late twenties with warm wheat-brown skin and large dark expressive eyes, her long jet-black hair in a neat side braid adorned with small white jasmine flowers, wearing a deep teal cotton saree with a thin gold border over a cream blouse with small gold jhumka earrings, thin gold bangles and a small red bindi, kneels gracefully, one hand trailing toward the water. In the pool's calm reflection beside her own thoughtful face glows the shimmering image of an ancient royal court beneath palace arches, its small distant figures seen from behind, soft and rippled in the water. Gentle golden light traces her shoulders and the rippling reflection, an intimate contemplative mood of ancient wisdom meeting the present, close graceful framing., Digital comic-book illustration, classical Indian mythological art style, rich saturated colors, bold clean ink outlines, painterly shading, dramatic cinematic lighting, widescreen comic panel 16:9. No text, no speech bubbles, no captions, no subtitles, no watermark, no borders. Ensure characters, scenes that are provided as input are used accurately in the image. Domes should be of Hindu Architecture. NO spherical dome. Clothing to reflect what is in Character/Location image., no photorealism, no speech bubbles, no text, single comic panel CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design.",
+    "file_override": " CHARACTER REFERENCE OVERRIDES (highest priority — these win over every character description above):\n- Kavya: depict this character EXACTLY as shown in the attached 'Kavya' reference image — same face, same apparent age, same garments and attributes. Ignore any conflicting age, beard, hair, build, or clothing description of Kavya elsewhere in this prompt; those words describe an older draft, not the final design."
+  }
 ]

@@ -1,0 +1,17 @@
+{
+  "chapter": "Book_1_Bala_Kanda_Chapter_2",
+  "live": true,
+  "board_slides": 21,
+  "layer_a": {
+    "layer": "A",
+    "target": "storyboard",
+    "verdict": "PASS",
+    "issues": [],
+    "counts": {
+      "slides": 21
+    }
+  },
+  "flow_slides": 21,
+  "hindi_slides": 21,
+  "eval": "PASS"
+}

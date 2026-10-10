@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """MythologyMuse — single-chapter driver (Phase 5).
 
-Runs ONE chapter end to end, text only: PODCAST -> BRIDGE -> COMIC,
-finishing the chapter completely. Resumable: stages whose outputs already
-exist are skipped unless the corresponding --redo flag is given.
+Runs ONE chapter end to end, text only: PODCAST -> BRIDGE -> COMIC -> AV-MAP
+-> METADATA, finishing the chapter completely. Resumable: stages whose
+outputs already exist are skipped unless the corresponding --redo flag is
+given.
 
 Per chapter:
   1. PODCAST -> podcast_stage.py --chapter <id>
@@ -16,6 +17,13 @@ Per chapter:
        produces comic_storyboard[_hindi]/comic_muse_prompts/comic_eval
        (Flow/ingredient output removed; muse_prompt texts are the render inputs)
        SKIPPED if comic_eval_<ch>.json verdict == PASS (unless --redo-comic)
+  4. AV-MAP  -> av_map_stage.py --chapter <id> [--semantic]
+       produces av_mapping_<ch>.json (script segment -> slide images)
+       (positional rule; always re-run, it is free;
+       --semantic swaps in the Muse meaning-judge)
+  5. METADATA -> metadata_stage.py --chapter <id>
+       produces upload_metadata_<ch>.json (YouTube + Spotify copy)
+       (deterministic; always re-run, it is free)
 
 This driver deliberately handles ONE chapter per invocation. There is no
 corpus-wide batch mode in v1 — the full 652-chapter corpus is never touched
@@ -46,6 +54,8 @@ from muse_client import (  # noqa: E402
 import podcast_stage as podcast  # noqa: E402
 import bridge_stage as bridge  # noqa: E402
 import comic_stage as comic  # noqa: E402
+import av_map_stage as avmap  # noqa: E402
+import metadata_stage as metadata  # noqa: E402
 
 
 def podcast_done(myth_root: Path, chapter: str) -> bool:
@@ -75,6 +85,8 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--redo-comic", action="store_true")
     ap.add_argument("--prev-recap", default="")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--semantic", action="store_true",
+                    help="av-map: Muse judge pairs by meaning (needs key)")
     args = ap.parse_args(argv)
 
     if not args.chapter:
@@ -134,6 +146,19 @@ def main(argv: list[str] | None = None) -> int:
         if rc != 0:
             print(f"!! comic stage failed rc={rc}", file=sys.stderr)
             return 1
+
+    # 4. AV-MAP (positional; --semantic uses the Muse judge; always re-run)
+    rc = avmap.av_map(myth_root, chapter, semantic=args.semantic,
+                       dry_run=args.dry_run, prompts_dir=prompts_dir)
+    if rc != 0:
+        print(f"!! av-map stage failed rc={rc}", file=sys.stderr)
+        return 1
+
+    # 5. METADATA (deterministic upload copy; always re-run, it is free)
+    rc, _ = metadata.write_metadata(myth_root, chapter)
+    if rc != 0:
+        print(f"!! metadata stage failed rc={rc}", file=sys.stderr)
+        return 1
 
     chapter_dir = assert_inside(myth_root, Path("outputs") / chapter)
     produced = sorted(p.name for p in chapter_dir.iterdir() if p.is_file())

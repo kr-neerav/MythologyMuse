@@ -34,11 +34,11 @@ apply ONLY that phase's rubric.
 4. **Modern Connection**: bridges to modern life, psychology, or society?
 5. **Flow**: natural and engaging, not formulaic?
 6. **Format**: SINGLE voice (Kavya, "Hindi (Female)"), no second speaker or alternating dialogue?
-7. **Three-part structure**: EVERY segment carries `प्रश्न:` / `विवेचना:` / `जीवन-सूत्र:` in `text` and `Question:` / `Reflection:` / `Takeaway:` in `text_en`, in that order? REJECT on any missing/mislabelled/misordered part.
+7. **Three-part flow, NO spoken labels**: EVERY segment opens with a spoken chapter-specific question (a sentence ending in `?`), explores/answers it mid-passage, and lands on a concrete takeaway action — with NONE of the literals `प्रश्न:` / `विवेचना:` / `जीवन-सूत्र:` / `Question:` / `Reflection:` / `Takeaway:` (or variants like `Sawaal:`, `Q:`) anywhere in `text` or `text_en`. TTS speaks every word, so a label in text is a spoken distraction. REJECT on any label, any missing question mark, or any passage that never lands on a takeaway.
 8. **Takeaway concreteness**: each takeaway a concrete action, decision, or lens — REJECT platitudes ("be good", "stay positive") with no how/when.
 9. **Bilingual Parity**: same bar as A.6, for insights.
 10. **Conciseness**: no re-narration of the story (assume it was just heard); no reflection restated as its own takeaway; question sharp and chapter-specific. REJECT padding.
-11. **Emotion tags (delivery markup, REQUIRED — same rule as A.8)**: EVERY `text` AND every `text_en` ends with exactly one trailing tag, same on both; REJECT on any missing/mismatched tag. The tag is NOT a fourth structural element after `जीवन-सूत्र:`/`Takeaway:` and never breaks the three-part order — NEVER ask for its removal.
+11. **Emotion tags (delivery markup, REQUIRED — same rule as A.8)**: EVERY `text` AND every `text_en` ends with exactly one trailing tag, same on both; REJECT on any missing/mismatched tag. The tag sits after the closing takeaway sentence and never breaks the question-to-takeaway flow — NEVER ask for its removal.
 
 ## Output format (both phases)
 

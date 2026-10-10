@@ -9,10 +9,13 @@ You turn one chapter's English narration into an ordered comic storyboard.
 You receive the narration lines plus the chapter's entity list (characters +
 scenes with canonical names — use these names verbatim).
 
-Slide plan: 12–30 slides covering the chapter in order — at least two thirds
-`scene` slides for the story beats, at least 3 `insight` slides drawn from
-the reflection's Question/Reflection/Takeaway material. Open on the hook,
-close on the chapter's resolving beat or its sharpest insight. Spend slides
+Slide plan: 12–30 slides in TWO GROUPS — ALL `scene` slides first (the
+story beats in chapter order, at least two thirds of the board), THEN all
+`insight` slides (at least 3, drawn from the reflection's
+Question/Reflection/Takeaway material, in reflection order). Never
+interleave: once the first insight slide appears, every slide after it is
+an insight slide. Open on the hook, close the scene group on the chapter's
+resolving beat, close the board on its sharpest insight. Spend slides
 on beats: one beat per slide — never compress two major beats into one panel
 to hit a count.
 

@@ -47,23 +47,7 @@
   },
   {
     "slide": 4,
-    "slide_label": "Slide04 - Clear Mind Sees Pain",
-    "title": "Clear Mind Sees Pain",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why is Tamasa's clean bank like the mind of a good person?",
-    "answer": "Because muddy water hides your face, and a busy mind hides another's pain. Valmiki wanted clean water to bathe, but he found clean sight to care. He could hear both happy song and sad cry. Sit ten quiet minutes each day with no screen, and you will see who is hurting near you.",
-    "on_slide_text": "Why call Tamasa's clean bank like a good mind? Because muddy water hides your face, and a noisy mind hides others' pain. Valmiki found clean water and gained clean sight. Sit ten quiet minutes daily with no phone, and notice whose hurt you see first.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Pauses after the pure bank to draw the mind-clarity lesson from the reflection."
-  },
-  {
-    "slide": 5,
-    "slide_label": "Slide05 - The Bark Cloth",
+    "slide_label": "Slide04 - The Bark Cloth",
     "title": "The Bark Cloth",
     "type": "scene",
     "text_mode": "caption",
@@ -77,8 +61,8 @@
     "rationale": "Shows obedient preparation and slow forest gaze before bathing."
   },
   {
-    "slide": 6,
-    "slide_label": "Slide06 - Two Happy Birds",
+    "slide": 5,
+    "slide_label": "Slide05 - Two Happy Birds",
     "title": "Two Happy Birds",
     "type": "scene",
     "text_mode": "caption",
@@ -93,8 +77,8 @@
     "rationale": "Stages the joyful love of the krauncha pair, the happiness soon to be broken."
   },
   {
-    "slide": 7,
-    "slide_label": "Slide07 - The Cruel Arrow",
+    "slide": 6,
+    "slide_label": "Slide06 - The Cruel Arrow",
     "title": "The Cruel Arrow",
     "type": "scene",
     "text_mode": "caption",
@@ -109,8 +93,8 @@
     "rationale": "Stages the apex killing without cause and the mate's grief, the epic's spark."
   },
   {
-    "slide": 8,
-    "slide_label": "Slide08 - The Curse of Sorrow",
+    "slide": 7,
+    "slide_label": "Slide07 - The Curse of Sorrow",
     "title": "The Curse of Sorrow",
     "type": "scene",
     "text_mode": "dialogue",
@@ -125,40 +109,8 @@
     "rationale": "Stages the compassionate curse where sorrow bursts as moral speech."
   },
   {
-    "slide": 9,
-    "slide_label": "Slide09 - Curse Born of Love",
-    "title": "Curse Born of Love",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why does a holy book start with an angry curse instead of a sweet blessing?",
-    "answer": "Because Valmiki's deep sorrow boiled over as hot anger, and hot anger cooled into lasting music. His curse was really love crying for broken joy. Loose pain stays heavy inside, but pain tied in rhythm turns into meaning. When anger burns you, write four short lines instead of shouting at someone.",
-    "on_slide_text": "Why start a holy tale with a curse and not a blessing? Because deep sorrow first bursts out as hot anger, and anger is only love boiling over. Shaped pain turns into song that lasts. When anger burns you this week, write four short lines and make your own small shloka.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on curse-born compassion right after the outburst."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Do Not Break Play",
-    "title": "Do Not Break Play",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why was the hunter's everyday work called such a great wrong?",
-    "answer": "Because he shot without hate and without need into singing love at play. Valmiki does not blame honest work, he blames breaking joy for fun. We do the same when we mock, cut off talk, or troll for laughs. Pause this week, notice your arrow, and choose kind silence instead.",
-    "on_slide_text": "Why blame a hunter just doing his daily work? Because he shot without hate and without need into singing love at play. Breaking joy for fun is true cruelty. Watch this week where you mock or troll, and choose kind silence instead of shooting your arrow.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on causeless cruelty right after the killing."
-  },
-  {
-    "slide": 11,
-    "slide_label": "Slide11 - What Left My Mouth",
+    "slide": 8,
+    "slide_label": "Slide08 - What Left My Mouth",
     "title": "What Left My Mouth",
     "type": "scene",
     "text_mode": "dialogue",
@@ -172,24 +124,8 @@
     "rationale": "Stages the startled discovery of metre as shloka fit for veena."
   },
   {
-    "slide": 12,
-    "slide_label": "Slide12 - Catch Your True Line",
-    "title": "Catch Your True Line",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why did wise Valmiki gasp at his own mouth?",
-    "answer": "Because true songs come before we understand them. Valmiki did not build the beat, his grief sang it in even steps fit for veena. That fast flow runs ahead of slow thinking. He asked Bharadwaja to hold the line, for a new spark needs a friend's eyes. Write your true line at once and share it.",
-    "on_slide_text": "Why did Valmiki gasp at his own mouth? Because true making comes first and knowing comes later. Grief sang an even beat by itself, like music flowing. New sparks fade fast. When a true line jumps from your heart this week, write it down at once and show a trusted friend.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on creation-before-understanding and witnessing the spark."
-  },
-  {
-    "slide": 13,
-    "slide_label": "Slide13 - Bath and Return",
+    "slide": 9,
+    "slide_label": "Slide09 - Bath and Return",
     "title": "Bath and Return",
     "type": "scene",
     "text_mode": "caption",
@@ -203,8 +139,8 @@
     "rationale": "Shows disciple support, bathing, and thoughtful return carrying the pitcher."
   },
   {
-    "slide": 14,
-    "slide_label": "Slide14 - Brahma Arrives",
+    "slide": 10,
+    "slide_label": "Slide10 - Brahma Arrives",
     "title": "Brahma Arrives",
     "type": "scene",
     "text_mode": "caption",
@@ -219,8 +155,8 @@
     "rationale": "Brings the divine turn with Brahma's sudden arrival amid the echoing verse."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Welcoming Brahma",
+    "slide": 11,
+    "slide_label": "Slide11 - Welcoming Brahma",
     "title": "Welcoming Brahma",
     "type": "scene",
     "text_mode": "caption",
@@ -234,8 +170,8 @@
     "rationale": "Shows reverent welcome and seating that honours Brahma."
   },
   {
-    "slide": 16,
-    "slide_label": "Slide16 - Stuck in Sorrow",
+    "slide": 12,
+    "slide_label": "Slide12 - Stuck in Sorrow",
     "title": "Stuck in Sorrow",
     "type": "scene",
     "text_mode": "caption",
@@ -249,8 +185,8 @@
     "rationale": "Shows Valmiki stuck in sorrow even before God, needing direction."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Write Rama's Story",
+    "slide": 13,
+    "slide_label": "Slide13 - Write Rama's Story",
     "title": "Write Rama's Story",
     "type": "scene",
     "text_mode": "dialogue",
@@ -264,24 +200,8 @@
     "rationale": "Stages Brahma's command to compose Rama's story in the immortal metre."
   },
   {
-    "slide": 18,
-    "slide_label": "Slide18 - Turn Wound Into Work",
-    "title": "Turn Wound Into Work",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why did Brahma turn one bird's grief into Rama's huge story?",
-    "answer": "Because a lonely hurt stays a small cry, but a blessed hurt becomes work for many. Brahma showed Valmiki his tears were for every parted love, like Sita parted from Rama. Truth seen with kindness lasts longer than mountains. Name one old hurt this week and use it to help one person.",
-    "on_slide_text": "Why make one bird's grief into Rama and Sita's vast tale? Because a lonely wound stays a cry, but a blessed wound becomes work for all. Valmiki's tears were for every parted love. Name one old hurt this week and turn it into help for someone else.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects on wound-into-work after the divine commission."
-  },
-  {
-    "slide": 19,
-    "slide_label": "Slide19 - Living Beyond Mountains",
+    "slide": 14,
+    "slide_label": "Slide14 - Living Beyond Mountains",
     "title": "Living Beyond Mountains",
     "type": "scene",
     "text_mode": "caption",
@@ -296,8 +216,8 @@
     "rationale": "Stages the blessing of endurance and vanishing that seals authority."
   },
   {
-    "slide": 20,
-    "slide_label": "Slide20 - Disciples Sing Again",
+    "slide": 15,
+    "slide_label": "Slide15 - Disciples Sing Again",
     "title": "Disciples Sing Again",
     "type": "scene",
     "text_mode": "caption",
@@ -311,8 +231,8 @@
     "rationale": "Shows disciples repeating the verse and foreseeing the full Ramayana."
   },
   {
-    "slide": 21,
-    "slide_label": "Slide21 - The Ramayana Is Born",
+    "slide": 16,
+    "slide_label": "Slide16 - The Ramayana Is Born",
     "title": "The Ramayana Is Born",
     "type": "scene",
     "text_mode": "caption",
@@ -323,5 +243,85 @@
     ],
     "location": "Valmiki's Meditation Seat",
     "rationale": "Closes on the resolving beat where the Ramayana is born in sweet shlokas."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - Clear Mind Sees Pain",
+    "title": "Clear Mind Sees Pain",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why is Tamasa's clean bank like the mind of a good person?",
+    "answer": "Because muddy water hides your face, and a busy mind hides another's pain. Valmiki wanted clean water to bathe, but he found clean sight to care. He could hear both happy song and sad cry. Sit ten quiet minutes each day with no screen, and you will see who is hurting near you.",
+    "on_slide_text": "Why call Tamasa's clean bank like a good mind? Because muddy water hides your face, and a noisy mind hides others' pain. Valmiki found clean water and gained clean sight. Sit ten quiet minutes daily with no phone, and notice whose hurt you see first.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Pauses after the pure bank to draw the mind-clarity lesson from the reflection."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Curse Born of Love",
+    "title": "Curse Born of Love",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why does a holy book start with an angry curse instead of a sweet blessing?",
+    "answer": "Because Valmiki's deep sorrow boiled over as hot anger, and hot anger cooled into lasting music. His curse was really love crying for broken joy. Loose pain stays heavy inside, but pain tied in rhythm turns into meaning. When anger burns you, write four short lines instead of shouting at someone.",
+    "on_slide_text": "Why start a holy tale with a curse and not a blessing? Because deep sorrow first bursts out as hot anger, and anger is only love boiling over. Shaped pain turns into song that lasts. When anger burns you this week, write four short lines and make your own small shloka.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on curse-born compassion right after the outburst."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - Do Not Break Play",
+    "title": "Do Not Break Play",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why was the hunter's everyday work called such a great wrong?",
+    "answer": "Because he shot without hate and without need into singing love at play. Valmiki does not blame honest work, he blames breaking joy for fun. We do the same when we mock, cut off talk, or troll for laughs. Pause this week, notice your arrow, and choose kind silence instead.",
+    "on_slide_text": "Why blame a hunter just doing his daily work? Because he shot without hate and without need into singing love at play. Breaking joy for fun is true cruelty. Watch this week where you mock or troll, and choose kind silence instead of shooting your arrow.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on causeless cruelty right after the killing."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Catch Your True Line",
+    "title": "Catch Your True Line",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why did wise Valmiki gasp at his own mouth?",
+    "answer": "Because true songs come before we understand them. Valmiki did not build the beat, his grief sang it in even steps fit for veena. That fast flow runs ahead of slow thinking. He asked Bharadwaja to hold the line, for a new spark needs a friend's eyes. Write your true line at once and share it.",
+    "on_slide_text": "Why did Valmiki gasp at his own mouth? Because true making comes first and knowing comes later. Grief sang an even beat by itself, like music flowing. New sparks fade fast. When a true line jumps from your heart this week, write it down at once and show a trusted friend.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on creation-before-understanding and witnessing the spark."
+  },
+  {
+    "slide": 21,
+    "slide_label": "Slide21 - Turn Wound Into Work",
+    "title": "Turn Wound Into Work",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why did Brahma turn one bird's grief into Rama's huge story?",
+    "answer": "Because a lonely hurt stays a small cry, but a blessed hurt becomes work for many. Brahma showed Valmiki his tears were for every parted love, like Sita parted from Rama. Truth seen with kindness lasts longer than mountains. Name one old hurt this week and use it to help one person.",
+    "on_slide_text": "Why make one bird's grief into Rama and Sita's vast tale? Because a lonely wound stays a cry, but a blessed wound becomes work for all. Valmiki's tears were for every parted love. Name one old hurt this week and turn it into help for someone else.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects on wound-into-work after the divine commission."
   }
 ]

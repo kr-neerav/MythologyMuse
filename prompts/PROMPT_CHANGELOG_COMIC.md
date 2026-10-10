@@ -68,6 +68,22 @@ Frozen downstream shapes (preserved exactly): storyboard slide keys
   `tools/comic_stage.py` (slide numbering/labels/titles/types, ingredient
   @-usage both directions, text-free clause advisory). Deterministic, no model.
 
+## Story-first ordering — scenes, then insights (no interleave)
+- `storyboard.md`: the board is TWO GROUPS — all `scene` slides in chapter
+  order, then all `insight` slides in reflection order. The old plan let the
+  model sprinkle insights among scenes, so the video jumped (Ch1 discussion
+  audio played over slide 2 while the story was still on slide 20).
+- `comic_stage.py`: new Layer A `ORDER` gate (FAIL on any scene slide after
+  an insight slide); `storyboard_eval.md` coverage now names the grouped
+  order; `av_semantic_map.md` stays inside its group (narration→scene,
+  reflection→insight, no cross-group matches while the wanted kind exists).
+- Existing chapters migrated by `tools/reorder_comic.py` (stable reorder:
+  scenes keep relative order, insights keep relative order; renumber +
+  relabel; prompts/plan/Hindi/eval/av-mapping/manifest/reviews/panel log
+  and `studio_images/slide_NN_*` files follow the content to its new
+  number). No model re-run, no pixels touched. Guard: selftest ORDER
+  checks + title-keyed studio rubric tests.
+
 ## Observability + partial persistence (deterministic, no model)
 - New `comic_debug_<ch>.jsonl`: one JSON record per failure point
   (extraction/design chunk/storyboard attempt/flow chunk/Hindi
@@ -377,6 +393,16 @@ Frozen downstream shapes (preserved exactly): storyboard slide keys
   on-slide text ("Agastya blesses him"). Prompt fix in both copies
   (Rama anjali + bowed head receiving; Agastya's blessing hands
   unchanged), one paid re-render, critiqued PASS, finalized.
+- Ch3 Slide 10 Dandaka follow-up: the Dandaka panel showed the reverse
+  disrespect — rishi Agastya kneeling to offer the divine bow up to a
+  standing Rama. Rule added: a rishi, sage, or elder never kneels
+  before juniors to offer a gift; the elder stands upright and offers
+  down while the junior kneels or bows to receive. Prompt fix in both
+  copies (Agastya standing in blessing above Rama; Rama kneeling with
+  bowed head holding the gifted bow, no arrow anywhere); 3 paid
+  rounds (round 1 transfer pose drew a shaft toward Rama, round 2 drew
+  a nocked arrow at Rama, round 3 blessing tableau clean), critiqued
+  PASS, finalized.
 - Recorded in `comic-art-critique/SKILL.md` §1 and `panel_prompts.md`.
 
 ## Goddesses travel with dignity (slide 13 precedent)
@@ -565,3 +591,20 @@ Frozen downstream shapes (preserved exactly): storyboard slide keys
   round each, both critiqued PASS, finalized.
 - Recorded in `entity_designer.md` (full Agni canon) and the Agni
   roster/repo wording.
+
+## No gratuitous animals or animal-skin props (Ch3 Slide05 precedent)
+- Rule: never add a live animal, hide, skin, or ajina/deerskin mat to a
+  panel unless the slide's `characters` list stages that animal, the
+  on-slide text names it, or a staged entity's fixed identity requires it
+  as a functional attribute. A sage's kusha seat needs no deer skin;
+  Maricha's golden-deer lure (a staged beat) keeps its deer.
+- Ch3 Slide05 (Amla on the Palm): storyboard stages Valmiki, Rama, Sita,
+  Lakshmana at Valmiki's Meditation Seat; on-slide text and narration
+  name only the amla and the exile vision — no deer. The panel prompt in
+  both copies named a deer skin beside the seat; cut it in
+  `comic_muse_prompts_Book_1_Bala_Kanda_Chapter_3.json` and
+  `comic_render_plan_Book_1_Bala_Kanda_Chapter_3.json` (slide 5).
+  Roster scene sheet (kusha mats, altar, kamandalu, mala, lamp) was
+  already deer-free. Panel log history left untouched. Next render picks
+  up the cleaned prompt; re-render + finalize pending.
+- Recorded in `panel_prompts.md` and `comic-art-critique/SKILL.md` §1.

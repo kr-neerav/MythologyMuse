@@ -59,39 +59,7 @@
   },
   {
     "slide": 5,
-    "slide_label": "Slide05 - City Before Hero",
-    "title": "City Before Hero",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "वाल्मीकि राम का परिचय देने से पहले अयोध्या नगर का इतना विस्तार से वर्णन क्यों करते हैं? नायक से पहले नगर क्यों?",
-    "answer": "क्योंकि राम आसमान से नहीं टपके। वे स्वस्थ घर से ऐसे उगते हैं, जैसे अच्छी मिट्टी से पेड़। जब राजा वचन निभाता है, तो लोग सच बोलते हैं। जब राजा खुद को वश में रखता है, तो नगर साफ रहता है। इसलिए पहले अपने घर को देखो। दूसरों से कहने से पहले खुद एक अच्छा नियम जियो।",
-    "on_slide_text": "क्यों नायक से पहले नगर दिखाया गया? क्योंकि नायक आसमान से नहीं टपकता, वह अच्छी मिट्टी से पेड़ की तरह उगता है। जब राजा वचन निभाता है, तो प्रजा सच बोलती है। जब राजा शांत रहता है, तो नगर साफ रहता है। अपने घर का एक नियम पक्का करो और पहले खुद उसे निभाओ।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects that dharma is first a healthy system, then a person."
-  },
-  {
-    "slide": 6,
-    "slide_label": "Slide06 - Joy With Control",
-    "title": "Joy With Control",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "क्यों दशरथ को एक ही साँस में इंद्र-कुबेर जैसा तेजस्वी और महर्षि जैसा संयमी कहा गया — क्या भोग और संयम साथ रह सकते हैं?",
-    "answer": "हाँ, दोनों साथ रह सकते हैं। अच्छी चीज़ें बुरा नहीं हैं, अगर तुम उनके गुलाम न बनो। दशरथ धन भोगते हैं पर उसे कर्तव्य में बाँधे रखते हैं। उनकी माला और इत्र देखभाल दिखाते हैं, लालच नहीं। शक्ति तभी भला करती है जब संयम से बँधी हो। सात दिन तक एक पसंदीदा चीज़ अपनी तय सीमा में भोगकर देखो।",
-    "on_slide_text": "कैसे कोई राजा धन का सुख लेकर भी साधु जैसा शांत रह सकता है? चीज़ें रखना अलग है, उनका गुलाम बनना अलग है। दशरथ धन और आनंद को कर्तव्य में रखते हैं। उनके इत्र और मालाएँ देखभाल दिखाती हैं, लालच नहीं। एक सुख चुनो और सात दिन तक अपनी सीमा में रहकर उसका आनंद लो।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Explains how wealth and desire bound by dharma become discipline, not lust."
-  },
-  {
-    "slide": 7,
-    "slide_label": "Slide07 - Happy People of Ayodhya",
+    "slide_label": "Slide05 - Happy People of Ayodhya",
     "title": "Happy People of Ayodhya",
     "type": "scene",
     "text_mode": "caption",
@@ -104,8 +72,8 @@
     "rationale": "Shows contentment, truthfulness, and plenty as the base of city life."
   },
   {
-    "slide": 8,
-    "slide_label": "Slide08 - Clean Hearts Everywhere",
+    "slide": 6,
+    "slide_label": "Slide06 - Clean Hearts Everywhere",
     "title": "Clean Hearts Everywhere",
     "type": "scene",
     "text_mode": "caption",
@@ -118,24 +86,8 @@
     "rationale": "Continues the moral portrait of restrained, cheerful, sage-like citizens."
   },
   {
-    "slide": 9,
-    "slide_label": "Slide09 - No Greed No Theft",
-    "title": "No Greed No Theft",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "क्या बिना लालची, बिना चोर, बिना झूठे वाले नगर का वर्णन कवि की बढ़ा-चढ़ाकर कही बात है या मन का नक्शा?",
-    "answer": "यह मन का नक्शा है। अयोध्या वह स्थान है जिसे कोई शत्रु जीत न सके। मन संतोष से जीतता है। लालच झूठ और चोरी का द्वार खोलता है। जब लोग अपने हिस्से में संतुष्ट रहते हैं, बुराई को जगह नहीं मिलती। रोज़ आधे घंटे लालची स्क्रॉल बंद करो और मन को मज़बूत बनाओ।",
-    "on_slide_text": "क्या बिना लालच का नगर केवल मीठा सपना है? नहीं, यह तुम्हारे मन का नक्शा है। अयोध्या का अर्थ है जिसे कोई शत्रु जीत न सके। लालच झूठ और चोरी के लिए द्वार खोलता है। जब मन अपने हिस्से में संतोष पाता है, बुरे कामों को जगह नहीं मिलती। हर दिन आधे घंटे के लिए एक लालची स्क्रॉल बंद करो।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reads Ayodhya as inner contentment that cuts crime at its root."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Dressed in Joy",
+    "slide": 7,
+    "slide_label": "Slide07 - Dressed in Joy",
     "title": "Dressed in Joy",
     "type": "scene",
     "text_mode": "caption",
@@ -148,8 +100,8 @@
     "rationale": "Shows adornment, cleanliness, pure food, and charity held with self-control."
   },
   {
-    "slide": 11,
-    "slide_label": "Slide11 - No Dark Homes",
+    "slide": 8,
+    "slide_label": "Slide08 - No Dark Homes",
     "title": "No Dark Homes",
     "type": "scene",
     "text_mode": "caption",
@@ -163,8 +115,8 @@
     "rationale": "Marks universal worship and absence of theft and wrong livelihood."
   },
   {
-    "slide": 12,
-    "slide_label": "Slide12 - Wise and Giving Guides",
+    "slide": 9,
+    "slide_label": "Slide09 - Wise and Giving Guides",
     "title": "Wise and Giving Guides",
     "type": "scene",
     "text_mode": "caption",
@@ -177,8 +129,8 @@
     "rationale": "Praises self-controlled Brahmanas learned in Vedas and generous in gifts."
   },
   {
-    "slide": 13,
-    "slide_label": "Slide13 - Faces Full of Light",
+    "slide": 10,
+    "slide_label": "Slide10 - Faces Full of Light",
     "title": "Faces Full of Light",
     "type": "scene",
     "text_mode": "caption",
@@ -192,8 +144,8 @@
     "rationale": "Shows splendour, beauty, and heartfelt loyalty to the king."
   },
   {
-    "slide": 14,
-    "slide_label": "Slide14 - Serving Gods and Guests",
+    "slide": 11,
+    "slide_label": "Slide11 - Serving Gods and Guests",
     "title": "Serving Gods and Guests",
     "type": "scene",
     "text_mode": "caption",
@@ -207,8 +159,8 @@
     "rationale": "Unites gratitude, charity, and valour in service of gods and guests."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Long Happy Homes",
+    "slide": 12,
+    "slide_label": "Slide12 - Long Happy Homes",
     "title": "Long Happy Homes",
     "type": "scene",
     "text_mode": "caption",
@@ -221,8 +173,8 @@
     "rationale": "Depicts long life, joint families, and affection rooted in dharma."
   },
   {
-    "slide": 16,
-    "slide_label": "Slide16 - Each Duty in Place",
+    "slide": 13,
+    "slide_label": "Slide13 - Each Duty in Place",
     "title": "Each Duty in Place",
     "type": "scene",
     "text_mode": "caption",
@@ -237,24 +189,8 @@
     "rationale": "Orders the four duties in harmony under Dasharatha's skilled rule."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Teamwork Not Rank",
-    "title": "Teamwork Not Rank",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "कैसे पढ़ें कि क्षत्रिय ब्राह्मणों के नीचे और वैश्य क्षत्रियों के पीछे हैं — क्या यह पुराने ऊँच नीच की तारीफ है?",
-    "answer": "इसे ऊँच नीच नहीं, मेलजोल मानकर पढ़ो। हर वर्ग सेवा करता है। ज्ञानी ज्ञान देते हैं, रक्षक सुरक्षा देते हैं, व्यापारी भोजन देते हैं, सहायक प्रेम से जुड़ते हैं। आज सब बराबरी कहते हैं पर एक ही काम के लिए लड़ते हैं। अपने जीवन की तीन भूमिकाएँ लिखो और बिना शिकायत हर एक का एक काम इस हफ्ते करो।",
-    "on_slide_text": "क्यों एक वर्ग दूसरे के पीछे चलता है — क्या यह अन्याय है? नहीं, यह सबके लिए मेलजोल है। ज्ञानी ज्ञान देते हैं, रक्षक सुरक्षा देते हैं, व्यापारी भोजन देते हैं, सहायक प्रेम से जुड़ते हैं। सभी मिलकर देवों और मेहमानों की सेवा करते हैं। अपने जीवन के तीन काम लिखो और इस हफ्ते हर एक का एक सच्चा कर्तव्य निभाओ।",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reframes varna as mutual service and role-clarity for today."
-  },
-  {
-    "slide": 18,
-    "slide_label": "Slide18 - Lions and Swift Horses",
+    "slide": 14,
+    "slide_label": "Slide14 - Lions and Swift Horses",
     "title": "Lions and Swift Horses",
     "type": "scene",
     "text_mode": "caption",
@@ -268,8 +204,8 @@
     "rationale": "Displays lion-like warriors and famed horses as city strength."
   },
   {
-    "slide": 19,
-    "slide_label": "Slide19 - Hills That Walk",
+    "slide": 15,
+    "slide_label": "Slide15 - Hills That Walk",
     "title": "Hills That Walk",
     "type": "scene",
     "text_mode": "caption",
@@ -282,8 +218,8 @@
     "rationale": "Details mountain-like elephants of noble breeds guarding the city."
   },
   {
-    "slide": 20,
-    "slide_label": "Slide20 - The City None Can Win",
+    "slide": 16,
+    "slide_label": "Slide16 - The City None Can Win",
     "title": "The City None Can Win",
     "type": "scene",
     "text_mode": "caption",
@@ -295,6 +231,70 @@
     ],
     "location": "Ayodhya",
     "rationale": "Closes the city portrait with its unconquerable name and moon-like king."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - City Before Hero",
+    "title": "City Before Hero",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "वाल्मीकि राम का परिचय देने से पहले अयोध्या नगर का इतना विस्तार से वर्णन क्यों करते हैं? नायक से पहले नगर क्यों?",
+    "answer": "क्योंकि राम आसमान से नहीं टपके। वे स्वस्थ घर से ऐसे उगते हैं, जैसे अच्छी मिट्टी से पेड़। जब राजा वचन निभाता है, तो लोग सच बोलते हैं। जब राजा खुद को वश में रखता है, तो नगर साफ रहता है। इसलिए पहले अपने घर को देखो। दूसरों से कहने से पहले खुद एक अच्छा नियम जियो।",
+    "on_slide_text": "क्यों नायक से पहले नगर दिखाया गया? क्योंकि नायक आसमान से नहीं टपकता, वह अच्छी मिट्टी से पेड़ की तरह उगता है। जब राजा वचन निभाता है, तो प्रजा सच बोलती है। जब राजा शांत रहता है, तो नगर साफ रहता है। अपने घर का एक नियम पक्का करो और पहले खुद उसे निभाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects that dharma is first a healthy system, then a person."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Joy With Control",
+    "title": "Joy With Control",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्यों दशरथ को एक ही साँस में इंद्र-कुबेर जैसा तेजस्वी और महर्षि जैसा संयमी कहा गया — क्या भोग और संयम साथ रह सकते हैं?",
+    "answer": "हाँ, दोनों साथ रह सकते हैं। अच्छी चीज़ें बुरा नहीं हैं, अगर तुम उनके गुलाम न बनो। दशरथ धन भोगते हैं पर उसे कर्तव्य में बाँधे रखते हैं। उनकी माला और इत्र देखभाल दिखाते हैं, लालच नहीं। शक्ति तभी भला करती है जब संयम से बँधी हो। सात दिन तक एक पसंदीदा चीज़ अपनी तय सीमा में भोगकर देखो।",
+    "on_slide_text": "कैसे कोई राजा धन का सुख लेकर भी साधु जैसा शांत रह सकता है? चीज़ें रखना अलग है, उनका गुलाम बनना अलग है। दशरथ धन और आनंद को कर्तव्य में रखते हैं। उनके इत्र और मालाएँ देखभाल दिखाती हैं, लालच नहीं। एक सुख चुनो और सात दिन तक अपनी सीमा में रहकर उसका आनंद लो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Explains how wealth and desire bound by dharma become discipline, not lust."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - No Greed No Theft",
+    "title": "No Greed No Theft",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "क्या बिना लालची, बिना चोर, बिना झूठे वाले नगर का वर्णन कवि की बढ़ा-चढ़ाकर कही बात है या मन का नक्शा?",
+    "answer": "यह मन का नक्शा है। अयोध्या वह स्थान है जिसे कोई शत्रु जीत न सके। मन संतोष से जीतता है। लालच झूठ और चोरी का द्वार खोलता है। जब लोग अपने हिस्से में संतुष्ट रहते हैं, बुराई को जगह नहीं मिलती। रोज़ आधे घंटे लालची स्क्रॉल बंद करो और मन को मज़बूत बनाओ।",
+    "on_slide_text": "क्या बिना लालच का नगर केवल मीठा सपना है? नहीं, यह तुम्हारे मन का नक्शा है। अयोध्या का अर्थ है जिसे कोई शत्रु जीत न सके। लालच झूठ और चोरी के लिए द्वार खोलता है। जब मन अपने हिस्से में संतोष पाता है, बुरे कामों को जगह नहीं मिलती। हर दिन आधे घंटे के लिए एक लालची स्क्रॉल बंद करो।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reads Ayodhya as inner contentment that cuts crime at its root."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Teamwork Not Rank",
+    "title": "Teamwork Not Rank",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "कैसे पढ़ें कि क्षत्रिय ब्राह्मणों के नीचे और वैश्य क्षत्रियों के पीछे हैं — क्या यह पुराने ऊँच नीच की तारीफ है?",
+    "answer": "इसे ऊँच नीच नहीं, मेलजोल मानकर पढ़ो। हर वर्ग सेवा करता है। ज्ञानी ज्ञान देते हैं, रक्षक सुरक्षा देते हैं, व्यापारी भोजन देते हैं, सहायक प्रेम से जुड़ते हैं। आज सब बराबरी कहते हैं पर एक ही काम के लिए लड़ते हैं। अपने जीवन की तीन भूमिकाएँ लिखो और बिना शिकायत हर एक का एक काम इस हफ्ते करो।",
+    "on_slide_text": "क्यों एक वर्ग दूसरे के पीछे चलता है — क्या यह अन्याय है? नहीं, यह सबके लिए मेलजोल है। ज्ञानी ज्ञान देते हैं, रक्षक सुरक्षा देते हैं, व्यापारी भोजन देते हैं, सहायक प्रेम से जुड़ते हैं। सभी मिलकर देवों और मेहमानों की सेवा करते हैं। अपने जीवन के तीन काम लिखो और इस हफ्ते हर एक का एक सच्चा कर्तव्य निभाओ।",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reframes varna as mutual service and role-clarity for today."
   },
   {
     "slide": 21,

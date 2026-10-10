@@ -59,39 +59,7 @@
   },
   {
     "slide": 5,
-    "slide_label": "Slide05 - City Before Hero",
-    "title": "City Before Hero",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why does Valmiki describe the city of Ayodhya in such detail before introducing Rama himself — why the city before the hero?",
-    "answer": "Because Rama is not dropped from the sky. He grows from a healthy home like a tree from good soil. When the king keeps his word, people speak truth. When the king controls himself, the city stays clean. So first check your home team. Live one good rule yourself before you ask others.",
-    "on_slide_text": "Why show the city before the hero? Because a hero grows like a tree from good soil, not dropped from the sky. When the king keeps his word, people speak truth. When the king is calm, the city stays clean. Fix one rule in your home, and follow it first yourself.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reflects that dharma is first a healthy system, then a person."
-  },
-  {
-    "slide": 6,
-    "slide_label": "Slide06 - Joy With Control",
-    "title": "Joy With Control",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "Why is Dasharatha called in the same breath splendid like Indra-Kubera and self-controlled like a Maharshi — can enjoyment and restraint coexist?",
-    "answer": "Yes, they can live together. Having nice things is not bad if you are not their slave. Dasharatha enjoys wealth but keeps it inside duty. His garlands and perfumes show care, not greed. Power helps people only when tied by self-control. Try it: enjoy one treat for seven days only inside a limit you set.",
-    "on_slide_text": "How can a king enjoy riches and still be calm like a sage? Because holding things is different from being their slave. Dasharatha keeps wealth and joy inside duty. His perfumes and garlands show care, not greed. Pick one pleasure and enjoy it for seven days only inside your own limit.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Explains how wealth and desire bound by dharma become discipline, not lust."
-  },
-  {
-    "slide": 7,
-    "slide_label": "Slide07 - Happy People of Ayodhya",
+    "slide_label": "Slide05 - Happy People of Ayodhya",
     "title": "Happy People of Ayodhya",
     "type": "scene",
     "text_mode": "caption",
@@ -104,8 +72,8 @@
     "rationale": "Shows contentment, truthfulness, and plenty as the base of city life."
   },
   {
-    "slide": 8,
-    "slide_label": "Slide08 - Clean Hearts Everywhere",
+    "slide": 6,
+    "slide_label": "Slide06 - Clean Hearts Everywhere",
     "title": "Clean Hearts Everywhere",
     "type": "scene",
     "text_mode": "caption",
@@ -118,24 +86,8 @@
     "rationale": "Continues the moral portrait of restrained, cheerful, sage-like citizens."
   },
   {
-    "slide": 9,
-    "slide_label": "Slide09 - No Greed No Theft",
-    "title": "No Greed No Theft",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "What does a city with no greedy, no thief, no liar mean — poetic exaggeration or psychological map?",
-    "answer": "It is a map of the mind. Ayodhya means a place no enemy can win. The mind wins when it feels enough. Greed opens the door for lies and theft. When people feel content with their share, bad acts have no room to grow. Shut one greedy scroll for half an hour daily, and feel your mind grow strong.",
-    "on_slide_text": "Is a city with no greed just a sweet dream? No, it is a map of your mind. Ayodhya means no enemy can win it. Greed opens the door for lies and theft. When hearts feel enough with their share, bad acts find no room. Close one greedy scroll for half an hour each day.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reads Ayodhya as inner contentment that cuts crime at its root."
-  },
-  {
-    "slide": 10,
-    "slide_label": "Slide10 - Dressed in Joy",
+    "slide": 7,
+    "slide_label": "Slide07 - Dressed in Joy",
     "title": "Dressed in Joy",
     "type": "scene",
     "text_mode": "caption",
@@ -148,8 +100,8 @@
     "rationale": "Shows adornment, cleanliness, pure food, and charity held with self-control."
   },
   {
-    "slide": 11,
-    "slide_label": "Slide11 - No Dark Homes",
+    "slide": 8,
+    "slide_label": "Slide08 - No Dark Homes",
     "title": "No Dark Homes",
     "type": "scene",
     "text_mode": "caption",
@@ -163,8 +115,8 @@
     "rationale": "Marks universal worship and absence of theft and wrong livelihood."
   },
   {
-    "slide": 12,
-    "slide_label": "Slide12 - Wise and Giving Guides",
+    "slide": 9,
+    "slide_label": "Slide09 - Wise and Giving Guides",
     "title": "Wise and Giving Guides",
     "type": "scene",
     "text_mode": "caption",
@@ -177,8 +129,8 @@
     "rationale": "Praises self-controlled Brahmanas learned in Vedas and generous in gifts."
   },
   {
-    "slide": 13,
-    "slide_label": "Slide13 - Faces Full of Light",
+    "slide": 10,
+    "slide_label": "Slide10 - Faces Full of Light",
     "title": "Faces Full of Light",
     "type": "scene",
     "text_mode": "caption",
@@ -192,8 +144,8 @@
     "rationale": "Shows splendour, beauty, and heartfelt loyalty to the king."
   },
   {
-    "slide": 14,
-    "slide_label": "Slide14 - Serving Gods and Guests",
+    "slide": 11,
+    "slide_label": "Slide11 - Serving Gods and Guests",
     "title": "Serving Gods and Guests",
     "type": "scene",
     "text_mode": "caption",
@@ -207,8 +159,8 @@
     "rationale": "Unites gratitude, charity, and valour in service of gods and guests."
   },
   {
-    "slide": 15,
-    "slide_label": "Slide15 - Long Happy Homes",
+    "slide": 12,
+    "slide_label": "Slide12 - Long Happy Homes",
     "title": "Long Happy Homes",
     "type": "scene",
     "text_mode": "caption",
@@ -221,8 +173,8 @@
     "rationale": "Depicts long life, joint families, and affection rooted in dharma."
   },
   {
-    "slide": 16,
-    "slide_label": "Slide16 - Each Duty in Place",
+    "slide": 13,
+    "slide_label": "Slide13 - Each Duty in Place",
     "title": "Each Duty in Place",
     "type": "scene",
     "text_mode": "caption",
@@ -237,24 +189,8 @@
     "rationale": "Orders the four duties in harmony under Dasharatha's skilled rule."
   },
   {
-    "slide": 17,
-    "slide_label": "Slide17 - Teamwork Not Rank",
-    "title": "Teamwork Not Rank",
-    "type": "insight",
-    "text_mode": null,
-    "speaker": null,
-    "question": "How should we read Kshatriyas under Brahmanas and Vaishyas behind Kshatriyas today — is it mere praise of old hierarchy?",
-    "answer": "Read it as clear teamwork, not high and low. Each group serves the other with a gift. Guides give wisdom, guards give safety, traders give food, helpers join all with care. Today all say equal but fight for the same job. Write your three life roles and do one fixed duty for each this week without complaint.",
-    "on_slide_text": "Why do groups follow each other — is it unfair rank? No, it is clear teamwork for all. Guides give wisdom, guards give safety, traders give food, helpers join with care. All serve gods and guests together. Write your three life jobs and do one true duty for each this week.",
-    "characters": [
-      "Kavya"
-    ],
-    "location": null,
-    "rationale": "Reframes varna as mutual service and role-clarity for today."
-  },
-  {
-    "slide": 18,
-    "slide_label": "Slide18 - Lions and Swift Horses",
+    "slide": 14,
+    "slide_label": "Slide14 - Lions and Swift Horses",
     "title": "Lions and Swift Horses",
     "type": "scene",
     "text_mode": "caption",
@@ -268,8 +204,8 @@
     "rationale": "Displays lion-like warriors and famed horses as city strength."
   },
   {
-    "slide": 19,
-    "slide_label": "Slide19 - Hills That Walk",
+    "slide": 15,
+    "slide_label": "Slide15 - Hills That Walk",
     "title": "Hills That Walk",
     "type": "scene",
     "text_mode": "caption",
@@ -282,8 +218,8 @@
     "rationale": "Details mountain-like elephants of noble breeds guarding the city."
   },
   {
-    "slide": 20,
-    "slide_label": "Slide20 - The City None Can Win",
+    "slide": 16,
+    "slide_label": "Slide16 - The City None Can Win",
     "title": "The City None Can Win",
     "type": "scene",
     "text_mode": "caption",
@@ -295,6 +231,70 @@
     ],
     "location": "Ayodhya",
     "rationale": "Closes the city portrait with its unconquerable name and moon-like king."
+  },
+  {
+    "slide": 17,
+    "slide_label": "Slide17 - City Before Hero",
+    "title": "City Before Hero",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why does Valmiki describe the city of Ayodhya in such detail before introducing Rama himself — why the city before the hero?",
+    "answer": "Because Rama is not dropped from the sky. He grows from a healthy home like a tree from good soil. When the king keeps his word, people speak truth. When the king controls himself, the city stays clean. So first check your home team. Live one good rule yourself before you ask others.",
+    "on_slide_text": "Why show the city before the hero? Because a hero grows like a tree from good soil, not dropped from the sky. When the king keeps his word, people speak truth. When the king is calm, the city stays clean. Fix one rule in your home, and follow it first yourself.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reflects that dharma is first a healthy system, then a person."
+  },
+  {
+    "slide": 18,
+    "slide_label": "Slide18 - Joy With Control",
+    "title": "Joy With Control",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "Why is Dasharatha called in the same breath splendid like Indra-Kubera and self-controlled like a Maharshi — can enjoyment and restraint coexist?",
+    "answer": "Yes, they can live together. Having nice things is not bad if you are not their slave. Dasharatha enjoys wealth but keeps it inside duty. His garlands and perfumes show care, not greed. Power helps people only when tied by self-control. Try it: enjoy one treat for seven days only inside a limit you set.",
+    "on_slide_text": "How can a king enjoy riches and still be calm like a sage? Because holding things is different from being their slave. Dasharatha keeps wealth and joy inside duty. His perfumes and garlands show care, not greed. Pick one pleasure and enjoy it for seven days only inside your own limit.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Explains how wealth and desire bound by dharma become discipline, not lust."
+  },
+  {
+    "slide": 19,
+    "slide_label": "Slide19 - No Greed No Theft",
+    "title": "No Greed No Theft",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "What does a city with no greedy, no thief, no liar mean — poetic exaggeration or psychological map?",
+    "answer": "It is a map of the mind. Ayodhya means a place no enemy can win. The mind wins when it feels enough. Greed opens the door for lies and theft. When people feel content with their share, bad acts have no room to grow. Shut one greedy scroll for half an hour daily, and feel your mind grow strong.",
+    "on_slide_text": "Is a city with no greed just a sweet dream? No, it is a map of your mind. Ayodhya means no enemy can win it. Greed opens the door for lies and theft. When hearts feel enough with their share, bad acts find no room. Close one greedy scroll for half an hour each day.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reads Ayodhya as inner contentment that cuts crime at its root."
+  },
+  {
+    "slide": 20,
+    "slide_label": "Slide20 - Teamwork Not Rank",
+    "title": "Teamwork Not Rank",
+    "type": "insight",
+    "text_mode": null,
+    "speaker": null,
+    "question": "How should we read Kshatriyas under Brahmanas and Vaishyas behind Kshatriyas today — is it mere praise of old hierarchy?",
+    "answer": "Read it as clear teamwork, not high and low. Each group serves the other with a gift. Guides give wisdom, guards give safety, traders give food, helpers join all with care. Today all say equal but fight for the same job. Write your three life roles and do one fixed duty for each this week without complaint.",
+    "on_slide_text": "Why do groups follow each other — is it unfair rank? No, it is clear teamwork for all. Guides give wisdom, guards give safety, traders give food, helpers join with care. All serve gods and guests together. Write your three life jobs and do one true duty for each this week.",
+    "characters": [
+      "Kavya"
+    ],
+    "location": null,
+    "rationale": "Reframes varna as mutual service and role-clarity for today."
   },
   {
     "slide": 21,

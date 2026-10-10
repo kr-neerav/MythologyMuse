@@ -1,143 +1,143 @@
 {
- "chapter": "Book_1_Bala_Kanda_Chapter_1",
- "slides": {
-  "1": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790166876.646388
+  "chapter": "Book_1_Bala_Kanda_Chapter_1",
+  "slides": {
+    "1": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790166876.646388
+    },
+    "23": {
+      "decision": "approved",
+      "note": "PASS final vs Q&A caption in caption field",
+      "updated_at": 1790912915
+    },
+    "3": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790166936.3632572
+    },
+    "24": {
+      "decision": "approved",
+      "note": "PASS final vs Q&A caption in caption field",
+      "updated_at": 1790912915
+    },
+    "4": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790167338.674313
+    },
+    "5": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790167388.987977
+    },
+    "6": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790167472.891328
+    },
+    "25": {
+      "decision": "approved",
+      "note": "PASS final vs Q&A caption in caption field",
+      "updated_at": 1790912915
+    },
+    "9": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "8": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "7": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "10": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790876360.516646
+    },
+    "12": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "2": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "11": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "13": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "14": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "15": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "26": {
+      "decision": "approved",
+      "note": "PASS final vs Q&A caption in caption field",
+      "updated_at": 1790912915
+    },
+    "16": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "17": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "18": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "19": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "20": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "21": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "22": {
+      "decision": "approved",
+      "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
+      "updated_at": 1790880414
+    },
+    "27": {
+      "decision": "approved",
+      "note": "PASS final vs Q&A caption in caption field",
+      "updated_at": 1790912915
+    }
   },
-  "2": {
-   "decision": "approved",
-   "note": "PASS final vs Q&A caption in caption field",
-   "updated_at": 1790912915
-  },
-  "4": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790166936.3632572
-  },
-  "5": {
-   "decision": "approved",
-   "note": "PASS final vs Q&A caption in caption field",
-   "updated_at": 1790912915
-  },
-  "6": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790167338.674313
-  },
-  "7": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790167388.987977
-  },
-  "8": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790167472.891328
-  },
-  "9": {
-   "decision": "approved",
-   "note": "PASS final vs Q&A caption in caption field",
-   "updated_at": 1790912915
-  },
-  "12": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "11": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "10": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "13": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790876360.516646
-  },
-  "15": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "3": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "14": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "16": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "17": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "18": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "19": {
-   "decision": "approved",
-   "note": "PASS final vs Q&A caption in caption field",
-   "updated_at": 1790912915
-  },
-  "20": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "21": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "22": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "23": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "24": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "25": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "26": {
-   "decision": "approved",
-   "note": "PASS final vs child-clear caption (insights: full Q&A restored)",
-   "updated_at": 1790880414
-  },
-  "27": {
-   "decision": "approved",
-   "note": "PASS final vs Q&A caption in caption field",
-   "updated_at": 1790912915
-  }
- },
- "chapter_decision": "unreviewed",
- "note": "",
- "updated_at": 1790877157.724202
+  "chapter_decision": "unreviewed",
+  "note": "",
+  "updated_at": 1790877157.724202
 }

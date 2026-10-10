@@ -1,0 +1,109 @@
+{
+ "chapter": "Book_1_Bala_Kanda_Chapter_6",
+ "series": {
+  "title_en": "Mythic Tales and Today's Truth",
+  "title_hi": "पौराणिक कथाएँ और आज का सच"
+ },
+ "season": 1,
+ "episode": 6,
+ "kind": "chapter",
+ "assets": {
+  "video_dual": "video_Book_1_Bala_Kanda_Chapter_6_dual.mp4",
+  "audio_en": "audio_track_Book_1_Bala_Kanda_Chapter_6_en.wav",
+  "audio_hi": "audio_track_Book_1_Bala_Kanda_Chapter_6_hi.wav",
+  "duration_s": null,
+  "durations_timed": false
+ },
+ "youtube": {
+  "how": "Upload video_dual once. Set default language Hindi, default audio Hindi; add English as an additional audio track (use the audio_en WAV), then paste the localized English title/description.",
+  "upload_file": "video_Book_1_Bala_Kanda_Chapter_6_dual.mp4",
+  "default_language": "hi",
+  "default_audio": "hi",
+  "title": "पौराणिक कथाएँ और आज का सच | नायक से पहले नगरी — अयोध्या का वर्णन",
+  "description": "राम से पहले वाल्मीकि अयोध्या का पूर्ण वर्णन करते हैं — धर्म की नगरी, जिसकी शोभा और व्यवस्था अपने राजा का पूर्वाभास देती है।\n\nकथा: काव्या • 20 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\n\nइस वीडियो में हिंदी और English दोनों ऑडियो ट्रैक हैं — प्लेयर में ऑडियो ट्रैक बदलकर भाषा चुनें।\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\n#रामायण #Ramayana #BalaKanda #Kavya",
+  "tags": [
+   "ramayana",
+   "ramayan",
+   "ramayan katha",
+   "ramayana hindi",
+   "ramayana english",
+   "bala kanda",
+   "valmiki ramayana",
+   "manmatha nath dutt",
+   "kavya narration",
+   "hindu mythology",
+   "indian mythology podcast",
+   "dharma",
+   "ram katha hindi",
+   "mythic tales and todays truth",
+   "ayodhya"
+  ],
+  "category": "Education",
+  "playlist": "रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)",
+  "audience": "general — not made for kids",
+  "chapters": [],
+  "additional_audio_tracks": [
+   {
+    "language": "hi",
+    "file": "audio_track_Book_1_Bala_Kanda_Chapter_6_hi.wav",
+    "role": "default"
+   },
+   {
+    "language": "en",
+    "file": "audio_track_Book_1_Bala_Kanda_Chapter_6_en.wav",
+    "role": "additional"
+   }
+  ],
+  "captions": "Upload Hindi + English subtitles from hindi/english_narration_<ch>.txt once timed files exist.",
+  "localized": {
+   "en": {
+    "title": "Mythic Tales and Today's Truth | The City Before the Hero — Ayodhya Described",
+    "description": "Before Rama himself, Valmiki describes Ayodhya in full — the city of dharma whose adornment and order prefigure its king.\n\nNarrated by Kavya • 20 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\n\nThis video carries both Hindi and English audio tracks — switch audio tracks in the player to change language.\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/",
+    "playlist": "Ramayana — Mythic Tales and Today's Truth (Hindi + English)"
+   }
+  }
+ },
+ "spotify": {
+  "strategy": "Two monolingual episodes in ONE show (one file = one language). Same season/episode numbers; language suffix in the title.",
+  "show": {
+   "title_en": "Mythic Tales and Today's Truth",
+   "title_hi": "पौराणिक कथाएँ और आज का सच"
+  },
+  "episodes": {
+   "hi": {
+    "upload_file": "audio_track_Book_1_Bala_Kanda_Chapter_6_hi.wav",
+    "title": "अध्याय 6: नायक से पहले नगरी — अयोध्या का वर्णन [Hindi]",
+    "description": "राम से पहले वाल्मीकि अयोध्या का पूर्ण वर्णन करते हैं — धर्म की नगरी, जिसकी शोभा और व्यवस्था अपने राजा का पूर्वाभास देती है।\n\nकथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\nयह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S1E6 [English])।",
+    "season": 1,
+    "episode": 6,
+    "language": "hi",
+    "episode_type": "full",
+    "explicit": false,
+    "artwork": "show-level cover (per-episode art optional)"
+   },
+   "en": {
+    "upload_file": "audio_track_Book_1_Bala_Kanda_Chapter_6_en.wav",
+    "title": "Chapter 6: The City Before the Hero — Ayodhya Described [English]",
+    "description": "Before Rama himself, Valmiki describes Ayodhya in full — the city of dharma whose adornment and order prefigure its king.\n\nNarrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\nThis episode is in English; the Hindi telling is a separate episode (S1E6 [Hindi]).",
+    "season": 1,
+    "episode": 6,
+    "language": "en",
+    "episode_type": "full",
+    "explicit": false,
+    "artwork": "show-level cover (per-episode art optional)"
+   }
+  }
+ },
+ "limits_check": {
+  "youtube_title_chars": 64,
+  "youtube_title_ok": true,
+  "youtube_description_chars": 784,
+  "youtube_description_ok": true,
+  "youtube_tags_chars": 227,
+  "youtube_tags_ok": true,
+  "youtube_localized_title_chars": 77,
+  "youtube_localized_title_ok": true,
+  "youtube_localized_description_chars": 771,
+  "youtube_localized_description_ok": true
+ }
+}
