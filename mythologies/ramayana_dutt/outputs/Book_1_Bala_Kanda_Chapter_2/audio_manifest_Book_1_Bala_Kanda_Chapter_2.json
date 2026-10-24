@@ -1,0 +1,281 @@
+{
+ "chapter": "Book_1_Bala_Kanda_Chapter_2",
+ "model": "gemini-3.8-flash-lite-tts",
+ "voice": "Leda",
+ "style": "calm, steady mythological storytelling narration",
+ "langs": [
+  "en",
+  "hi"
+ ],
+ "dry_run": false,
+ "delay_s": 7.0,
+ "daily_budget": 100,
+ "chunks": [
+  {
+   "index": 1,
+   "en": {
+    "chars": 343,
+    "file": "audio_en/chunk_001.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1484514,
+    "duration_s": 30.8
+   },
+   "hi": {
+    "chars": 324,
+    "file": "audio_hi/chunk_001.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1471074,
+    "duration_s": 30.52
+   }
+  },
+  {
+   "index": 2,
+   "en": {
+    "chars": 382,
+    "file": "audio_en/chunk_002.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1503714,
+    "duration_s": 31.2
+   },
+   "hi": {
+    "chars": 355,
+    "file": "audio_hi/chunk_002.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1661154,
+    "duration_s": 34.48
+   }
+  },
+  {
+   "index": 3,
+   "en": {
+    "chars": 381,
+    "file": "audio_en/chunk_003.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1628514,
+    "duration_s": 33.8
+   },
+   "hi": {
+    "chars": 356,
+    "file": "audio_hi/chunk_003.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1668834,
+    "duration_s": 34.64
+   }
+  },
+  {
+   "index": 4,
+   "en": {
+    "chars": 472,
+    "file": "audio_en/chunk_004.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1937634,
+    "duration_s": 40.24
+   },
+   "hi": {
+    "chars": 422,
+    "file": "audio_hi/chunk_004.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1918434,
+    "duration_s": 39.84
+   }
+  },
+  {
+   "index": 5,
+   "en": {
+    "chars": 454,
+    "file": "audio_en/chunk_005.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1613154,
+    "duration_s": 33.48
+   },
+   "hi": {
+    "chars": 400,
+    "file": "audio_hi/chunk_005.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1833954,
+    "duration_s": 38.08
+   }
+  },
+  {
+   "index": 6,
+   "en": {
+    "chars": 452,
+    "file": "audio_en/chunk_006.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1929954,
+    "duration_s": 40.08
+   },
+   "hi": {
+    "chars": 396,
+    "file": "audio_hi/chunk_006.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1764834,
+    "duration_s": 36.64
+   }
+  },
+  {
+   "index": 7,
+   "en": {
+    "chars": 524,
+    "file": "audio_en/chunk_007.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2150754,
+    "duration_s": 44.68
+   },
+   "hi": {
+    "chars": 428,
+    "file": "audio_hi/chunk_007.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1928034,
+    "duration_s": 40.04
+   }
+  },
+  {
+   "index": 8,
+   "en": {
+    "chars": 454,
+    "file": "audio_en/chunk_008.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1835874,
+    "duration_s": 38.12
+   },
+   "hi": {
+    "chars": 376,
+    "file": "audio_hi/chunk_008.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1837794,
+    "duration_s": 38.16
+   }
+  },
+  {
+   "index": 9,
+   "en": {
+    "chars": 326,
+    "file": "audio_en/chunk_009.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1457634,
+    "duration_s": 30.24
+   },
+   "hi": {
+    "chars": 281,
+    "file": "audio_hi/chunk_009.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 1411554,
+    "duration_s": 29.28
+   }
+  },
+  {
+   "index": 10,
+   "en": {
+    "chars": 716,
+    "file": "audio_en/chunk_010.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2934114,
+    "duration_s": 61.0
+   },
+   "hi": {
+    "chars": 682,
+    "file": "audio_hi/chunk_010.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 3010914,
+    "duration_s": 62.6
+   }
+  },
+  {
+   "index": 11,
+   "en": {
+    "chars": 802,
+    "file": "audio_en/chunk_011.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2978274,
+    "duration_s": 61.92
+   },
+   "hi": {
+    "chars": 734,
+    "file": "audio_hi/chunk_011.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2974434,
+    "duration_s": 61.84
+   }
+  },
+  {
+   "index": 12,
+   "en": {
+    "chars": 770,
+    "file": "audio_en/chunk_012.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 3010914,
+    "duration_s": 62.6
+   },
+   "hi": {
+    "chars": 678,
+    "file": "audio_hi/chunk_012.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2711394,
+    "duration_s": 56.36
+   }
+  },
+  {
+   "index": 13,
+   "en": {
+    "chars": 740,
+    "file": "audio_en/chunk_013.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2815074,
+    "duration_s": 58.52
+   },
+   "hi": {
+    "chars": 681,
+    "file": "audio_hi/chunk_013.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 3043554,
+    "duration_s": 63.28
+   }
+  },
+  {
+   "index": 14,
+   "en": {
+    "chars": 730,
+    "file": "audio_en/chunk_014.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2709474,
+    "duration_s": 56.32
+   },
+   "hi": {
+    "chars": 669,
+    "file": "audio_hi/chunk_014.wav",
+    "status": "ok",
+    "source": "synthesized",
+    "bytes": 2784354,
+    "duration_s": 57.88
+   }
+  }
+ ]
+}

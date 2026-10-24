@@ -8,58 +8,187 @@
  "episode": 2,
  "kind": "chapter",
  "assets": {
-  "video_dual": "video_Book_1_Bala_Kanda_Chapter_2_dual.mp4",
+  "video_en": "video_Book_1_Bala_Kanda_Chapter_2_en.mp4",
+  "video_hi": "video_Book_1_Bala_Kanda_Chapter_2_hi.mp4",
   "audio_en": "audio_track_Book_1_Bala_Kanda_Chapter_2_en.wav",
   "audio_hi": "audio_track_Book_1_Bala_Kanda_Chapter_2_hi.wav",
-  "duration_s": null,
-  "durations_timed": false
+  "duration_s": 623.6,
+  "duration_en_s": 623.0,
+  "duration_hi_s": 623.6,
+  "durations_timed": true
  },
  "youtube": {
-  "how": "Upload video_dual once. Set default language Hindi, default audio Hindi; add English as an additional audio track (use the audio_en WAV), then paste the localized English title/description.",
-  "upload_file": "video_Book_1_Bala_Kanda_Chapter_2_dual.mp4",
-  "default_language": "hi",
-  "default_audio": "hi",
-  "title": "पौराणिक कथाएँ और आज का सच | शाप से करुणा तक — श्लोक का जन्म",
-  "description": "क्रौंच-वध के शोक से वाल्मीकि के मुख से पहला श्लोक फूटता है; ब्रह्मा घाव को कार्य में बदलकर राम-कथा गाने का आदेश देते हैं।\n\nकथा: काव्या • 14 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\n\nइस वीडियो में हिंदी और English दोनों ऑडियो ट्रैक हैं — प्लेयर में ऑडियो ट्रैक बदलकर भाषा चुनें।\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\n#रामायण #Ramayana #BalaKanda #Kavya",
-  "tags": [
-   "ramayana",
-   "ramayan",
-   "ramayan katha",
-   "ramayana hindi",
-   "ramayana english",
-   "bala kanda",
-   "valmiki ramayana",
-   "manmatha nath dutt",
-   "kavya narration",
-   "hindu mythology",
-   "indian mythology podcast",
-   "dharma",
-   "ram katha hindi",
-   "mythic tales and todays truth",
-   "ayodhya"
-  ],
-  "category": "Education",
-  "playlist": "रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)",
-  "audience": "general — not made for kids",
-  "chapters": [],
-  "additional_audio_tracks": [
-   {
-    "language": "hi",
-    "file": "audio_track_Book_1_Bala_Kanda_Chapter_2_hi.wav",
-    "role": "default"
-   },
-   {
-    "language": "en",
-    "file": "audio_track_Book_1_Bala_Kanda_Chapter_2_en.wav",
-    "role": "additional"
-   }
-  ],
-  "captions": "Upload Hindi + English subtitles from hindi/english_narration_<ch>.txt once timed files exist.",
-  "localized": {
+  "strategy": "Two separate monolingual uploads per chapter (one file = one language).",
+  "uploads": {
    "en": {
-    "title": "Mythic Tales and Today's Truth | The Curse That Became Compassion — Birth of the Shloka",
-    "description": "Grief over the slain krauncha bursts from Valmiki as the first shloka; Brahma turns the wound into work and orders the Rama tale sung.\n\nNarrated by Kavya • 14 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\n\nThis video carries both Hindi and English audio tracks — switch audio tracks in the player to change language.\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/",
-    "playlist": "Ramayana — Mythic Tales and Today's Truth (Hindi + English)"
+    "upload_file": "video_Book_1_Bala_Kanda_Chapter_2_en.mp4",
+    "language": "en",
+    "title": "Book1 - Chapter 2 - The Curse That Became Compassion — Birth of the Shloka (English)",
+    "description": "Grief over the slain krauncha bursts from Valmiki as the first shloka; Brahma turns the wound into work and orders the Rama tale sung.\n\nNarrated by Kavya • 14 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\n\nThis video is the English telling; the Hindi telling is a separate upload on this channel.\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nChapters:\n00:00 Previously, we saw how Maharishi Valmiki asked…\n00:31 After listening to Narada, Valmiki worshipped him…\n01:02 Obeying his guru, Bharadwaja at once brought…\n01:36 Seeing the struggling bird and the weeping…\n02:16 Disciple Bharadwaja happily supported his guru's words,…\n02:50 The moment he saw Brahma, Valmiki rose…\n03:30 Lost in grief, Valmiki kept repeating the…\n04:14 As long as mountains and oceans remain…\n04:52 Thus blessed, the graceful and greatly famed…\n05:23 Why does the great epic begin not…\n06:24 The fowler was only doing his daily…\n07:26 Why does the wise Valmiki startle at…\n08:28 Why just before the killing is Tamasa's…\n09:27 Why does Brahma snatch Valmiki's private grief…\n\n#रामायण #Ramayana #BalaKanda #Kavya",
+    "tags": [
+     "ramayana",
+     "ramayan",
+     "ramayan katha",
+     "ramayana hindi",
+     "ramayana english",
+     "bala kanda",
+     "valmiki ramayana",
+     "manmatha nath dutt",
+     "kavya narration",
+     "hindu mythology",
+     "indian mythology podcast",
+     "dharma",
+     "ram katha hindi",
+     "mythic tales and todays truth",
+     "ayodhya"
+    ],
+    "category": "Education",
+    "playlist": "Ramayana — Mythic Tales and Today's Truth (Hindi + English)",
+    "audience": "general — not made for kids",
+    "chapters": [
+     {
+      "start": "00:00",
+      "title": "Previously, we saw how Maharishi Valmiki asked…"
+     },
+     {
+      "start": "00:31",
+      "title": "After listening to Narada, Valmiki worshipped him…"
+     },
+     {
+      "start": "01:02",
+      "title": "Obeying his guru, Bharadwaja at once brought…"
+     },
+     {
+      "start": "01:36",
+      "title": "Seeing the struggling bird and the weeping…"
+     },
+     {
+      "start": "02:16",
+      "title": "Disciple Bharadwaja happily supported his guru's words,…"
+     },
+     {
+      "start": "02:50",
+      "title": "The moment he saw Brahma, Valmiki rose…"
+     },
+     {
+      "start": "03:30",
+      "title": "Lost in grief, Valmiki kept repeating the…"
+     },
+     {
+      "start": "04:14",
+      "title": "As long as mountains and oceans remain…"
+     },
+     {
+      "start": "04:52",
+      "title": "Thus blessed, the graceful and greatly famed…"
+     },
+     {
+      "start": "05:23",
+      "title": "Why does the great epic begin not…"
+     },
+     {
+      "start": "06:24",
+      "title": "The fowler was only doing his daily…"
+     },
+     {
+      "start": "07:26",
+      "title": "Why does the wise Valmiki startle at…"
+     },
+     {
+      "start": "08:28",
+      "title": "Why just before the killing is Tamasa's…"
+     },
+     {
+      "start": "09:27",
+      "title": "Why does Brahma snatch Valmiki's private grief…"
+     }
+    ],
+    "captions": "Upload English subtitles from english_narration_<ch>.txt once timed files exist."
+   },
+   "hi": {
+    "upload_file": "video_Book_1_Bala_Kanda_Chapter_2_hi.mp4",
+    "language": "hi",
+    "title": "Book1 - Chapter 2 - The Curse That Became Compassion — Birth of the Shloka (Hindi)",
+    "description": "क्रौंच-वध के शोक से वाल्मीकि के मुख से पहला श्लोक फूटता है; ब्रह्मा घाव को कार्य में बदलकर राम-कथा गाने का आदेश देते हैं।\n\nकथा: काव्या • 14 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\n\nयह वीडियो हिंदी कथा है; अंग्रेज़ी कथा इसी चैनल पर अलग अपलोड के रूप में उपलब्ध है।\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nअध्याय:\n00:00 पिछली बार हमने देखा कि महर्षि वाल्मीकि…\n00:31 नारद की बात सुनकर वाल्मीकि ने अपने…\n01:05 गुरु की आज्ञा मानकर भारद्वाज ने तुरंत…\n01:40 उस तड़पते पक्षी और रोती हुई मादा…\n02:19 शिष्य भारद्वाज ने प्रसन्न होकर गुरु की…\n02:58 ब्रह्मा को देखते ही वाल्मीकि हैरानी से…\n03:34 दुख में डूबे वाल्मीकि मन ही मन…\n04:14 जब तक धरती पर पहाड़ और सागर…\n04:52 इस तरह कृपा पाकर सुंदर रूप और…\n05:22 महाकाव्य का पहला शब्द आशीर्वाद नहीं, श्राप…\n06:24 बहेलिया तो अपना रोज़ का काम कर…\n07:26 इतने ज्ञानी वाल्मीकि अपने ही मुँह से…\n08:22 क्रौंच-वध से ठीक पहले तमसा के कीचड़-रहित…\n09:26 ब्रह्मा वाल्मीकि के निजी शोक को छीनकर…\n\n#रामायण #Ramayana #BalaKanda #Kavya",
+    "tags": [
+     "ramayana",
+     "ramayan",
+     "ramayan katha",
+     "ramayana hindi",
+     "ramayana english",
+     "bala kanda",
+     "valmiki ramayana",
+     "manmatha nath dutt",
+     "kavya narration",
+     "hindu mythology",
+     "indian mythology podcast",
+     "dharma",
+     "ram katha hindi",
+     "mythic tales and todays truth",
+     "ayodhya"
+    ],
+    "category": "Education",
+    "playlist": "रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)",
+    "audience": "general — not made for kids",
+    "chapters": [
+     {
+      "start": "00:00",
+      "title": "पिछली बार हमने देखा कि महर्षि वाल्मीकि…"
+     },
+     {
+      "start": "00:31",
+      "title": "नारद की बात सुनकर वाल्मीकि ने अपने…"
+     },
+     {
+      "start": "01:05",
+      "title": "गुरु की आज्ञा मानकर भारद्वाज ने तुरंत…"
+     },
+     {
+      "start": "01:40",
+      "title": "उस तड़पते पक्षी और रोती हुई मादा…"
+     },
+     {
+      "start": "02:19",
+      "title": "शिष्य भारद्वाज ने प्रसन्न होकर गुरु की…"
+     },
+     {
+      "start": "02:58",
+      "title": "ब्रह्मा को देखते ही वाल्मीकि हैरानी से…"
+     },
+     {
+      "start": "03:34",
+      "title": "दुख में डूबे वाल्मीकि मन ही मन…"
+     },
+     {
+      "start": "04:14",
+      "title": "जब तक धरती पर पहाड़ और सागर…"
+     },
+     {
+      "start": "04:52",
+      "title": "इस तरह कृपा पाकर सुंदर रूप और…"
+     },
+     {
+      "start": "05:22",
+      "title": "महाकाव्य का पहला शब्द आशीर्वाद नहीं, श्राप…"
+     },
+     {
+      "start": "06:24",
+      "title": "बहेलिया तो अपना रोज़ का काम कर…"
+     },
+     {
+      "start": "07:26",
+      "title": "इतने ज्ञानी वाल्मीकि अपने ही मुँह से…"
+     },
+     {
+      "start": "08:22",
+      "title": "क्रौंच-वध से ठीक पहले तमसा के कीचड़-रहित…"
+     },
+     {
+      "start": "09:26",
+      "title": "ब्रह्मा वाल्मीकि के निजी शोक को छीनकर…"
+     }
+    ],
+    "captions": "Upload Hindi subtitles from hindi_narration_<ch>.txt once timed files exist."
    }
   }
  },
@@ -72,7 +201,7 @@
   "episodes": {
    "hi": {
     "upload_file": "audio_track_Book_1_Bala_Kanda_Chapter_2_hi.wav",
-    "title": "अध्याय 2: शाप से करुणा तक — श्लोक का जन्म [Hindi]",
+    "title": "Book1 - Chapter 2 - शाप से करुणा तक — श्लोक का जन्म [Hindi]",
     "description": "क्रौंच-वध के शोक से वाल्मीकि के मुख से पहला श्लोक फूटता है; ब्रह्मा घाव को कार्य में बदलकर राम-कथा गाने का आदेश देते हैं।\n\nकथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\nयह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S1E2 [English])।",
     "season": 1,
     "episode": 2,
@@ -83,7 +212,7 @@
    },
    "en": {
     "upload_file": "audio_track_Book_1_Bala_Kanda_Chapter_2_en.wav",
-    "title": "Chapter 2: The Curse That Became Compassion — Birth of the Shloka [English]",
+    "title": "Book1 - Chapter 2 - The Curse That Became Compassion — Birth of the Shloka [English]",
     "description": "Grief over the slain krauncha bursts from Valmiki as the first shloka; Brahma turns the wound into work and orders the Rama tale sung.\n\nNarrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\nThis episode is in English; the Hindi telling is a separate episode (S1E2 [Hindi]).",
     "season": 1,
     "episode": 2,
@@ -95,15 +224,15 @@
   }
  },
  "limits_check": {
-  "youtube_title_chars": 59,
+  "youtube_title_chars": 84,
   "youtube_title_ok": true,
-  "youtube_description_chars": 782,
+  "youtube_description_chars": 1510,
   "youtube_description_ok": true,
   "youtube_tags_chars": 227,
   "youtube_tags_ok": true,
-  "youtube_localized_title_chars": 87,
-  "youtube_localized_title_ok": true,
-  "youtube_localized_description_chars": 784,
-  "youtube_localized_description_ok": true
+  "youtube_hi_title_chars": 82,
+  "youtube_hi_title_ok": true,
+  "youtube_hi_description_chars": 1377,
+  "youtube_hi_description_ok": true
  }
 }

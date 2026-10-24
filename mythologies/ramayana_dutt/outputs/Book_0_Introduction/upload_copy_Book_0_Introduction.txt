@@ -84,7 +84,7 @@ SPOTIFY — ENGLISH
 File: mythologies/ramayana_dutt/outputs/Book_0_Introduction/audio_track_Book_0_Introduction_en.wav
 ================================================================
 TITLE:
-Intro — Beginning the Ramayana Journey [English]
+Introduction - Intro — Beginning the Ramayana Journey [English]
 
 DESCRIPTION:
 Kavya opens the journey: what the Ramayana is, why Dutt's translation grounds every episode, how each tale pairs story with reflection, and how first-time listeners should begin.
@@ -101,7 +101,7 @@ SPOTIFY — HINDI
 File: mythologies/ramayana_dutt/outputs/Book_0_Introduction/audio_track_Book_0_Introduction_hi.wav
 ================================================================
 TITLE:
-परिचय — रामायण यात्रा का शुभारंभ [Hindi]
+Introduction - परिचय — रामायण यात्रा का शुभारंभ [Hindi]
 
 DESCRIPTION:
 काव्या यात्रा का शुभारंभ करती हैं: रामायण क्या है, हर कड़ी दत्त के अनुवाद पर क्यों टिकी है, हर कथा के साथ चिंतन-प्रश्न क्यों हैं, और पहली बार सुनने वाला श्रोता शुरुआत कैसे करे।

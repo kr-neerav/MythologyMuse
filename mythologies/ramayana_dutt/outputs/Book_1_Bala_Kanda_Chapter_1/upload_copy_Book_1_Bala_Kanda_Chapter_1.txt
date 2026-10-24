@@ -114,7 +114,7 @@ SPOTIFY — ENGLISH
 File: mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_1/audio_track_Book_1_Bala_Kanda_Chapter_1_en.wav
 ================================================================
 TITLE:
-Chapter 1: Who Is the Complete Man? Valmiki Questions Narada [English]
+Book1 - Chapter 1 - Who Is the Complete Man? Valmiki Questions Narada [English]
 
 DESCRIPTION:
 Valmiki asks Narada who in this age is full of dharma, truth and compassion; Narada answers with Rama's brief tale, the epic's executive summary.
@@ -131,7 +131,7 @@ SPOTIFY — HINDI
 File: mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_1/audio_track_Book_1_Bala_Kanda_Chapter_1_hi.wav
 ================================================================
 TITLE:
-अध्याय 1: पूर्ण पुरुष कौन है? वाल्मीकि का नारद से प्रश्न [Hindi]
+Book1 - Chapter 1 - पूर्ण पुरुष कौन है? वाल्मीकि का नारद से प्रश्न [Hindi]
 
 DESCRIPTION:
 वाल्मीकि नारद से पूछते हैं — इस युग में धर्म, सत्य और करुणा से भरा पूर्ण पुरुष कौन है; नारद राम की संक्षिप्त कथा सुनाते हैं, महाकाव्य का कार्यकारी सारांश।

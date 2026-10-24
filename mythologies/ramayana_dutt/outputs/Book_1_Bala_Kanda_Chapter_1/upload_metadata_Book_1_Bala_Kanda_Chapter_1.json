@@ -289,7 +289,7 @@
   "episodes": {
    "hi": {
     "upload_file": "audio_track_Book_1_Bala_Kanda_Chapter_1_hi.wav",
-    "title": "अध्याय 1: पूर्ण पुरुष कौन है? वाल्मीकि का नारद से प्रश्न [Hindi]",
+    "title": "Book1 - Chapter 1 - पूर्ण पुरुष कौन है? वाल्मीकि का नारद से प्रश्न [Hindi]",
     "description": "वाल्मीकि नारद से पूछते हैं — इस युग में धर्म, सत्य और करुणा से भरा पूर्ण पुरुष कौन है; नारद राम की संक्षिप्त कथा सुनाते हैं, महाकाव्य का कार्यकारी सारांश।\n\nकथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\nयह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S1E1 [English])।",
     "season": 1,
     "episode": 1,
@@ -300,7 +300,7 @@
    },
    "en": {
     "upload_file": "audio_track_Book_1_Bala_Kanda_Chapter_1_en.wav",
-    "title": "Chapter 1: Who Is the Complete Man? Valmiki Questions Narada [English]",
+    "title": "Book1 - Chapter 1 - Who Is the Complete Man? Valmiki Questions Narada [English]",
     "description": "Valmiki asks Narada who in this age is full of dharma, truth and compassion; Narada answers with Rama's brief tale, the epic's executive summary.\n\nNarrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\nThis episode is in English; the Hindi telling is a separate episode (S1E1 [Hindi]).",
     "season": 1,
     "episode": 1,

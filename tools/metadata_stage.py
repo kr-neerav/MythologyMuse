@@ -361,11 +361,13 @@ def build_metadata(myth_root: Path, chapter: str) -> dict:
         tags.append("ramayana introduction")
 
     if kind == "intro":
-        sp_title_hi = f"{info['topic_hi']} [Hindi]"
-        sp_title_en = f"{info['topic_en']} [English]"
+        sp_title_hi = f"Introduction - {info['topic_hi']} [Hindi]"
+        sp_title_en = f"Introduction - {info['topic_en']} [English]"
     else:
-        sp_title_hi = f"अध्याय {episode}: {info['topic_hi']} [Hindi]"
-        sp_title_en = f"Chapter {episode}: {info['topic_en']} [English]"
+        sp_title_hi = (f"Book{season} - Chapter {episode} - "
+                       f"{info['topic_hi']} [Hindi]")
+        sp_title_en = (f"Book{season} - Chapter {episode} - "
+                       f"{info['topic_en']} [English]")
     sp_desc_hi = "\n".join([
         f"{info['blurb_hi']}",
         "",

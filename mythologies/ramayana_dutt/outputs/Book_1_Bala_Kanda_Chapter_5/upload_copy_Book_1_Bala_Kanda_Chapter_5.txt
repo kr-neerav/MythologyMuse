@@ -1,0 +1,90 @@
+UPLOAD COPY — Book_1_Bala_Kanda_Chapter_5 — paste from this file, not from chat.
+Two separate YouTube uploads (EN + HI) plus two Spotify episodes.
+
+================================================================
+YOUTUBE — ENGLISH
+File: mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_5/video_Book_1_Bala_Kanda_Chapter_5_en.mp4
+Category: Education | Audience: general — not made for kids | Language: English
+Playlist: Ramayana — Mythic Tales and Today's Truth (Hindi + English)
+================================================================
+TITLE:
+Book1 - Chapter 5 - Kings Before Rama — Lineage as Restraint (English)
+
+DESCRIPTION:
+Before Rama is born, the tale sings bygone kings — Prajapati, Ikshvaku, Sagara: lineage as measure, where might that spares the hidden and the fleeing defines civilization.
+
+Narrated by Kavya • 14 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.
+Source: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.
+
+This video is the English telling; the Hindi telling is a separate upload on this channel.
+
+Background music: "Meditation Impromptu 01" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+#रामायण #Ramayana #BalaKanda #Kavya
+
+TAGS (comma-separated):
+ramayana, ramayan, ramayan katha, ramayana hindi, ramayana english, bala kanda, valmiki ramayana, manmatha nath dutt, kavya narration, hindu mythology, indian mythology podcast, dharma, ram katha hindi, mythic tales and todays truth, ayodhya
+
+CAPTIONS:
+Upload English subtitles from english_narration_<ch>.txt once timed files exist.
+
+================================================================
+YOUTUBE — HINDI
+File: mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_5/video_Book_1_Bala_Kanda_Chapter_5_hi.mp4
+Category: Education | Audience: general — not made for kids | Language: Hindi
+Playlist: रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)
+================================================================
+TITLE:
+Book1 - Chapter 5 - Kings Before Rama — Lineage as Restraint (Hindi)
+
+DESCRIPTION:
+राम के जन्म से पहले बीते राजाओं का गान — प्रजापति, इक्ष्वाकु, सगर: वंशावली ही मापदंड, जहाँ छिपे और भागते पर वार न करने वाला संयम सभ्यता को परिभाषित करता है।
+
+कथा: काव्या • 14 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।
+स्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।
+
+यह वीडियो हिंदी कथा है; अंग्रेज़ी कथा इसी चैनल पर अलग अपलोड के रूप में उपलब्ध है।
+
+Background music: "Meditation Impromptu 01" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+#रामायण #Ramayana #BalaKanda #Kavya
+
+TAGS (comma-separated):
+ramayana, ramayan, ramayan katha, ramayana hindi, ramayana english, bala kanda, valmiki ramayana, manmatha nath dutt, kavya narration, hindu mythology, indian mythology podcast, dharma, ram katha hindi, mythic tales and todays truth, ayodhya
+
+CAPTIONS:
+Upload Hindi subtitles from hindi_narration_<ch>.txt once timed files exist.
+
+================================================================
+SPOTIFY — ENGLISH
+File: mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_5/audio_track_Book_1_Bala_Kanda_Chapter_5_en.wav
+================================================================
+TITLE:
+Book1 - Chapter 5 - Kings Before Rama — Lineage as Restraint [English]
+
+DESCRIPTION:
+Before Rama is born, the tale sings bygone kings — Prajapati, Ikshvaku, Sagara: lineage as measure, where might that spares the hidden and the fleeing defines civilization.
+
+Narrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.
+Source: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.
+This episode is in English; the Hindi telling is a separate episode (S1E5 [Hindi]).
+
+Season 1, Episode 5, language en, type full, explicit False.
+Artwork: show-level cover (per-episode art optional)
+
+================================================================
+SPOTIFY — HINDI
+File: mythologies/ramayana_dutt/outputs/Book_1_Bala_Kanda_Chapter_5/audio_track_Book_1_Bala_Kanda_Chapter_5_hi.wav
+================================================================
+TITLE:
+Book1 - Chapter 5 - राम से पहले राजा — संयम ही सभ्यता [Hindi]
+
+DESCRIPTION:
+राम के जन्म से पहले बीते राजाओं का गान — प्रजापति, इक्ष्वाकु, सगर: वंशावली ही मापदंड, जहाँ छिपे और भागते पर वार न करने वाला संयम सभ्यता को परिभाषित करता है।
+
+कथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।
+स्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।
+यह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S1E5 [English])।
+
+Season 1, Episode 5, language hi, type full, explicit False.
+Artwork: show-level cover (per-episode art optional)

@@ -1277,6 +1277,15 @@ def main() -> int:
                   "_en.mp4")
               and _meta["youtube"]["uploads"]["hi"]["upload_file"].endswith(
                   "_hi.mp4"))
+        check("metadata spotify titles carry book-chapter prefix",
+              _meta["spotify"]["episodes"]["en"]["title"].startswith(
+                  "Book9 - Chapter 1 - ")
+              and _meta["spotify"]["episodes"]["en"]["title"].endswith(
+                  "[English]")
+              and _meta["spotify"]["episodes"]["hi"]["title"].startswith(
+                  "Book9 - Chapter 1 - ")
+              and _meta["spotify"]["episodes"]["hi"]["title"].endswith(
+                  "[Hindi]"))
         check("metadata passes platform limits",
               all(v for k, v in _lc.items() if k.endswith("_ok")), f"{_lc}")
         check("metadata untimed without manifests",

@@ -169,7 +169,7 @@
   "episodes": {
    "hi": {
     "upload_file": "audio_track_Book_0_Introduction_hi.wav",
-    "title": "परिचय — रामायण यात्रा का शुभारंभ [Hindi]",
+    "title": "Introduction - परिचय — रामायण यात्रा का शुभारंभ [Hindi]",
     "description": "काव्या यात्रा का शुभारंभ करती हैं: रामायण क्या है, हर कड़ी दत्त के अनुवाद पर क्यों टिकी है, हर कथा के साथ चिंतन-प्रश्न क्यों हैं, और पहली बार सुनने वाला श्रोता शुरुआत कैसे करे।\n\nकथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\nयह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S0E0 [English])।",
     "season": 0,
     "episode": 0,
@@ -180,7 +180,7 @@
    },
    "en": {
     "upload_file": "audio_track_Book_0_Introduction_en.wav",
-    "title": "Intro — Beginning the Ramayana Journey [English]",
+    "title": "Introduction - Intro — Beginning the Ramayana Journey [English]",
     "description": "Kavya opens the journey: what the Ramayana is, why Dutt's translation grounds every episode, how each tale pairs story with reflection, and how first-time listeners should begin.\n\nNarrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\nThis episode is in English; the Hindi telling is a separate episode (S0E0 [Hindi]).",
     "season": 0,
     "episode": 0,
