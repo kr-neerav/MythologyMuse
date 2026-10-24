@@ -1243,7 +1243,7 @@ def main() -> int:
             else:
                 os.environ["GEMINI_API_KEY"] = _old_key
 
-    # upload metadata: dual-audio shape, limits, fallbacks (no network)
+    # upload metadata: separate EN/HI video shape, limits, fallbacks (no network)
     check("metadata no-chapter rc=2", metadata.main([]) == 2)
     with tempfile.TemporaryDirectory() as tmp:
         _mroot = Path(tmp)
@@ -1258,15 +1258,31 @@ def main() -> int:
              "text_en": "Why did this happen? <formal>"}]), encoding="utf-8")
         _meta = metadata.build_metadata(_mroot, "Book_9_Test_Chapter_1")
         _lc = _meta["limits_check"]
-        check("metadata ships one youtube plus two spotify episodes",
+        check("metadata ships two youtube uploads plus two spotify episodes",
               set(_meta["spotify"]["episodes"]) == {"hi", "en"}
-              and _meta["youtube"]["default_language"] == "hi"
-              and len(_meta["youtube"]["additional_audio_tracks"]) == 2)
+              and set(_meta["youtube"]["uploads"]) == {"en", "hi"}
+              and _meta["assets"]["video_en"].endswith("_en.mp4")
+              and _meta["assets"]["video_hi"].endswith("_hi.mp4"))
+        check("metadata youtube has separate EN/HI uploads",
+              _meta["youtube"]["uploads"]["en"]["language"] == "en"
+              and _meta["youtube"]["uploads"]["en"]["title"].startswith(
+                  "Book9 - Chapter 1 - ")
+              and _meta["youtube"]["uploads"]["en"]["title"].endswith(
+                  "(English)")
+              and _meta["youtube"]["uploads"]["hi"]["title"].startswith(
+                  "Book9 - Chapter 1 - ")
+              and _meta["youtube"]["uploads"]["hi"]["title"].endswith(
+                  "(Hindi)")
+              and _meta["youtube"]["uploads"]["en"]["upload_file"].endswith(
+                  "_en.mp4")
+              and _meta["youtube"]["uploads"]["hi"]["upload_file"].endswith(
+                  "_hi.mp4"))
         check("metadata passes platform limits",
               all(v for k, v in _lc.items() if k.endswith("_ok")), f"{_lc}")
         check("metadata untimed without manifests",
               _meta["assets"]["duration_s"] is None
-              and _meta["youtube"]["chapters"] == [])
+              and _meta["youtube"]["uploads"]["en"]["chapters"] == []
+              and _meta["youtube"]["uploads"]["hi"]["chapters"] == [])
         try:
             metadata.build_metadata(_mroot, "Book_9_Test_Chapter_9")
             check("metadata missing script raises", False)
@@ -1277,8 +1293,18 @@ def main() -> int:
             encoding="utf-8")
         _stale = metadata.build_metadata(_mroot, "Book_9_Test_Chapter_1")
         check("metadata drops chapters on stale manifest",
-              _stale["youtube"]["chapters"] == []
-              and _stale["assets"]["duration_s"] == 6.0)
+              _stale["youtube"]["uploads"]["en"]["chapters"] == []
+              and _stale["youtube"]["uploads"]["hi"]["chapters"] == []
+              and _stale["assets"]["duration_s"] == 6.0
+              and _stale["assets"]["duration_en_s"] == 5.0
+              and _stale["assets"]["duration_hi_s"] == 6.0)
+        _rc, _ = metadata.write_metadata(_mroot, "Book_9_Test_Chapter_1")
+        _copy = (_mch / "upload_copy_Book_9_Test_Chapter_1.txt").read_text(
+            encoding="utf-8")
+        check("metadata writes paste-ready copy in chapter dir",
+              _rc == 0 and "(Hindi)" in _copy
+              and "YOUTUBE — ENGLISH" in _copy
+              and "SPOTIFY — HINDI" in _copy)
     check("metadata chapter numbers parse",
           metadata._chapter_numbers("Book_1_Bala_Kanda_Chapter_5") == (1, 5, "chapter")
           and metadata._chapter_numbers("Book_0_Introduction") == (0, 0, "intro"))

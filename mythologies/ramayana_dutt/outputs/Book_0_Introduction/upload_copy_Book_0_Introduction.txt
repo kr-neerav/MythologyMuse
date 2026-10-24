@@ -1,0 +1,114 @@
+UPLOAD COPY — Book_0_Introduction — paste from this file, not from chat.
+Two separate YouTube uploads (EN + HI) plus two Spotify episodes.
+
+================================================================
+YOUTUBE — ENGLISH
+File: mythologies/ramayana_dutt/outputs/Book_0_Introduction/video_Book_0_Introduction_en.mp4
+Category: Education | Audience: general — not made for kids | Language: English
+Playlist: Ramayana — Mythic Tales and Today's Truth (Hindi + English)
+================================================================
+TITLE:
+Introduction - Intro — Beginning the Ramayana Journey (English)
+
+DESCRIPTION:
+Kavya opens the journey: what the Ramayana is, why Dutt's translation grounds every episode, how each tale pairs story with reflection, and how first-time listeners should begin.
+
+Narrated by Kavya • 10 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.
+Source: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.
+
+This video is the English telling; the Hindi telling is a separate upload on this channel.
+
+Background music: "Meditation Impromptu 01" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+Chapters:
+00:00 Hello friends, and a heartfelt welcome to…
+00:30 The Ramayana is the creation of Maharishi…
+01:06 Every episode is grounded in Manmatha Nath…
+01:37 Each of our episodes is woven in…
+02:13 One important note — the opening chapters…
+02:47 Have no worry about language. The tale…
+03:19 So this journey is not mere entertainment.…
+03:51 And now, the hour of beginning is…
+04:26 Why pair every tale with a reflective…
+05:07 How should a listener hearing the Ramayana…
+
+#रामायण #Ramayana #Introduction #Kavya
+
+TAGS (comma-separated):
+ramayana, ramayan, ramayan katha, ramayana hindi, ramayana english, bala kanda, valmiki ramayana, manmatha nath dutt, kavya narration, hindu mythology, indian mythology podcast, dharma, ram katha hindi, mythic tales and todays truth, ramayana introduction
+
+CAPTIONS:
+Upload English subtitles from english_narration_<ch>.txt once timed files exist.
+
+================================================================
+YOUTUBE — HINDI
+File: mythologies/ramayana_dutt/outputs/Book_0_Introduction/video_Book_0_Introduction_hi.mp4
+Category: Education | Audience: general — not made for kids | Language: Hindi
+Playlist: रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)
+================================================================
+TITLE:
+Introduction - Intro — Beginning the Ramayana Journey (Hindi)
+
+DESCRIPTION:
+काव्या यात्रा का शुभारंभ करती हैं: रामायण क्या है, हर कड़ी दत्त के अनुवाद पर क्यों टिकी है, हर कथा के साथ चिंतन-प्रश्न क्यों हैं, और पहली बार सुनने वाला श्रोता शुरुआत कैसे करे।
+
+कथा: काव्या • 10 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।
+स्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।
+
+यह वीडियो हिंदी कथा है; अंग्रेज़ी कथा इसी चैनल पर अलग अपलोड के रूप में उपलब्ध है।
+
+Background music: "Meditation Impromptu 01" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/
+
+अध्याय:
+00:00 नमस्ते दोस्तों, 'पौराणिक कथाएँ और आज का…
+00:30 रामायण महर्षि वाल्मीकि की रचना है —…
+01:04 हर कड़ी का आधार मनमथा नाथ दत्त…
+01:37 हमारी हर कड़ी दो भागों में बुनकर…
+02:13 एक आवश्यक सूचना — बालकांड के आरंभिक…
+02:51 भाषा को लेकर कोई चिंता न रखें।…
+03:20 तो यह यात्रा केवल मनोरंजन नहीं है।…
+03:57 और अब, शुभारंभ का समय है। अगले…
+04:30 हर कथा के साथ चिंतन के प्रश्न…
+05:11 जो श्रोता रामायण पहली बार सुन रहा…
+
+#रामायण #Ramayana #Introduction #Kavya
+
+TAGS (comma-separated):
+ramayana, ramayan, ramayan katha, ramayana hindi, ramayana english, bala kanda, valmiki ramayana, manmatha nath dutt, kavya narration, hindu mythology, indian mythology podcast, dharma, ram katha hindi, mythic tales and todays truth, ramayana introduction
+
+CAPTIONS:
+Upload Hindi subtitles from hindi_narration_<ch>.txt once timed files exist.
+
+================================================================
+SPOTIFY — ENGLISH
+File: mythologies/ramayana_dutt/outputs/Book_0_Introduction/audio_track_Book_0_Introduction_en.wav
+================================================================
+TITLE:
+Intro — Beginning the Ramayana Journey [English]
+
+DESCRIPTION:
+Kavya opens the journey: what the Ramayana is, why Dutt's translation grounds every episode, how each tale pairs story with reflection, and how first-time listeners should begin.
+
+Narrated by Kavya • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.
+Source: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.
+This episode is in English; the Hindi telling is a separate episode (S0E0 [Hindi]).
+
+Season 0, Episode 0, language en, type full, explicit False.
+Artwork: show-level cover (per-episode art optional)
+
+================================================================
+SPOTIFY — HINDI
+File: mythologies/ramayana_dutt/outputs/Book_0_Introduction/audio_track_Book_0_Introduction_hi.wav
+================================================================
+TITLE:
+परिचय — रामायण यात्रा का शुभारंभ [Hindi]
+
+DESCRIPTION:
+काव्या यात्रा का शुभारंभ करती हैं: रामायण क्या है, हर कड़ी दत्त के अनुवाद पर क्यों टिकी है, हर कथा के साथ चिंतन-प्रश्न क्यों हैं, और पहली बार सुनने वाला श्रोता शुरुआत कैसे करे।
+
+कथा: काव्या • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।
+स्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।
+यह कड़ी हिंदी में है; अंग्रेज़ी रूप अलग एपिसोड में उपलब्ध है (S0E0 [English])।
+
+Season 0, Episode 0, language hi, type full, explicit False.
+Artwork: show-level cover (per-episode art optional)

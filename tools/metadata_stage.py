@@ -5,26 +5,26 @@ Builds one copy-paste-ready metadata file per introduction/chapter:
 ``upload_metadata_<chapter>.json``. It holds everything needed to publish
 the finished assets without re-reading the pipeline:
 
-  youtube  — ONE upload per chapter (``video_<ch>_dual.mp4`` with its muxed
-             eng+hin tracks). Default-language block plus a localized block
-             for the second language, tags, category, playlist, audience,
-             timestamp chapters, and the padded full-length WAVs that feed
-             Studio's additional-audio-track step.
+  youtube  — TWO separate monolingual uploads per chapter
+             (``video_<ch>_en.mp4`` + ``video_<ch>_hi.mp4``), each with
+             its own title, description, playlist, and timestamp chapters
+             timed to its own narration track.
   spotify  — TWO monolingual episodes per chapter in a single show
-             (Spotify has no second-audio-track concept: one file = one
-             language). Same season/episode numbers, ``[Hindi]`` /
-             ``[English]`` title suffixes, each pointing at its padded WAV.
+             (one file = one language). Same season/episode numbers,
+             ``[Hindi]`` / ``[English]`` title suffixes, each pointing at
+             its padded WAV.
 
-Dual-audio rule: YouTube localizes metadata on a single video (no split
-views); Spotify duplicates the episode per language (no other option).
+Separate-video rule: YouTube gets one upload per language (no multi-audio
+track); Spotify duplicates the episode per language (no other option).
 Both languages' copy is therefore always generated.
 
 Reads (under <mythology>/outputs/<chapter>/, all optional except script):
     script_<chapter>.json                  (required: segment texts)
     audio_manifest_<chapter>.json          (optional: per-chunk durations)
-    video_manifest_<chapter>.json          (optional: confirms dual build)
+    video_manifest_<chapter>.json          (optional: confirms video builds)
 Writes:
     upload_metadata_<chapter>.json
+    upload_copy_<chapter>.txt               (paste-ready YouTube + Spotify copy)
 
 Usage:
     python3 tools/metadata_stage.py --chapter Book_0_Introduction
@@ -271,64 +271,88 @@ def build_metadata(myth_root: Path, chapter: str) -> dict:
     info = CHAPTER_INFO.get(chapter, _fallback_info(chapter))
     season, episode, kind = _chapter_numbers(chapter)
 
-    durations: list[float] | None = None
+    durations_en: list[float] | None = None
+    durations_hi: list[float] | None = None
+    duration_en_s: float | None = None
+    duration_hi_s: float | None = None
     duration_s: float | None = None
     audio_path = chapter_dir / f"audio_manifest_{chapter}.json"
     if audio_path.is_file():
         try:
             manif = json.loads(audio_path.read_text(encoding="utf-8"))
             chunks = manif.get("chunks", [])
-            durations = [max(c["en"]["duration_s"], c["hi"]["duration_s"])
-                         for c in chunks
-                         if "en" in c and "hi" in c]
-            duration_s = round(sum(durations), 1) if durations else None
-            if durations and len(durations) != len(script):
-                durations = None  # stale manifest: no timestamp chapters
+            durations_en = [c["en"]["duration_s"] for c in chunks
+                            if "en" in c and "hi" in c]
+            durations_hi = [c["hi"]["duration_s"] for c in chunks
+                            if "en" in c and "hi" in c]
+            duration_en_s = round(sum(durations_en), 1) if durations_en else None
+            duration_hi_s = round(sum(durations_hi), 1) if durations_hi else None
+            if duration_en_s is not None and duration_hi_s is not None:
+                duration_s = round(max(duration_en_s, duration_hi_s), 1)
+            if durations_en and len(durations_en) != len(script):
+                durations_en = None  # stale manifest: no timestamp chapters
+            if durations_hi and len(durations_hi) != len(script):
+                durations_hi = None
         except (json.JSONDecodeError, KeyError, TypeError, OSError):
-            durations = None
+            durations_en = None
+            durations_hi = None
 
-    ep_tag = f"S{season}E{episode}" if kind == "chapter" else "Intro"
-    yt_title = f"{SERIES_HI} | {info['topic_hi']}"
-    yt_title_en = f"{SERIES_EN} | {info['topic_en']}"
+    # Titles name the book, chapter, and topic in English; the language
+    # marker is the only difference between the two uploads.
+    if kind == "chapter":
+        yt_title = (f"Book{season} - Chapter {episode} - "
+                    f"{info['topic_en']} (English)")
+        yt_title_hi = (f"Book{season} - Chapter {episode} - "
+                       f"{info['topic_en']} (Hindi)")
+        yt_short = f"Book{season} - Chapter {episode} (English)"
+        yt_short_hi = f"Book{season} - Chapter {episode} (Hindi)"
+    else:
+        yt_title = f"Introduction - {info['topic_en']} (English)"
+        yt_title_hi = f"Introduction - {info['topic_en']} (Hindi)"
+        yt_short = "Introduction (English)"
+        yt_short_hi = "Introduction (Hindi)"
     if len(yt_title) > YT_TITLE_MAX:  # never ship an over-long default title
-        yt_title = f"{SERIES_HI} | {ep_tag}"
-    if len(yt_title_en) > YT_TITLE_MAX:
-        yt_title_en = f"{SERIES_EN} | {ep_tag}"
+        yt_title = yt_short
+    if len(yt_title_hi) > YT_TITLE_MAX:
+        yt_title_hi = yt_short_hi
 
-    chapters = _segment_chapters(script, durations, info)
-    chapter_lines = "\n".join(f"{r['start']} {r['title_hi']}" for r in chapters)
-    chapter_lines_en = "\n".join(f"{r['start']} {r['title_en']}" for r in chapters)
+    chapters_en = _segment_chapters(script, durations_en, info)
+    chapters_hi = _segment_chapters(script, durations_hi, info)
+    chapter_lines = "\n".join(f"{r['start']} {r['title_en']}" for r in chapters_en)
+    chapter_lines_hi = "\n".join(f"{r['start']} {r['title_hi']}" for r in chapters_hi)
+    hashtags = f"#{' #'.join(['रामायण', 'Ramayana', 'BalaKanda' if season == 1 else 'Introduction', 'Kavya'])}"
 
     yt_desc_parts = [
-        f"{info['blurb_hi']}",
-        "",
-        f"कथा: काव्या • {len(script)} खंड • {FORMAT_HI}",
-        f"स्रोत: {SOURCE_CREDIT_HI}",
-        "",
-        "इस वीडियो में हिंदी और English दोनों ऑडियो ट्रैक हैं — "
-        "प्लेयर में ऑडियो ट्रैक बदलकर भाषा चुनें।",
-        "",
-        MUSIC_CREDIT,
-    ]
-    if chapter_lines:
-        yt_desc_parts += ["", "अध्याय (Chapters):", chapter_lines]
-    yt_desc_parts += ["", f"#{' #'.join(['रामायण', 'Ramayana', 'BalaKanda' if season == 1 else 'Introduction', 'Kavya'])}"]
-    yt_desc = "\n".join(yt_desc_parts)
-
-    yt_desc_en_parts = [
         f"{info['blurb_en']}",
         "",
         f"Narrated by {NARRATOR} • {len(script)} segments • {FORMAT_EN}",
         f"Source: {SOURCE_CREDIT_EN}",
         "",
-        "This video carries both Hindi and English audio tracks — "
-        "switch audio tracks in the player to change language.",
+        "This video is the English telling; the Hindi telling is a "
+        "separate upload on this channel.",
         "",
         MUSIC_CREDIT,
     ]
-    if chapter_lines_en:
-        yt_desc_en_parts += ["", "Chapters:", chapter_lines_en]
-    yt_desc_en = "\n".join(yt_desc_en_parts)
+    if chapter_lines:
+        yt_desc_parts += ["", "Chapters:", chapter_lines]
+    yt_desc_parts += ["", hashtags]
+    yt_desc = "\n".join(yt_desc_parts)
+
+    yt_desc_hi_parts = [
+        f"{info['blurb_hi']}",
+        "",
+        f"कथा: काव्या • {len(script)} खंड • {FORMAT_HI}",
+        f"स्रोत: {SOURCE_CREDIT_HI}",
+        "",
+        "यह वीडियो हिंदी कथा है; अंग्रेज़ी कथा इसी चैनल पर अलग "
+        "अपलोड के रूप में उपलब्ध है।",
+        "",
+        MUSIC_CREDIT,
+    ]
+    if chapter_lines_hi:
+        yt_desc_hi_parts += ["", "अध्याय:", chapter_lines_hi]
+    yt_desc_hi_parts += ["", hashtags]
+    yt_desc_hi = "\n".join(yt_desc_hi_parts)
 
     tags = list(BASE_TAGS)
     if season == 1:
@@ -360,10 +384,12 @@ def build_metadata(myth_root: Path, chapter: str) -> dict:
     ])
 
     limits = _check_limits(yt_title, yt_desc, tags)
-    limits["youtube_localized_title_chars"] = len(yt_title_en)
-    limits["youtube_localized_title_ok"] = len(yt_title_en) <= YT_TITLE_MAX
-    limits["youtube_localized_description_chars"] = len(yt_desc_en)
-    limits["youtube_localized_description_ok"] = len(yt_desc_en) <= YT_DESC_MAX
+    limits["youtube_hi_title_chars"] = len(yt_title_hi)
+    limits["youtube_hi_title_ok"] = len(yt_title_hi) <= YT_TITLE_MAX
+    limits["youtube_hi_description_chars"] = len(yt_desc_hi)
+    limits["youtube_hi_description_ok"] = len(yt_desc_hi) <= YT_DESC_MAX
+
+    durations_timed = durations_en is not None and durations_hi is not None
 
     return {
         "chapter": chapter,
@@ -372,39 +398,49 @@ def build_metadata(myth_root: Path, chapter: str) -> dict:
         "episode": episode,
         "kind": kind,
         "assets": {
-            "video_dual": f"video_{chapter}_dual.mp4",
+            "video_en": f"video_{chapter}_en.mp4",
+            "video_hi": f"video_{chapter}_hi.mp4",
             "audio_en": f"audio_track_{chapter}_en.wav",
             "audio_hi": f"audio_track_{chapter}_hi.wav",
             "duration_s": duration_s,
-            "durations_timed": durations is not None,
+            "duration_en_s": duration_en_s,
+            "duration_hi_s": duration_hi_s,
+            "durations_timed": durations_timed,
         },
         "youtube": {
-            "how": ("Upload video_dual once. Set default language Hindi, "
-                    "default audio Hindi; add English as an additional audio "
-                    "track (use the audio_en WAV), then paste the localized "
-                    "English title/description."),
-            "upload_file": f"video_{chapter}_dual.mp4",
-            "default_language": "hi",
-            "default_audio": "hi",
-            "title": yt_title,
-            "description": yt_desc,
-            "tags": tags,
-            "category": CATEGORY,
-            "playlist": PLAYLIST_HI,
-            "audience": "general — not made for kids",
-            "chapters": chapters,
-            "additional_audio_tracks": [
-                {"language": "hi", "file": f"audio_track_{chapter}_hi.wav",
-                 "role": "default"},
-                {"language": "en", "file": f"audio_track_{chapter}_en.wav",
-                 "role": "additional"},
-            ],
-            "captions": ("Upload Hindi + English subtitles from "
-                         "hindi/english_narration_<ch>.txt once timed files "
-                         "exist."),
-            "localized": {
-                "en": {"title": yt_title_en, "description": yt_desc_en,
-                       "playlist": PLAYLIST_EN},
+            "strategy": ("Two separate monolingual uploads per chapter "
+                         "(one file = one language)."),
+            "uploads": {
+                "en": {
+                    "upload_file": f"video_{chapter}_en.mp4",
+                    "language": "en",
+                    "title": yt_title,
+                    "description": yt_desc,
+                    "tags": tags,
+                    "category": CATEGORY,
+                    "playlist": PLAYLIST_EN,
+                    "audience": "general — not made for kids",
+                    "chapters": [{"start": r["start"], "title": r["title_en"]}
+                                 for r in chapters_en],
+                    "captions": ("Upload English subtitles from "
+                                 "english_narration_<ch>.txt once timed files "
+                                 "exist."),
+                },
+                "hi": {
+                    "upload_file": f"video_{chapter}_hi.mp4",
+                    "language": "hi",
+                    "title": yt_title_hi,
+                    "description": yt_desc_hi,
+                    "tags": tags,
+                    "category": CATEGORY,
+                    "playlist": PLAYLIST_HI,
+                    "audience": "general — not made for kids",
+                    "chapters": [{"start": r["start"], "title": r["title_hi"]}
+                                 for r in chapters_hi],
+                    "captions": ("Upload Hindi subtitles from "
+                                 "hindi_narration_<ch>.txt once timed files "
+                                 "exist."),
+                },
             },
         },
         "spotify": {
@@ -437,18 +473,52 @@ def build_metadata(myth_root: Path, chapter: str) -> dict:
     }
 
 
+def build_upload_copy(meta: dict) -> str:
+    """Paste-ready upload copy rendered from a built metadata dict."""
+    chapter = meta["chapter"]
+    out = [f"UPLOAD COPY — {chapter} — paste from this file, not from chat.",
+           "Two separate YouTube uploads (EN + HI) plus two Spotify episodes.",
+           ""]
+    for lang, label in (("en", "YOUTUBE — ENGLISH"), ("hi", "YOUTUBE — HINDI")):
+        up = meta["youtube"]["uploads"][lang]
+        out += ["=" * 64, label,
+                f"File: mythologies/ramayana_dutt/outputs/{chapter}/{up['upload_file']}",
+                f"Category: {up['category']} | Audience: {up['audience']} "
+                f"| Language: {'English' if lang == 'en' else 'Hindi'}",
+                f"Playlist: {up['playlist']}", "=" * 64,
+                "TITLE:", up["title"], "",
+                "DESCRIPTION:", up["description"], "",
+                "TAGS (comma-separated):", ", ".join(up["tags"]), "",
+                "CAPTIONS:", up["captions"], ""]
+    for lang, label in (("en", "SPOTIFY — ENGLISH"), ("hi", "SPOTIFY — HINDI")):
+        ep = meta["spotify"]["episodes"][lang]
+        out += ["=" * 64, label,
+                f"File: mythologies/ramayana_dutt/outputs/{chapter}/{ep['upload_file']}",
+                "=" * 64,
+                "TITLE:", ep["title"], "",
+                "DESCRIPTION:", ep["description"], "",
+                f"Season {ep['season']}, Episode {ep['episode']}, language "
+                f"{ep['language']}, type {ep['episode_type']}, "
+                f"explicit {ep['explicit']}.",
+                f"Artwork: {ep['artwork']}", ""]
+    return "\n".join(out)
+
+
 def write_metadata(myth_root: Path, chapter: str) -> tuple[int, Path]:
     meta = build_metadata(myth_root, chapter)
     chapter_dir = assert_inside(myth_root, Path("outputs") / chapter)
     out = chapter_dir / f"upload_metadata_{chapter}.json"
     out.write_text(json.dumps(meta, ensure_ascii=False, indent=1),
                    encoding="utf-8")
+    copy_path = chapter_dir / f"upload_copy_{chapter}.txt"
+    copy_path.write_text(build_upload_copy(meta), encoding="utf-8")
     bad = [k for k, v in meta["limits_check"].items() if k.endswith("_ok") and not v]
     if bad:
         print(f"metadata limits FAILED ({', '.join(bad)}); file kept: {out}",
               file=sys.stderr)
         return 1, out
     print(f"wrote {out}")
+    print(f"wrote {copy_path}")
     return 0, out
 
 

@@ -8,184 +8,275 @@
  "episode": 1,
  "kind": "chapter",
  "assets": {
-  "video_dual": "video_Book_1_Bala_Kanda_Chapter_1_dual.mp4",
+  "video_en": "video_Book_1_Bala_Kanda_Chapter_1_en.mp4",
+  "video_hi": "video_Book_1_Bala_Kanda_Chapter_1_hi.mp4",
   "audio_en": "audio_track_Book_1_Bala_Kanda_Chapter_1_en.wav",
   "audio_hi": "audio_track_Book_1_Bala_Kanda_Chapter_1_hi.wav",
-  "duration_s": 1101.4,
+  "duration_s": 1078.4,
+  "duration_en_s": 1063.9,
+  "duration_hi_s": 1078.4,
   "durations_timed": true
  },
  "youtube": {
-  "how": "Upload video_dual once. Set default language Hindi, default audio Hindi; add English as an additional audio track (use the audio_en WAV), then paste the localized English title/description.",
-  "upload_file": "video_Book_1_Bala_Kanda_Chapter_1_dual.mp4",
-  "default_language": "hi",
-  "default_audio": "hi",
-  "title": "पौराणिक कथाएँ और आज का सच | पूर्ण पुरुष कौन है? वाल्मीकि का नारद से प्रश्न",
-  "description": "वाल्मीकि नारद से पूछते हैं — इस युग में धर्म, सत्य और करुणा से भरा पूर्ण पुरुष कौन है; नारद राम की संक्षिप्त कथा सुनाते हैं, महाकाव्य का कार्यकारी सारांश।\n\nकथा: काव्या • 25 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\n\nइस वीडियो में हिंदी और English दोनों ऑडियो ट्रैक हैं — प्लेयर में ऑडियो ट्रैक बदलकर भाषा चुनें।\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nअध्याय (Chapters):\n00:00 तप और वेद-पाठ में लगे महर्षि वाल्मीकि…\n00:39 नारद ने प्रसन्न होकर कहा, सुनो, तुमने…\n01:19 राम के कंधे चौड़े हैं, भुजाएँ लंबी…\n02:01 वह प्रजापति जैसे सबका पालन करता है,…\n02:40 प्रजा का हित चाहने वाले राजा दशरथ…\n03:21 वन जाने की पूर्व संध्या पर सुमित्रा…\n04:03 वहाँ से एक वन से दूसरे वन…\n04:44 भरत ने राम के पास पहुँचकर आदर…\n05:24 अगस्त्य के कहने से राम ने प्रसन्न…\n06:07 अपने भाई-बंधुओं के मारे जाने पर रावण…\n06:46 दुख से भरे राम ने जटायु का…\n07:23 हनुमान की सलाह से राम ने सुग्रीव…\n08:01 फिर एक ही बलवान बाण से राम…\n08:39 राजा बनकर सुग्रीव ने सब वानरों को…\n09:20 पितामह के वरदान से छूटे होने के…\n09:58 समुद्र की सलाह से नल ने समुद्र…\n10:40 देवताओं से वर पाकर राम ने युद्ध…\n11:20 उनके राज्य में प्रजा सुख और संतोष…\n12:01 राम अनगिनत सोने से सौ अश्वमेघ यज्ञ…\n12:41 आयु बढ़ाने वाली इस पवित्र रामायण को…\n13:12 वाल्मीकि कथा आरंभ करने से पहले नारद…\n14:13 नारद राम के शंख जैसी गर्दन और…\n15:20 दशरथ के वचन की रक्षा के लिए…\n16:27 अयोध्या के राजकुमार को रावण पर जीत…\n17:23 सीता को जीतकर लाने के बाद राम…\n\n#रामायण #Ramayana #BalaKanda #Kavya",
-  "tags": [
-   "ramayana",
-   "ramayan",
-   "ramayan katha",
-   "ramayana hindi",
-   "ramayana english",
-   "bala kanda",
-   "valmiki ramayana",
-   "manmatha nath dutt",
-   "kavya narration",
-   "hindu mythology",
-   "indian mythology podcast",
-   "dharma",
-   "ram katha hindi",
-   "mythic tales and todays truth",
-   "ayodhya"
-  ],
-  "category": "Education",
-  "playlist": "रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)",
-  "audience": "general — not made for kids",
-  "chapters": [
-   {
-    "start": "00:00",
-    "title_en": "The great sage Valmiki, devoted to austerity…",
-    "title_hi": "तप और वेद-पाठ में लगे महर्षि वाल्मीकि…"
-   },
-   {
-    "start": "00:39",
-    "title_en": "Narada said with delight, listen, after due…",
-    "title_hi": "नारद ने प्रसन्न होकर कहा, सुनो, तुमने…"
-   },
-   {
-    "start": "01:19",
-    "title_en": "Rama has broad shoulders, long arms reaching…",
-    "title_hi": "राम के कंधे चौड़े हैं, भुजाएँ लंबी…"
-   },
-   {
-    "start": "02:01",
-    "title_en": "Like Prajapati he protects all, he knows…",
-    "title_hi": "वह प्रजापति जैसे सबका पालन करता है,…"
-   },
-   {
-    "start": "02:40",
-    "title_en": "King Dasharatha, who desired the good of…",
-    "title_hi": "प्रजा का हित चाहने वाले राजा दशरथ…"
-   },
-   {
-    "start": "03:21",
-    "title_en": "On the eve of going to the…",
-    "title_hi": "वन जाने की पूर्व संध्या पर सुमित्रा…"
-   },
-   {
-    "start": "04:03",
-    "title_en": "Going from one forest to another, crossing…",
-    "title_hi": "वहाँ से एक वन से दूसरे वन…"
-   },
-   {
-    "start": "04:44",
-    "title_en": "Bharata reached Rama and prayed with respect,…",
-    "title_hi": "भरत ने राम के पास पहुँचकर आदर…"
-   },
-   {
-    "start": "05:24",
-    "title_en": "At Agastya's word Rama gladly took Indra's…",
-    "title_hi": "अगस्त्य के कहने से राम ने प्रसन्न…"
-   },
-   {
-    "start": "06:07",
-    "title_en": "When his kinsmen were killed, Ravana, maddened…",
-    "title_hi": "अपने भाई-बंधुओं के मारे जाने पर रावण…"
-   },
-   {
-    "start": "06:46",
-    "title_en": "Filled with sorrow Rama cremated Jatayu and…",
-    "title_hi": "दुख से भरे राम ने जटायु का…"
-   },
-   {
-    "start": "07:23",
-    "title_en": "On Hanuman's advice Rama met Sugriva and…",
-    "title_hi": "हनुमान की सलाह से राम ने सुग्रीव…"
-   },
-   {
-    "start": "08:01",
-    "title_en": "Then with a single strong arrow Rama…",
-    "title_hi": "फिर एक ही बलवान बाण से राम…"
-   },
-   {
-    "start": "08:39",
-    "title_en": "Having become king, Sugriva summoned all the…",
-    "title_hi": "राजा बनकर सुग्रीव ने सब वानरों को…"
-   },
-   {
-    "start": "09:20",
-    "title_en": "Since by the grandsire's boon he was…",
-    "title_hi": "पितामह के वरदान से छूटे होने के…"
-   },
-   {
-    "start": "09:58",
-    "title_en": "On the ocean's advice Nala built a…",
-    "title_hi": "समुद्र की सलाह से नल ने समुद्र…"
-   },
-   {
-    "start": "10:40",
-    "title_en": "Obtaining a boon from the gods Rama…",
-    "title_hi": "देवताओं से वर पाकर राम ने युद्ध…"
-   },
-   {
-    "start": "11:20",
-    "title_en": "In his reign his subjects will find…",
-    "title_hi": "उनके राज्य में प्रजा सुख और संतोष…"
-   },
-   {
-    "start": "12:01",
-    "title_en": "Rama will perform a hundred horse sacrifices…",
-    "title_hi": "राम अनगिनत सोने से सौ अश्वमेघ यज्ञ…"
-   },
-   {
-    "start": "12:41",
-    "title_en": "The man who reads this holy life-lengthening…",
-    "title_hi": "आयु बढ़ाने वाली इस पवित्र रामायण को…"
-   },
-   {
-    "start": "13:12",
-    "title_en": "Why does Valmiki ask Narada who the…",
-    "title_hi": "वाल्मीकि कथा आरंभ करने से पहले नारद…"
-   },
-   {
-    "start": "14:13",
-    "title_en": "Why does Narada string bodily marks like…",
-    "title_hi": "नारद राम के शंख जैसी गर्दन और…"
-   },
-   {
-    "start": "15:20",
-    "title_en": "Why does Rama accept an unjust exile…",
-    "title_hi": "दशरथ के वचन की रक्षा के लिए…"
-   },
-   {
-    "start": "16:27",
-    "title_en": "Why must Ayodhya's prince make a fire-witnessed…",
-    "title_hi": "अयोध्या के राजकुमार को रावण पर जीत…"
-   },
-   {
-    "start": "17:23",
-    "title_en": "Why does Rama speak harsh words before…",
-    "title_hi": "सीता को जीतकर लाने के बाद राम…"
-   }
-  ],
-  "additional_audio_tracks": [
-   {
-    "language": "hi",
-    "file": "audio_track_Book_1_Bala_Kanda_Chapter_1_hi.wav",
-    "role": "default"
-   },
-   {
-    "language": "en",
-    "file": "audio_track_Book_1_Bala_Kanda_Chapter_1_en.wav",
-    "role": "additional"
-   }
-  ],
-  "captions": "Upload Hindi + English subtitles from hindi/english_narration_<ch>.txt once timed files exist.",
-  "localized": {
+  "strategy": "Two separate monolingual uploads per chapter (one file = one language).",
+  "uploads": {
    "en": {
-    "title": "Mythic Tales and Today's Truth | Who Is the Complete Man? Valmiki Questions Narada",
-    "description": "Valmiki asks Narada who in this age is full of dharma, truth and compassion; Narada answers with Rama's brief tale, the epic's executive summary.\n\nNarrated by Kavya • 25 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\n\nThis video carries both Hindi and English audio tracks — switch audio tracks in the player to change language.\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nChapters:\n00:00 The great sage Valmiki, devoted to austerity…\n00:39 Narada said with delight, listen, after due…\n01:19 Rama has broad shoulders, long arms reaching…\n02:01 Like Prajapati he protects all, he knows…\n02:40 King Dasharatha, who desired the good of…\n03:21 On the eve of going to the…\n04:03 Going from one forest to another, crossing…\n04:44 Bharata reached Rama and prayed with respect,…\n05:24 At Agastya's word Rama gladly took Indra's…\n06:07 When his kinsmen were killed, Ravana, maddened…\n06:46 Filled with sorrow Rama cremated Jatayu and…\n07:23 On Hanuman's advice Rama met Sugriva and…\n08:01 Then with a single strong arrow Rama…\n08:39 Having become king, Sugriva summoned all the…\n09:20 Since by the grandsire's boon he was…\n09:58 On the ocean's advice Nala built a…\n10:40 Obtaining a boon from the gods Rama…\n11:20 In his reign his subjects will find…\n12:01 Rama will perform a hundred horse sacrifices…\n12:41 The man who reads this holy life-lengthening…\n13:12 Why does Valmiki ask Narada who the…\n14:13 Why does Narada string bodily marks like…\n15:20 Why does Rama accept an unjust exile…\n16:27 Why must Ayodhya's prince make a fire-witnessed…\n17:23 Why does Rama speak harsh words before…",
-    "playlist": "Ramayana — Mythic Tales and Today's Truth (Hindi + English)"
+    "upload_file": "video_Book_1_Bala_Kanda_Chapter_1_en.mp4",
+    "language": "en",
+    "title": "Book1 - Chapter 1 - Who Is the Complete Man? Valmiki Questions Narada (English)",
+    "description": "Valmiki asks Narada who in this age is full of dharma, truth and compassion; Narada answers with Rama's brief tale, the epic's executive summary.\n\nNarrated by Kavya • 25 segments • Each episode has two parts: Kavya narrates the tale, then pauses for reflective questions that connect it to today's decisions and relationships. Told in simple Hindi with a full English rendering.\nSource: Based on Manmatha Nath Dutt's prose Ramayana (Valmiki text via Project Gutenberg); structure, order and completeness kept, language simplified.\n\nThis video is the English telling; the Hindi telling is a separate upload on this channel.\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nChapters:\n00:00 The great sage Valmiki, devoted to austerity…\n00:39 Narada said with delight, listen, after due…\n01:19 Rama has broad shoulders, long arms reaching…\n01:59 Like Prajapati he protects all, he knows…\n02:36 King Dasharatha, who desired the good of…\n03:14 On the eve of going to the…\n03:56 Going from one forest to another, crossing…\n04:32 Bharata reached Rama and prayed with respect,…\n05:12 At Agastya's word Rama gladly took Indra's…\n05:54 When his kinsmen were killed, Ravana, maddened…\n06:31 Filled with sorrow Rama cremated Jatayu and…\n07:08 On Hanuman's advice Rama met Sugriva and…\n07:44 Then with a single strong arrow Rama…\n08:22 Having become king, Sugriva summoned all the…\n09:02 Since by the grandsire's boon he was…\n09:40 On the ocean's advice Nala built a…\n10:22 Obtaining a boon from the gods Rama…\n11:03 In his reign his subjects will find…\n11:42 Rama will perform a hundred horse sacrifices…\n12:22 The man who reads this holy life-lengthening…\n12:51 Why does Valmiki ask Narada who the…\n13:52 Why does Narada string bodily marks like…\n14:53 Why does Rama accept an unjust exile…\n15:54 Why must Ayodhya's prince make a fire-witnessed…\n16:49 Why does Rama speak harsh words before…\n\n#रामायण #Ramayana #BalaKanda #Kavya",
+    "tags": [
+     "ramayana",
+     "ramayan",
+     "ramayan katha",
+     "ramayana hindi",
+     "ramayana english",
+     "bala kanda",
+     "valmiki ramayana",
+     "manmatha nath dutt",
+     "kavya narration",
+     "hindu mythology",
+     "indian mythology podcast",
+     "dharma",
+     "ram katha hindi",
+     "mythic tales and todays truth",
+     "ayodhya"
+    ],
+    "category": "Education",
+    "playlist": "Ramayana — Mythic Tales and Today's Truth (Hindi + English)",
+    "audience": "general — not made for kids",
+    "chapters": [
+     {
+      "start": "00:00",
+      "title": "The great sage Valmiki, devoted to austerity…"
+     },
+     {
+      "start": "00:39",
+      "title": "Narada said with delight, listen, after due…"
+     },
+     {
+      "start": "01:19",
+      "title": "Rama has broad shoulders, long arms reaching…"
+     },
+     {
+      "start": "01:59",
+      "title": "Like Prajapati he protects all, he knows…"
+     },
+     {
+      "start": "02:36",
+      "title": "King Dasharatha, who desired the good of…"
+     },
+     {
+      "start": "03:14",
+      "title": "On the eve of going to the…"
+     },
+     {
+      "start": "03:56",
+      "title": "Going from one forest to another, crossing…"
+     },
+     {
+      "start": "04:32",
+      "title": "Bharata reached Rama and prayed with respect,…"
+     },
+     {
+      "start": "05:12",
+      "title": "At Agastya's word Rama gladly took Indra's…"
+     },
+     {
+      "start": "05:54",
+      "title": "When his kinsmen were killed, Ravana, maddened…"
+     },
+     {
+      "start": "06:31",
+      "title": "Filled with sorrow Rama cremated Jatayu and…"
+     },
+     {
+      "start": "07:08",
+      "title": "On Hanuman's advice Rama met Sugriva and…"
+     },
+     {
+      "start": "07:44",
+      "title": "Then with a single strong arrow Rama…"
+     },
+     {
+      "start": "08:22",
+      "title": "Having become king, Sugriva summoned all the…"
+     },
+     {
+      "start": "09:02",
+      "title": "Since by the grandsire's boon he was…"
+     },
+     {
+      "start": "09:40",
+      "title": "On the ocean's advice Nala built a…"
+     },
+     {
+      "start": "10:22",
+      "title": "Obtaining a boon from the gods Rama…"
+     },
+     {
+      "start": "11:03",
+      "title": "In his reign his subjects will find…"
+     },
+     {
+      "start": "11:42",
+      "title": "Rama will perform a hundred horse sacrifices…"
+     },
+     {
+      "start": "12:22",
+      "title": "The man who reads this holy life-lengthening…"
+     },
+     {
+      "start": "12:51",
+      "title": "Why does Valmiki ask Narada who the…"
+     },
+     {
+      "start": "13:52",
+      "title": "Why does Narada string bodily marks like…"
+     },
+     {
+      "start": "14:53",
+      "title": "Why does Rama accept an unjust exile…"
+     },
+     {
+      "start": "15:54",
+      "title": "Why must Ayodhya's prince make a fire-witnessed…"
+     },
+     {
+      "start": "16:49",
+      "title": "Why does Rama speak harsh words before…"
+     }
+    ],
+    "captions": "Upload English subtitles from english_narration_<ch>.txt once timed files exist."
+   },
+   "hi": {
+    "upload_file": "video_Book_1_Bala_Kanda_Chapter_1_hi.mp4",
+    "language": "hi",
+    "title": "Book1 - Chapter 1 - Who Is the Complete Man? Valmiki Questions Narada (Hindi)",
+    "description": "वाल्मीकि नारद से पूछते हैं — इस युग में धर्म, सत्य और करुणा से भरा पूर्ण पुरुष कौन है; नारद राम की संक्षिप्त कथा सुनाते हैं, महाकाव्य का कार्यकारी सारांश।\n\nकथा: काव्या • 25 खंड • हर कड़ी दो भागों में: पहले काव्या कथा सुनाती हैं, फिर ठहरकर चिंतन-प्रश्नों पर विचार होता है जो कथा को आज के निर्णयों और संबंधों से जोड़ते हैं। सरल-आधुनिक हिंदी में, हर पंक्ति के सहज अंग्रेज़ी रूप के साथ।\nस्रोत: आधार: मनमथा नाथ दत्त का गद्य-रामायण (प्रोजेक्ट गुटेनबर्ग के वाल्मीकि-पाठ पर); मूल संरचना, क्रम और पूर्णता ज्यों की त्यों, भाषा सरल-आधुनिक।\n\nयह वीडियो हिंदी कथा है; अंग्रेज़ी कथा इसी चैनल पर अलग अपलोड के रूप में उपलब्ध है।\n\nBackground music: \"Meditation Impromptu 01\" by Kevin MacLeod (incompetech.com) — Licensed under CC-BY 4.0: https://creativecommons.org/licenses/by/4.0/\n\nअध्याय:\n00:00 तप और वेद-पाठ में लगे महर्षि वाल्मीकि…\n00:39 नारद ने प्रसन्न होकर कहा, सुनो, तुमने…\n01:17 राम के कंधे चौड़े हैं, भुजाएँ लंबी…\n01:59 वह प्रजापति जैसे सबका पालन करता है,…\n02:38 प्रजा का हित चाहने वाले राजा दशरथ…\n03:19 वन जाने की पूर्व संध्या पर सुमित्रा…\n04:00 वहाँ से एक वन से दूसरे वन…\n04:41 भरत ने राम के पास पहुँचकर आदर…\n05:21 अगस्त्य के कहने से राम ने प्रसन्न…\n06:01 अपने भाई-बंधुओं के मारे जाने पर रावण…\n06:40 दुख से भरे राम ने जटायु का…\n07:15 हनुमान की सलाह से राम ने सुग्रीव…\n07:54 फिर एक ही बलवान बाण से राम…\n08:32 राजा बनकर सुग्रीव ने सब वानरों को…\n09:08 पितामह के वरदान से छूटे होने के…\n09:45 समुद्र की सलाह से नल ने समुद्र…\n10:25 देवताओं से वर पाकर राम ने युद्ध…\n11:02 उनके राज्य में प्रजा सुख और संतोष…\n11:42 राम अनगिनत सोने से सौ अश्वमेघ यज्ञ…\n12:18 आयु बढ़ाने वाली इस पवित्र रामायण को…\n12:49 वाल्मीकि कथा आरंभ करने से पहले नारद…\n13:50 नारद राम के शंख जैसी गर्दन और…\n14:57 दशरथ के वचन की रक्षा के लिए…\n16:04 अयोध्या के राजकुमार को रावण पर जीत…\n17:00 सीता को जीतकर लाने के बाद राम…\n\n#रामायण #Ramayana #BalaKanda #Kavya",
+    "tags": [
+     "ramayana",
+     "ramayan",
+     "ramayan katha",
+     "ramayana hindi",
+     "ramayana english",
+     "bala kanda",
+     "valmiki ramayana",
+     "manmatha nath dutt",
+     "kavya narration",
+     "hindu mythology",
+     "indian mythology podcast",
+     "dharma",
+     "ram katha hindi",
+     "mythic tales and todays truth",
+     "ayodhya"
+    ],
+    "category": "Education",
+    "playlist": "रामायण — पौराणिक कथाएँ और आज का सच (हिंदी + English)",
+    "audience": "general — not made for kids",
+    "chapters": [
+     {
+      "start": "00:00",
+      "title": "तप और वेद-पाठ में लगे महर्षि वाल्मीकि…"
+     },
+     {
+      "start": "00:39",
+      "title": "नारद ने प्रसन्न होकर कहा, सुनो, तुमने…"
+     },
+     {
+      "start": "01:17",
+      "title": "राम के कंधे चौड़े हैं, भुजाएँ लंबी…"
+     },
+     {
+      "start": "01:59",
+      "title": "वह प्रजापति जैसे सबका पालन करता है,…"
+     },
+     {
+      "start": "02:38",
+      "title": "प्रजा का हित चाहने वाले राजा दशरथ…"
+     },
+     {
+      "start": "03:19",
+      "title": "वन जाने की पूर्व संध्या पर सुमित्रा…"
+     },
+     {
+      "start": "04:00",
+      "title": "वहाँ से एक वन से दूसरे वन…"
+     },
+     {
+      "start": "04:41",
+      "title": "भरत ने राम के पास पहुँचकर आदर…"
+     },
+     {
+      "start": "05:21",
+      "title": "अगस्त्य के कहने से राम ने प्रसन्न…"
+     },
+     {
+      "start": "06:01",
+      "title": "अपने भाई-बंधुओं के मारे जाने पर रावण…"
+     },
+     {
+      "start": "06:40",
+      "title": "दुख से भरे राम ने जटायु का…"
+     },
+     {
+      "start": "07:15",
+      "title": "हनुमान की सलाह से राम ने सुग्रीव…"
+     },
+     {
+      "start": "07:54",
+      "title": "फिर एक ही बलवान बाण से राम…"
+     },
+     {
+      "start": "08:32",
+      "title": "राजा बनकर सुग्रीव ने सब वानरों को…"
+     },
+     {
+      "start": "09:08",
+      "title": "पितामह के वरदान से छूटे होने के…"
+     },
+     {
+      "start": "09:45",
+      "title": "समुद्र की सलाह से नल ने समुद्र…"
+     },
+     {
+      "start": "10:25",
+      "title": "देवताओं से वर पाकर राम ने युद्ध…"
+     },
+     {
+      "start": "11:02",
+      "title": "उनके राज्य में प्रजा सुख और संतोष…"
+     },
+     {
+      "start": "11:42",
+      "title": "राम अनगिनत सोने से सौ अश्वमेघ यज्ञ…"
+     },
+     {
+      "start": "12:18",
+      "title": "आयु बढ़ाने वाली इस पवित्र रामायण को…"
+     },
+     {
+      "start": "12:49",
+      "title": "वाल्मीकि कथा आरंभ करने से पहले नारद…"
+     },
+     {
+      "start": "13:50",
+      "title": "नारद राम के शंख जैसी गर्दन और…"
+     },
+     {
+      "start": "14:57",
+      "title": "दशरथ के वचन की रक्षा के लिए…"
+     },
+     {
+      "start": "16:04",
+      "title": "अयोध्या के राजकुमार को रावण पर जीत…"
+     },
+     {
+      "start": "17:00",
+      "title": "सीता को जीतकर लाने के बाद राम…"
+     }
+    ],
+    "captions": "Upload Hindi subtitles from hindi_narration_<ch>.txt once timed files exist."
    }
   }
  },
@@ -221,15 +312,15 @@
   }
  },
  "limits_check": {
-  "youtube_title_chars": 74,
+  "youtube_title_chars": 79,
   "youtube_title_ok": true,
-  "youtube_description_chars": 1834,
+  "youtube_description_chars": 2022,
   "youtube_description_ok": true,
   "youtube_tags_chars": 227,
   "youtube_tags_ok": true,
-  "youtube_localized_title_chars": 82,
-  "youtube_localized_title_ok": true,
-  "youtube_localized_description_chars": 2005,
-  "youtube_localized_description_ok": true
+  "youtube_hi_title_chars": 77,
+  "youtube_hi_title_ok": true,
+  "youtube_hi_description_chars": 1809,
+  "youtube_hi_description_ok": true
  }
 }

@@ -86,7 +86,7 @@ Exit codes on every stage:
 | `comic_render_plan_<ch>.json` | comic | render handoff: roster (sheet prompts + response-id slots) + per-slide turns (`muse_prompt`, subjects, cookbook size) |
 | `comic_progress_<ch>.json` | comic | resume manifest: live flag + completed board/flow/Hindi counts + Layer-A verdict |
 | `comic_hindi_partial_<ch>.json` | comic | translated `{slide, fields}` items so far (removed once H completes) |
-| `upload_metadata_<ch>.json` | metadata | copy-paste upload copy: one YouTube block (Hindi default + English localized, tags, timestamp chapters, dual-audio how-to) + two Spotify episodes (`hi`/`en`, same season/episode, `[Hindi]`/`[English]` suffixes); per-language durations feed timestamp chapters only when the audio manifest covers every script segment, else untimed |
+| `upload_metadata_<ch>.json` / `upload_copy_<ch>.txt` | metadata | copy-paste upload copy: two separate YouTube uploads (`video_<ch>_en.mp4` + `video_<ch>_hi.mp4`, each with its own title, description, playlist, timestamp chapters) + two Spotify episodes (`hi`/`en`, same season/episode, `[Hindi]`/`[English]` suffixes); the `.txt` is the same copy rendered paste-ready. Per-language durations feed timestamp chapters only when the audio manifest covers every script segment, else untimed |
 
 ## Comic failure forensics (`comic_debug_<ch>.jsonl`)
 
@@ -175,13 +175,13 @@ as `video_<ch>_<lang>.mp4` with a `video_manifest_<ch>.json` timing record
 unrendered images fail loud (rc=2, names listed); `--skip-missing` shows a
 chunk's rendered images only instead of failing.
 
-One video, two narrations: `build_video.py --chapter <id> --dual` cuts the
-picture once — to the longer of the English/Hindi tracks — and muxes both
-as labeled audio tracks (`eng` + `hin`) into `video_<ch>_dual.mp4`, the
-shorter padded with trailing silence so both run exactly the video length.
-It also writes both padded full-length WAVs (`audio_track_<ch>_en.wav`,
-`audio_track_<ch>_hi.wav`) for direct upload as YouTube's additional audio
-track.
+Separate videos per language (default): `build_video.py --chapter <id> --lang both`
+cuts one MP4 per narration track — `video_<ch>_en.mp4` timed to the English
+WAVs, `video_<ch>_hi.mp4` timed to the Hindi WAVs — each with the music bed
+when `--music` is given. Legacy single-file mode: `--dual` cuts the picture
+once to the longer track and muxes both as labeled tracks into
+`video_<ch>_dual.mp4` (kept for archival chapters; new uploads use separate
+videos).
 
 Background music: `--music assets/music/meditation_impromptu_01.mp3`
 (Kevin MacLeod, CC-BY 4.0 — credit required, see
